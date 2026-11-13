@@ -2,9 +2,12 @@
 
 Traducción al español de España de **FINAL FANTASY VII REMAKE** y de su episodio **INTERmission**, realizada **directamente desde el japonés**. El español oficial no se usa como fuente: solo como referencia para nombres propios, terminología de menús y subentradas gramaticales.
 
+> **Aviso de transparencia:** la traducción se ha realizado con **IA (DeepSeek 4.1 Flash 1017)**. La definición de criterios, la revisión de nombres y terminología, el control de calidad y la verificación del empaquetado se hicieron de forma manual.
+
 [![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0-blue)](../../releases/latest)
 ![Texto](https://img.shields.io/badge/texto-ES%20(Espa%C3%B1a)-red)
 ![Origen](https://img.shields.io/badge/origen-japon%C3%A9s-lightgrey)
+![IA](https://img.shields.io/badge/traducci%C3%B3n-IA%20%2B%20revisi%C3%B3n%20manual-blueviolet)
 
 ---
 
@@ -79,6 +82,7 @@ Este formato permite traducir con cualquier editor de texto, hacer búsquedas y 
 ### 3. Traducción
 
 - Traducción **fila a fila desde el japonés**, no desde el inglés ni desde el español oficial.
+- La primera pasada de traducción se realizó con **IA (DeepSeek 4.1 Flash 1017)**; después se revisaron manualmente los nombres, la terminología y la coherencia entre capítulos.
 - Cuando el japonés tiene una línea vacía (voz sin subtítulo), la traducción se deja vacía en lugar de inventar texto.
 - Se conservan las etiquetas del juego (`<br>`, `<color>`, `<button>`, `<object>`, `<n-objects>`, `<an-object>`, etc.).
 - Los saltos de línea se ajustan al ancho de la caja de diálogo en español.
@@ -202,7 +206,8 @@ Necesitas una copia legal del juego para usar el mod.
 
 ## Créditos
 
-- Traducción y control de calidad: **Rob1ts**.
+- Traducción asistida por IA: **DeepSeek 4.1 Flash 1017**.
+- Criterios de traducción, revisión manual y control de calidad: **Rob1ts**.
 - [FF7R_text_mod_tools](https://github.com/matyalatte/FF7R_text_mod_tools): **Matyalatte**.
 - UnrealPak: **Epic Games**; flujo de empaquetado: **FluffyQuack**.
 - A la comunidad de modding de FINAL FANTASY VII REMAKE.

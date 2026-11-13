@@ -4,6 +4,7 @@
 
 Primera versión pública de la traducción.
 
+- Traducción realizada con **IA (DeepSeek 4.1 Flash 1017)** y revisión manual de nombres, terminología y coherencia.
 - Traducción completa al español (España) de la historia principal, diálogos de PNJ, misiones secundarias, menús, tutoriales, objetos y textos de **INTERmission**, realizada directamente desde el japonés.
 - Nombres propios unificados con el locale ES oficial: **Mireia**, **Escarlata**, **Jénova**, **Madame M** y **Presidente Shinra**. Se mantiene **«Jénova Beat»** por el original japonés `ジェノバＢｅａｔ`.
 - Etiquetas de confirmación de la interfaz unificadas como **«Confirmar»**.

@@ -3,6 +3,7 @@ FINAL FANTASY VII REMAKE - Traducción ES (España) desde japonés
 
 Paquete: pakchunk99_ES_JP_P.pak
 Versión: 1.0 - 13/11/2026
+Método: traducción con IA (DeepSeek 4.1 Flash 1017) + revisión manual
 Contenido: 21 recursos de texto (42 archivos .uasset/.uexp) + modroot.txt
 Texto: 35.574 entradas de texto
 Filas con origen japonés revisadas: 29.702
@@ -37,6 +38,8 @@ Contenido de esta versión (1.0)
 -------------------------------
 - Traducción completa de historia, diálogos de PNJ, misiones secundarias,
   menús, tutoriales, objetos y textos de INTERmission desde el japonés.
+- Traducción realizada con IA (DeepSeek 4.1 Flash 1017), con revisión manual
+  de nombres, terminología, coherencia y control de calidad.
 - Nombres propios unificados con el locale ES oficial: Mireia, Escarlata,
   Jénova, Madame M y Presidente Shinra. Se mantiene «Jénova Beat» porque el
   original japonés es ジェノバＢｅａｔ.

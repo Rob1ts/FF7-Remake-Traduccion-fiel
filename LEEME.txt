@@ -12,6 +12,9 @@ Sustituye los textos del juego (historia principal, diálogos, conversaciones co
 PNJ, menús, descripciones de objetos y textos de INTERmission) por una
 traducción realizada directamente desde el japonés. No se ha partido del inglés.
 
+La traducción se ha realizado con IA (DeepSeek 4.1 Flash 1017); los criterios,
+la revisión de nombres y terminología y el control de calidad son manuales.
+
 Se mantienen los nombres propios y los términos establecidos: Cloud, Barret,
 Tifa, Aeris, Sefirot, SOLDIER, Shinra, Midgar, Avalancha, TURKS, etc.
 
@@ -53,6 +56,8 @@ NOTAS
 -----
 - Solo se modifican los textos; el audio no cambia.
 - Traducción personal, sin ánimo de lucro.
+- Traducción asistida por IA (DeepSeek 4.1 Flash 1017), con revisión y control
+  de calidad manuales.
 - Si el juego se actualiza y vuelve a mostrar el español oficial, comprueba que
   el pak sigue en ~mods y que no hay otro mod que cargue los mismos archivos.
 - Los saltos de línea se ajustan al ancho de la caja de diálogo y se guardan
