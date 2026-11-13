@@ -1,0 +1,672 @@
+id,sub_id,text
+language,,ES
+$ba_undg7_0010_0010_0000_blt_0,,
+$ba_undg7_0010_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0020_0010_0000_blt_0,,
+$ba_undg7_0020_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0030_0010_0000_blt_0,,
+$ba_undg7_0030_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0040_0010_0000_blt_0,,
+$ba_undg7_0040_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0050_0010_0000_blt_0,,
+$ba_undg7_0050_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0060_0010_0000_blt_0,,
+$ba_undg7_0060_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0070_0010_0000_blt_0,,
+$ba_undg7_0070_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0090_0010_0000_blt_0,,
+$ba_undg7_0090_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0100_0010_0000_blt_0,,
+$ba_undg7_0100_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0110_0010_0000_blt_0,,
+$ba_undg7_0110_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0120_0010_0000_blt_0,,
+$ba_undg7_0120_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0130_0010_0000_blt_0,,
+$ba_undg7_0130_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0140_0010_0000_blt_0,,
+$ba_undg7_0140_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0150_0010_0000_blt_0,,
+$ba_undg7_0150_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0160_0010_0000_blt_0,,
+$ba_undg7_0160_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_0170_0010_0000_blt_0,,
+$ba_undg7_0170_0010_0000_blt_0,ACTOR,Barret
+$ba_undg7_5010_1000_0010_blt_0,,¿Dónde os habíais escondido?
+$ba_undg7_5010_1000_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_1000_0020_tif_0,,¿Serán experimentos de Shinra?
+$ba_undg7_5010_1000_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_1000_0030_blt_0,,¡Todo lo de Shinra lo vamos a destrozar!
+$ba_undg7_5010_1000_0030_blt_0,ACTOR,Barret
+$ba_undg7_5010_2000_0010_blt_0,,"Vaya, otra vez en tropel."
+$ba_undg7_5010_2000_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_2000_0020_tif_0,,¿Puedes seguir?
+$ba_undg7_5010_2000_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_2000_0030_blt_0,,"Sí, no es nada."
+$ba_undg7_5010_2000_0030_blt_0,ACTOR,Barret
+$ba_undg7_5010_2100_0000_blt_0,,"¡Qué molestos sois, no paráis quietos!"
+$ba_undg7_5010_2100_0000_blt_0,ACTOR,Barret
+$ba_undg7_5010_2100_0010_tif_0,,No tienen fin.
+$ba_undg7_5010_2100_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_2100_0020_blt_0,,"Tifa, ¿puedes llegar arriba?"
+$ba_undg7_5010_2100_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_2100_0030_tif_0,,"Cúbreme, por favor."
+$ba_undg7_5010_2100_0030_tif_0,ACTOR,Tifa
+$ba_undg7_5010_2200_0020_blt_0,,¿Puedes llegar arriba?
+$ba_undg7_5010_2200_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_2210_0020_tif_0,,Tengo que subir.
+$ba_undg7_5010_2210_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_2220_0010_blt_0,,"¡Tifa, por aquí!"
+$ba_undg7_5010_2220_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_2220_0020_blt_0,,"¡Tifa, por favor!"
+$ba_undg7_5010_2220_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_3010_0010_blt_0,,"¡Tifa, cuidado!"
+$ba_undg7_5010_3010_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_3010_0020_blt_0,,"¡Tifa, ten cuidado!"
+$ba_undg7_5010_3010_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_3200_0010_tif_0,,No puede ser.
+$ba_undg7_5010_3200_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_3200_0020_tif_0,,Ha estado cerca.
+$ba_undg7_5010_3200_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_3200_0030_tif_0,,Por los pelos.
+$ba_undg7_5010_3200_0030_tif_0,ACTOR,Tifa
+$ba_undg7_5010_3210_0010_blt_0,,¿Estás bien?
+$ba_undg7_5010_3210_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_3210_0020_tif_0,,Más o menos...
+$ba_undg7_5010_3210_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_3220_0010_tif_0,,Qué cruel. ¡Si soy de los tuyos!
+$ba_undg7_5010_3220_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_3230_0010_tif_0,,¿Lo ha absorbido?
+$ba_undg7_5010_3230_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_3230_0020_blt_0,,¡Lo ha absorbido!
+$ba_undg7_5010_3230_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_4000_0020_blt_0,,Pues vamos a hacer limpieza.
+$ba_undg7_5010_4000_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_4400_0010_blt_0,,"Vaya, ¿estás cansado?"
+$ba_undg7_5010_4400_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_4400_0020_tif_0,,¡Ahí!
+$ba_undg7_5010_4400_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4400_0030_blt_0,,Tiene un punto débil a la vista.
+$ba_undg7_5010_4400_0030_blt_0,ACTOR,Barret
+$ba_undg7_5010_4615_0010_blt_0,,¿Qué es eso?
+$ba_undg7_5010_4615_0010_blt_0,ACTOR,Barret
+$ba_undg7_5010_4615_0020_tif_0,,¿Lo ha absorbido?
+$ba_undg7_5010_4615_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4620_0010_tif_0,,Hay que detenerlo como sea.
+$ba_undg7_5010_4620_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4620_0020_tif_0,,¿Otra vez?
+$ba_undg7_5010_4620_0020_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4620_0030_blt_0,,"¡Eh, vamos a detener a este!"
+$ba_undg7_5010_4620_0030_blt_0,ACTOR,Barret
+$ba_undg7_5010_4620_0040_blt_0,,¡Otra vez!
+$ba_undg7_5010_4620_0040_blt_0,ACTOR,Barret
+$ba_undg7_5010_4630_0010_tif_0,,Hay que acabar con el jefe.
+$ba_undg7_5010_4630_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4630_0020_blt_0,,¡Concentraos en el grande!
+$ba_undg7_5010_4630_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_4650_0010_tif_0,,¿Va a atacar?
+$ba_undg7_5010_4650_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4650_0020_blt_0,,¿Piensa disparar?
+$ba_undg7_5010_4650_0020_blt_0,ACTOR,Barret
+$ba_undg7_5010_4650_0030_tif_0,,"¡Ya viene!<br>Rápido, a un sitio seguro."
+$ba_undg7_5010_4650_0030_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4650_0040_tif_0,,Hay que huir antes de que dispare.
+$ba_undg7_5010_4650_0040_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4650_0050_blt_0,,¡Más vale huir!
+$ba_undg7_5010_4650_0050_blt_0,ACTOR,Barret
+$ba_undg7_5010_4650_0060_blt_0,,¡Otra vez la descarga!
+$ba_undg7_5010_4650_0060_blt_0,ACTOR,Barret
+$ba_undg7_5010_4650_0070_blt_0,,¡Alerta de descarga!
+$ba_undg7_5010_4650_0070_blt_0,ACTOR,Barret
+$ba_undg7_5010_4660_0010_tif_0,,Aprovechemos el hueco tras el ataque.
+$ba_undg7_5010_4660_0010_tif_0,ACTOR,Tifa
+$ba_undg7_5010_4660_0020_blt_0,,¡Después de disparar hay una oportunidad!
+$ba_undg7_5010_4660_0020_blt_0,ACTOR,Barret
+$ev_undg7_0010_0010_blt_0,,Vamos a subir desde aquí.
+$ev_undg7_0010_0010_blt_0,ACTOR,Barret
+$ev_undg7_1050_0003_tif_0,,
+$ev_undg7_1050_0003_tif_0,ACTOR,
+$ev_undg7_1050_0005_cld_0,,
+$ev_undg7_1050_0005_cld_0,ACTOR,
+$ev_undg7_1050_0010_blt_0,,No hay nada...
+$ev_undg7_1050_0010_blt_0,ACTOR,Barret
+$ev_undg7_1050_0020_mar_0,,Ya casi está. ¡Ánimo!
+$ev_undg7_1050_0020_mar_0,ACTOR,Marle
+$ev_undg7_1050_0022_np13_0,,
+$ev_undg7_1050_0022_np13_0,ACTOR,
+$ev_undg7_1050_0025_mar_0,,
+$ev_undg7_1050_0025_mar_0,ACTOR,Marle
+$ev_undg7_1050_0030_np15_0,,No se mueve.
+$ev_undg7_1050_0030_np15_0,ACTOR,Miembro de la policía vecinal
+$ev_undg7_1050_0034_cld_0,,
+$ev_undg7_1050_0034_cld_0,ACTOR,
+$ev_undg7_1050_0035_blt_0,,
+$ev_undg7_1050_0035_blt_0,ACTOR,
+$ev_undg7_1050_0040_blt_0,,Os echo una mano.
+$ev_undg7_1050_0040_blt_0,ACTOR,Barret
+$ev_undg7_1050_0042_cld_0,,
+$ev_undg7_1050_0042_cld_0,ACTOR,
+$ev_undg7_1050_0043_tif_0,,
+$ev_undg7_1050_0043_tif_0,ACTOR,
+$ev_undg7_1050_0045_np13_0,,
+$ev_undg7_1050_0045_np13_0,ACTOR,
+$ev_undg7_1050_0050_tif_0,,Marle.
+$ev_undg7_1050_0050_tif_0,ACTOR,Tifa
+$ev_undg7_1050_0060_mar_0,,Vosotros...
+$ev_undg7_1050_0060_mar_0,ACTOR,Marle
+$ev_undg7_1050_0066_tif_0,,
+$ev_undg7_1050_0066_tif_0,ACTOR,
+$ev_undg7_1050_0068_cld_0,,
+$ev_undg7_1050_0068_cld_0,ACTOR,
+$ev_undg7_1050_0070_cld_0,,Vamos. A la de tres.
+$ev_undg7_1050_0070_cld_0,ACTOR,Cloud
+$ev_undg7_1050_0071_cld_0,,
+$ev_undg7_1050_0071_cld_0,ACTOR,
+$ev_undg7_1050_0072_blt_0,,
+$ev_undg7_1050_0072_blt_0,ACTOR,
+$ev_undg7_1050_0073_np13_0,,
+$ev_undg7_1050_0073_np13_0,ACTOR,
+$ev_undg7_1050_0074_mar_0,,
+$ev_undg7_1050_0074_mar_0,ACTOR,
+$ev_undg7_1050_0074_tif_1,,
+$ev_undg7_1050_0074_tif_1,ACTOR,
+$ev_undg7_1050_0075_cld_0,,
+$ev_undg7_1050_0075_cld_0,ACTOR,
+$ev_undg7_1050_0076_blt_0,,
+$ev_undg7_1050_0076_blt_0,ACTOR,
+$ev_undg7_1050_0077_mar_0,,
+$ev_undg7_1050_0077_mar_0,ACTOR,
+$ev_undg7_1050_0078_blt_0,,Me alegro.
+$ev_undg7_1050_0078_blt_0,ACTOR,Barret
+$ev_undg7_1050_0079_np13_0,,Gracias.
+$ev_undg7_1050_0079_np13_0,ACTOR,Mujer
+$ev_undg7_1050_0081_tif_1,,
+$ev_undg7_1050_0081_tif_1,ACTOR,
+$ev_undg7_1050_0110_mar_0,,"De verdad, qué suerte que estéis bien."
+$ev_undg7_1050_0110_mar_0,ACTOR,Marle
+$ev_undg7_1050_0120_mar_0,,¿Y ahora qué vais a hacer?
+$ev_undg7_1050_0120_mar_0,ACTOR,Marle
+$ev_undg7_1050_0130_blt_0,,Ni idea.
+$ev_undg7_1050_0130_blt_0,ACTOR,Barret
+$ev_undg7_1050_0130_blt_1,,Encontraremos algo que podamos hacer.
+$ev_undg7_1050_0130_blt_1,ACTOR,Barret
+$ev_undg7_1050_0140_mar_0,,¿Ya habéis ido al bar?
+$ev_undg7_1050_0140_mar_0,ACTOR,Marle
+$ev_undg7_1050_0150_blt_0,,No...
+$ev_undg7_1050_0150_blt_0,ACTOR,Barret
+$ev_undg7_1050_0160_mar_0,,¿Por qué no vais a comprobarlo?
+$ev_undg7_1050_0160_mar_0,ACTOR,Marle
+$ev_undg7_1050_0165_tif_0,,
+$ev_undg7_1050_0165_tif_0,ACTOR,
+$ev_undg7_1050_0170_blt_0,,Entonces primero el bar. Luego ya pensaremos.
+$ev_undg7_1050_0170_blt_0,ACTOR,Barret
+$ev_undg7_1050_0180_mar_0,,"Y no hay camino, más o menos."
+$ev_undg7_1050_0180_mar_0,ACTOR,Marle
+$ev_undg7_1050_0180_mar_1,,Mirad bien dónde pisáis.
+$ev_undg7_1050_0180_mar_1,ACTOR,Marle
+$ev_undg7_1090_0005_cld_0,,
+$ev_undg7_1090_0005_cld_0,ACTOR,
+$ev_undg7_1090_0007_tif_0,,
+$ev_undg7_1090_0007_tif_0,ACTOR,
+$ev_undg7_1090_0010_blt_0,,
+$ev_undg7_1090_0010_blt_0,ACTOR,
+$ev_undg7_1090_0015_tif_0,,
+$ev_undg7_1090_0015_tif_0,ACTOR,
+$ev_undg7_1090_0020_cld_0,,Tifa.
+$ev_undg7_1090_0020_cld_0,ACTOR,Cloud
+$ev_undg7_1090_0025_tif_0,,
+$ev_undg7_1090_0025_tif_0,ACTOR,
+$ev_undg7_1090_0028_cld_0,,
+$ev_undg7_1090_0028_cld_0,ACTOR,
+$ev_undg7_1090_0030_cld_0,,Apártate.
+$ev_undg7_1090_0030_cld_0,ACTOR,Cloud
+$ev_undg7_1090_0040_tif_0,,
+$ev_undg7_1090_0040_tif_0,ACTOR,
+$ev_undg7_1090_0045_blt_0,,
+$ev_undg7_1090_0045_blt_0,ACTOR,
+$ev_undg7_1090_0050_blt_0,,Maldita sea.
+$ev_undg7_1090_0050_blt_0,ACTOR,Barret
+$ev_undg7_1090_0053_blt_0,,
+$ev_undg7_1090_0053_blt_0,ACTOR,
+$ev_undg7_1090_0054_tif_0,,
+$ev_undg7_1090_0054_tif_0,ACTOR,
+$ev_undg7_1090_0056_blt_0,,
+$ev_undg7_1090_0056_blt_0,ACTOR,
+$ev_undg7_1090_0060_tif_0,,
+$ev_undg7_1090_0060_tif_0,ACTOR,Tifa
+$ev_undg7_1090_0070_cld_0,,Es el gato de Wedge.
+$ev_undg7_1090_0070_cld_0,ACTOR,Cloud
+$ev_undg7_1090_0080_blt_0,,¿Qué?
+$ev_undg7_1090_0080_blt_0,ACTOR,Barret
+$ev_undg7_1090_0100_tif_0,,Vamos a seguirlo.
+$ev_undg7_1090_0100_tif_0,ACTOR,Tifa
+$ev_undg7_2020_0003_blt_0,,
+$ev_undg7_2020_0003_blt_0,ACTOR,
+$ev_undg7_2020_0005_tif_0,,
+$ev_undg7_2020_0005_tif_0,ACTOR,
+$ev_undg7_2020_0006_cld_0,,
+$ev_undg7_2020_0006_cld_0,ACTOR,
+$ev_undg7_2020_0010_blt_0,,¡Ahora no!
+$ev_undg7_2020_0010_blt_0,ACTOR,Barret
+$ev_undg7_2020_0013_cld_0,,
+$ev_undg7_2020_0013_cld_0,ACTOR,
+$ev_undg7_2020_0015_blt_0,,
+$ev_undg7_2020_0015_blt_0,ACTOR,
+$ev_undg7_2020_0020_tif_0,,
+$ev_undg7_2020_0020_tif_0,ACTOR,
+$ev_undg7_2020_0030_cld_0,,
+$ev_undg7_2020_0030_cld_0,ACTOR,
+$ev_undg7_2020_0035_tif_0,,
+$ev_undg7_2020_0035_tif_0,ACTOR,
+$ev_undg7_2020_0040_blt_0,,
+$ev_undg7_2020_0040_blt_0,ACTOR,
+$ev_undg7_2020_0050_cld_0,,
+$ev_undg7_2020_0050_cld_0,ACTOR,
+$ev_undg7_2030_0005_blt_0,,
+$ev_undg7_2030_0005_blt_0,ACTOR,
+$ev_undg7_2030_0010_blt_0,,
+$ev_undg7_2030_0010_blt_0,ACTOR,
+$ev_undg7_2030_0013_blt_0,,
+$ev_undg7_2030_0013_blt_0,ACTOR,
+$ev_undg7_2030_0016_blt_0,,
+$ev_undg7_2030_0016_blt_0,ACTOR,
+$ev_undg7_2030_0020_blt_0,,¡Tifa! ¡Cloud!
+$ev_undg7_2030_0020_blt_0,ACTOR,Barret
+$ev_undg7_2030_0020_blt_1,,"Si me oís, responded."
+$ev_undg7_2030_0020_blt_1,ACTOR,Barret
+$ev_undg7_2030_0030_blt_0,,¡Holaaa!
+$ev_undg7_2030_0030_blt_0,ACTOR,Barret
+$ev_undg7_2080_0005_blt_0,,
+$ev_undg7_2080_0005_blt_0,ACTOR,
+$ev_undg7_2080_0010_blt_0,,
+$ev_undg7_2080_0010_blt_0,ACTOR,
+$ev_undg7_2080_0020_blt_0,,Lo siento.
+$ev_undg7_2080_0020_blt_0,ACTOR,Barret
+$ev_undg7_2120_0020_tif_0,,Esto... ¿qué es?
+$ev_undg7_2120_0020_tif_0,ACTOR,Tifa
+$ev_undg7_2120_0030_blt_0,,¿Son personas?
+$ev_undg7_2120_0030_blt_0,ACTOR,Barret
+$ev_undg7_2120_0040_cld_0,,Esta es la cara oculta de Shinra.
+$ev_undg7_2120_0040_cld_0,ACTOR,Cloud
+$ev_undg7_2140_0010_cld_0,,
+$ev_undg7_2140_0010_cld_0,ACTOR,
+$ev_undg7_2140_0013_cld_0,,
+$ev_undg7_2140_0013_cld_0,ACTOR,
+$ev_undg7_2140_0017_cld_0,,
+$ev_undg7_2140_0017_cld_0,ACTOR,
+$ev_undg7_2140_0020_ev1_0,,
+$ev_undg7_2140_0020_ev1_0,ACTOR,
+$ev_undg7_2140_0030_tif_0,,¿Cloud?
+$ev_undg7_2140_0030_tif_0,ACTOR,Tifa
+$ev_undg7_2150_0005_cld_0,,
+$ev_undg7_2150_0005_cld_0,ACTOR,
+$ev_undg7_2150_0010_tif_0,,
+$ev_undg7_2150_0010_tif_0,ACTOR,
+$ev_undg7_2150_0015_blt_0,,
+$ev_undg7_2150_0015_blt_0,ACTOR,
+$ev_undg7_2150_0020_blt_0,,¿Qué demonios pasa?
+$ev_undg7_2150_0020_blt_0,ACTOR,Barret
+$ev_undg7_2150_0022_cld_0,,
+$ev_undg7_2150_0022_cld_0,ACTOR,
+$ev_undg7_2150_0024_blt_0,,
+$ev_undg7_2150_0024_blt_0,ACTOR,
+$ev_undg7_2150_0026_tif_0,,
+$ev_undg7_2150_0026_tif_0,ACTOR,
+$ev_undg7_2150_0028_tif_0,,
+$ev_undg7_2150_0028_tif_0,ACTOR,
+$ev_undg7_2150_0030_tif_0,,Vamos a llevarlo a un sitio seguro.
+$ev_undg7_2150_0030_tif_0,ACTOR,Tifa
+$ev_undg7_2150_0030_tif_1,,"Lo demás, después."
+$ev_undg7_2150_0030_tif_1,ACTOR,Tifa
+$ev_undg7_2150_0040_blt_0,,"Ah, sí, tienes razón."
+$ev_undg7_2150_0040_blt_0,ACTOR,Barret
+$ev_undg7_2150_0041_blt_0,,
+$ev_undg7_2150_0041_blt_0,ACTOR,
+$ev_undg7_2150_0042_tif_0,,
+$ev_undg7_2150_0042_tif_0,ACTOR,
+$ev_undg7_2150_0042_tif_1,,
+$ev_undg7_2150_0042_tif_1,ACTOR,
+$ev_undg7_2150_0043_blt_0,,
+$ev_undg7_2150_0043_blt_0,ACTOR,
+$ev_undg7_2150_0044_tif_0,,
+$ev_undg7_2150_0044_tif_0,ACTOR,
+$ev_undg7_2150_0045_tif_0,,Cloud.
+$ev_undg7_2150_0045_tif_0,ACTOR,Tifa
+$ev_undg7_2150_0046_cld_0,,
+$ev_undg7_2150_0046_cld_0,ACTOR,
+$ev_undg7_2150_0048_cld_0,,
+$ev_undg7_2150_0048_cld_0,ACTOR,
+$ev_undg7_2150_0050_cld_0,,Buen trabajo.
+$ev_undg7_2150_0050_cld_0,ACTOR,Cloud
+$ev_undg7_2160_0040_tif_0,,
+$ev_undg7_2160_0040_tif_0,ACTOR,
+$ev_undg7_2160_0045_cld_0,,
+$ev_undg7_2160_0045_cld_0,ACTOR,
+$ev_undg7_2160_0050_cld_0,,Hablé con Jessie y Biggs en lo alto del pilar.
+$ev_undg7_2160_0050_cld_0,ACTOR,Cloud
+$ev_undg7_2160_0050_cld_1,,Por eso sé cómo están los dos.
+$ev_undg7_2160_0050_cld_1,ACTOR,Cloud
+$ev_undg7_2160_0060_cld_0,,La posibilidad de que vuelvan es...
+$ev_undg7_2160_0060_cld_0,ACTOR,Cloud
+$ev_undg7_2160_0070_blt_0,,Pero...
+$ev_undg7_2160_0070_blt_0,ACTOR,Barret
+$ev_undg7_2160_0078_tif_0,,
+$ev_undg7_2160_0078_tif_0,ACTOR,
+$ev_undg7_2160_0080_tif_0,,Volvieron al planeta.
+$ev_undg7_2160_0080_tif_0,ACTOR,Tifa
+$ev_undg7_2160_0090_blt_0,,Se han equivocado de sitio al que volver.
+$ev_undg7_2160_0090_blt_0,ACTOR,Barret
+$ev_undg7_2160_0095_blt_0,,
+$ev_undg7_2160_0095_blt_0,ACTOR,
+$ev_undg7_2160_0100_blt_0,,"Si nos quedamos parados,<br>se reirían de nosotros."
+$ev_undg7_2160_0100_blt_0,ACTOR,Barret
+$ev_undg7_2160_0105_blt_0,,
+$ev_undg7_2160_0105_blt_0,ACTOR,
+$ev_undg7_2160_0110_blt_0,,"Vaya, qué pesado es esto."
+$ev_undg7_2160_0110_blt_0,ACTOR,Barret
+$ev_undg7_2160_0120_cld_0,,
+$ev_undg7_2160_0120_cld_0,ACTOR,
+$ev_undg7_8010_0010_blt_0,,Wedge.
+$ev_undg7_8010_0010_blt_0,ACTOR,Barret
+$ev_undg7_8010_0015_tif_0,,
+$ev_undg7_8010_0015_tif_0,ACTOR,
+$ev_undg7_8010_0017_tif_0,,
+$ev_undg7_8010_0017_tif_0,ACTOR,
+$ev_undg7_8010_0020_tif_0,,Está bien.
+$ev_undg7_8010_0020_tif_0,ACTOR,Tifa
+$ev_undg7_8010_0030_blt_0,,¿De verdad?
+$ev_undg7_8010_0030_blt_0,ACTOR,Barret
+$ev_undg7_8010_0035_tif_0,,
+$ev_undg7_8010_0035_tif_0,ACTOR,
+$ev_undg7_8010_0040_blt_0,,Este cabrón... nos ha hecho preocuparnos.
+$ev_undg7_8010_0040_blt_0,ACTOR,Barret
+$ev_undg7_8010_0040_blt_1,,Qué alivio.
+$ev_undg7_8010_0040_blt_1,ACTOR,Barret
+$ev_undg7_8010_0050_tif_0,,Gracias.
+$ev_undg7_8010_0050_tif_0,ACTOR,Tifa
+$ev_undg7_8010_0060_tif_0,,"Bien, vamos."
+$ev_undg7_8010_0060_tif_0,ACTOR,Tifa
+$ev_undg7_8010_0070_blt_0,,Sí.
+$ev_undg7_8010_0070_blt_0,ACTOR,Barret
+$ev_undg7_8010_0075_blt_0,,
+$ev_undg7_8010_0075_blt_0,ACTOR,
+$ev_undg7_8010_0080_blt_0,,"Vaya, qué pesado."
+$ev_undg7_8010_0080_blt_0,ACTOR,Barret
+$ev_undg7_8010_0090_tif_0,,¿Qué será?
+$ev_undg7_8010_0090_tif_0,ACTOR,Tifa
+$ev_undg7_8010_0095_tif_0,,
+$ev_undg7_8010_0095_tif_0,ACTOR,
+$ev_undg7_8010_0100_tif_0,,¡Barret!
+$ev_undg7_8010_0100_tif_0,ACTOR,Tifa
+$ev_undg7_8010_0110_blt_0,,
+$ev_undg7_8010_0110_blt_0,ACTOR,
+$ev_undg7_8010_0112_blt_0,,
+$ev_undg7_8010_0112_blt_0,ACTOR,
+$ev_undg7_8010_0114_blt_0,,
+$ev_undg7_8010_0114_blt_0,ACTOR,
+$ev_undg7_8010_0116_blt_0,,
+$ev_undg7_8010_0116_blt_0,ACTOR,
+$ev_undg7_8010_0120_blt_0,,¿Qué es eso?
+$ev_undg7_8010_0120_blt_0,ACTOR,Barret
+$ev_undg7_8010_0130_tif_0,,
+$ev_undg7_8010_0130_tif_0,ACTOR,
+$ev_undg7_8010_0140_blt_0,,
+$ev_undg7_8010_0140_blt_0,ACTOR,
+$ev_undg7_8025_0010_tif_0,,
+$ev_undg7_8025_0010_tif_0,ACTOR,
+$ev_undg7_8025_0020_blt_0,,
+$ev_undg7_8025_0020_blt_0,ACTOR,
+$ev_undg7_8025_0030_tif_0,,
+$ev_undg7_8025_0030_tif_0,ACTOR,
+$ev_undg7_8025_0040_tif_0,,
+$ev_undg7_8025_0040_tif_0,ACTOR,
+$ev_undg7_8025_0050_blt_0,,¡Tifa!
+$ev_undg7_8025_0050_blt_0,ACTOR,Barret
+$ev_undg7_8025_0060_blt_0,,
+$ev_undg7_8025_0060_blt_0,ACTOR,
+$ev_undg7_8025_0070_tif_0,,
+$ev_undg7_8025_0070_tif_0,ACTOR,
+$ev_undg7_8025_0080_tif_0,,
+$ev_undg7_8025_0080_tif_0,ACTOR,
+$ev_undg7_8030_0010_tif_0,,
+$ev_undg7_8030_0010_tif_0,ACTOR,
+$ev_undg7_8030_0020_tif_0,,
+$ev_undg7_8030_0020_tif_0,ACTOR,
+$ev_undg7_8030_0030_tif_0,,
+$ev_undg7_8030_0030_tif_0,ACTOR,
+$ev_undg7_8030_0040_tif_0,,
+$ev_undg7_8030_0040_tif_0,ACTOR,
+$ev_undg7_8030_0050_blt_0,,
+$ev_undg7_8030_0050_blt_0,ACTOR,
+$ev_undg7_8030_0060_blt_0,,
+$ev_undg7_8030_0060_blt_0,ACTOR,
+$ev_undg7_8030_0070_tif_0,,
+$ev_undg7_8030_0070_tif_0,ACTOR,
+$ev_undg7_8040_0010_blt_0,,
+$ev_undg7_8040_0010_blt_0,ACTOR,
+$ev_undg7_8040_0015_cld_0,,
+$ev_undg7_8040_0015_cld_0,ACTOR,
+$ev_undg7_8040_0020_tif_0,,¡Cloud!
+$ev_undg7_8040_0020_tif_0,ACTOR,Tifa
+$ev_undg7_8040_0030_blt_0,,¡Llegas tarde!
+$ev_undg7_8040_0030_blt_0,ACTOR,Barret
+$ev_undg7_8040_0040_cld_0,,Es mi turno.
+$ev_undg7_8040_0040_cld_0,ACTOR,Cloud
+$ev_undg7_8040_0050_blt_0,,No me des órdenes después de llegar tarde.
+$ev_undg7_8040_0050_blt_0,ACTOR,Barret
+$ev_undg7_8040_0060_blt_0,,
+$ev_undg7_8040_0060_blt_0,ACTOR,
+$ev_undg7_8040_0070_blt_0,,
+$ev_undg7_8040_0070_blt_0,ACTOR,Barret
+$ev_undg7_8040_0072_blt_0,,
+$ev_undg7_8040_0072_blt_0,ACTOR,
+$ev_undg7_8040_0080_blt_0,,¿Cómo has sabido llegar aquí?
+$ev_undg7_8040_0080_blt_0,ACTOR,Barret
+$ev_undg7_8040_0090_cld_0,,Seguí el rastro de los disparos.
+$ev_undg7_8040_0090_cld_0,ACTOR,Cloud
+$ev_undg7_8040_0090_cld_1,,Solo tú haces algo así.
+$ev_undg7_8040_0090_cld_1,ACTOR,Cloud
+$ev_undg7_8040_0100_blt_0,,
+$ev_undg7_8040_0100_blt_0,ACTOR,
+$ev_undg7_8040_0103_cld_0,,
+$ev_undg7_8040_0103_cld_0,ACTOR,
+$ev_undg7_8040_0105_blt_0,,
+$ev_undg7_8040_0105_blt_0,ACTOR,
+$pv_undg7_00081_0010_np10_0,,¿Habrá algo que podamos hacer?
+$pv_undg7_00081_0010_np10_0,ACTOR,
+$pv_undg7_0030_0010_np01_0,,
+$pv_undg7_0030_0010_np01_0,ACTOR,
+$pv_undg7_0030_0020_np01_0,,Por fin puedo respirar un aire decente.
+$pv_undg7_0030_0020_np01_0,ACTOR,
+$pv_undg7_0030_0030_np02_0,,"Maldita sea, ¿por qué ha pasado esto?"
+$pv_undg7_0030_0030_np02_0,ACTOR,
+$pv_undg7_0040_0010_np04_0,,Uh... uh...
+$pv_undg7_0040_0010_np04_0,ACTOR,
+$pv_undg7_0040_0020_np03_0,,"Venga, ya queda poco.<br>El sector 6 está justo ahí."
+$pv_undg7_0040_0020_np03_0,ACTOR,
+$pv_undg7_0040_0030_np04_0,,¿Y mamá...?
+$pv_undg7_0040_0030_np04_0,ACTOR,
+$pv_undg7_0040_0040_np03_0,,
+$pv_undg7_0040_0040_np03_0,ACTOR,
+$pv_undg7_0060_0005_np06_0,,
+$pv_undg7_0060_0005_np06_0,ACTOR,
+$pv_undg7_0060_0010_np06_0,,Pero ¿qué se supone que tengo que hacer?
+$pv_undg7_0060_0010_np06_0,ACTOR,
+$pv_undg7_0060_0015_np06_0,,"La casa, el dinero...<br>Ya no nos queda nada."
+$pv_undg7_0060_0015_np06_0,ACTOR,
+$pv_undg7_0060_0020_np05_0,,"Aun así,<br>no podemos quedarnos allí."
+$pv_undg7_0060_0020_np05_0,ACTOR,
+$pv_undg7_0060_0030_np06_0,,Ojalá no me hubieran salvado...
+$pv_undg7_0060_0030_np06_0,ACTOR,
+$pv_undg7_0060_0040_np05_0,,No digas tonterías.
+$pv_undg7_0060_0040_np05_0,ACTOR,
+$pv_undg7_0060_0045_np05_0,,"Hasta ahora<br>siempre nos las hemos apañado, ¿no?"
+$pv_undg7_0060_0045_np05_0,ACTOR,
+$pv_undg7_0060_0050_np06_0,,Supongo...
+$pv_undg7_0060_0050_np06_0,ACTOR,
+$pv_undg7_0060_0055_np06_0,,"Total, nunca tuvimos dinero<br>y la casa ya era vieja."
+$pv_undg7_0060_0055_np06_0,ACTOR,
+$pv_undg7_0070_0005_np07_0,,
+$pv_undg7_0070_0005_np07_0,ACTOR,
+$pv_undg7_0070_0010_np07_0,,"Oye, ¿adónde vas?<br>No hagas tonterías."
+$pv_undg7_0070_0010_np07_0,ACTOR,
+$pv_undg7_0070_0020_np08_0,,Ay... me estoy volviendo loco.
+$pv_undg7_0070_0020_np08_0,ACTOR,
+$pv_undg7_0080_0010_np09_0,,Gracias.
+$pv_undg7_0080_0010_np09_0,ACTOR,
+$pv_undg7_0080_0020_np10_0,,"Si pasamos de aquí, llegamos al sector 6.<br>¿Puede caminar?"
+$pv_undg7_0080_0020_np10_0,ACTOR,
+$pv_undg7_0100_0010_np27_0,,¡Por aquí! ¡Rápido!
+$pv_undg7_0100_0010_np27_0,ACTOR,
+$pv_undg7_0101_0010_np26_0,,No se han avistado monstruos.<br>Tranquilos todos.
+$pv_undg7_0101_0010_np26_0,ACTOR,
+$pv_undg7_0102_0010_np26_0,,La patrulla vecinal reforzará la vigilancia<br>más que de costumbre.
+$pv_undg7_0102_0010_np26_0,ACTOR,
+$pv_undg7_0103_0010_np28_0,,"Ten cuidado, chico para todo."
+$pv_undg7_0103_0010_np28_0,ACTOR,
+$pv_undg7_0104_0010_np10_0,,"No os precipitéis,<br>que si os hacéis daño es peor."
+$pv_undg7_0104_0010_np10_0,ACTOR,
+$pv_undg7_0105_0010_np10_0,,"Quien necesite ayuda,<br>que avise."
+$pv_undg7_0105_0010_np10_0,ACTOR,
+$pv_undg7_0311_0010_blt_0,,¿Otra vez?
+$pv_undg7_0311_0010_blt_0,ACTOR,Barret
+$pv_undg7_0311_0020_cld_0,,Esta vez ha sonado más cerca.
+$pv_undg7_0311_0020_cld_0,ACTOR,Cloud
+$pv_undg7_1010_0010_blt_0,,¡Holaaa!
+$pv_undg7_1010_0010_blt_0,ACTOR,Barret
+$pv_undg7_1010_0020_blt_0,,¿Hay alguien que necesite ayuda?
+$pv_undg7_1010_0020_blt_0,ACTOR,Barret
+$pv_undg7_1010_0030_blt_0,,Respondedme.
+$pv_undg7_1010_0030_blt_0,ACTOR,Barret
+$pv_undg7_1010_0040_blt_0,,¡¿Hay alguien?!
+$pv_undg7_1010_0040_blt_0,ACTOR,Barret
+$pv_undg7_1080_0010_blt_0,,
+$pv_undg7_1080_0010_blt_0,ACTOR,Barret
+$pv_undg7_1080_0020_blt_0,,"¡Vamos, a la de tres!"
+$pv_undg7_1080_0020_blt_0,ACTOR,Barret
+$pv_undg7_1080_0030_cld_0,,
+$pv_undg7_1080_0030_cld_0,ACTOR,
+$pv_undg7_1100_0010_tif_0,,¿Esta era la casa de Wedge?
+$pv_undg7_1100_0010_tif_0,ACTOR,Tifa
+$pv_undg7_1100_0020_np22_0,,
+$pv_undg7_1100_0020_np22_0,ACTOR,Nyal
+$pv_undg7_1490_0010_blt_0,,¡Tifa!
+$pv_undg7_1490_0010_blt_0,ACTOR,Barret
+$pv_undg7_1490_0020_blt_0,,¿Y Cloud?
+$pv_undg7_1490_0020_blt_0,ACTOR,Barret
+$pv_undg7_1490_0030_tif_0,,No está.
+$pv_undg7_1490_0030_tif_0,ACTOR,Tifa
+$pv_undg7_1490_0040_blt_0,,Ese sabrá apañárselas.<br>Vamos a quitarnos de encima a estos.
+$pv_undg7_1490_0040_blt_0,ACTOR,Barret
+$pv_undg7_2010_0010_blt_0,,"Hum, aquí huele a Shinra."
+$pv_undg7_2010_0010_blt_0,ACTOR,Barret
+$pv_undg7_2010_0040_blt_0,,Ya voy.<br>Espérame ahí.
+$pv_undg7_2010_0040_blt_0,ACTOR,Barret
+$pv_undg7_2040_0010_tif_0,,¿Wedge...?
+$pv_undg7_2040_0010_tif_0,ACTOR,Tifa
+$pv_undg7_2040_0020_blt_0,,¡Wedge!
+$pv_undg7_2040_0020_blt_0,ACTOR,Barret
+$pv_undg7_2050_0010_blt_0,,"Si no hay camino, nos lo abrimos."
+$pv_undg7_2050_0010_blt_0,ACTOR,Barret
+$pv_undg7_2050_0020_blt_0,,¡Uoooooooh!
+$pv_undg7_2050_0020_blt_0,ACTOR,
+$pv_undg7_2050_0030_blt_0,,"Aguanta, Wedge."
+$pv_undg7_2050_0030_blt_0,ACTOR,Barret
+$pv_undg7_2070_0020_blt_0,,"Tifa...<br>¡Eh, Tifa!"
+$pv_undg7_2070_0020_blt_0,ACTOR,Barret
+$pv_undg7_2070_0030_tif_0,,¡Barret!
+$pv_undg7_2070_0030_tif_0,ACTOR,Tifa
+$pv_undg7_2070_0040_blt_0,,¿Estás bien?
+$pv_undg7_2070_0040_blt_0,ACTOR,Barret
+$pv_undg7_2070_0050_tif_0,,Parece que no.
+$pv_undg7_2070_0050_tif_0,ACTOR,Tifa
+$pv_undg7_2070_0060_tif_0,,Debe de haber un nido por algún lado.<br>Encárgate de esa zona.
+$pv_undg7_2070_0060_tif_0,ACTOR,Tifa
+$pv_undg7_2070_0070_blt_0,,Cuenta con ello.
+$pv_undg7_2070_0070_blt_0,ACTOR,Barret
+$pv_undg7_2071_0010_blt_0,,"¡Mierda, no puedo acercarme!"
+$pv_undg7_2071_0010_blt_0,ACTOR,Barret
+$pv_undg7_2072_0010_blt_0,,Por aquí no se puede pasar. Busquemos otro sitio.
+$pv_undg7_2072_0010_blt_0,ACTOR,Barret
+$pv_undg7_2075_0010_blt_0,,No tienen fin.
+$pv_undg7_2075_0010_blt_0,ACTOR,Barret
+$pv_undg7_2076_0010_blt_0,,¿Es que quieren montar un parque de insectos?
+$pv_undg7_2076_0010_blt_0,ACTOR,Barret
+$pv_undg7_2300_0010_blt_0,,¿Puedo dejaros lo de Wedge?
+$pv_undg7_2300_0010_blt_0,ACTOR,Barret
+$pv_undg7_2300_0020_blt_0,,Yo esperaré aquí a los demás.
+$pv_undg7_2300_0020_blt_0,ACTOR,Barret
+$pv_undg7_2300_0030_blt_0,,"Si Wedge estaba vivo,<br>la posibilidad no es cero."
+$pv_undg7_2300_0030_blt_0,ACTOR,Barret
+$pv_undg7_6002_0010_np29_0,,Desde anoche el terreno se ha hundido mucho.<br>Parece que varios caminos han quedado bloqueados.
+$pv_undg7_6002_0010_np29_0,ACTOR,Miembro de la policía vecinal
+$pv_undg7_6004_0010_np29_0,,Se oyen monstruos desde las instalaciones de Shinra.<br>Da tanto miedo que ni se puede rescatar.
+$pv_undg7_6004_0010_np29_0,ACTOR,Miembro de la policía vecinal
+$pv_undg7_6006_0010_np29_0,,Puedes bajar a las instalaciones de Shinra por esa escalera.<br>Ten mucho cuidado.
+$pv_undg7_6006_0010_np29_0,ACTOR,Miembro de la policía vecinal
+$pv_undg7_6012_0010_np29_0,,¿Es cierto que has limpiado<br>los monstruos del subsuelo?
+$pv_undg7_6012_0010_np29_0,ACTOR,Miembro de la policía vecinal
+$pv_undg7_6014_0010_np29_0,,Por fin parece que podremos avanzar con el rescate.
+$pv_undg7_6014_0010_np29_0,ACTOR,Miembro de la policía vecinal
+$pv_undg7_6016_0010_np29_0,,Gracias por derrotar a los monstruos.
+$pv_undg7_6016_0010_np29_0,ACTOR,Miembro de la policía vecinal
+$tk_slu5b_0020_0020_sys_0,,¿Quieres volver al parque?
+$tk_slu5b_0020_0020_sys_0,ACTOR,
+$tk_undg7_0450_0010_mar_0,,"Con esa cara, supongo que Marlene está a salvo."
+$tk_undg7_0450_0010_mar_0,ACTOR,Marle
+$tk_undg7_0450_0020_mar_0,,Esa niña es increíble.
+$tk_undg7_0450_0020_mar_0,ACTOR,Marle
+$tk_undg7_0510_0010_np14_0,,¡Holaaa!
+$tk_undg7_0510_0010_np14_0,ACTOR,
+$tk_undg7_0511_0010_np15_0,,¿Hay alguien?
+$tk_undg7_0511_0010_np15_0,ACTOR,
+$tk_undg7_0512_0010_np14_0,,"Si me oís, responded."
+$tk_undg7_0512_0010_np14_0,ACTOR,
+$tk_undg7_0513_0010_np15_0,,Hemos venido a ayudar.
+$tk_undg7_0513_0010_np15_0,ACTOR,
+$tk_undg7_0514_0010_np14_0,,¿Hay alguien? Responded.
+$tk_undg7_0514_0010_np14_0,ACTOR,
+$tk_undg7_0515_0010_np15_0,,¿Alguien...?
+$tk_undg7_0515_0010_np15_0,ACTOR,
+$tk_undg7_0906_0010_blt_0,,"Bien, ya está todo despejado."
+$tk_undg7_0906_0010_blt_0,ACTOR,Barret
+$tk_undg7_1330_0010_blt_0,,¿Esto también es una instalación de Shinra?
+$tk_undg7_1330_0010_blt_0,ACTOR,Barret
+$tk_undg7_1350_0010_blt_0,,¿Cuándo han construido esto aquí?
+$tk_undg7_1350_0010_blt_0,ACTOR,Barret
+$tk_undg7_1370_0010_blt_0,,Shinra arriba y abajo.
+$tk_undg7_1370_0010_blt_0,ACTOR,Barret
+$tk_undg7_1390_0010_blt_0,,Voy a destrozarlo todo yo mismo.
+$tk_undg7_1390_0010_blt_0,ACTOR,Barret
+$tk_undg7_1400_0010_blt_0,,Hemos subido bastante.
+$tk_undg7_1400_0010_blt_0,ACTOR,Barret
+$tk_undg7_1405_0010_blt_0,,¿Cuánto han excavado estos de Shinra?
+$tk_undg7_1405_0010_blt_0,ACTOR,Barret
+$tk_undg7_1420_0010_blt_0,,En un sitio así no puedes bajar la guardia.
+$tk_undg7_1420_0010_blt_0,ACTOR,Barret
+$tk_undg7_1510_0010_blt_0,,¿Estás herida?
+$tk_undg7_1510_0010_blt_0,ACTOR,Barret
+$tk_undg7_1510_0020_tif_0,,"Sí, estoy bien."
+$tk_undg7_1510_0020_tif_0,ACTOR,Tifa
+$tk_undg7_1510_0030_blt_0,,Bien.<br>Primero vamos a por Wedge. Date prisa.
+$tk_undg7_1510_0030_blt_0,ACTOR,Barret
+$tk_undg7_1530_0010_tif_0,,¿No me digas<br>que has venido hasta aquí así?
+$tk_undg7_1530_0010_tif_0,ACTOR,Tifa
+$tk_undg7_1530_0020_blt_0,,Pues sí.
+$tk_undg7_1530_0020_blt_0,ACTOR,Barret
+$tk_undg7_1530_0030_tif_0,,
+$tk_undg7_1530_0030_tif_0,ACTOR,
+$tk_undg7_1530_0040_blt_0,,"Es muy de mi estilo, ¿no?"
+$tk_undg7_1530_0040_blt_0,ACTOR,Barret
+$tk_undg7_1550_0010_tif_0,,Ojalá Wedge esté bien.
+$tk_undg7_1550_0010_tif_0,ACTOR,Tifa
+$tk_undg7_1550_0020_blt_0,,No te preocupes.
+$tk_undg7_1550_0020_blt_0,ACTOR,Barret
+$tk_undg7_1550_0030_blt_0,,Ese es durísimo.<br>A estas horas estará durmiendo y roncando.
+$tk_undg7_1550_0030_blt_0,ACTOR,Barret
+$tk_undg7_1550_0040_tif_0,,Sí.
+$tk_undg7_1550_0040_tif_0,ACTOR,Tifa
+$tk_undg7_1550_0050_tif_0,,"Cuando volvamos,<br>le daremos de comer un montón de cosas ricas."
+$tk_undg7_1550_0050_tif_0,ACTOR,Tifa
+$tk_undg7_3030_0010_blt_0,,Con esto no basta.
+$tk_undg7_3030_0010_blt_0,ACTOR,Barret

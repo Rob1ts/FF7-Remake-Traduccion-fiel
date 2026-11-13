@@ -1,0 +1,2330 @@
+id,sub_id,text
+language,,ES
+$ba_town8_0020_0010_0000_kb06_0,,"¡Eh, tú! ¡El de ahí!"
+$ba_town8_0020_0010_0000_kb06_0,ACTOR,Centinela
+$ba_town8_0020_0010_0010_kb06_0,,¡Alto!
+$ba_town8_0020_0010_0010_kb06_0,ACTOR,Centinela
+$ba_town8_0020_0010_0020_kb06_0,,¡Atacad!
+$ba_town8_0020_0010_0020_kb06_0,ACTOR,Centinela
+$ba_town8_0030_0010_0000_kb09_0,,Eres tú... ¡Te tengo!
+$ba_town8_0030_0010_0000_kb09_0,ACTOR,Centinela
+$ba_town8_0030_0010_0010_td01_0,,Aquí pelotón 4 de seguridad del sector 8. Hemos encontrado al hombre del informe.
+$ba_town8_0030_0010_0010_td01_0,ACTOR,Centinela
+$ba_town8_0030_0010_0020_td01_0,,¡Solicitamos refuerzos! Repito: aquí pelotón 4 del sector 8...
+$ba_town8_0030_0010_0020_td01_0,ACTOR,Centinela
+$ba_town8_0040_0010_0000_kb11_0,,¡Tú!
+$ba_town8_0040_0010_0000_kb11_0,ACTOR,Centinela
+$ba_town8_0040_0010_0010_kb11_0,,¡No te resistas!
+$ba_town8_0040_0010_0010_kb11_0,ACTOR,Centinela
+$ba_town8_0040_0010_0020_kb11_0,,¡A por él!
+$ba_town8_0040_0010_0020_kb11_0,ACTOR,Centinela
+$ba_town8_0050_0010_0000_kb26_0,,¡Deja de resistirte!
+$ba_town8_0050_0010_0000_kb26_0,ACTOR,Centinela
+$ba_town8_0050_0010_0010_kb26_0,,¡No escaparás!
+$ba_town8_0050_0010_0010_kb26_0,ACTOR,Centinela
+$ba_town8_0050_0010_0020_kb26_0,,¡Atacad!
+$ba_town8_0050_0010_0020_kb26_0,ACTOR,Centinela
+$ba_town8_0055_0010_0000_kb22_0,,¡Te hemos encontrado!
+$ba_town8_0055_0010_0000_kb22_0,ACTOR,Centinela
+$ba_town8_0055_0010_0010_kb22_0,,¡Prepárate!
+$ba_town8_0055_0010_0010_kb22_0,ACTOR,Centinela
+$ba_town8_0055_0010_0020_kb22_0,,¡Vamos!
+$ba_town8_0055_0010_0020_kb22_0,ACTOR,Centinela
+$ba_town8_0056_0010_0000_kb24_0,,Eres tú.
+$ba_town8_0056_0010_0000_kb24_0,ACTOR,Centinela
+$ba_town8_0056_0010_0010_kb24_0,,No pasarás.
+$ba_town8_0056_0010_0010_kb24_0,ACTOR,Centinela
+$ba_town8_0056_0010_0020_kb24_0,,Ríndete.
+$ba_town8_0056_0010_0020_kb24_0,ACTOR,Centinela
+$ba_town8_0061_0010_0000_td15_0,,No hay salida.
+$ba_town8_0061_0010_0000_td15_0,ACTOR,Centinela
+$ba_town8_0061_0010_0010_td15_0,,¡Acorraladlo!
+$ba_town8_0061_0010_0010_td15_0,ACTOR,Centinela
+$ba_town8_0100_0010_0000_kb30_0,,Avanzad con cuidado.
+$ba_town8_0100_0010_0000_kb30_0,ACTOR,Centinela
+$ba_town8_0101_0010_0000_kb32_0,,No escaparás.
+$ba_town8_0101_0010_0000_kb32_0,ACTOR,Centinela
+$ba_town8_0110_0010_0000_td35_0,,Objetivo confirmado. Entablamos combate.
+$ba_town8_0110_0010_0000_td35_0,ACTOR,Centinela
+$ba_town8_0111_0010_0000_kb35_0,,Objetivo a la vista.
+$ba_town8_0111_0010_0000_kb35_0,ACTOR,Centinela
+$ba_town8_0111_0010_0010_kb36_0,,¡No irás a ninguna parte!
+$ba_town8_0111_0010_0010_kb36_0,ACTOR,Centinela
+$ba_town8_0200_0010_0000_cn40_0,,¡Atacad!
+$ba_town8_0200_0010_0000_cn40_0,ACTOR,Centinela
+$ba_town8_0201_0010_0000_cn42_0,,Ahí está.
+$ba_town8_0201_0010_0000_cn42_0,ACTOR,Centinela
+$ba_town8_0300_0010_0000_cn45_0,,¡De aquí no pasas!
+$ba_town8_0300_0010_0000_cn45_0,ACTOR,Centinela
+$ev_town8_0010_0010_big_0,,
+$ev_town8_0010_0010_big_0,ACTOR,
+$ev_town8_0010_0020_jec_0,,
+$ev_town8_0010_0020_jec_0,ACTOR,
+$ev_town8_0010_0030_wed_0,,
+$ev_town8_0010_0030_wed_0,ACTOR,
+$ev_town8_0010_0040_blt_0,,¿Estáis todos?
+$ev_town8_0010_0040_blt_0,ACTOR,Barret
+$ev_town8_0010_0045_jec_0,,
+$ev_town8_0010_0045_jec_0,ACTOR,
+$ev_town8_0010_0050_blt_0,,Parece que no hay heridos...
+$ev_town8_0010_0050_blt_0,ACTOR,Barret
+$ev_town8_0010_0060_big_0,,
+$ev_town8_0010_0060_big_0,ACTOR,
+$ev_town8_0010_0070_jec_0,,
+$ev_town8_0010_0070_jec_0,ACTOR,
+$ev_town8_0010_0080_wed_0,,
+$ev_town8_0010_0080_wed_0,ACTOR,
+$ev_town8_0010_0085_cld_0,,
+$ev_town8_0010_0085_cld_0,ACTOR,
+$ev_town8_0010_0090_blt_0,,¿No os parece que la explosión ha sido demasiado aparatosa?
+$ev_town8_0010_0090_blt_0,ACTOR,Barret
+$ev_town8_0010_0100_jec_0,,La bomba estaba hecha siguiendo la receta.
+$ev_town8_0010_0100_jec_0,ACTOR,Jessie
+$ev_town8_0010_0100_jec_1,,Pero puede que el mako vaporizado haya reaccionado.
+$ev_town8_0010_0100_jec_1,ACTOR,Jessie
+$ev_town8_0010_0110_blt_0,,"Joder, puede que se haya llevado parte de la ciudad."
+$ev_town8_0010_0110_blt_0,ACTOR,Barret
+$ev_town8_0010_0120_big_0,,La ciudad no importa. ¿Y el planeta?
+$ev_town8_0010_0120_big_0,ACTOR,Biggs
+$ev_town8_0010_0130_big_0,,
+$ev_town8_0010_0130_big_0,ACTOR,
+$ev_town8_0010_0140_jec_0,,
+$ev_town8_0010_0140_jec_0,ACTOR,
+$ev_town8_0010_0150_wed_0,,
+$ev_town8_0010_0150_wed_0,ACTOR,
+$ev_town8_0010_0151_cld_0,,
+$ev_town8_0010_0151_cld_0,ACTOR,
+$ev_town8_0010_0152_blt_0,,
+$ev_town8_0010_0152_blt_0,ACTOR,
+$ev_town8_0010_0160_big_0,,¿Habremos alargado un poco su vida?
+$ev_town8_0010_0160_big_0,ACTOR,Biggs
+$ev_town8_0010_0170_jec_0,,Más nos vale.
+$ev_town8_0010_0170_jec_0,ACTOR,Jessie
+$ev_town8_0010_0170_jec_1,,"Venga, salgamos. Estamos en el sector 8, ¿no?"
+$ev_town8_0010_0170_jec_1,ACTOR,Jessie
+$ev_town8_0010_0180_wed_0,,Todavía queda.
+$ev_town8_0010_0180_wed_0,ACTOR,Wedge
+$ev_town8_0010_0200_blt_0,,Bien. Guíanos.
+$ev_town8_0010_0200_blt_0,ACTOR,Barret
+$ev_town8_0010_0210_wed_0,,¡Entendido!
+$ev_town8_0010_0210_wed_0,ACTOR,Wedge
+$ev_town8_0010_0220_jec_0,,
+$ev_town8_0010_0220_jec_0,ACTOR,
+$ev_town8_0090_0000_jec_0,,
+$ev_town8_0090_0000_jec_0,ACTOR,
+$ev_town8_0090_0001_wed_0,,
+$ev_town8_0090_0001_wed_0,ACTOR,
+$ev_town8_0090_0002_jec_0,,¡Colocada!
+$ev_town8_0090_0002_jec_0,ACTOR,Jessie
+$ev_town8_0090_0010_jec_0,,¡Cuerpo a tierra!
+$ev_town8_0090_0010_jec_0,ACTOR,Jessie
+$ev_town8_0090_0011_big_0,,
+$ev_town8_0090_0011_big_0,ACTOR,
+$ev_town8_0090_0012_wed_0,,
+$ev_town8_0090_0012_wed_0,ACTOR,
+$ev_town8_0090_0013_jec_0,,
+$ev_town8_0090_0013_jec_0,ACTOR,
+$ev_town8_0090_0014_blt_0,,
+$ev_town8_0090_0014_blt_0,ACTOR,
+$ev_town8_0090_0015_cld_0,,
+$ev_town8_0090_0015_cld_0,ACTOR,
+$ev_town8_0090_0016_cld_0,,
+$ev_town8_0090_0016_cld_0,ACTOR,
+$ev_town8_0090_0017_jec_0,,
+$ev_town8_0090_0017_jec_0,ACTOR,
+$ev_town8_0090_0018_jec_0,,
+$ev_town8_0090_0018_jec_0,ACTOR,
+$ev_town8_0090_0020_big_0,,"Vaya, qué puerta..."
+$ev_town8_0090_0020_big_0,ACTOR,Biggs
+$ev_town8_0090_0030_jec_0,,"Al que estorba, hecho trizas. Vamos."
+$ev_town8_0090_0030_jec_0,ACTOR,Jessie
+$ev_town8_0100_0010_ana_0,,Emergencia. Emergencia. Les habla el centro de crisis de Shinra.
+$ev_town8_0100_0010_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0020_ana_0,,El reactor de mako n.º 1 ha sufrido un atentado y ha explotado.
+$ev_town8_0100_0020_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0020_ana_1,,Todavía se producen explosiones intermitentes y hay varios incendios.
+$ev_town8_0100_0020_ana_1,ACTOR,Megafonía
+$ev_town8_0100_0030_ana_0,,Los sectores 1 y 8 han sido declarados zona de alerta.
+$ev_town8_0100_0030_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0040_ana_0,,"Existe riesgo de derrumbe en los edificios cercanos, así como de caída de escombros y cristales."
+$ev_town8_0100_0040_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0050_ana_0,,
+$ev_town8_0100_0050_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0060_ana_0,,
+$ev_town8_0100_0060_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0060_ana_1,,
+$ev_town8_0100_0060_ana_1,ACTOR,Megafonía
+$ev_town8_0100_0070_ana_0,,
+$ev_town8_0100_0070_ana_0,ACTOR,Megafonía
+$ev_town8_0100_0080_jec_0,,Esto supera... cualquier previsión.
+$ev_town8_0100_0080_jec_0,ACTOR,Jessie
+$ev_town8_0100_0090_big_0,,Esto es... demasiado.
+$ev_town8_0100_0090_big_0,ACTOR,Biggs
+$ev_town8_0100_0100_wed_0,,"Nos hemos pasado, ¿no?"
+$ev_town8_0100_0100_wed_0,ACTOR,Wedge
+$ev_town8_0100_0110_cld_0,,Ya es tarde para eso.
+$ev_town8_0100_0110_cld_0,ACTOR,Cloud
+$ev_town8_0100_0115_jec_0,,
+$ev_town8_0100_0115_jec_0,ACTOR,
+$ev_town8_0100_0120_blt_0,,Sí. Exacto.
+$ev_town8_0100_0120_blt_0,ACTOR,Barret
+$ev_town8_0100_0120_blt_1,,Vamos a seguir destruyendo reactores de mako. Uno tras otro.
+$ev_town8_0100_0120_blt_1,ACTOR,Barret
+$ev_town8_0100_0130_blt_0,,Para salvar la vida del planeta.
+$ev_town8_0100_0130_blt_0,ACTOR,Barret
+$ev_town8_0100_0140_big_0,,Sí. Lo empezamos con la determinación de llegar hasta el final.
+$ev_town8_0100_0140_big_0,ACTOR,Biggs
+$ev_town8_0100_0150_wed_0,,Esto no ha hecho más que empezar.
+$ev_town8_0100_0150_wed_0,ACTOR,Wedge
+$ev_town8_0100_0160_blt_0,,Nuestra lucha es para salvar el planeta. Por eso pagaremos los sacrificios necesarios.
+$ev_town8_0100_0160_blt_0,ACTOR,Barret
+$ev_town8_0100_0170_blt_0,,Y no solo el planeta. También oigo vuestros gritos.
+$ev_town8_0100_0170_blt_0,ACTOR,Barret
+$ev_town8_0100_0180_blt_0,,¡Ja! ¡Eso es lo que quería oír!
+$ev_town8_0100_0180_blt_0,ACTOR,Barret
+$ev_town8_0100_0180_blt_1,,Yo cargaré con todo.
+$ev_town8_0100_0180_blt_1,ACTOR,Barret
+$ev_town8_0100_0190_blt_0,,"Miedos, dudas, preocupaciones..."
+$ev_town8_0100_0190_blt_0,ACTOR,Barret
+$ev_town8_0100_0190_blt_1,,Y también la recompensa.
+$ev_town8_0100_0190_blt_1,ACTOR,Barret
+$ev_town8_0100_0190_blt_2,,Echádmelo todo encima.
+$ev_town8_0100_0190_blt_2,ACTOR,Barret
+$ev_town8_0100_0191_wed_0,,
+$ev_town8_0100_0191_wed_0,ACTOR,
+$ev_town8_0100_0192_big_0,,
+$ev_town8_0100_0192_big_0,ACTOR,
+$ev_town8_0100_0193_cld_0,,
+$ev_town8_0100_0193_cld_0,ACTOR,
+$ev_town8_0100_0200_big_0,,"Bueno, jefe, ¿qué hacemos?"
+$ev_town8_0100_0200_big_0,ACTOR,Biggs
+$ev_town8_0100_0210_blt_0,,Como estaba planeado.
+$ev_town8_0100_0210_blt_0,ACTOR,Barret
+$ev_town8_0100_0210_blt_1,,¡Huir con todas nuestras fuerzas!
+$ev_town8_0100_0210_blt_1,ACTOR,Barret
+$ev_town8_0100_0220_big_0,,
+$ev_town8_0100_0220_big_0,ACTOR,
+$ev_town8_0100_0230_jec_0,,
+$ev_town8_0100_0230_jec_0,ACTOR,
+$ev_town8_0100_0240_wed_0,,
+$ev_town8_0100_0240_wed_0,ACTOR,
+$ev_town8_0100_0250_wed_0,,
+$ev_town8_0100_0250_wed_0,ACTOR,
+$ev_town8_0100_0260_jec_0,,
+$ev_town8_0100_0260_jec_0,ACTOR,
+$ev_town8_0100_0270_big_0,,
+$ev_town8_0100_0270_big_0,ACTOR,
+$ev_town8_0130_0010_jec_0,,"Toc, toc."
+$ev_town8_0130_0010_jec_0,ACTOR,Jessie.
+$ev_town8_0130_0015_cld_0,,
+$ev_town8_0130_0015_cld_0,ACTOR,
+$ev_town8_0130_0020_cld_0,,
+$ev_town8_0130_0020_cld_0,ACTOR,
+$ev_town8_0130_0030_jec_0,,"Esto lo sabrás reconocer, siendo SOLDIER, ¿no?"
+$ev_town8_0130_0030_jec_0,ACTOR,Jessie
+$ev_town8_0130_0040_cld_0,,Una materia de curación. Claro.
+$ev_town8_0130_0040_cld_0,ACTOR,Cloud
+$ev_town8_0130_0050_jec_0,,Toma. Es mi agradecimiento por salvarme.
+$ev_town8_0130_0050_jec_0,ACTOR,Jessie
+$ev_town8_0130_0060_cld_0,,Era parte del trabajo. No necesito las gracias.
+$ev_town8_0130_0060_cld_0,ACTOR,Cloud
+$ev_town8_0130_0070_jec_0,,"Venga, acepta."
+$ev_town8_0130_0070_jec_0,ACTOR,Jessie
+$ev_town8_0130_0070_jec_1,,Gracias a ti sigo viva.
+$ev_town8_0130_0070_jec_1,ACTOR,Jessie
+$ev_town8_0130_0071_cld_0,,
+$ev_town8_0130_0071_cld_0,ACTOR,
+$ev_town8_0130_0072_cld_0,,
+$ev_town8_0130_0072_cld_0,ACTOR,
+$ev_town8_0130_0073_cld_0,,
+$ev_town8_0130_0073_cld_0,ACTOR,
+$ev_town8_0130_0080_cld_0,,Los que sobreviven son los que tienen suerte o los que son fuertes.
+$ev_town8_0130_0080_cld_0,ACTOR,Cloud
+$ev_town8_0130_0080_cld_1,,No sé cuál de los dos eres tú.
+$ev_town8_0130_0080_cld_1,ACTOR,Cloud
+$ev_town8_0130_0090_jec_0,,Eso ha sido profundo.
+$ev_town8_0130_0090_jec_0,ACTOR,Jessie
+$ev_town8_0130_0100_cld_0,,Me quedo con esto.
+$ev_town8_0130_0100_cld_0,ACTOR,Cloud
+$ev_town8_0130_0110_jec_0,,"Sabes cómo usarla, ¿no?"
+$ev_town8_0130_0110_jec_0,ACTOR,Jessie
+$ev_town8_0130_0120_cld_0,,¿Por quién me tomas?
+$ev_town8_0130_0120_cld_0,ACTOR,Cloud
+$ev_town8_0190_0010_cld_0,,
+$ev_town8_0190_0010_cld_0,ACTOR,
+$ev_town8_0190_0020_cld_0,,
+$ev_town8_0190_0020_cld_0,ACTOR,
+$ev_town8_0210_0000_cld_0,,
+$ev_town8_0210_0000_cld_0,ACTOR,
+$ev_town8_0210_0010_cld_0,,¿Qué pasa?
+$ev_town8_0210_0010_cld_0,ACTOR,Cloud
+$ev_town8_0210_0015_cld_0,,
+$ev_town8_0210_0015_cld_0,ACTOR,
+$ev_town8_0210_0020_cld_0,,
+$ev_town8_0210_0020_cld_0,ACTOR,Cloud
+$ev_town8_0230_0010_cld_0,,
+$ev_town8_0230_0010_cld_0,ACTOR,
+$ev_town8_0240_0000_cld_0,,
+$ev_town8_0240_0000_cld_0,ACTOR,
+$ev_town8_0240_0010_cld_0,,
+$ev_town8_0240_0010_cld_0,ACTOR,
+$ev_town8_0240_0015_cld_0,,
+$ev_town8_0240_0015_cld_0,ACTOR,
+$ev_town8_0240_0016_cld_0,,
+$ev_town8_0240_0016_cld_0,ACTOR,
+$ev_town8_0240_0017_cld_0,,
+$ev_town8_0240_0017_cld_0,ACTOR,
+$ev_town8_0240_0020_cld_0,,¿Por qué...?
+$ev_town8_0240_0020_cld_0,ACTOR,Cloud
+$ev_town8_0290_0030_cld_0,,
+$ev_town8_0290_0030_cld_0,ACTOR,
+$ev_town8_0290_0040_cld_0,,Es imposible. Tú...
+$ev_town8_0290_0040_cld_0,ACTOR,Cloud
+$ev_town8_0290_0040_cld_1,,Moriste.
+$ev_town8_0290_0040_cld_1,ACTOR,Cloud
+$ev_town8_0290_0050_sep_0,,
+$ev_town8_0290_0050_sep_0,ACTOR,Sefirot
+$ev_town8_0290_0060_cld_0,,Yo con estas manos.
+$ev_town8_0290_0060_cld_0,ACTOR,Cloud
+$ev_town8_0290_0090_sep_0,,Por supuesto que lo recuerdo.
+$ev_town8_0290_0090_sep_0,ACTOR,Sefirot
+$ev_town8_0290_0090_sep_1,,Es un recuerdo muy valioso para nosotros.
+$ev_town8_0290_0090_sep_1,ACTOR,Sefirot
+$ev_town8_0290_0095_cld_0,,
+$ev_town8_0290_0095_cld_0,ACTOR,
+$ev_town8_0290_0100_sep_0,,"Bien, Cloud. Tengo un favor que pedirte."
+$ev_town8_0290_0100_sep_0,ACTOR,Sefirot
+$ev_town8_0290_0110_sep_0,,Este planeta está a punto de morir.
+$ev_town8_0290_0110_sep_0,ACTOR,Sefirot
+$ev_town8_0290_0110_sep_1,,Sin gritar. En silencio. Lentamente.
+$ev_town8_0290_0110_sep_1,ACTOR,Sefirot
+$ev_town8_0290_0120_sep_0,,Nuestro planeta va a desaparecer.
+$ev_town8_0290_0120_sep_0,ACTOR,Sefirot
+$ev_town8_0290_0120_sep_1,,Cloud.
+$ev_town8_0290_0120_sep_1,ACTOR,Sefirot
+$ev_town8_0300_0010_cld_0,,Mamá... Mamá...
+$ev_town8_0300_0010_cld_0,ACTOR,Cloud
+$ev_town8_0300_0015_cld_0,,
+$ev_town8_0300_0015_cld_0,ACTOR,
+$ev_town8_0300_0020_sep_0,,"Si el planeta muere, tu hogar, que arde con tanto brillo, desaparecerá."
+$ev_town8_0300_0020_sep_0,ACTOR,Sefirot
+$ev_town8_0300_0020_sep_1,,La voz de aquella mujer suplicando que al menos salvara a su hijo.
+$ev_town8_0300_0020_sep_1,ACTOR,Sefirot
+$ev_town8_0300_0020_sep_2,,Incluso el tacto de mi espada al atravesarla se desvanecerá.
+$ev_town8_0300_0020_sep_2,ACTOR,Sefirot
+$ev_town8_0310_0010_cld_0,,
+$ev_town8_0310_0010_cld_0,ACTOR,
+$ev_town8_0310_0020_sep_0,,Perder el vínculo que nos une sería más insoportable que mi propia muerte.
+$ev_town8_0310_0020_sep_0,ACTOR,Sefirot
+$ev_town8_0310_0020_sep_1,,"Cloud, ayúdame."
+$ev_town8_0310_0020_sep_1,ACTOR,Sefirot
+$ev_town8_0310_0020_sep_2,,No es nada difícil.
+$ev_town8_0310_0020_sep_2,ACTOR,Sefirot
+$ev_town8_0310_0040_sep_0,,"Cloud, corre."
+$ev_town8_0310_0040_sep_0,ACTOR,Sefirot
+$ev_town8_0310_0040_sep_1,,Huye. Sobrevive.
+$ev_town8_0310_0040_sep_1,ACTOR,Sefirot
+$ev_town8_0310_0060_cld_0,,
+$ev_town8_0310_0060_cld_0,ACTOR,
+$ev_town8_0310_0070_cld_0,,¡No me jodas!
+$ev_town8_0310_0070_cld_0,ACTOR,Cloud
+$ev_town8_0310_0080_cld_0,,
+$ev_town8_0310_0080_cld_0,ACTOR,
+$ev_town8_0310_0090_sep_0,,Bien. Así está bien.
+$ev_town8_0310_0090_sep_0,ACTOR,Sefirot
+$ev_town8_0310_0090_sep_1,,No me olvides.
+$ev_town8_0310_0090_sep_1,ACTOR,Sefirot
+$ev_town8_0310_0100_cld_0,,
+$ev_town8_0310_0100_cld_0,ACTOR,
+$ev_town8_0310_0140_cld_0,,¿Una alucinación...? Me he acercado demasiado al mako.
+$ev_town8_0310_0140_cld_0,ACTOR,Cloud
+$ev_town8_0310_0160_cld_0,,Vamos.
+$ev_town8_0310_0160_cld_0,ACTOR,Cloud
+$ev_town8_0380_0000_ath_0,,
+$ev_town8_0380_0000_ath_0,ACTOR,
+$ev_town8_0380_0001_cld_0,,
+$ev_town8_0380_0001_cld_0,ACTOR,
+$ev_town8_0380_0004_cld_0,,
+$ev_town8_0380_0004_cld_0,ACTOR,
+$ev_town8_0380_0005_ath_0,,
+$ev_town8_0380_0005_ath_0,ACTOR,
+$ev_town8_0380_0007_cld_0,,
+$ev_town8_0380_0007_cld_0,ACTOR,
+$ev_town8_0380_0010_sep_0,,No puedes proteger a nadie.
+$ev_town8_0380_0010_sep_0,ACTOR,Sefirot
+$ev_town8_0380_0010_sep_1,,Ni siquiera a ti mismo.
+$ev_town8_0380_0010_sep_1,ACTOR,Sefirot
+$ev_town8_0380_0020_ath_0,,¿Estás bien?
+$ev_town8_0380_0020_ath_0,ACTOR,Florista
+$ev_town8_0380_0030_ath_0,,"Oye, ¿te encuentras bien?"
+$ev_town8_0380_0030_ath_0,ACTOR,Florista
+$ev_town8_0380_0040_cld_0,,Sí.
+$ev_town8_0380_0040_cld_0,ACTOR,Cloud
+$ev_town8_0380_0045_ath_0,,
+$ev_town8_0380_0045_ath_0,ACTOR,
+$ev_town8_0380_0050_ath_0,,"Una flor, para ti."
+$ev_town8_0380_0050_ath_0,ACTOR,Florista
+$ev_town8_0380_0060_cld_0,,¿Una flor?
+$ev_town8_0380_0060_cld_0,ACTOR,Cloud
+$ev_town8_0380_0070_ath_0,,Sí. En agradecimiento.
+$ev_town8_0380_0070_ath_0,ACTOR,Florista
+$ev_town8_0380_0070_ath_1,,Por ahuyentarlos y salvarme.
+$ev_town8_0380_0070_ath_1,ACTOR,Florista
+$ev_town8_0380_0080_cld_0,,¿De qué hablas?
+$ev_town8_0380_0080_cld_0,ACTOR,Cloud
+$ev_town8_0380_0090_ath_0,,"Entonces, para conmemorar nuestro encuentro."
+$ev_town8_0380_0090_ath_0,ACTOR,Florista
+$ev_town8_0380_0100_cld_0,,Qué incordio.
+$ev_town8_0380_0100_cld_0,ACTOR,Cloud
+$ev_town8_0380_0110_ath_0,,Te he oído.
+$ev_town8_0380_0110_ath_0,ACTOR,Florista
+$ev_town8_0380_0120_cld_0,,¿Cuánto es?
+$ev_town8_0380_0120_cld_0,ACTOR,Cloud
+$ev_town8_0380_0130_ath_0,,El precio lo decido según el cliente.
+$ev_town8_0380_0130_ath_0,ACTOR,Florista
+$ev_town8_0380_0130_ath_1,,A ti te la dejo gratis.
+$ev_town8_0380_0130_ath_1,ACTOR,Florista
+$ev_town8_0380_0130_ath_2,,Porque tú...
+$ev_town8_0380_0130_ath_2,ACTOR,Florista
+$ev_town8_0380_0135_cld_0,,
+$ev_town8_0380_0135_cld_0,ACTOR,
+$ev_town8_0380_0140_cld_0,,No la quiero.
+$ev_town8_0380_0140_cld_0,ACTOR,Cloud
+$ev_town8_0380_0150_ath_0,,"Venga, no digas eso."
+$ev_town8_0380_0150_ath_0,ACTOR,Florista
+$ev_town8_0380_0160_ath_0,,"Las flores de verdad son valiosas, ¿sabes?"
+$ev_town8_0380_0160_ath_0,ACTOR,Florista
+$ev_town8_0380_0160_ath_1,,"Si se la das a tu novia, seguro que se alegra."
+$ev_town8_0380_0160_ath_1,ACTOR,Florista
+$ev_town8_0380_0170_cld_0,,No me tomes el pelo. ¿Dos guiles?
+$ev_town8_0380_0170_cld_0,ACTOR,Cloud
+$ev_town8_0380_0180_ath_0,,¿Dos guiles? ¿Pero sabes que es una flor de verdad?
+$ev_town8_0380_0180_ath_0,ACTOR,Florista
+$ev_town8_0380_0190_cld_0,,Te doy tres más.
+$ev_town8_0380_0190_cld_0,ACTOR,Cloud
+$ev_town8_0380_0200_ath_0,,No es suficiente ni de lejos.
+$ev_town8_0380_0200_ath_0,ACTOR,Florista
+$ev_town8_0380_0210_ath_0,,Y encima te he dicho que te la daba gratis.
+$ev_town8_0380_0210_ath_0,ACTOR,Florista
+$ev_town8_0380_0210_ath_1,,¡Estás intentando quitártela de encima! ¡Y por cinco guiles!
+$ev_town8_0380_0210_ath_1,ACTOR,Florista
+$ev_town8_0380_0215_cld_0,,
+$ev_town8_0380_0215_cld_0,ACTOR,
+$ev_town8_0380_0216_cld_0,,
+$ev_town8_0380_0216_cld_0,ACTOR,
+$ev_town8_0380_0220_ath_0,,"Así no te vas a salvar, ¿eh?"
+$ev_town8_0380_0220_ath_0,ACTOR,Florista
+$ev_town8_0380_0230_ath_0,,Su significado es «reencuentro».
+$ev_town8_0380_0230_ath_0,ACTOR,Florista
+$ev_town8_0380_0233_cld_0,,
+$ev_town8_0380_0233_cld_0,ACTOR,
+$ev_town8_0380_0240_cld_0,,Te lo advierto.
+$ev_town8_0380_0240_cld_0,ACTOR,Cloud
+$ev_town8_0380_0240_cld_1,,Soy fuerte.
+$ev_town8_0380_0240_cld_1,ACTOR,Cloud
+$ev_town8_0380_0250_ath_0,,"Sí, eso parece."
+$ev_town8_0380_0250_ath_0,ACTOR,Florista
+$ev_town8_0380_0260_cld_0,,No cedo ante las amenazas.
+$ev_town8_0380_0260_cld_0,ACTOR,Cloud
+$ev_town8_0380_0270_ath_0,,¿Tanto miedo te doy que crees que vengo a amenazarte?
+$ev_town8_0380_0270_ath_0,ACTOR,Florista
+$ev_town8_0380_0270_ath_1,,Nada de eso.
+$ev_town8_0380_0270_ath_1,ACTOR,Florista
+$ev_town8_0380_0270_ath_2,,No tienes por qué preocuparte por eso.
+$ev_town8_0380_0270_ath_2,ACTOR,Florista
+$ev_town8_0380_0280_cld_0,,¿Cuánto es?
+$ev_town8_0380_0280_cld_0,ACTOR,Cloud
+$ev_town8_0380_0290_ath_0,,El precio lo decido según el cliente.
+$ev_town8_0380_0290_ath_0,ACTOR,Florista
+$ev_town8_0380_0290_ath_1,,A ti te la dejo gratis.
+$ev_town8_0380_0290_ath_1,ACTOR,Florista
+$ev_town8_0380_0290_ath_2,,Porque tú...
+$ev_town8_0380_0290_ath_2,ACTOR,Florista
+$ev_town8_0380_9000_cut0_0,,Toma la flor.
+$ev_town8_0380_9000_cut0_0,ACTOR,Florista
+$ev_town8_0380_9001_cut1_0,,¿Cuánto es?
+$ev_town8_0380_9001_cut1_0,ACTOR,
+$ev_town8_0380_9002_cut2_0,,No la quiero.
+$ev_town8_0380_9002_cut2_0,ACTOR,
+$ev_town8_0380_9010_cut0_0,,Para ti... es gratis.
+$ev_town8_0380_9010_cut0_0,ACTOR,
+$ev_town8_0380_9011_cut1_0,,No me tomes el pelo.
+$ev_town8_0380_9011_cut1_0,ACTOR,
+$ev_town8_0380_9012_cut2_0,,Aceptar.
+$ev_town8_0380_9012_cut2_0,ACTOR,
+$ev_town8_0390_0020_cld_0,,Ha explotado un reactor de mako.
+$ev_town8_0390_0020_cld_0,ACTOR,Cloud
+$ev_town8_0390_0020_cld_1,,Esta noche deberías cerrar el puesto.
+$ev_town8_0390_0020_cld_1,ACTOR,Cloud
+$ev_town8_0390_0025_ath_0,,
+$ev_town8_0390_0025_ath_0,ACTOR,
+$ev_town8_0390_0050_cld_0,,
+$ev_town8_0390_0050_cld_0,ACTOR,
+$ev_town8_0390_0060_ath_0,,
+$ev_town8_0390_0060_ath_0,ACTOR,
+$ev_town8_0390_0060_ath_1,,¡Ayuda!
+$ev_town8_0390_0060_ath_1,ACTOR,Florista
+$ev_town8_0390_0070_cld_0,,
+$ev_town8_0390_0070_cld_0,ACTOR,
+$ev_town8_0390_0073_ath_0,,
+$ev_town8_0390_0073_ath_0,ACTOR,
+$ev_town8_0390_0075_cld_0,,
+$ev_town8_0390_0075_cld_0,ACTOR,
+$ev_town8_0390_0077_ath_0,,
+$ev_town8_0390_0077_ath_0,ACTOR,
+$ev_town8_0390_0080_cld_0,,
+$ev_town8_0390_0080_cld_0,ACTOR,
+$ev_town8_0390_0085_ath_0,,
+$ev_town8_0390_0085_ath_0,ACTOR,
+$ev_town8_0390_0100_cld_0,,
+$ev_town8_0390_0100_cld_0,ACTOR,
+$ev_town8_0390_0110_ath_0,,¿Qué es esto?
+$ev_town8_0390_0110_ath_0,ACTOR,Florista
+$ev_town8_0390_0113_cld_0,,
+$ev_town8_0390_0113_cld_0,ACTOR,
+$ev_town8_0390_0115_ath_0,,
+$ev_town8_0390_0115_ath_0,ACTOR,
+$ev_town8_0390_0117_cld_0,,
+$ev_town8_0390_0117_cld_0,ACTOR,
+$ev_town8_0390_0119_ev1_0,,
+$ev_town8_0390_0119_ev1_0,ACTOR,
+$ev_town8_0390_0120_kb01_0,,
+$ev_town8_0390_0120_kb01_0,ACTOR,
+$ev_town8_0390_0120_kb01_1,,¡Suelta el arma!
+$ev_town8_0390_0120_kb01_1,ACTOR,Centinela
+$ev_town8_0390_0125_cld_0,,¿Es que no los ves?
+$ev_town8_0390_0125_cld_0,ACTOR,Cloud
+$ev_town8_0390_0130_ath_0,,Mejor lo dejamos por hoy.
+$ev_town8_0390_0130_ath_0,ACTOR,Florista
+$ev_town8_0390_0135_cld_0,,
+$ev_town8_0390_0135_cld_0,ACTOR,
+$ev_town8_0390_0140_ath_0,,
+$ev_town8_0390_0140_ath_0,ACTOR,
+$ev_town8_0390_0150_cld_0,,Eh.
+$ev_town8_0390_0150_cld_0,ACTOR,Cloud
+$ev_town8_0390_0160_ath_0,,¡Hasta luego!
+$ev_town8_0390_0160_ath_0,ACTOR,Florista
+$ev_town8_0390_0170_cld_0,,
+$ev_town8_0390_0170_cld_0,ACTOR,
+$ev_town8_0390_0180_kb01_0,,Deja la espada en el suelo.
+$ev_town8_0390_0180_kb01_0,ACTOR,Centinela
+$ev_town8_0390_0180_kb01_1,,Sin movimientos bruscos.
+$ev_town8_0390_0180_kb01_1,ACTOR,Centinela
+$ev_town8_0390_0190_cld_0,,
+$ev_town8_0390_0190_cld_0,ACTOR,
+$ev_town8_0510_0005_cld_0,,
+$ev_town8_0510_0005_cld_0,ACTOR,
+$ev_town8_0510_0010_kb39_0,,Estás atrapado.
+$ev_town8_0510_0010_kb39_0,ACTOR,Centinela
+$ev_town8_0510_0011_ev1_0,,
+$ev_town8_0510_0011_ev1_0,ACTOR,
+$ev_town8_0510_0020_kb49_0,,"Me has hecho sudar, cabrón."
+$ev_town8_0510_0020_kb49_0,ACTOR,Centinela
+$ev_town8_0510_0021_ev1_0,,
+$ev_town8_0510_0021_ev1_0,ACTOR,
+$ev_town8_0510_0030_cld_0,,
+$ev_town8_0510_0030_cld_0,ACTOR,
+$ev_town8_0510_0035_ev1_0,,
+$ev_town8_0510_0035_ev1_0,ACTOR,
+$ev_town8_0510_0040_cld_0,,
+$ev_town8_0510_0040_cld_0,ACTOR,
+$ev_town8_0520_0010_kb91_0,,¡Acorraladlo!
+$ev_town8_0520_0010_kb91_0,ACTOR,Centinela
+$ev_town8_0520_0015_ev1_0,,
+$ev_town8_0520_0015_ev1_0,ACTOR,
+$ev_town8_0520_0020_kb90_0,,¡Que no escape!
+$ev_town8_0520_0020_kb90_0,ACTOR,Centinela
+$ev_town8_0520_0030_kb91_0,,Pelotón 2 del sector 8. Objetivo acorralado. Procedemos a su detención.
+$ev_town8_0520_0030_kb91_0,ACTOR,Centinela
+$ev_town8_0520_0040_cld_0,,
+$ev_town8_0520_0040_cld_0,ACTOR,
+$ev_town8_0520_0050_kb92_0,,"Eh, esa espada..."
+$ev_town8_0520_0050_kb92_0,ACTOR,Centinela
+$ev_town8_0520_0060_cld_0,,
+$ev_town8_0520_0060_cld_0,ACTOR,
+$ev_town8_0520_0065_ev1_0,,
+$ev_town8_0520_0065_ev1_0,ACTOR,
+$ev_town8_0520_0066_ev1_0,,
+$ev_town8_0520_0066_ev1_0,ACTOR,
+$ev_town8_0520_0110_cld_0,,
+$ev_town8_0520_0110_cld_0,ACTOR,
+$ev_town8_0520_0115_ev1_0,,
+$ev_town8_0520_0115_ev1_0,ACTOR,
+$ev_town8_0520_0120_cld_0,,
+$ev_town8_0520_0120_cld_0,ACTOR,
+$ev_town8_0520_0125_ev1_0,,
+$ev_town8_0520_0125_ev1_0,ACTOR,
+$ev_town8_0520_0130_cld_0,,
+$ev_town8_0520_0130_cld_0,ACTOR,
+$ev_town8_0550_0005_jec_0,,
+$ev_town8_0550_0005_jec_0,ACTOR,
+$ev_town8_0550_0010_wed_0,,Cloud no ha venido.
+$ev_town8_0550_0010_wed_0,ACTOR,Wedge
+$ev_town8_0550_0020_big_0,,No pongas esa cara. Seguro que está bien.
+$ev_town8_0550_0020_big_0,ACTOR,Biggs
+$ev_town8_0550_0020_big_1,,¿Viste cómo se movía?
+$ev_town8_0550_0020_big_1,ACTOR,Biggs
+$ev_town8_0550_0020_big_2,,Un SOLDIER no es un cualquiera.
+$ev_town8_0550_0020_big_2,ACTOR,Biggs
+$ev_town8_0550_0025_wed_0,,
+$ev_town8_0550_0025_wed_0,ACTOR,
+$ev_town8_0550_0030_jec_0,,Sí. ¿Y si lo invitamos en serio?
+$ev_town8_0550_0030_jec_0,ACTOR,Jessie
+$ev_town8_0550_0040_blt_0,,
+$ev_town8_0550_0040_blt_0,ACTOR,
+$ev_town8_0550_0050_big_0,,
+$ev_town8_0550_0050_big_0,ACTOR,
+$ev_town8_0550_0060_jec_0,,
+$ev_town8_0550_0060_jec_0,ACTOR,
+$ev_town8_0550_0070_wed_0,,
+$ev_town8_0550_0070_wed_0,ACTOR,
+$ev_town8_0550_0100_blt_0,,Espera un momento.
+$ev_town8_0550_0100_blt_0,ACTOR,Barret
+$ev_town8_0550_0110_big_0,,
+$ev_town8_0550_0110_big_0,ACTOR,
+$ev_town8_0550_0150_big_0,,
+$ev_town8_0550_0150_big_0,ACTOR,
+$ev_town8_0550_0160_blt_0,,
+$ev_town8_0550_0160_blt_0,ACTOR,
+$ev_town8_0550_0170_cld_0,,
+$ev_town8_0550_0170_cld_0,ACTOR,
+$ev_town8_0550_0180_blt_0,,
+$ev_town8_0550_0180_blt_0,ACTOR,
+$ev_town8_0550_0190_big_0,,
+$ev_town8_0550_0190_big_0,ACTOR,
+$ev_town8_0550_0200_jec_0,,
+$ev_town8_0550_0200_jec_0,ACTOR,
+$ev_town8_0550_0210_wed_0,,
+$ev_town8_0550_0210_wed_0,ACTOR,
+$ev_town8_0550_0220_cld_0,,
+$ev_town8_0550_0220_cld_0,ACTOR,
+$ev_town8_0550_0230_blt_0,,Me tenías preocupado.
+$ev_town8_0550_0230_blt_0,ACTOR,Barret
+$ev_town8_0550_0240_big_0,,
+$ev_town8_0550_0240_big_0,ACTOR,
+$ev_town8_0550_0250_jec_0,,
+$ev_town8_0550_0250_jec_0,ACTOR,
+$ev_town8_0550_0260_wed_0,,
+$ev_town8_0550_0260_wed_0,ACTOR,
+$ev_town8_0550_0280_blt_0,,
+$ev_town8_0550_0280_blt_0,ACTOR,
+$ev_town8_0550_0290_blt_0,,¿Qué demonios estabas haciendo?
+$ev_town8_0550_0290_blt_0,ACTOR,Barret
+$ev_town8_0550_0295_cld_0,,
+$ev_town8_0550_0295_cld_0,ACTOR,
+$ev_town8_0550_0300_cld_0,,Había tropas de seguridad rondando. Les he hecho perder el tiempo.
+$ev_town8_0550_0300_cld_0,ACTOR,Cloud
+$ev_town8_0550_0300_cld_1,,He conseguido alejarlos de la estación.
+$ev_town8_0550_0300_cld_1,ACTOR,Cloud
+$ev_town8_0550_0315_jec_0,,Qué soltura...
+$ev_town8_0550_0315_jec_0,ACTOR,Jessie
+$ev_town8_0550_0320_big_0,,¿A que es de fiar?
+$ev_town8_0550_0320_big_0,ACTOR,Biggs
+$ev_town8_0550_0325_blt_0,,
+$ev_town8_0550_0325_blt_0,ACTOR,
+$ev_town8_0550_0326_big_0,,
+$ev_town8_0550_0326_big_0,ACTOR,
+$ev_town8_0550_0330_blt_0,,
+$ev_town8_0550_0330_blt_0,ACTOR,
+$ev_town8_0550_0340_cld_0,,Esperad.
+$ev_town8_0550_0340_cld_0,ACTOR,Cloud
+$ev_town8_0550_0340_cld_1,,Quiero preguntaros una cosa.
+$ev_town8_0550_0340_cld_1,ACTOR,Cloud
+$ev_town8_0550_0341_blt_0,,
+$ev_town8_0550_0341_blt_0,ACTOR,
+$ev_town8_0550_0345_blt_0,,
+$ev_town8_0550_0345_blt_0,ACTOR,Barret
+$ev_town8_0550_0350_cld_0,,¿Habéis visto alguna vez a un enemigo invisible?
+$ev_town8_0550_0350_cld_0,ACTOR,Cloud
+$ev_town8_0550_0351_big_0,,
+$ev_town8_0550_0351_big_0,ACTOR,
+$ev_town8_0550_0352_jec_0,,
+$ev_town8_0550_0352_jec_0,ACTOR,
+$ev_town8_0550_0353_wed_0,,
+$ev_town8_0550_0353_wed_0,ACTOR,
+$ev_town8_0550_0354_blt_0,,
+$ev_town8_0550_0354_blt_0,ACTOR,
+$ev_town8_0550_0360_cld_0,,Iban con túnica. Como niebla.
+$ev_town8_0550_0360_cld_0,ACTOR,Cloud
+$ev_town8_0550_0370_big_0,,Eso se ve.
+$ev_town8_0550_0370_big_0,ACTOR,Biggs
+$ev_town8_0550_0380_cld_0,,De repente se hicieron visibles. Supongo que fue al tocarla.
+$ev_town8_0550_0380_cld_0,ACTOR,Cloud
+$ev_town8_0550_0390_jec_0,,¿Un arma nueva de Shinra?
+$ev_town8_0550_0390_jec_0,ACTOR,Jessie
+$ev_town8_0550_0400_blt_0,,Te dio miedo y tuviste una alucinación.
+$ev_town8_0550_0400_blt_0,ACTOR,Barret
+$ev_town8_0550_0410_cld_0,,Da igual. Me he equivocado de persona.
+$ev_town8_0550_0410_cld_0,ACTOR,Cloud
+$ev_town8_0550_0420_blt_0,,Cambiamos de vagón.
+$ev_town8_0550_0420_blt_0,ACTOR,Barret
+$ev_town8_0550_0430_jec_0,,
+$ev_town8_0550_0430_jec_0,ACTOR,
+$ev_town8_0710_0001_sbf_0,,Atentar contra un reactor de mako... Qué gente tan molesta.
+$ev_town8_0710_0001_sbf_0,ACTOR,Empleada de Shinra
+$ev_town8_0710_0002_snk_0,,"No lo han anunciado, pero con casi total seguridad ha sido Avalancha."
+$ev_town8_0710_0002_snk_0,ACTOR,Gerente de Shinra
+$ev_town8_0710_0003_sbf_0,,Son los que llevan años intentando acabar con nuestro presidente.
+$ev_town8_0710_0003_sbf_0,ACTOR,Empleada de Shinra
+$ev_town8_0710_0004_sbm_0,,¿Pretenden chupar de Shinra?
+$ev_town8_0710_0004_sbm_0,ACTOR,Empleado de Shinra
+$ev_town8_0710_0005_snk_0,,
+$ev_town8_0710_0005_snk_0,ACTOR,
+$ev_town8_0710_0010_blt_0,,"Eh, no digáis tonterías."
+$ev_town8_0710_0010_blt_0,ACTOR,Barret
+$ev_town8_0710_0010_blt_1,,El objetivo de Avalancha es salvar el planeta.
+$ev_town8_0710_0010_blt_1,ACTOR,Barret
+$ev_town8_0710_0012_snk_0,,
+$ev_town8_0710_0012_snk_0,ACTOR,
+$ev_town8_0710_0013_sbm_0,,
+$ev_town8_0710_0013_sbm_0,ACTOR,
+$ev_town8_0710_0014_sbf_0,,
+$ev_town8_0710_0014_sbf_0,ACTOR,
+$ev_town8_0710_0015_blt_0,,
+$ev_town8_0710_0015_blt_0,ACTOR,
+$ev_town8_0710_0020_snk_0,,¿Y tú quién eres?
+$ev_town8_0710_0020_snk_0,ACTOR,Gerente de Shinra
+$ev_town8_0710_0030_blt_0,,Un ciudadano honrado que se preocupa por el planeta.
+$ev_town8_0710_0030_blt_0,ACTOR,Barret
+$ev_town8_0710_0038_sbm_0,,
+$ev_town8_0710_0038_sbm_0,ACTOR,
+$ev_town8_0710_0040_sbf_0,,"¿Honrado, dónde?"
+$ev_town8_0710_0040_sbf_0,ACTOR,Empleada de Shinra
+$ev_town8_0710_0045_blt_0,,
+$ev_town8_0710_0045_blt_0,ACTOR,
+$ev_town8_0710_0047_snk_0,,
+$ev_town8_0710_0047_snk_0,ACTOR,
+$ev_town8_0710_0050_sbm_0,,Te van a dar una paliza.
+$ev_town8_0710_0050_sbm_0,ACTOR,Empleado de Shinra
+$ev_town8_0710_0052_sbf_0,,
+$ev_town8_0710_0052_sbf_0,ACTOR,
+$ev_town8_0710_0059_blt_0,,
+$ev_town8_0710_0059_blt_0,ACTOR,
+$ev_town8_0710_0060_blt_0,,Esa explosión es un aviso para los sinvergüenzas. Está claro.
+$ev_town8_0710_0060_blt_0,ACTOR,Barret
+$ev_town8_0710_0070_blt_0,,Para los que explotan la vida del planeta.
+$ev_town8_0710_0070_blt_0,ACTOR,Barret
+$ev_town8_0710_0070_blt_1,,"Y vosotros sabéis muy bien cómo se llaman, ¿eh?"
+$ev_town8_0710_0070_blt_1,ACTOR,Barret
+$ev_town8_0710_0074_sbf_0,,
+$ev_town8_0710_0074_sbf_0,ACTOR,
+$ev_town8_0710_0075_sbm_0,,
+$ev_town8_0710_0075_sbm_0,ACTOR,
+$ev_town8_0710_0080_snk_0,,Nosotros no nos doblegamos ante la violencia.
+$ev_town8_0710_0080_snk_0,ACTOR,Gerente de Shinra
+$ev_town8_0710_0080_snk_1,,"Pase lo que pase, mantendremos nuestra vida intacta."
+$ev_town8_0710_0080_snk_1,ACTOR,Gerente de Shinra
+$ev_town8_0710_0090_snk_0,,Así es como lucha un empleado de Shinra.
+$ev_town8_0710_0090_snk_0,ACTOR,Gerente de Shinra
+$ev_town8_0710_0091_snk_0,,
+$ev_town8_0710_0091_snk_0,ACTOR,
+$ev_town8_0710_0100_sbf_0,,¡Sin objeción!
+$ev_town8_0710_0100_sbf_0,ACTOR,Empleada de Shinra
+$ev_town8_0710_0108_sbm_0,,
+$ev_town8_0710_0108_sbm_0,ACTOR,
+$ev_town8_0710_0110_sbm_0,,¡Ese es el espíritu de Shinra!
+$ev_town8_0710_0110_sbm_0,ACTOR,Empleado de Shinra
+$ev_town8_0710_0115_blt_0,,
+$ev_town8_0710_0115_blt_0,ACTOR,
+$ev_town8_0710_0116_snk_0,,
+$ev_town8_0710_0116_snk_0,ACTOR,
+$ev_town8_0710_0117_sbf_0,,
+$ev_town8_0710_0117_sbf_0,ACTOR,
+$ev_town8_0710_0118_sbm_0,,
+$ev_town8_0710_0118_sbm_0,ACTOR,
+$ev_town8_0710_0120_blt_0,,"Vaya, qué apurados estáis."
+$ev_town8_0710_0120_blt_0,ACTOR,Barret
+$ev_town8_0710_0123_sbf_0,,
+$ev_town8_0710_0123_sbf_0,ACTOR,
+$ev_town8_0710_0124_sbm_0,,
+$ev_town8_0710_0124_sbm_0,ACTOR,
+$ev_town8_0710_0130_snk_0,,¿Algún problema?
+$ev_town8_0710_0130_snk_0,ACTOR,Gerente de Shinra
+$ev_town8_0710_0130_snk_1,,Siempre vivimos al límite.
+$ev_town8_0710_0130_snk_1,ACTOR,Gerente de Shinra
+$ev_town8_0710_0131_sbm_0,,
+$ev_town8_0710_0131_sbm_0,ACTOR,
+$ev_town8_0710_0132_sbm_0,,Vamos.
+$ev_town8_0710_0132_sbm_0,ACTOR,Empleado de Shinra
+$ev_town8_0710_0135_snk_0,,
+$ev_town8_0710_0135_snk_0,ACTOR,Gerente de Shinra
+$ev_town8_0710_0136_sbf_0,,
+$ev_town8_0710_0136_sbf_0,ACTOR,
+$ev_town8_0710_0140_blt_0,,
+$ev_town8_0710_0140_blt_0,ACTOR,
+$ev_town8_0710_0145_sbf_0,,
+$ev_town8_0710_0145_sbf_0,ACTOR,
+$ev_town8_0710_0146_sbm_0,,
+$ev_town8_0710_0146_sbm_0,ACTOR,
+$ev_town8_0760_0010_jec_0,,"Oye, ¿hablamos un momento?"
+$ev_town8_0760_0010_jec_0,ACTOR,Jessie
+$ev_town8_0760_0030_jec_0,,A los nuevos miembros les explico esto con esto.
+$ev_town8_0760_0030_jec_0,ACTOR,Jessie
+$ev_town8_0760_0030_jec_1,,"Seguro que ya lo sabes, pero escucha. Es una especie de ritual."
+$ev_town8_0760_0030_jec_1,ACTOR,Jessie
+$ev_town8_0760_0040_cld_0,,Te lo he dicho mil veces. Yo...
+$ev_town8_0760_0040_cld_0,ACTOR,Cloud
+$ev_town8_0760_0050_jec_0,,
+$ev_town8_0760_0050_jec_0,ACTOR,
+$ev_town8_0760_0055_cld_0,,
+$ev_town8_0760_0055_cld_0,ACTOR,
+$ev_town8_0760_0060_jec_0,,"Tanto negar y negar, y lo buen mozo que eres..."
+$ev_town8_0760_0060_jec_0,ACTOR,Jessie
+$ev_town8_0760_0080_jec_0,,"Mira. Es un modelo de la estructura de Midgar, la ciudad del mako."
+$ev_town8_0760_0080_jec_0,ACTOR,Jessie
+$ev_town8_0760_0080_jec_1,,Una plataforma de acero llamada «plate» elevada a 300 metros sobre el suelo.
+$ev_town8_0760_0080_jec_1,ACTOR,Jessie
+$ev_town8_0760_0080_jec_2,,"Y encima, una ciudad reluciente."
+$ev_town8_0760_0080_jec_2,ACTOR,Jessie
+$ev_town8_0760_0080_jec_3,,La energía de los reactores de mako ha convertido a los habitantes en monstruos del consumo invencibles.
+$ev_town8_0760_0080_jec_3,ACTOR,Jessie
+$ev_town8_0760_0100_ana_0,,En breve pasaremos por la zona de escaneo de identidad.
+$ev_town8_0760_0100_ana_0,ACTOR,Megafonía
+$ev_town8_0760_0120_cld_0,,
+$ev_town8_0760_0120_cld_0,ACTOR,
+$ev_town8_0760_0130_jec_0,,Esta es la ruta del tren.
+$ev_town8_0760_0130_jec_0,ACTOR,Jessie
+$ev_town8_0760_0130_jec_1,,Las vías ascienden en espiral alrededor del pilar principal.
+$ev_town8_0760_0130_jec_1,ACTOR,Jessie
+$ev_town8_0760_0130_jec_2,,"Mira, ahora estamos justo a mitad de camino."
+$ev_town8_0760_0130_jec_2,ACTOR,Jessie
+$ev_town8_0760_0130_jec_3,,La zona de escaneo está aquí. Comprueban a los pasajeros.
+$ev_town8_0760_0130_jec_3,ACTOR,Jessie
+$ev_town8_0760_0130_jec_4,,"Fecha de nacimiento, categoría de residencia, antecedentes..."
+$ev_town8_0760_0130_jec_4,ACTOR,Jessie
+$ev_town8_0760_0130_jec_5,,Lo consultan todo sobre nosotros en su base de datos.
+$ev_town8_0760_0130_jec_5,ACTOR,Jessie
+$ev_town8_0760_0130_jec_6,,Sobre todo para mantener el orden público.
+$ev_town8_0760_0130_jec_6,ACTOR,Jessie
+$ev_town8_0760_0130_jec_7,,"Mira, ya estamos."
+$ev_town8_0760_0130_jec_7,ACTOR,Jessie
+$ev_town8_0760_0140_cld_0,,
+$ev_town8_0760_0140_cld_0,ACTOR,
+$ev_town8_0760_0150_jec_0,,"Los carnés son falsos, así que tranquilo."
+$ev_town8_0760_0150_jec_0,ACTOR,Jessie
+$ev_town8_0760_0170_jec_0,,¿Ves? Me he esmerado.
+$ev_town8_0760_0170_jec_0,ACTOR,Jessie
+$ev_town8_0760_0190_jec_0,,Queda poco para llegar arriba. ¿No te alivia?
+$ev_town8_0760_0190_jec_0,ACTOR,Jessie
+$ev_town8_0760_0200_blt_0,,Mira cómo sufre la gente de abajo por culpa de esa pizza podrida.
+$ev_town8_0760_0200_blt_0,ACTOR,Barret
+$ev_town8_0760_0200_blt_1,,"Shinra no para de extraer mako, y la tierra se seca, el aire se estanca y las flores no crecen."
+$ev_town8_0760_0200_blt_1,ACTOR,Barret
+$ev_town8_0760_0205_cld_0,,
+$ev_town8_0760_0205_cld_0,ACTOR,
+$ev_town8_0760_0210_cld_0,,"Si no te gusta, vete de la ciudad."
+$ev_town8_0760_0210_cld_0,ACTOR,Cloud
+$ev_town8_0760_0220_blt_0,,
+$ev_town8_0760_0220_blt_0,ACTOR,
+$ev_town8_0760_0230_cld_0,,Yo he vivido así.
+$ev_town8_0760_0230_cld_0,ACTOR,Cloud
+$ev_town8_0760_0240_blt_0,,Si eres consciente de tu fuerza...
+$ev_town8_0760_0240_blt_0,ACTOR,Barret
+$ev_town8_0760_0255_cld_0,,
+$ev_town8_0760_0255_cld_0,ACTOR,
+$ev_town8_0760_0260_cld_0,,Todos somos como este tren.
+$ev_town8_0760_0260_cld_0,ACTOR,Cloud
+$ev_town8_0760_0260_cld_1,,No podemos ir contra las vías que nos han puesto.
+$ev_town8_0760_0260_cld_1,ACTOR,Cloud
+$ev_town8_0760_0270_blt_0,,¿No podrías preocuparte un poco más por la debilidad de los demás?
+$ev_town8_0760_0270_blt_0,ACTOR,Barret
+$lv_town8_0080_0010_wed_0,,Mejor salir por allí.
+$lv_town8_0080_0010_wed_0,ACTOR,Wedge
+$lv_town8_0080_0030_jec_0,,"Vale, voy a colocar la bomba. Apartaos."
+$lv_town8_0080_0030_jec_0,ACTOR,Jessie
+$lv_town8_0080_0040_blt_0,,"Espérame, Marlene."
+$lv_town8_0080_0040_blt_0,ACTOR,Barret
+$lv_town8_0080_0050_big_0,,"Espérame, ducha."
+$lv_town8_0080_0050_big_0,ACTOR,Biggs
+$lv_town8_0420_0010_tb01_0,,Eres tú... ¡Te tengo!
+$lv_town8_0420_0010_tb01_0,ACTOR,Centinela
+$lv_town8_0420_0020_tb02_0,,Aquí pelotón 2 del sector 8. Objetivo avistado. Solicitamos refuerzos.
+$lv_town8_0420_0020_tb02_0,ACTOR,Centinela
+$lv_town8_0420_0020_tb02_1,,Repito: aquí pelotón 2 del sector 8...
+$lv_town8_0420_0020_tb02_1,ACTOR,Centinela
+$lv_town8_0430_0030_kb19_0,,¡Rodeadlo! ¡Rodeadlo!
+$lv_town8_0430_0030_kb19_0,ACTOR,Centinela
+$lv_town8_0430_0050_kb20_0,,¡No hay escapatoria!
+$lv_town8_0430_0050_kb20_0,ACTOR,Centinela
+$pv_town8_0030_0010_wed_0,,Hay fugas eléctricas por todas partes. Cuidado.
+$pv_town8_0030_0010_wed_0,ACTOR,Wedge
+$pv_town8_0040_0010_big_0,,Huele a hierro y a óxido. ¡Que venga aire fresco!
+$pv_town8_0040_0010_big_0,ACTOR,Biggs
+$pv_town8_0060_0010_big_0,,¿Qué es ese olor agrio que me taladra la nariz?
+$pv_town8_0060_0010_big_0,ACTOR,Biggs
+$pv_town8_0060_0011_big_0,,"Ah, soy yo."
+$pv_town8_0060_0011_big_0,ACTOR,Biggs
+$pv_town8_0060_0020_big_0,,He sudado muchísimo.
+$pv_town8_0060_0020_big_0,ACTOR,Biggs
+$pv_town8_0065_0010_jec_0,,"Wedge, ¿falta mucho?"
+$pv_town8_0065_0010_jec_0,ACTOR,Jessie
+$pv_town8_0065_0020_wed_0,,Un poco más.
+$pv_town8_0065_0020_wed_0,ACTOR,Wedge
+$pv_town8_0070_0010_jec_0,,"Densidad de mako, catalizador... ¿No sería el explosivo?"
+$pv_town8_0070_0010_jec_0,ACTOR,Jessie
+$pv_town8_0070_0020_big_0,,"Jessie, déjalo para luego."
+$pv_town8_0070_0020_big_0,ACTOR,Biggs
+$pv_town8_0070_0030_wed_0,,Me está rugiendo el estómago.
+$pv_town8_0070_0030_wed_0,ACTOR,Wedge
+$pv_town8_0070_0040_blt_0,,Aguanta hasta el escondite.
+$pv_town8_0070_0040_blt_0,ACTOR,Barret
+$pv_town8_0070_0050_wed_0,,La próxima vez me traigo la comida.
+$pv_town8_0070_0050_wed_0,ACTOR,Wedge
+$pv_town8_0110_0010_blt_0,,Cogeremos el último tren en la estación del sector 8.
+$pv_town8_0110_0010_blt_0,ACTOR,Barret
+$pv_town8_0110_0020_blt_0,,Nos separamos y nos reunimos en el vagón de mercancías.
+$pv_town8_0110_0020_blt_0,ACTOR,Barret
+$pv_town8_0112_0010_wed_0,,¡Hasta luego!
+$pv_town8_0112_0010_wed_0,ACTOR,Wedge
+$pv_town8_0115_0010_cld_0,,"Eh, ¿y el dinero prometido?"
+$pv_town8_0115_0010_cld_0,ACTOR,Cloud
+$pv_town8_0116_0010_blt_0,,La misión no termina hasta que lleguemos al escondite.
+$pv_town8_0116_0010_blt_0,ACTOR,Barret
+$pv_town8_0146_0008_jec_0,,
+$pv_town8_0146_0008_jec_0,ACTOR,Jessie
+$pv_town8_0146_0010_jec_0,,"Úsala antes de caer, ¿vale?"
+$pv_town8_0146_0010_jec_0,ACTOR,Jessie
+$pv_town8_0146_0020_jec_0,,Y esto es en honor al valor del novato.
+$pv_town8_0146_0020_jec_0,ACTOR,Jessie
+$pv_town8_0146_0030_jec_0,,Una recompensa de lo más emocionante.
+$pv_town8_0146_0030_jec_0,ACTOR,Jessie
+$pv_town8_0146_0040_jec_0,,Nos vemos en el vagón.
+$pv_town8_0146_0040_jec_0,ACTOR,Jessie
+$pv_town8_0150_0008_jec_0,,
+$pv_town8_0150_0008_jec_0,ACTOR,
+$pv_town8_0150_0010_jec_0,,"Úsala antes de caer, ¿vale?"
+$pv_town8_0150_0010_jec_0,ACTOR,Jessie
+$pv_town8_0150_0011_jec_0,,Nos vemos en el vagón.
+$pv_town8_0150_0011_jec_0,ACTOR,Jessie
+$pv_town8_0170_0010_cld_0,,¿Conseguiremos escapar?
+$pv_town8_0170_0010_cld_0,ACTOR,Cloud
+$pv_town8_0180_0010_jec_0,,"Cuidado, aquí se derrumba con facilidad."
+$pv_town8_0180_0010_jec_0,ACTOR,Jessie
+$pv_town8_0180_0015_jec_0,,"Para subir, usa esas escaleras."
+$pv_town8_0180_0015_jec_0,ACTOR,Jessie
+$pv_town8_0180_0020_jec_0,,
+$pv_town8_0180_0020_jec_0,ACTOR,
+$pv_town8_0185_0010_mn09_0,,
+$pv_town8_0185_0010_mn09_0,ACTOR,
+$pv_town8_0186_0010_mn10_0,,
+$pv_town8_0186_0010_mn10_0,ACTOR,
+$pv_town8_0187_0010_wm03_0,,
+$pv_town8_0187_0010_wm03_0,ACTOR,
+$pv_town8_0188_0010_wm04_0,,
+$pv_town8_0188_0010_wm04_0,ACTOR,
+$pv_town8_0200_0010_cld_0,,La estación está intacta.
+$pv_town8_0200_0010_cld_0,ACTOR,Cloud
+$pv_town8_0255_0010_cld_0,,¿Dónde está?
+$pv_town8_0255_0010_cld_0,ACTOR,Cloud
+$pv_town8_0260_0010_cld_0,,No puede ser. ¿Por qué?
+$pv_town8_0260_0010_cld_0,ACTOR,Cloud
+$pv_town8_0270_0010_cld_0,,No es posible...
+$pv_town8_0270_0010_cld_0,ACTOR,Cloud
+$pv_town8_0280_0010_cld_0,,
+$pv_town8_0280_0010_cld_0,ACTOR,
+$pv_town8_0280_0020_cld_0,,Espera...
+$pv_town8_0280_0020_cld_0,ACTOR,Cloud
+$pv_town8_0321_0010_cld_0,,Por aquí no se puede.
+$pv_town8_0321_0010_cld_0,ACTOR,Cloud
+$pv_town8_0322_0010_cld_0,,Tendré que buscar otra ruta.
+$pv_town8_0322_0010_cld_0,ACTOR,Cloud
+$pv_town8_0323_0010_cld_0,,Mierda. Se me acaba el tiempo.
+$pv_town8_0323_0010_cld_0,ACTOR,Cloud
+$pv_town8_0350_0010_cld_0,,Peor de lo que pensaba.
+$pv_town8_0350_0010_cld_0,ACTOR,Cloud
+$pv_town8_0354_0010_cld_0,,¿También han cortado esta zona?
+$pv_town8_0354_0010_cld_0,ACTOR,Cloud
+$pv_town8_0355_0010_cld_0,,"Si armo jaleo aquí, tendré problemas."
+$pv_town8_0355_0010_cld_0,ACTOR,Cloud
+$pv_town8_0396_0010_gng_0,,El sospechoso del informe todavía debe de estar cerca.
+$pv_town8_0396_0010_gng_0,ACTOR,Capitán
+$pv_town8_0396_0020_cld_0,,Será mejor alejarme de aquí.
+$pv_town8_0396_0020_cld_0,ACTOR,Cloud
+$pv_town8_0397_0010_gng_0,,Arrestad a todo el que parezca sospechoso.
+$pv_town8_0397_0010_gng_0,ACTOR,Capitán
+$pv_town8_0397_0020_cld_0,,No me queda otra que dar un rodeo.
+$pv_town8_0397_0020_cld_0,ACTOR,Cloud
+$pv_town8_0398_0010_gng_0,,El objetivo va armado. Que no escape bajo ningún concepto.
+$pv_town8_0398_0010_gng_0,ACTOR,Capitán
+$pv_town8_0398_0020_cld_0,,Abrirse paso de frente será difícil.
+$pv_town8_0398_0020_cld_0,ACTOR,Cloud
+$pv_town8_0411_0010_kb11_0,,Sin novedad.
+$pv_town8_0411_0010_kb11_0,ACTOR,Centinela
+$pv_town8_0412_0010_kb11_0,,Todo en orden.
+$pv_town8_0412_0010_kb11_0,ACTOR,Centinela
+$pv_town8_0421_0010_gng_0,,Solo hay un objetivo. Que no se nos escape.
+$pv_town8_0421_0010_gng_0,ACTOR,Capitán
+$pv_town8_0421_0020_cld_0,,Mejor alejarme de la estación por ahora.
+$pv_town8_0421_0020_cld_0,ACTOR,Cloud
+$pv_town8_0422_0010_gng_0,,Los pelotones del seis al diez se unirán en breve.
+$pv_town8_0422_0010_gng_0,ACTOR,Capitán
+$pv_town8_0422_0020_cld_0,,Volveré a la plaza.
+$pv_town8_0422_0020_cld_0,ACTOR,Cloud
+$pv_town8_0423_0010_gng_0,,Que no entre en la estación bajo ningún concepto.
+$pv_town8_0423_0010_gng_0,ACTOR,Capitán
+$pv_town8_0423_0020_cld_0,,Volveré y buscaré otro camino.
+$pv_town8_0423_0020_cld_0,ACTOR,Cloud
+$pv_town8_0463_0010_cld_0,,La zona de la estación debe de estar bien protegida.
+$pv_town8_0463_0010_cld_0,ACTOR,Cloud
+$pv_town8_0463_0020_cld_0,,Lo más seguro es ir por arriba.
+$pv_town8_0463_0020_cld_0,ACTOR,Cloud
+$pv_town8_0465_0010_td25_0,,¡Ahí está!
+$pv_town8_0465_0010_td25_0,ACTOR,Centinela
+$pv_town8_0465_0020_kb26_0,,¡Disparad! ¡Disparad!
+$pv_town8_0465_0020_kb26_0,ACTOR,Centinela
+$pv_town8_0468_0010_cld_0,,No me queda otra que abrirme paso a la fuerza.
+$pv_town8_0468_0010_cld_0,ACTOR,Cloud
+$pv_town8_0469_0010_cld_0,,Por los pelos.
+$pv_town8_0469_0010_cld_0,ACTOR,Cloud
+$pv_town8_0475_0010_kb30_0,,¡Ahí está! ¡Allí!
+$pv_town8_0475_0010_kb30_0,ACTOR,Centinela
+$pv_town8_0475_0020_cld_0,,No hay tiempo que perder.
+$pv_town8_0475_0020_cld_0,ACTOR,Cloud
+$pv_town8_0490_0010_sh01_0,,El objetivo avanza por la zona residencial.
+$pv_town8_0490_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_0490_0011_sh01_0,,¡Bloquead las calles y enviad refuerzos!
+$pv_town8_0490_0011_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_0560_0010_wed_0,,"Vaya, está lleno."
+$pv_town8_0560_0010_wed_0,ACTOR,Wedge
+$pv_town8_0560_0020_jec_0,,Y eso que es el vagón de mercancías.
+$pv_town8_0560_0020_jec_0,ACTOR,Jessie
+$pv_town8_0560_0030_big_0,,Será por la orden de evacuación.
+$pv_town8_0560_0030_big_0,ACTOR,Biggs
+$pv_town8_0560_0040_blt_0,,Ha llegado la suerte. Nos mezclaremos entre la multitud.
+$pv_town8_0560_0040_blt_0,ACTOR,Barret
+$pv_town8_0630_0010_ana_0,,Tren procedente de la estación del sector 8 de Midgar. Destino final: estación de la barriada del sector 7.
+$pv_town8_0630_0010_ana_0,ACTOR,Megafonía
+$pv_town8_0630_0020_ana_0,,"Debido a la explosión del reactor de mako n.º 1, este tren circula con un horario especial de evacuación."
+$pv_town8_0630_0020_ana_0,ACTOR,Megafonía
+$pv_town8_0630_0030_ana_0,,Disculpen las molestias por la aglomeración.
+$pv_town8_0630_0030_ana_0,ACTOR,Megafonía
+$pv_town8_0630_0040_blt_0,,Nos reuniremos en el vagón de cabeza antes de llegar.
+$pv_town8_0630_0040_blt_0,ACTOR,Barret
+$pv_town8_0640_0010_wed_0,,"Uf, qué estrecho."
+$pv_town8_0640_0010_wed_0,ACTOR,Wedge
+$pv_town8_0650_0020_wed_0,,Todo el mundo está tenso.
+$pv_town8_0650_0020_wed_0,ACTOR,Wedge
+$pv_town8_0650_0030_cld_0,,Es normal.
+$pv_town8_0650_0030_cld_0,ACTOR,Cloud
+$pv_town8_0650_0035_wed_0,,
+$pv_town8_0650_0035_wed_0,ACTOR,
+$pv_town8_0650_0040_wed_0,,"Cloud, yo..."
+$pv_town8_0650_0040_wed_0,ACTOR,Wedge
+$pv_town8_0650_0050_cld_0,,"Si es una confesión, hazla en otro sitio."
+$pv_town8_0650_0050_cld_0,ACTOR,Cloud
+$pv_town8_0650_0060_wed_0,,Qué duro eres.
+$pv_town8_0650_0060_wed_0,ACTOR,Wedge
+$pv_town8_0660_0010_big_0,,¿Puedo preguntarte una cosa?
+$pv_town8_0660_0010_big_0,ACTOR,Biggs
+$pv_town8_0670_0020_big_0,,"¿Estás acostumbrado a situaciones así? Lo de la estación, el sector 8..."
+$pv_town8_0670_0020_big_0,ACTOR,Biggs
+$pv_town8_0670_0030_cld_0,,Era SOLDIER.
+$pv_town8_0670_0030_cld_0,ACTOR,Cloud
+$pv_town8_0670_0040_big_0,,A mí me tiemblan las piernas. Qué mal.
+$pv_town8_0670_0040_big_0,ACTOR,Biggs
+$pv_town8_0670_0050_cld_0,,Te acostumbrarás.
+$pv_town8_0670_0050_cld_0,ACTOR,Cloud
+$pv_town8_0670_0060_big_0,,Eso espero.
+$pv_town8_0670_0060_big_0,ACTOR,Biggs
+$pv_town8_0670_0061_big_0,,Aunque no sé si quiero...
+$pv_town8_0670_0061_big_0,ACTOR,Biggs
+$pv_town8_0680_0010_jec_0,,"Cloud, socorro."
+$pv_town8_0680_0010_jec_0,ACTOR,Jessie
+$pv_town8_0690_0020_jec_0,,No me deja de latir el corazón. Los daños en el sector 8 son demasiado grandes.
+$pv_town8_0690_0020_jec_0,ACTOR,Jessie
+$pv_town8_0690_0030_jec_0,,No lo entiendo.
+$pv_town8_0690_0030_jec_0,ACTOR,Jessie
+$pv_town8_0690_0040_cld_0,,Dijiste que el mako vaporizado pudo provocar una reacción en cadena.
+$pv_town8_0690_0040_cld_0,ACTOR,Cloud
+$pv_town8_0690_0050_jec_0,,"Eso pensé al principio, pero un reactor debería estar preparado para algo así, ¿no?"
+$pv_town8_0690_0050_jec_0,ACTOR,Jessie
+$pv_town8_0690_0060_cld_0,,
+$pv_town8_0690_0060_cld_0,ACTOR,
+$pv_town8_0690_0070_jec_0,,"Dijiste que había enemigos invisibles, ¿verdad?"
+$pv_town8_0690_0070_jec_0,ACTOR,Jessie
+$pv_town8_0690_0080_cld_0,,Sí.
+$pv_town8_0690_0080_cld_0,ACTOR,Cloud
+$pv_town8_0690_0090_jec_0,,No... No puedo.
+$pv_town8_0690_0090_jec_0,ACTOR,Jessie
+$pv_town8_0690_0091_jec_0,,"Antes de sospechar de otros, tengo que revisar mis propios errores."
+$pv_town8_0690_0091_jec_0,ACTOR,Jessie
+$pv_town8_0690_0100_jec_0,,"Sí. Si no, no se avanza."
+$pv_town8_0690_0100_jec_0,ACTOR,Jessie
+$pv_town8_0690_0105_cld_0,,
+$pv_town8_0690_0105_cld_0,ACTOR,
+$pv_town8_0690_0110_jec_0,,"Gracias por escucharme, Cloud."
+$pv_town8_0690_0110_jec_0,ACTOR,Jessie
+$pv_town8_0721_0010_blt_0,,No eres un niño. Estate quieto.
+$pv_town8_0721_0010_blt_0,ACTOR,Barret
+$pv_town8_0722_0010_wed_0,,"Cloud, ¿adónde vas?"
+$pv_town8_0722_0010_wed_0,ACTOR,Wedge
+$pv_town8_0723_0010_big_0,,No andes por ahí.
+$pv_town8_0723_0010_big_0,ACTOR,Biggs
+$pv_town8_0724_0010_jec_0,,"Cloud, ven aquí."
+$pv_town8_0724_0010_jec_0,ACTOR,Jessie
+$pv_town8_0726_0010_blt_0,,Qué tontería. ¿Espíritu de Shinra?
+$pv_town8_0726_0010_blt_0,ACTOR,Barret
+$pv_town8_0727_0010_blt_0,,Yo no estoy equivocado.
+$pv_town8_0727_0010_blt_0,ACTOR,Barret
+$pv_town8_0736_0010_wed_0,,"Somos los malos, ¿eh?"
+$pv_town8_0736_0010_wed_0,ACTOR,Wedge
+$pv_town8_0737_0010_wed_0,,No hay remedio...
+$pv_town8_0737_0010_wed_0,ACTOR,Wedge
+$pv_town8_0746_0010_big_0,,"Bueno, no espero que me entiendan."
+$pv_town8_0746_0010_big_0,ACTOR,Biggs
+$pv_town8_0747_0010_big_0,,Qué ganas de quitarme todo esto de encima.
+$pv_town8_0747_0010_big_0,ACTOR,Biggs
+$pv_town8_1180_0010_jec_0,,"¡Cloud, aquí! ¡Arriba, arriba! ¡Mira arriba!"
+$pv_town8_1180_0010_jec_0,ACTOR,Jessie
+$pv_town8_1185_0010_jec_0,,"Cuidado al subir las escaleras, se derrumba fácilmente."
+$pv_town8_1185_0010_jec_0,ACTOR,Jessie
+$pv_town8_1186_0010_jec_0,,¿Lo haces a propósito? Estoy sobre los escombros.
+$pv_town8_1186_0010_jec_0,ACTOR,Jessie
+$pv_town8_1191_0010_jec_0,,Por ahí no. A la derecha.
+$pv_town8_1191_0010_jec_0,ACTOR,Jessie
+$pv_town8_1192_0010_jec_0,,¡He dicho arriba!
+$pv_town8_1192_0010_jec_0,ACTOR,Jessie
+$pv_town8_1193_0010_jec_0,,Un poco más a la izquierda.
+$pv_town8_1193_0010_jec_0,ACTOR,Jessie
+$pv_town8_1194_0010_jec_0,,"Desde ahí, baja la vista."
+$pv_town8_1194_0010_jec_0,ACTOR,Jessie
+$pv_town8_1440_0010_sh01_0,,Objetivo localizado. Repito: objetivo localizado.
+$pv_town8_1440_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1440_0020_sh01_0,,"Combatientes, preparaos para descender."
+$pv_town8_1440_0020_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1440_0030_sh01_0,,Preparación completada.
+$pv_town8_1440_0030_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1440_0040_sh01_0,,Iniciad ataque concentrado.
+$pv_town8_1440_0040_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1451_0010_sh01_0,,"Enfrentamiento con el objetivo en la plaza de la fuente. Unidades cercanas, acudid de inmediato."
+$pv_town8_1451_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1452_0020_sh01_0,,Es posible que el objetivo se dirija a la estación.
+$pv_town8_1452_0020_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1453_0020_sh01_0,,Aquí plaza de la fuente. Solicitamos refuerzos.
+$pv_town8_1453_0020_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1460_0010_sh01_0,,El objetivo sigue activo. Concentrad la seguridad alrededor de la estación.
+$pv_town8_1460_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1460_0021_cld_0,,¿Otro camino...?
+$pv_town8_1460_0021_cld_0,ACTOR,Cloud
+$pv_town8_1460_0030_cld_0,,Subiré por los edificios.
+$pv_town8_1460_0030_cld_0,ACTOR,Cloud
+$pv_town8_1470_0010_sh01_0,,El objetivo parece haber huido hacia la zona residencial. Bloquead las calles cercanas.
+$pv_town8_1470_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1490_0010_sh01_0,,No tienes escapatoria. Suelta el arma y ríndete.
+$pv_town8_1490_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1500_0010_sh01_0,,Al fugitivo: tenemos localizada tu posición.
+$pv_town8_1500_0010_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_1500_0011_sh01_0,,Ríndete sin resistencia.
+$pv_town8_1500_0011_sh01_0,ACTOR,Helicóptero de Shinra
+$pv_town8_7030_0010_mn25_0,,
+$pv_town8_7030_0010_mn25_0,ACTOR,
+$pv_town8_7031_0010_wm19_0,,
+$pv_town8_7031_0010_wm19_0,ACTOR,
+$tk_town8_0050_0010_ev1_0,,
+$tk_town8_0050_0010_ev1_0,ACTOR,
+$tk_town8_0050_0020_wed_0,,Se me ha removido hasta el estómago.
+$tk_town8_0050_0020_wed_0,ACTOR,Wedge
+$tk_town8_0050_0030_big_0,,Las explosiones no paran.
+$tk_town8_0050_0030_big_0,ACTOR,Biggs
+$tk_town8_0050_0040_blt_0,,Salgamos antes de que nos aplasten.
+$tk_town8_0050_0040_blt_0,ACTOR,Barret
+$tk_town8_0355_0010_kb01_0,,Que no se escape ningún sospechoso.
+$tk_town8_0355_0010_kb01_0,ACTOR,Centinela
+$tk_town8_0356_0010_kb01_0,,Debe de estar cerca.
+$tk_town8_0356_0010_kb01_0,ACTOR,Centinela
+$tk_town8_3011_0010_mn28_0,,¿Qué se supone que hago?
+$tk_town8_3011_0010_mn28_0,ACTOR,
+$tk_town8_3012_0010_mn28_0,,Esto es un sueño. Un sueño. Un sueño.
+$tk_town8_3012_0010_mn28_0,ACTOR,
+$tk_town8_3013_0010_mn28_0,,¿Un atentado? No puede ser... ¿Un atentado?
+$tk_town8_3013_0010_mn28_0,ACTOR,
+$tk_town8_3014_0010_mn28_0,,"Ja, ja, ja..."
+$tk_town8_3014_0010_mn28_0,ACTOR,
+$tk_town8_3015_0010_mn28_0,,Tembló y el cartel cayó desde arriba.
+$tk_town8_3015_0010_mn28_0,ACTOR,
+$tk_town8_3016_0010_mn28_0,,¿Un ataque? ¿Será Wutai?
+$tk_town8_3016_0010_mn28_0,ACTOR,
+$tk_town8_3017_0010_mn28_0,,Mi casa se ha quemado.
+$tk_town8_3017_0010_mn28_0,ACTOR,
+$tk_town8_3018_0010_mn28_0,,Parece que la estación está bien.
+$tk_town8_3018_0010_mn28_0,ACTOR,
+$tk_town8_3021_0010_mn37_0,,"No habrá fugas de mako, ¿verdad?"
+$tk_town8_3021_0010_mn37_0,ACTOR,
+$tk_town8_3022_0010_mn37_0,,¿Los que odian a Shinra?
+$tk_town8_3022_0010_mn37_0,ACTOR,
+$tk_town8_3023_0010_mn37_0,,¿Adónde puedo ir?
+$tk_town8_3023_0010_mn37_0,ACTOR,
+$tk_town8_3024_0010_mn37_0,,Me he hecho daño.
+$tk_town8_3024_0010_mn37_0,ACTOR,
+$tk_town8_3025_0010_mn37_0,,No entiendo lo del atentado.
+$tk_town8_3025_0010_mn37_0,ACTOR,
+$tk_town8_3026_0010_mn37_0,,¿El sector 7 estará bien?
+$tk_town8_3026_0010_mn37_0,ACTOR,
+$tk_town8_3027_0010_mn37_0,,¿Debería ir a la estación?
+$tk_town8_3027_0010_mn37_0,ACTOR,
+$tk_town8_3028_0010_mn37_0,,¿Qué está pasando?
+$tk_town8_3028_0010_mn37_0,ACTOR,
+$tk_town8_3031_0010_snr03_0,,¡Rápido! ¡No es el único sitio!
+$tk_town8_3031_0010_snr03_0,ACTOR,
+$tk_town8_3031_0020_snr01_0,,¡Mierda!
+$tk_town8_3031_0020_snr01_0,ACTOR,
+$tk_town8_3031_0030_snr02_0,,¿Por qué... un atentado?
+$tk_town8_3031_0030_snr02_0,ACTOR,
+$tk_town8_3031_0040_snr03_0,,¡Centraos en apagar el fuego!
+$tk_town8_3031_0040_snr03_0,ACTOR,
+$tk_town8_3032_0010_snr03_0,,¿Y los refuerzos?
+$tk_town8_3032_0010_snr03_0,ACTOR,
+$tk_town8_3032_0020_snr04_0,,¡Ya los hemos solicitado!
+$tk_town8_3032_0020_snr04_0,ACTOR,
+$tk_town8_3032_0030_snr03_0,,¡Tardan demasiado!
+$tk_town8_3032_0030_snr03_0,ACTOR,
+$tk_town8_3032_0040_snr04_0,,Hay incendios por todas partes. ¡Bomberos y ambulancias no dan abasto!
+$tk_town8_3032_0040_snr04_0,ACTOR,
+$tk_town8_3032_0050_snr03_0,,¡Lo sé!
+$tk_town8_3032_0050_snr03_0,ACTOR,
+$tk_town8_3041_0010_mn44_0,,Pensé que la plataforma se iba a derrumbar.
+$tk_town8_3041_0010_mn44_0,ACTOR,
+$tk_town8_3042_0010_mn44_0,,Es el fin del mundo.
+$tk_town8_3042_0010_mn44_0,ACTOR,
+$tk_town8_3043_0010_mn44_0,,Así que los reactores de mako explotan.
+$tk_town8_3043_0010_mn44_0,ACTOR,
+$tk_town8_3044_0010_mn44_0,,¿Por qué? Dime.
+$tk_town8_3044_0010_mn44_0,ACTOR,
+$tk_town8_3045_0010_mn44_0,,Temblaba muchísimo y yo no podía hacer nada.
+$tk_town8_3045_0010_mn44_0,ACTOR,
+$tk_town8_3046_0010_mn44_0,,No puedo dejar de temblar.
+$tk_town8_3046_0010_mn44_0,ACTOR,
+$tk_town8_3047_0010_mn44_0,,Todavía tengo el sonido de la explosión en los oídos.
+$tk_town8_3047_0010_mn44_0,ACTOR,
+$tk_town8_3048_0010_mn44_0,,El coche es imposible. Tendré que ir andando.
+$tk_town8_3048_0010_mn44_0,ACTOR,
+$tk_town8_3049_0010_mn44_0,,Un conocido dijo que iba a la estación.
+$tk_town8_3049_0010_mn44_0,ACTOR,
+$tk_town8_3051_0010_mn04_0,,Que alguien me lo explique.
+$tk_town8_3051_0010_mn04_0,ACTOR,
+$tk_town8_3052_0010_mn04_0,,¿Qué idiota ha hecho esto?
+$tk_town8_3052_0010_mn04_0,ACTOR,
+$tk_town8_3053_0010_mn04_0,,No me lo creo.
+$tk_town8_3053_0010_mn04_0,ACTOR,
+$tk_town8_3054_0010_mn04_0,,Que nos guíen hasta el refugio.
+$tk_town8_3054_0010_mn04_0,ACTOR,
+$tk_town8_3055_0010_mn04_0,,"Eh, ¿dónde está el refugio?"
+$tk_town8_3055_0010_mn04_0,ACTOR,
+$tk_town8_3056_0010_mn04_0,,Se supone que la plataforma es segura.
+$tk_town8_3056_0010_mn04_0,ACTOR,
+$tk_town8_3057_0010_mn04_0,,Me he separado de mi pareja.
+$tk_town8_3057_0010_mn04_0,ACTOR,
+$tk_town8_3058_0010_mn04_0,,¿Se puede ir al sector 3?
+$tk_town8_3058_0010_mn04_0,ACTOR,
+$tk_town8_3061_0010_mn05_0,,Ay...
+$tk_town8_3061_0010_mn05_0,ACTOR,
+$tk_town8_3062_0010_mn05_0,,¡Que alguien...!
+$tk_town8_3062_0010_mn05_0,ACTOR,
+$tk_town8_3063_0010_mn05_0,,¿Por qué...? Me duele...
+$tk_town8_3063_0010_mn05_0,ACTOR,
+$tk_town8_3064_0010_mn05_0,,Uuuh...
+$tk_town8_3064_0010_mn05_0,ACTOR,
+$tk_town8_3065_0010_mn05_0,,Ugh... Uuuh...
+$tk_town8_3065_0010_mn05_0,ACTOR,
+$tk_town8_3071_0010_mn09_0,,¿Podré volver?
+$tk_town8_3071_0010_mn09_0,ACTOR,
+$tk_town8_3072_0010_mn09_0,,Tembló muchísimo y entonces...
+$tk_town8_3072_0010_mn09_0,ACTOR,
+$tk_town8_3073_0010_mn09_0,,Tengo que volver a la barriada.
+$tk_town8_3073_0010_mn09_0,ACTOR,
+$tk_town8_3074_0010_mn09_0,,Mi tienda está destrozada.
+$tk_town8_3074_0010_mn09_0,ACTOR,
+$tk_town8_3081_0010_mn07_0,,Primero tengo que escapar.
+$tk_town8_3081_0010_mn07_0,ACTOR,
+$tk_town8_3081_0020_wm01_0,,No sé dónde está el refugio.
+$tk_town8_3081_0020_wm01_0,ACTOR,
+$tk_town8_3081_0030_gr01_0,,¿Mi hermano está bien?
+$tk_town8_3081_0030_gr01_0,ACTOR,
+$tk_town8_3081_0040_mn07_0,,Debería estar en la estación.
+$tk_town8_3081_0040_mn07_0,ACTOR,
+$tk_town8_3081_0050_gr01_0,,¿Y si no lo encuentro...?
+$tk_town8_3081_0050_gr01_0,ACTOR,
+$tk_town8_3082_0010_gr01_0,,Hermano...
+$tk_town8_3082_0010_gr01_0,ACTOR,
+$tk_town8_3082_0020_mn07_0,,Ese chico es sensato. Seguro que está bien.
+$tk_town8_3082_0020_mn07_0,ACTOR,
+$tk_town8_3082_0030_wm01_0,,Ojalá esté bien.
+$tk_town8_3082_0030_wm01_0,ACTOR,
+$tk_town8_3091_0010_mn41_0,,¿Es una broma?
+$tk_town8_3091_0010_mn41_0,ACTOR,
+$tk_town8_3092_0010_mn41_0,,La semana que viene empezaba a trabajar en el reactor.
+$tk_town8_3092_0010_mn41_0,ACTOR,
+$tk_town8_3093_0010_mn41_0,,¿Los que van diciendo que están en contra de Shinra?
+$tk_town8_3093_0010_mn41_0,ACTOR,
+$tk_town8_3094_0010_mn41_0,,¿La estación es segura?
+$tk_town8_3094_0010_mn41_0,ACTOR,
+$tk_town8_3101_0010_mn02_0,,Quiero volver a casa.
+$tk_town8_3101_0010_mn02_0,ACTOR,
+$tk_town8_3102_0010_mn02_0,,Voy a morir aquí.
+$tk_town8_3102_0010_mn02_0,ACTOR,
+$tk_town8_3103_0010_mn02_0,,Qué miedo. Qué miedo.
+$tk_town8_3103_0010_mn02_0,ACTOR,
+$tk_town8_3104_0010_mn02_0,,¿No se supone que los trenes están parados?
+$tk_town8_3104_0010_mn02_0,ACTOR,
+$tk_town8_3111_0010_mn34_0,,Pensé que la plataforma se rompería.
+$tk_town8_3111_0010_mn34_0,ACTOR,
+$tk_town8_3112_0010_mn34_0,,"El temblor fue brutal, tío."
+$tk_town8_3112_0010_mn34_0,ACTOR,
+$tk_town8_3113_0010_mn34_0,,¿Qué es eso del atentado?
+$tk_town8_3113_0010_mn34_0,ACTOR,
+$tk_town8_3114_0010_mn34_0,,¿Los trenes funcionan?
+$tk_town8_3114_0010_mn34_0,ACTOR,
+$tk_town8_3115_0010_mn34_0,,Que alguien me lleve a la estación.
+$tk_town8_3115_0010_mn34_0,ACTOR,
+$tk_town8_3121_0010_wm28_0,,¿Adónde debería ir?
+$tk_town8_3121_0010_wm28_0,ACTOR,
+$tk_town8_3122_0010_wm28_0,,Esto tiene que ser un sueño...
+$tk_town8_3122_0010_wm28_0,ACTOR,
+$tk_town8_3123_0010_wm28_0,,No me lo creo. ¡No me lo creo!
+$tk_town8_3123_0010_wm28_0,ACTOR,
+$tk_town8_3124_0010_wm28_0,,El reactor...
+$tk_town8_3124_0010_wm28_0,ACTOR,
+$tk_town8_3125_0010_wm28_0,,Ya no puedo más.
+$tk_town8_3125_0010_wm28_0,ACTOR,
+$tk_town8_3126_0010_wm28_0,,El sector 8 está acabado.
+$tk_town8_3126_0010_wm28_0,ACTOR,
+$tk_town8_3127_0010_wm28_0,,Él se escapó solo.
+$tk_town8_3127_0010_wm28_0,ACTOR,
+$tk_town8_3128_0010_wm28_0,,Dicen que los escombros han cortado las calles.
+$tk_town8_3128_0010_wm28_0,ACTOR,
+$tk_town8_3131_0010_wm08_0,,¿Qué es eso del atentado?
+$tk_town8_3131_0010_wm08_0,ACTOR,
+$tk_town8_3131_0020_wm07_0,,Seguro que es una confusión.
+$tk_town8_3131_0020_wm07_0,ACTOR,
+$tk_town8_3131_0030_wm08_0,,Pero está ardiendo.
+$tk_town8_3131_0030_wm08_0,ACTOR,
+$tk_town8_3131_0040_wm07_0,,Es una pesadilla...
+$tk_town8_3131_0040_wm07_0,ACTOR,
+$tk_town8_3132_0010_wm08_0,,Iba a ser un día normal.
+$tk_town8_3132_0010_wm08_0,ACTOR,
+$tk_town8_3132_0020_wm07_0,,Lo sé.
+$tk_town8_3132_0020_wm07_0,ACTOR,
+$tk_town8_3132_0030_wm08_0,,¿Cómo puedes estar tan tranquila?
+$tk_town8_3132_0030_wm08_0,ACTOR,
+$tk_town8_3141_0010_snr05_0,,"Hola, ¿me oye?"
+$tk_town8_3141_0010_snr05_0,ACTOR,
+$tk_town8_3141_0020_snr05_0,,"Si me oye, mueva la mano."
+$tk_town8_3141_0020_snr05_0,ACTOR,
+$tk_town8_3141_0030_snr06_0,,Hemos encontrado a un enfermo y lo estamos atendiendo.
+$tk_town8_3141_0030_snr06_0,ACTOR,
+$tk_town8_3141_0040_snr06_0,,¡Necesitamos una camilla!
+$tk_town8_3141_0040_snr06_0,ACTOR,
+$tk_town8_3142_0010_snr05_0,,Vamos a llevarte con un médico. ¡Aguanta un poco más!
+$tk_town8_3142_0010_snr05_0,ACTOR,
+$tk_town8_3142_0020_snr06_0,,Los refuerzos del sector 7 deberían estar al llegar.
+$tk_town8_3142_0020_snr06_0,ACTOR,
+$tk_town8_3142_0021_snr06_0,,"Si es así... Ay, por favor."
+$tk_town8_3142_0021_snr06_0,ACTOR,
+$tk_town8_3151_0010_snr07_0,,Ya no caerán más escombros.
+$tk_town8_3151_0010_snr07_0,ACTOR,
+$tk_town8_3151_0020_snr08_0,,Un herido. No puede caminar por su cuenta.
+$tk_town8_3151_0020_snr08_0,ACTOR,
+$tk_town8_3151_0030_snr08_0,,Necesitamos una camilla.
+$tk_town8_3151_0030_snr08_0,ACTOR,
+$tk_town8_3151_0040_snr08_0,,No podemos esperar mucho.
+$tk_town8_3151_0040_snr08_0,ACTOR,
+$tk_town8_3151_0050_snr07_0,,Te llevaremos al hospital. ¡Aguanta un poco más!
+$tk_town8_3151_0050_snr07_0,ACTOR,
+$tk_town8_3152_0010_snr07_0,,¿Me oye?
+$tk_town8_3152_0010_snr07_0,ACTOR,
+$tk_town8_3152_0020_snr07_0,,¿Aún no han llegado los refuerzos?
+$tk_town8_3152_0020_snr07_0,ACTOR,
+$tk_town8_3152_0030_snr08_0,,¿Dónde está la camilla?
+$tk_town8_3152_0030_snr08_0,ACTOR,
+$tk_town8_3152_0040_snr08_0,,No hay manera. Allí también reina el caos.
+$tk_town8_3152_0040_snr08_0,ACTOR,
+$tk_town8_3152_0050_snr07_0,,Sigue insistiendo.
+$tk_town8_3152_0050_snr07_0,ACTOR,
+$tk_town8_3152_0060_snr08_0,,¡Que traigan la camilla de una vez!
+$tk_town8_3152_0060_snr08_0,ACTOR,
+$tk_town8_3153_0010_snr07_0,,
+$tk_town8_3153_0010_snr07_0,ACTOR,
+$tk_town8_3154_0010_snr08_0,,
+$tk_town8_3154_0010_snr08_0,ACTOR,
+$tk_town8_3161_0010_wm30_0,,Que alguien haga algo.
+$tk_town8_3161_0010_wm30_0,ACTOR,
+$tk_town8_3162_0010_wm30_0,,¿Van a explotar otra vez?
+$tk_town8_3162_0010_wm30_0,ACTOR,
+$tk_town8_3163_0010_wm30_0,,¿No puedo quedarme en casa?
+$tk_town8_3163_0010_wm30_0,ACTOR,
+$tk_town8_3164_0010_wm30_0,,Está ardiendo...
+$tk_town8_3164_0010_wm30_0,ACTOR,
+$tk_town8_3165_0010_wm30_0,,¿Dónde hay que evacuar...?
+$tk_town8_3165_0010_wm30_0,ACTOR,
+$tk_town8_3166_0010_wm30_0,,Aunque me digan que huya...
+$tk_town8_3166_0010_wm30_0,ACTOR,
+$tk_town8_3167_0010_wm30_0,,No lo entiendo.
+$tk_town8_3167_0010_wm30_0,ACTOR,
+$tk_town8_3168_0010_wm30_0,,He dejado el coche. Iré andando.
+$tk_town8_3168_0010_wm30_0,ACTOR,
+$tk_town8_3171_0010_wm15_0,,No creo que pueda caminar. Huye tú solo.
+$tk_town8_3171_0010_wm15_0,ACTOR,
+$tk_town8_3171_0020_mn20_0,,No digas tonterías.
+$tk_town8_3171_0020_mn20_0,ACTOR,
+$tk_town8_3171_0030_wm15_0,,No te hagas el héroe.
+$tk_town8_3171_0030_wm15_0,ACTOR,
+$tk_town8_3171_0040_mn20_0,,Déjame serlo.
+$tk_town8_3171_0040_mn20_0,ACTOR,
+$tk_town8_3172_0010_mn20_0,,La ayuda está al llegar.
+$tk_town8_3172_0010_mn20_0,ACTOR,
+$tk_town8_3172_0020_wm15_0,,¿Llegará a tiempo?
+$tk_town8_3172_0020_wm15_0,ACTOR,
+$tk_town8_3172_0030_mn20_0,,"Si no vuelve a temblar, deberíamos estar bien."
+$tk_town8_3172_0030_mn20_0,ACTOR,
+$tk_town8_3176_0010_mn21_0,,Pronto vendrán a ayudarnos.
+$tk_town8_3176_0010_mn21_0,ACTOR,
+$tk_town8_3176_0020_wm16_0,,Shinra no nos abandonará.
+$tk_town8_3176_0020_wm16_0,ACTOR,
+$tk_town8_3176_0030_mn21_0,,Sí. Jamás.
+$tk_town8_3176_0030_mn21_0,ACTOR,
+$tk_town8_3177_0010_wm16_0,,¿De verdad ha sido un atentado?
+$tk_town8_3177_0010_wm16_0,ACTOR,
+$tk_town8_3177_0020_mn21_0,,No lo sé. Puede que sea un error.
+$tk_town8_3177_0020_mn21_0,ACTOR,
+$tk_town8_3177_0030_wm16_0,,Seguro que es un error.
+$tk_town8_3177_0030_wm16_0,ACTOR,
+$tk_town8_3180_0010_wm17_0,,Así no podemos llegar a la estación.
+$tk_town8_3180_0010_wm17_0,ACTOR,
+$tk_town8_3180_0020_wm18_0,,Puede que haya otro camino.
+$tk_town8_3180_0020_wm18_0,ACTOR,
+$tk_town8_3180_0030_wm17_0,,No tenemos tiempo para buscar.
+$tk_town8_3180_0030_wm17_0,ACTOR,
+$tk_town8_3191_0010_wm23_0,,"La plataforma no se romperá, ¿verdad?"
+$tk_town8_3191_0010_wm23_0,ACTOR,
+$tk_town8_3192_0010_wm23_0,,Hay quien dice que ha sido Wutai.
+$tk_town8_3192_0010_wm23_0,ACTOR,
+$tk_town8_3193_0010_wm23_0,,¿Un atentado? No me lo creo.
+$tk_town8_3193_0010_wm23_0,ACTOR,
+$tk_town8_3194_0010_wm23_0,,Me da miedo que el suelo se hunda bajo mis pies.
+$tk_town8_3194_0010_wm23_0,ACTOR,
+$tk_town8_3195_0010_wm23_0,,¿Huir? ¿Adónde?
+$tk_town8_3195_0010_wm23_0,ACTOR,
+$tk_town8_3196_0010_wm23_0,,No quiero morir.
+$tk_town8_3196_0010_wm23_0,ACTOR,
+$tk_town8_3197_0010_wm23_0,,Una amiga venía a visitarme. Ahora estará en la estación... ¿Qué hago?
+$tk_town8_3197_0010_wm23_0,ACTOR,
+$tk_town8_3198_0010_wm23_0,,Parece que algunos ya han ido a la estación.
+$tk_town8_3198_0010_wm23_0,ACTOR,
+$tk_town8_3201_0010_wm25_0,,"Ay, Dios... ¿Por qué?"
+$tk_town8_3201_0010_wm25_0,ACTOR,
+$tk_town8_3202_0010_wm25_0,,Todo va a quemarse.
+$tk_town8_3202_0010_wm25_0,ACTOR,
+$tk_town8_3203_0010_wm25_0,,¿No se puede ir en coche?
+$tk_town8_3203_0010_wm25_0,ACTOR,
+$tk_town8_3204_0010_wm25_0,,¿Sería mejor ir a la estación?
+$tk_town8_3204_0010_wm25_0,ACTOR,
+$tk_town8_3205_0010_wm25_0,,¿Hemos hecho algo malo?
+$tk_town8_3205_0010_wm25_0,ACTOR,
+$tk_town8_3206_0010_wm25_0,,La calle está cortada.
+$tk_town8_3206_0010_wm25_0,ACTOR,
+$tk_town8_3207_0010_wm25_0,,Qué olor tan raro. ¿Será mako?
+$tk_town8_3207_0010_wm25_0,ACTOR,
+$tk_town8_3208_0010_wm25_0,,¿Los soldados no van a ayudarnos?
+$tk_town8_3208_0010_wm25_0,ACTOR,
+$tk_town8_3209_0010_wm25_0,,La casa está patas arriba.
+$tk_town8_3209_0010_wm25_0,ACTOR,
+$tk_town8_3211_0010_mn25_0,,Mi casa y mi trabajo están destrozados.
+$tk_town8_3211_0010_mn25_0,ACTOR,
+$tk_town8_3211_0020_wm19_0,,¿Por qué ha tenido que pasar esto?
+$tk_town8_3211_0020_wm19_0,ACTOR,
+$tk_town8_3212_0010_mn25_0,,No se lo perdonaré hasta que lo arreglen todo.
+$tk_town8_3212_0010_mn25_0,ACTOR,
+$tk_town8_3212_0020_wm19_0,,¿A quién no vas a perdonar?
+$tk_town8_3212_0020_wm19_0,ACTOR,
+$tk_town8_3212_0030_mn25_0,,No sé.
+$tk_town8_3212_0030_mn25_0,ACTOR,
+$tk_town8_3213_0010_wm19_0,,¡Suéltame!
+$tk_town8_3213_0010_wm19_0,ACTOR,
+$tk_town8_3213_0020_mn25_0,,¿Qué? ¿Qué pasa?
+$tk_town8_3213_0020_mn25_0,ACTOR,
+$tk_town8_3221_0010_wm20_0,,"¿Es mentira, verdad?"
+$tk_town8_3221_0010_wm20_0,ACTOR,
+$tk_town8_3221_0020_mn26_0,,"Primero, calmémonos."
+$tk_town8_3221_0020_mn26_0,ACTOR,
+$tk_town8_3221_0030_wm20_0,,Dime que es mentira.
+$tk_town8_3221_0030_wm20_0,ACTOR,
+$tk_town8_3222_0010_wm20_0,,No lo entiendo.
+$tk_town8_3222_0010_wm20_0,ACTOR,
+$tk_town8_3222_0020_mn26_0,,No tienes que fingir.
+$tk_town8_3222_0020_mn26_0,ACTOR,
+$tk_town8_3222_0030_wm20_0,,¿Tú puedes entenderlo?
+$tk_town8_3222_0030_wm20_0,ACTOR,
+$tk_town8_3222_0040_mn26_0,,No puedo...
+$tk_town8_3222_0040_mn26_0,ACTOR,
+$tk_town8_3231_0010_wm04_0,,Qué miedo. Ayuda.
+$tk_town8_3231_0010_wm04_0,ACTOR,
+$tk_town8_3232_0010_wm04_0,,¿Y si la plataforma se derrumba?
+$tk_town8_3232_0010_wm04_0,ACTOR,
+$tk_town8_3233_0010_wm04_0,,¿Por qué esta ciudad?
+$tk_town8_3233_0010_wm04_0,ACTOR,
+$tk_town8_3234_0010_wm04_0,,Quiero volver a la barriada.
+$tk_town8_3234_0010_wm04_0,ACTOR,
+$tk_town8_3241_0010_wm21_0,,¿No será cosa de los anti-Shinra?
+$tk_town8_3241_0010_wm21_0,ACTOR,
+$tk_town8_3242_0010_wm21_0,,Me ha pillado en pleno trabajo.
+$tk_town8_3242_0010_wm21_0,ACTOR,
+$tk_town8_3243_0010_wm21_0,,Dicen que hay trenes de evacuación.
+$tk_town8_3243_0010_wm21_0,ACTOR,
+$tk_town8_3244_0010_wm21_0,,No encuentro el camino a la estación.
+$tk_town8_3244_0010_wm21_0,ACTOR,
+$tk_town8_3251_0010_wm03_0,,¿Y si no puedo volver a casa...?
+$tk_town8_3251_0010_wm03_0,ACTOR,
+$tk_town8_3252_0010_wm03_0,,Quiero volver a la barriada del sector 7.
+$tk_town8_3252_0010_wm03_0,ACTOR,
+$tk_town8_3253_0010_wm03_0,,¿Podré coger el tren?
+$tk_town8_3253_0010_wm03_0,ACTOR,
+$tk_town8_3254_0010_wm03_0,,¿No volverá a temblar?
+$tk_town8_3254_0010_wm03_0,ACTOR,
+$tk_town8_3261_0010_wm22_0,,Si vuelve a temblar así...
+$tk_town8_3261_0010_wm22_0,ACTOR,
+$tk_town8_3262_0010_wm22_0,,Quiero volver a la superficie.
+$tk_town8_3262_0010_wm22_0,ACTOR,
+$tk_town8_3263_0010_wm22_0,,Los escombros han cortado el paso.
+$tk_town8_3263_0010_wm22_0,ACTOR,
+$tk_town8_3264_0010_wm22_0,,No conozco ningún atajo.
+$tk_town8_3264_0010_wm22_0,ACTOR,
+$tk_town8_3271_0010_mn31_0,,¿Qué está haciendo el ejército?
+$tk_town8_3271_0010_mn31_0,ACTOR,
+$tk_town8_3272_0010_mn31_0,,Esto... esto no tiene nombre.
+$tk_town8_3272_0010_mn31_0,ACTOR,
+$tk_town8_3273_0010_mn31_0,,Los enemigos de Shinra son nuestros enemigos.
+$tk_town8_3273_0010_mn31_0,ACTOR,
+$tk_town8_3274_0010_mn31_0,,Mi hija y su marido vienen a buscarme.
+$tk_town8_3274_0010_mn31_0,ACTOR,
+$tk_town8_3281_0010_mn29_0,,Ya no puedo moverme.
+$tk_town8_3281_0010_mn29_0,ACTOR,
+$tk_town8_3282_0010_mn29_0,,Que alguien me lleve a la estación.
+$tk_town8_3282_0010_mn29_0,ACTOR,
+$tk_town8_3283_0010_mn29_0,,No consigo contactar con mi hijo.
+$tk_town8_3283_0010_mn29_0,ACTOR,
+$tk_town8_3284_0010_mn29_0,,Dime que no es verdad.
+$tk_town8_3284_0010_mn29_0,ACTOR,
+$tk_town8_3285_0010_mn29_0,,"Es un sueño, ¿verdad?"
+$tk_town8_3285_0010_mn29_0,ACTOR,
+$tk_town8_3311_0010_mn38_0,,"Si los reactores se paran, nosotros..."
+$tk_town8_3311_0010_mn38_0,ACTOR,
+$tk_town8_3312_0010_mn38_0,,"Las barriadas estarán bien, ¿no?"
+$tk_town8_3312_0010_mn38_0,ACTOR,
+$tk_town8_3313_0010_mn38_0,,No hay camino a la estación.
+$tk_town8_3313_0010_mn38_0,ACTOR,
+$tk_town8_3321_0010_mn17_0,,¿Hay algún refugio?
+$tk_town8_3321_0010_mn17_0,ACTOR,
+$tk_town8_3322_0010_mn17_0,,Mi hijo vive en esa calle.
+$tk_town8_3322_0010_mn17_0,ACTOR,
+$tk_town8_3323_0010_mn17_0,,Iba de camino a casa de mi nieto cuando...
+$tk_town8_3323_0010_mn17_0,ACTOR,
+$tk_town8_3331_0010_mn32_0,,¿Estás bien?
+$tk_town8_3331_0010_mn32_0,ACTOR,
+$tk_town8_3332_0010_wm27_0,,¿Estás bien?
+$tk_town8_3332_0010_wm27_0,ACTOR,
+$tk_town8_3333_0010_wm27_0,,¿Tú estás bien?
+$tk_town8_3333_0010_wm27_0,ACTOR,
+$tk_town8_3334_0010_mn32_0,,Qué susto.
+$tk_town8_3334_0010_mn32_0,ACTOR,
+$tk_town8_3335_0010_mn32_0,,¿No estás herido?
+$tk_town8_3335_0010_mn32_0,ACTOR,
+$tk_town8_3336_0010_wm27_0,,Qué susto...
+$tk_town8_3336_0010_wm27_0,ACTOR,
+$tk_town8_3337_0010_mn32_0,,No me lo puedo creer.
+$tk_town8_3337_0010_mn32_0,ACTOR,
+$tk_town8_3338_0010_wm27_0,,¿No se derrumbará más?
+$tk_town8_3338_0010_wm27_0,ACTOR,
+$tk_town8_3339_0010_wm27_0,,
+$tk_town8_3339_0010_wm27_0,ACTOR,
+$tk_town8_3341_0010_mn33_0,,Se va a derrumbar más.
+$tk_town8_3341_0010_mn33_0,ACTOR,
+$tk_town8_3342_0010_mn33_0,,Una montaña de escombros... Parece una barriada.
+$tk_town8_3342_0010_mn33_0,ACTOR,
+$tk_town8_3351_0010_wm06_0,,"La casa tembló. De repente, la casa..."
+$tk_town8_3351_0010_wm06_0,ACTOR,
+$tk_town8_3352_0010_wm06_0,,¿Por qué?
+$tk_town8_3352_0010_wm06_0,ACTOR,
+$tk_town8_3353_0010_wm06_0,,Era el cumpleaños de mi nieto.
+$tk_town8_3353_0010_wm06_0,ACTOR,
+$tk_town8_3354_0010_wm06_0,,Se acabó...
+$tk_town8_3354_0010_wm06_0,ACTOR,
+$tk_town8_3355_0010_wm06_0,,Me he quedado en blanco...
+$tk_town8_3355_0010_wm06_0,ACTOR,
+$tk_town8_3361_0010_mn36_0,,No debería haber hecho horas extra.
+$tk_town8_3361_0010_mn36_0,ACTOR,
+$tk_town8_3361_0020_mn35_0,,Ya es tarde para eso.
+$tk_town8_3361_0020_mn35_0,ACTOR,
+$tk_town8_3361_0030_wm29_0,,"Mientras los trenes funcionen, podré volver a casa."
+$tk_town8_3361_0030_wm29_0,ACTOR,
+$tk_town8_3362_0010_wm29_0,,"Cuando descanse un poco, iremos a la estación."
+$tk_town8_3362_0010_wm29_0,ACTOR,
+$tk_town8_3362_0020_mn36_0,,Imposible...
+$tk_town8_3362_0020_mn36_0,ACTOR,
+$tk_town8_3362_0030_mn35_0,,"Eh, no te rindas."
+$tk_town8_3362_0030_mn35_0,ACTOR,
+$tk_town8_3371_0010_wm02_0,,Mi hijo fue a ver qué pasaba y no ha vuelto.
+$tk_town8_3371_0010_wm02_0,ACTOR,
+$tk_town8_3372_0010_wm02_0,,Tembló. Tembló muchísimo.
+$tk_town8_3372_0010_wm02_0,ACTOR,
+$tk_town8_3373_0010_wm02_0,,¿El coche no sirve?
+$tk_town8_3373_0010_wm02_0,ACTOR,
+$tk_town8_3374_0010_wm02_0,,No puedo cruzar esos escombros.
+$tk_town8_3374_0010_wm02_0,ACTOR,
+$tk_town8_3375_0010_wm02_0,,Tenemos que escapar pronto.
+$tk_town8_3375_0010_wm02_0,ACTOR,
+$tk_town8_3381_0010_wm26_0,,De repente tembló y hubo un ruido enorme. ¡Qué horror...!
+$tk_town8_3381_0010_wm26_0,ACTOR,
+$tk_town8_3382_0010_wm26_0,,Unos escombros enormes cayeron justo delante de mí.
+$tk_town8_3382_0010_wm26_0,ACTOR,
+$tk_town8_3383_0010_wm26_0,,No me lo puedo creer...
+$tk_town8_3383_0010_wm26_0,ACTOR,
+$tk_town8_3391_0010_wm12_0,,¡Parece una guerra!
+$tk_town8_3391_0010_wm12_0,ACTOR,
+$tk_town8_3392_0010_wm12_0,,¿Podremos volver a la barriada?
+$tk_town8_3392_0010_wm12_0,ACTOR,
+$tk_town8_3393_0010_wm12_0,,¡Es el fin de Midgar!
+$tk_town8_3393_0010_wm12_0,ACTOR,
+$tk_town8_3401_0010_mn50_0,,"¡Ayúdame, Stamp!"
+$tk_town8_3401_0010_mn50_0,ACTOR,
+$tk_town8_3402_0010_mn50_0,,¿Se romperá la plataforma?
+$tk_town8_3402_0010_mn50_0,ACTOR,
+$tk_town8_3403_0010_mn50_0,,¿Dónde está papá?
+$tk_town8_3403_0010_mn50_0,ACTOR,
+$tk_town8_3411_0010_mn51_0,,¿Y si el suelo se derrumba?
+$tk_town8_3411_0010_mn51_0,ACTOR,
+$tk_town8_3412_0010_mn51_0,,"La estantería se cayó, me asusté y me aparté rápido."
+$tk_town8_3412_0010_mn51_0,ACTOR,
+$tk_town8_3413_0010_mn51_0,,"No vamos a morir, ¿verdad?"
+$tk_town8_3413_0010_mn51_0,ACTOR,
+$tk_town8_3421_0010_mn52_0,,¿Dónde está mamá?
+$tk_town8_3421_0010_mn52_0,ACTOR,
+$tk_town8_3422_0010_mn52_0,,Me he separado...
+$tk_town8_3422_0010_mn52_0,ACTOR,
+$tk_town8_3423_0010_mn52_0,,¿Has visto a mi hermano?
+$tk_town8_3423_0010_mn52_0,ACTOR,
+$tk_town8_3431_0010_mn53_0,,Tengo que volver pronto.
+$tk_town8_3431_0010_mn53_0,ACTOR,
+$tk_town8_3432_0010_mn53_0,,¿Funcionan los trenes a la barriada?
+$tk_town8_3432_0010_mn53_0,ACTOR,
+$tk_town8_3433_0010_mn53_0,,¿Y si los trenes se han parado...?
+$tk_town8_3433_0010_mn53_0,ACTOR,
+$tk_town8_3441_0010_wm60_0,,Mi casa...
+$tk_town8_3441_0010_wm60_0,ACTOR,
+$tk_town8_3442_0010_wm60_0,,Está ardiendo...
+$tk_town8_3442_0010_wm60_0,ACTOR,
+$tk_town8_3443_0010_wm60_0,,Papá...
+$tk_town8_3443_0010_wm60_0,ACTOR,
+$tk_town8_3451_0010_mn18_0,,"Si paso entre los escombros, será peligroso."
+$tk_town8_3451_0010_mn18_0,ACTOR,
+$tk_town8_3452_0010_mn18_0,,"Sin los escombros, la estación estaría al lado."
+$tk_town8_3452_0010_mn18_0,ACTOR,
+$tk_town8_3461_0010_mn19_0,,"Quiero ir a la estación, pero no tengo valor para subir por los escombros."
+$tk_town8_3461_0010_mn19_0,ACTOR,
+$tk_town8_3462_0010_mn19_0,,La estación está justo al otro lado.
+$tk_town8_3462_0010_mn19_0,ACTOR,
+$tk_town8_3463_0010_mn19_0,,Subir por los escombros es de locos.
+$tk_town8_3463_0010_mn19_0,ACTOR,
+$tk_town8_3471_0010_wm02_0,,¿Qué hacemos ahora?
+$tk_town8_3471_0010_wm02_0,ACTOR,
+$tk_town8_3471_0020_mn08_0,,Vamos a la estación. A casa de la tía del sector 7.
+$tk_town8_3471_0020_mn08_0,ACTOR,
+$tk_town8_3471_0030_gr02_0,,¿Por qué...?
+$tk_town8_3471_0030_gr02_0,ACTOR,
+$tk_town8_3471_0040_mn08_0,,"Tranquilo, tranquilo."
+$tk_town8_3471_0040_mn08_0,ACTOR,
+$tk_town8_3481_0010_wm33_0,,Qué tarde...
+$tk_town8_3481_0010_wm33_0,ACTOR,
+$tk_town8_3481_0020_by03_0,,¿Cuándo vuelve papá?
+$tk_town8_3481_0020_by03_0,ACTOR,
+$tk_town8_3481_0030_wm33_0,,Seguro que pronto.
+$tk_town8_3481_0030_wm33_0,ACTOR,
+$tk_town8_3491_0010_wm34_0,,No. Ya no aguanto más.
+$tk_town8_3491_0010_wm34_0,ACTOR,
+$tk_town8_3491_0020_mn43_0,,Aquí estás a salvo.
+$tk_town8_3491_0020_mn43_0,ACTOR,
+$tk_town8_3491_0030_wm34_0,,Se ha derrumbado todo. Todo.
+$tk_town8_3491_0030_wm34_0,ACTOR,
+$tk_town8_3491_0040_mn43_0,,"Sí, sí."
+$tk_town8_3491_0040_mn43_0,ACTOR,
+$tk_town8_3492_0010_wm34_0,,Vamos a morir.
+$tk_town8_3492_0010_wm34_0,ACTOR,
+$tk_town8_3492_0020_mn43_0,,Shinra nos protegerá.
+$tk_town8_3492_0020_mn43_0,ACTOR,
+$tk_town8_3492_0030_mn43_0,,Confiemos en ellos.
+$tk_town8_3492_0030_mn43_0,ACTOR,
+$tk_town8_3511_0010_wm62_0,,Quiero volver a casa.
+$tk_town8_3511_0010_wm62_0,ACTOR,
+$tk_town8_3512_0010_wm62_0,,¿La barriada está bien?
+$tk_town8_3512_0010_wm62_0,ACTOR,
+$tk_town8_3513_0010_wm62_0,,El camino de siempre está cortado.
+$tk_town8_3513_0010_wm62_0,ACTOR,
+$tk_town8_3531_0010_wm52_0,,Me estoy volviendo loca...
+$tk_town8_3531_0010_wm52_0,ACTOR,
+$tk_town8_3532_0010_wm52_0,,Esa zona parece que va a derrumbarse otra vez.
+$tk_town8_3532_0010_wm52_0,ACTOR,
+$tk_town8_3541_0010_mn19_0,,"Si subes esas escaleras y sales a los escombros, llegarás a la estación. Yo no me atrevo."
+$tk_town8_3541_0010_mn19_0,ACTOR,Residente de la plataforma
+$tk_town8_3542_0010_mn19_0,,"Si subes esas escaleras, podrás cruzar los escombros."
+$tk_town8_3542_0010_mn19_0,ACTOR,Residente de la plataforma
+$tk_town8_4011_0010_mn04_0,,Es el fin.
+$tk_town8_4011_0010_mn04_0,ACTOR,
+$tk_town8_4012_0010_mn04_0,,¿Lo has visto? La carretera...
+$tk_town8_4012_0010_mn04_0,ACTOR,
+$tk_town8_4013_0010_mn04_0,,¿Y si la plataforma se cae...?
+$tk_town8_4013_0010_mn04_0,ACTOR,
+$tk_town8_4014_0010_mn04_0,,Mi familia me espera.
+$tk_town8_4014_0010_mn04_0,ACTOR,
+$tk_town8_4021_0010_mn03_0,,"Eh, parece que va a derrumbarse otra vez."
+$tk_town8_4021_0010_mn03_0,ACTOR,
+$tk_town8_4022_0010_mn03_0,,Será mejor que te alejes de los escombros...
+$tk_town8_4022_0010_mn03_0,ACTOR,
+$tk_town8_4023_0010_mn03_0,,¿También ha habido un atentado aquí?
+$tk_town8_4023_0010_mn03_0,ACTOR,
+$tk_town8_4024_0010_mn03_0,,¿Qué pretenden los culpables?
+$tk_town8_4024_0010_mn03_0,ACTOR,
+$tk_town8_4031_0010_mn27_0,,Mi amigo está allí...
+$tk_town8_4031_0010_mn27_0,ACTOR,
+$tk_town8_4032_0010_mn27_0,,Fue un instante...
+$tk_town8_4032_0010_mn27_0,ACTOR,
+$tk_town8_4033_0010_mn27_0,,"Ayúdanos, Shinra."
+$tk_town8_4033_0010_mn27_0,ACTOR,
+$tk_town8_4034_0010_mn27_0,,No queda otra que reír.
+$tk_town8_4034_0010_mn27_0,ACTOR,
+$tk_town8_4041_0010_mn03_0,,"Fue un ruido enorme, de repente..."
+$tk_town8_4041_0010_mn03_0,ACTOR,
+$tk_town8_4042_0010_mn03_0,,¿Por qué el sector 8?
+$tk_town8_4042_0010_mn03_0,ACTOR,
+$tk_town8_4043_0010_mn03_0,,Que alguien me ayude.
+$tk_town8_4043_0010_mn03_0,ACTOR,
+$tk_town8_4044_0010_mn03_0,,Voy a ir a la estación. Seguro.
+$tk_town8_4044_0010_mn03_0,ACTOR,
+$tk_town8_4051_0010_mn01_0,,¿Por qué? ¿Por qué?
+$tk_town8_4051_0010_mn01_0,ACTOR,
+$tk_town8_4052_0010_mn01_0,,Déjame volver a casa.
+$tk_town8_4052_0010_mn01_0,ACTOR,
+$tk_town8_4053_0010_mn01_0,,Déjame volver a la barriada.
+$tk_town8_4053_0010_mn01_0,ACTOR,
+$tk_town8_4054_0010_mn01_0,,Cayó... cayó desde arriba.
+$tk_town8_4054_0010_mn01_0,ACTOR,
+$tk_town8_4061_0010_mn05_0,,Nos salvaremos. Hay que confiar en Shinra.
+$tk_town8_4061_0010_mn05_0,ACTOR,
+$tk_town8_4062_0010_mn05_0,,Los trenes todavía funcionan.
+$tk_town8_4062_0010_mn05_0,ACTOR,
+$tk_town8_4063_0010_mn05_0,,Tengo que volver a casa. Mi familia me espera.
+$tk_town8_4063_0010_mn05_0,ACTOR,
+$tk_town8_4064_0010_mn05_0,,¿No se puede cruzar por los escombros?
+$tk_town8_4064_0010_mn05_0,ACTOR,
+$tk_town8_4065_0010_mn05_0,,Respira hondo...
+$tk_town8_4065_0010_mn05_0,ACTOR,
+$tk_town8_4071_0010_mn02_0,,No llego al tren.
+$tk_town8_4071_0010_mn02_0,ACTOR,
+$tk_town8_4072_0010_mn02_0,,Debería haber ido por el callejón.
+$tk_town8_4072_0010_mn02_0,ACTOR,
+$tk_town8_4073_0010_mn02_0,,"Te maldigo, culpable."
+$tk_town8_4073_0010_mn02_0,ACTOR,
+$tk_town8_4074_0010_mn02_0,,Me he salvado por los pelos.
+$tk_town8_4074_0010_mn02_0,ACTOR,
+$tk_town8_4075_0010_mn02_0,,Mi pareja debe de haber ido antes a la estación...
+$tk_town8_4075_0010_mn02_0,ACTOR,
+$tk_town8_4081_0010_wm02_0,,"¡No, no...!"
+$tk_town8_4081_0010_wm02_0,ACTOR,
+$tk_town8_4082_0010_wm02_0,,¡Que alguien me ayude ya!
+$tk_town8_4082_0010_wm02_0,ACTOR,
+$tk_town8_4083_0010_wm02_0,,No quiero creerlo...
+$tk_town8_4083_0010_wm02_0,ACTOR,
+$tk_town8_4084_0010_wm02_0,,¿Ya no podemos escapar?
+$tk_town8_4084_0010_wm02_0,ACTOR,
+$tk_town8_4091_0010_wm29_0,,Mi hijo está en la estación.
+$tk_town8_4091_0010_wm29_0,ACTOR,
+$tk_town8_4092_0010_wm29_0,,Esto es imposible.
+$tk_town8_4092_0010_wm29_0,ACTOR,
+$tk_town8_4093_0010_wm29_0,,A la estación... Tengo que ir a la estación. Rápido.
+$tk_town8_4093_0010_wm29_0,ACTOR,
+$tk_town8_4094_0010_wm29_0,,De repente...
+$tk_town8_4094_0010_wm29_0,ACTOR,
+$tk_town8_4101_0010_wm01_0,,¿Por qué nos pasa esto?
+$tk_town8_4101_0010_wm01_0,ACTOR,
+$tk_town8_4102_0010_wm01_0,,Mi familia me espera en la estación.
+$tk_town8_4102_0010_wm01_0,ACTOR,
+$tk_town8_4103_0010_wm01_0,,¿También han volado la autopista?
+$tk_town8_4103_0010_wm01_0,ACTOR,
+$tk_town8_4104_0010_wm01_0,,¿Qué pretende el culpable?
+$tk_town8_4104_0010_wm01_0,ACTOR,
+$tk_town8_4111_0010_wm01_0,,La carretera se vino abajo.
+$tk_town8_4111_0010_wm01_0,ACTOR,
+$tk_town8_4112_0010_wm01_0,,¿Y si se derrumba otra vez ahora...?
+$tk_town8_4112_0010_wm01_0,ACTOR,
+$tk_town8_4113_0010_wm01_0,,"En momentos así, respira hondo. Lo aprendí en el curso de gestión de crisis de la sede de Shinra."
+$tk_town8_4113_0010_wm01_0,ACTOR,
+$tk_town8_4114_0010_wm01_0,,Cálmate.
+$tk_town8_4114_0010_wm01_0,ACTOR,
+$tk_town8_4121_0010_wm04_0,,"Shinra lo resolverá, ¿verdad?"
+$tk_town8_4121_0010_wm04_0,ACTOR,
+$tk_town8_4122_0010_wm04_0,,"Calma, todos."
+$tk_town8_4122_0010_wm04_0,ACTOR,
+$tk_town8_4123_0010_wm04_0,,Ha faltado poco...
+$tk_town8_4123_0010_wm04_0,ACTOR,
+$tk_town8_4124_0010_wm04_0,,Si subiéramos a los escombros...
+$tk_town8_4124_0010_wm04_0,ACTOR,
+$tk_town8_4131_0010_wm03_0,,Y mi familia me espera.
+$tk_town8_4131_0010_wm03_0,ACTOR,
+$tk_town8_4132_0010_wm03_0,,¿Esto también es culpa del atentado?
+$tk_town8_4132_0010_wm03_0,ACTOR,
+$tk_town8_4133_0010_wm03_0,,Voy a morir aquí...
+$tk_town8_4133_0010_wm03_0,ACTOR,
+$tk_town8_4134_0010_wm03_0,,¿No hay forma de llegar a la estación?
+$tk_town8_4134_0010_wm03_0,ACTOR,
+$tk_town8_4135_0010_wm03_0,,Me he separado de mi hijo.
+$tk_town8_4135_0010_wm03_0,ACTOR,
+$tk_town8_4141_0010_wm22_0,,¿Todavía se derrumba?
+$tk_town8_4141_0010_wm22_0,ACTOR,
+$tk_town8_4142_0010_wm22_0,,Haz algo antes de que paren los trenes.
+$tk_town8_4142_0010_wm22_0,ACTOR,
+$tk_town8_4143_0010_wm22_0,,Me duele el brazo. Que alguien...
+$tk_town8_4143_0010_wm22_0,ACTOR,
+$tk_town8_4144_0010_wm22_0,,No volveré a pisar la plataforma nunca más.
+$tk_town8_4144_0010_wm22_0,ACTOR,
+$tk_town8_4145_0010_wm22_0,,No lo soporto.
+$tk_town8_4145_0010_wm22_0,ACTOR,
+$tk_town8_4151_0010_mn03_0,,"Ay, ya no puedo más."
+$tk_town8_4151_0010_mn03_0,ACTOR,
+$tk_town8_4152_0010_mn03_0,,Solo quiero saber que mi hijo está bien.
+$tk_town8_4152_0010_mn03_0,ACTOR,
+$tk_town8_4153_0010_mn03_0,,No quiero morir.
+$tk_town8_4153_0010_mn03_0,ACTOR,
+$tk_town8_4154_0010_mn03_0,,El sector 8 se acaba...
+$tk_town8_4154_0010_mn03_0,ACTOR,
+$tk_town8_4161_0010_mn07_0,,Me tiemblan las piernas...
+$tk_town8_4161_0010_mn07_0,ACTOR,
+$tk_town8_4162_0010_mn07_0,,Ya no puedo escapar.
+$tk_town8_4162_0010_mn07_0,ACTOR,
+$tk_town8_4163_0010_mn07_0,,Ha sido por poco.
+$tk_town8_4163_0010_mn07_0,ACTOR,
+$tk_town8_4164_0010_mn07_0,,Mi nieto me espera.
+$tk_town8_4164_0010_mn07_0,ACTOR,
+$tk_town8_4171_0010_wm02_0,,No puede ser...
+$tk_town8_4171_0010_wm02_0,ACTOR,
+$tk_town8_4172_0010_wm02_0,,"Aunque los trenes funcionen, así..."
+$tk_town8_4172_0010_wm02_0,ACTOR,
+$tk_town8_4173_0010_wm02_0,,"Por favor, busca a mi hija."
+$tk_town8_4173_0010_wm02_0,ACTOR,
+$tk_town8_4174_0010_wm02_0,,Ojalá mi hijo esté bien.
+$tk_town8_4174_0010_wm02_0,ACTOR,
+$tk_town8_4181_0010_wm50_0,,Rindámonos.
+$tk_town8_4181_0010_wm50_0,ACTOR,
+$tk_town8_4182_0010_wm50_0,,Pensé que nos salvaríamos.
+$tk_town8_4182_0010_wm50_0,ACTOR,
+$tk_town8_4183_0010_wm50_0,,Ya no puedo. No me muevo.
+$tk_town8_4183_0010_wm50_0,ACTOR,
+$tk_town8_4184_0010_wm50_0,,Me quedaré aquí...
+$tk_town8_4184_0010_wm50_0,ACTOR,
+$tk_town8_4191_0010_by02_0,,"Shinra nos ayudará, ¿verdad?"
+$tk_town8_4191_0010_by02_0,ACTOR,
+$tk_town8_4192_0010_by02_0,,¿Por qué...?
+$tk_town8_4192_0010_by02_0,ACTOR,
+$tk_town8_4201_0010_gr02_0,,Mamá...
+$tk_town8_4201_0010_gr02_0,ACTOR,
+$tk_town8_4202_0010_gr02_0,,¿Por qué...?
+$tk_town8_4202_0010_gr02_0,ACTOR,
+$tk_town8_4210_0010_wm05_0,,Más adelante está bloqueado por los escombros. ¿No será mejor volver?
+$tk_town8_4210_0010_wm05_0,ACTOR,Mujer
+$tk_town8_4210_0020_mn09_0,,El ejército los quitará.
+$tk_town8_4210_0020_mn09_0,ACTOR,Hombre
+$tk_town8_4221_0010_mn09_0,,"Si vuelves por ese callejón, puedes salir a la estación, pero es un poco peligroso."
+$tk_town8_4221_0010_mn09_0,ACTOR,Hombre
+$tk_town8_4221_0020_wm05_0,,"Deberíamos volver, sin duda."
+$tk_town8_4221_0020_wm05_0,ACTOR,Mujer
+$tk_town8_4222_0010_wm05_0,,¿Quieres ir a la estación?
+$tk_town8_4222_0010_wm05_0,ACTOR,Mujer
+$tk_town8_4222_0011_wm05_0,,Cruza ese callejón y pasa por la azotea del edificio de allí.
+$tk_town8_4222_0011_wm05_0,ACTOR,Mujer
+$tk_town8_4222_0020_mn09_0,,No lo digas como si fuera fácil.
+$tk_town8_4222_0020_mn09_0,ACTOR,Hombre
+$tk_town8_4231_0010_wm04_0,,¿Es broma? Ayudadme ya.
+$tk_town8_4231_0010_wm04_0,ACTOR,
+$tk_town8_4231_0020_mn08_0,,El ejército llegará pronto. Entonces...
+$tk_town8_4231_0020_mn08_0,ACTOR,
+$tk_town8_4231_0030_wm04_0,,¡Que vengan rápido! ¡Rápido!
+$tk_town8_4231_0030_wm04_0,ACTOR,
+$tk_town8_4232_0010_wm04_0,,¿Hemos hecho algo malo?
+$tk_town8_4232_0010_wm04_0,ACTOR,
+$tk_town8_4232_0020_mn08_0,,No. Esto es imperdonable.
+$tk_town8_4232_0020_mn08_0,ACTOR,
+$tk_town8_4241_0010_mn55_0,,¿Qué ha pasado?
+$tk_town8_4241_0010_mn55_0,ACTOR,
+$tk_town8_4242_0010_mn55_0,,¿Qué significa esto?
+$tk_town8_4242_0010_mn55_0,ACTOR,
+$tk_town8_4243_0010_mn55_0,,¿Estáis bien?
+$tk_town8_4243_0010_mn55_0,ACTOR,
+$tk_town8_4251_0010_mn57_0,,Tranquilos. El ejército está cerca.
+$tk_town8_4251_0010_mn57_0,ACTOR,
+$tk_town8_4252_0010_mn57_0,,¿Podemos hacer algo?
+$tk_town8_4252_0010_mn57_0,ACTOR,
+$tk_town8_4253_0010_mn57_0,,Calma.
+$tk_town8_4253_0010_mn57_0,ACTOR,
+$tk_town8_4261_0010_wm54_0,,¿Qué es esto?
+$tk_town8_4261_0010_wm54_0,ACTOR,
+$tk_town8_4262_0010_wm54_0,,¿Qué ha pasado?
+$tk_town8_4262_0010_wm54_0,ACTOR,
+$tk_town8_4263_0010_wm54_0,,¿Estás bien?
+$tk_town8_4263_0010_wm54_0,ACTOR,
+$tk_town8_4271_0010_wm53_0,,"Si necesitas algo, te lo traigo."
+$tk_town8_4271_0010_wm53_0,ACTOR,
+$tk_town8_4272_0010_wm53_0,,Seguro que la ayuda llega pronto.
+$tk_town8_4272_0010_wm53_0,ACTOR,
+$tk_town8_4273_0010_wm53_0,,"Todos, calma."
+$tk_town8_4273_0010_wm53_0,ACTOR,
+$tk_town8_4281_0010_wm06_0,,Es el fin del mundo.
+$tk_town8_4281_0010_wm06_0,ACTOR,
+$tk_town8_4281_0020_mn10_0,,Qué desastre...
+$tk_town8_4281_0020_mn10_0,ACTOR,
+$tk_town8_4282_0010_wm06_0,,Tengo muchísimo miedo...
+$tk_town8_4282_0010_wm06_0,ACTOR,
+$tk_town8_4282_0020_mn10_0,,"Pase lo que pase, estaré contigo."
+$tk_town8_4282_0020_mn10_0,ACTOR,
+$tk_town8_4291_0010_mn11_0,,¿Todavía no puedes ponerte de pie?
+$tk_town8_4291_0010_mn11_0,ACTOR,
+$tk_town8_4291_0020_wm07_0,,"Perdona, papá. Yo insistí en venir a ver qué pasaba."
+$tk_town8_4291_0020_wm07_0,ACTOR,
+$tk_town8_4291_0030_mn11_0,,No te preocupes.
+$tk_town8_4291_0030_mn11_0,ACTOR,
+$tk_town8_4292_0010_wm07_0,,¿Sigue ardiendo?
+$tk_town8_4292_0010_wm07_0,ACTOR,
+$tk_town8_4292_0020_mn11_0,,Sí...
+$tk_town8_4292_0020_mn11_0,ACTOR,
+$tk_town8_4292_0030_wm07_0,,¿Y si aquí también se quema? ¿Qué haremos?
+$tk_town8_4292_0030_wm07_0,ACTOR,
+$tk_town8_4301_0010_mn12_0,,El fuego no se apaga.
+$tk_town8_4301_0010_mn12_0,ACTOR,
+$tk_town8_4302_0010_mn12_0,,¿También arde el mako?
+$tk_town8_4302_0010_mn12_0,ACTOR,
+$tk_town8_4303_0010_mn12_0,,Esto es grave...
+$tk_town8_4303_0010_mn12_0,ACTOR,
+$tk_town8_4304_0010_mn12_0,,¿Esto se podrá arreglar?
+$tk_town8_4304_0010_mn12_0,ACTOR,
+$tk_town8_4311_0010_wm09_0,,Qué miedo...
+$tk_town8_4311_0010_wm09_0,ACTOR,
+$tk_town8_4312_0010_wm09_0,,El reactor... el reactor...
+$tk_town8_4312_0010_wm09_0,ACTOR,
+$tk_town8_4313_0010_wm09_0,,Un conocido trabaja allí.
+$tk_town8_4313_0010_wm09_0,ACTOR,
+$tk_town8_4314_0010_wm09_0,,¿Qué va a pasar ahora?
+$tk_town8_4314_0010_wm09_0,ACTOR,
+$tk_town8_4321_0010_mn13_0,,"Si bajas esas escaleras, saldrás a la calle que lleva al callejón."
+$tk_town8_4321_0010_mn13_0,ACTOR,Residente de la plataforma
+$tk_town8_4322_0010_mn13_0,,"Si vas a la estación por el callejón, baja las escaleras y dirígete a la plaza de la fuente."
+$tk_town8_4322_0010_mn13_0,ACTOR,Residente de la plataforma
+$tk_town8_4331_0010_by01_0,,"Mamá, ¿podemos ir a por nuestros juguetes?"
+$tk_town8_4331_0010_by01_0,ACTOR,
+$tk_town8_4331_0020_wm10_0,,No. Quedaos aquí.
+$tk_town8_4331_0020_wm10_0,ACTOR,
+$tk_town8_4331_0030_gr01_0,,"Luego podremos volver a por ellos, ¿verdad?"
+$tk_town8_4331_0030_gr01_0,ACTOR,
+$tk_town8_4331_0040_mn11_0,,Sí. Tranquilos.
+$tk_town8_4331_0040_mn11_0,ACTOR,
+$tk_town8_4332_0010_wm10_0,,Al menos deja que los niños vayan primero.
+$tk_town8_4332_0010_wm10_0,ACTOR,
+$tk_town8_4332_0020_mn11_0,,Nos vamos todos juntos.
+$tk_town8_4332_0020_mn11_0,ACTOR,
+$tk_town8_4332_0030_by01_0,,¡Papá y mamá también tienen que venir!
+$tk_town8_4332_0030_by01_0,ACTOR,
+$tk_town8_4332_0040_gr01_0,,¡Todos juntos!
+$tk_town8_4332_0040_gr01_0,ACTOR,
+$tk_town8_4341_0010_mn15_0,,No esperaba que se derrumbara.
+$tk_town8_4341_0010_mn15_0,ACTOR,
+$tk_town8_4342_0010_mn15_0,,Tardaron años en terminarla.
+$tk_town8_4342_0010_mn15_0,ACTOR,
+$tk_town8_4343_0010_mn15_0,,El alcalde va a perder el cargo.
+$tk_town8_4343_0010_mn15_0,ACTOR,
+$tk_town8_4344_0010_mn15_0,,No queda otra que ir por el callejón.
+$tk_town8_4344_0010_mn15_0,ACTOR,
+$tk_town8_4351_0010_mn14_0,,Hasta la autopista...
+$tk_town8_4351_0010_mn14_0,ACTOR,
+$tk_town8_4352_0010_mn14_0,,"Si la estación está mal, ¿adónde huimos?"
+$tk_town8_4352_0010_mn14_0,ACTOR,
+$tk_town8_4361_0010_wm14_0,,Un conocido ha ido a la estación.
+$tk_town8_4361_0010_wm14_0,ACTOR,
+$tk_town8_4362_0010_wm14_0,,Menos mal que no fui.
+$tk_town8_4362_0010_wm14_0,ACTOR,
+$tk_town8_4363_0010_wm14_0,,Es demasiado.
+$tk_town8_4363_0010_wm14_0,ACTOR,
+$tk_town8_4364_0010_wm14_0,,¿El ejército lo había previsto?
+$tk_town8_4364_0010_wm14_0,ACTOR,
+$tk_town8_4371_0010_wm11_0,,¿También han volado la autopista?
+$tk_town8_4371_0010_wm11_0,ACTOR,
+$tk_town8_4372_0010_wm11_0,,En el anuncio decían que huyéramos.
+$tk_town8_4372_0010_wm11_0,ACTOR,
+$tk_town8_4381_0010_mn21_0,,"Bien, ha llegado el ejército."
+$tk_town8_4381_0010_mn21_0,ACTOR,
+$tk_town8_4382_0010_mn21_0,,Que atrapen pronto a los culpables.
+$tk_town8_4382_0010_mn21_0,ACTOR,
+$tk_town8_4383_0010_mn21_0,,Sabía que algún día pasaría algo así.
+$tk_town8_4383_0010_mn21_0,ACTOR,
+$tk_town8_4384_0010_mn21_0,,Supongo que el fuego no llegará hasta aquí.
+$tk_town8_4384_0010_mn21_0,ACTOR,
+$tk_town8_4391_0010_mn18_0,,¿Aún no hay declaración del presidente?
+$tk_town8_4391_0010_mn18_0,ACTOR,
+$tk_town8_4392_0010_mn18_0,,"Si el reactor n.º 8 está bien, saldremos adelante."
+$tk_town8_4392_0010_mn18_0,ACTOR,
+$tk_town8_4393_0010_mn18_0,,Este caos es responsabilidad del alcalde.
+$tk_town8_4393_0010_mn18_0,ACTOR,
+$tk_town8_4394_0010_mn18_0,,¿La plaza de la fuente está cortada?
+$tk_town8_4394_0010_mn18_0,ACTOR,
+$tk_town8_4401_0010_mn28_0,,"Si han atacado el reactor, mi trabajo..."
+$tk_town8_4401_0010_mn28_0,ACTOR,
+$tk_town8_4402_0010_mn28_0,,Menos mal que estaba libre.
+$tk_town8_4402_0010_mn28_0,ACTOR,
+$tk_town8_4403_0010_mn28_0,,"Para ir a la estación hay que cruzar la plaza, ¿no?"
+$tk_town8_4403_0010_mn28_0,ACTOR,
+$tk_town8_4404_0010_mn28_0,,No hace falta huir con tanta prisa...
+$tk_town8_4404_0010_mn28_0,ACTOR,
+$tk_town8_4411_0010_mn27_0,,"El callejón está pasada la plaza de la fuente, ¿no?"
+$tk_town8_4411_0010_mn27_0,ACTOR,
+$tk_town8_4412_0010_mn27_0,,Dicen que cerca del reactor es una tragedia.
+$tk_town8_4412_0010_mn27_0,ACTOR,
+$tk_town8_4413_0010_mn27_0,,"Por si acaso, será mejor evacuar."
+$tk_town8_4413_0010_mn27_0,ACTOR,
+$tk_town8_4414_0010_mn27_0,,Un conocido ha ido al edificio central.
+$tk_town8_4414_0010_mn27_0,ACTOR,
+$tk_town8_4421_0010_mn19_0,,Quiero volver a la barriada.
+$tk_town8_4421_0010_mn19_0,ACTOR,
+$tk_town8_4422_0010_mn19_0,,Vine al sector 8 a divertirme.
+$tk_town8_4422_0010_mn19_0,ACTOR,
+$tk_town8_4423_0010_mn19_0,,¿Y si en realidad ha sido solo un accidente?
+$tk_town8_4423_0010_mn19_0,ACTOR,
+$tk_town8_4431_0010_wm33_0,,Desde la mañana tenía un mal presentimiento.
+$tk_town8_4431_0010_wm33_0,ACTOR,
+$tk_town8_4432_0010_wm33_0,,¿Esta zona también es peligrosa?
+$tk_town8_4432_0010_wm33_0,ACTOR,
+$tk_town8_4433_0010_wm33_0,,"Si puede ser, prefiero quedarme en casa."
+$tk_town8_4433_0010_wm33_0,ACTOR,
+$tk_town8_4434_0010_wm33_0,,¿Qué está haciendo el alcalde?
+$tk_town8_4434_0010_wm33_0,ACTOR,
+$tk_town8_4441_0010_wm22_0,,Ha llegado el ejército. Estamos bien.
+$tk_town8_4441_0010_wm22_0,ACTOR,
+$tk_town8_4442_0010_wm22_0,,Me preocupa una fuga de mako.
+$tk_town8_4442_0010_wm22_0,ACTOR,
+$tk_town8_4443_0010_wm22_0,,¿No me dejarán pasar por la plaza de la fuente?
+$tk_town8_4443_0010_wm22_0,ACTOR,
+$tk_town8_4444_0010_wm22_0,,¿La plaza está cortada?
+$tk_town8_4444_0010_wm22_0,ACTOR,
+$tk_town8_4451_0010_wm13_0,,¿Cómo se supone que vaya a la estación?
+$tk_town8_4451_0010_wm13_0,ACTOR,
+$tk_town8_4452_0010_wm13_0,,¿Todavía no han atrapado a los culpables?
+$tk_town8_4452_0010_wm13_0,ACTOR,
+$tk_town8_4453_0010_wm13_0,,¿Dónde está el refugio?
+$tk_town8_4453_0010_wm13_0,ACTOR,
+$tk_town8_4454_0010_wm13_0,,¿Adónde debería huir?
+$tk_town8_4454_0010_wm13_0,ACTOR,
+$tk_town8_4461_0010_wm23_0,,"¿Y si no fue un atentado, sino un accidente?"
+$tk_town8_4461_0010_wm23_0,ACTOR,
+$tk_town8_4462_0010_wm23_0,,Quiero oír la versión del presidente.
+$tk_town8_4462_0010_wm23_0,ACTOR,
+$tk_town8_4463_0010_wm23_0,,Dicen que algunos se refugiaron en el edificio central.
+$tk_town8_4463_0010_wm23_0,ACTOR,
+$tk_town8_4464_0010_wm23_0,,No puedo vivir sin los reactores de mako.
+$tk_town8_4464_0010_wm23_0,ACTOR,
+$tk_town8_4471_0010_wm34_0,,Los edificios no están tan dañados como dicen.
+$tk_town8_4471_0010_wm34_0,ACTOR,
+$tk_town8_4472_0010_wm34_0,,"Con el ejército aquí, estamos a salvo."
+$tk_town8_4472_0010_wm34_0,ACTOR,
+$tk_town8_4473_0010_wm34_0,,El presidente sabrá cómo gestionarlo.
+$tk_town8_4473_0010_wm34_0,ACTOR,
+$tk_town8_4481_0010_mn20_0,,"Si ha llegado el ejército, podemos estar tranquilos."
+$tk_town8_4481_0010_mn20_0,ACTOR,
+$tk_town8_4482_0010_mn20_0,,Espero la pena máxima para los culpables.
+$tk_town8_4482_0010_mn20_0,ACTOR,
+$tk_town8_4483_0010_mn20_0,,El alcalde no sirve para nada.
+$tk_town8_4483_0010_mn20_0,ACTOR,
+$tk_town8_4484_0010_mn20_0,,Quiero que el presidente dé explicaciones.
+$tk_town8_4484_0010_mn20_0,ACTOR,
+$tk_town8_4491_0010_mn20_0,,Esta zona debe de ser segura.
+$tk_town8_4491_0010_mn20_0,ACTOR,
+$tk_town8_4492_0010_mn20_0,,Shinra no cae por algo así.
+$tk_town8_4492_0010_mn20_0,ACTOR,
+$tk_town8_4501_0010_wm15_0,,¿El ejército nos protegerá?
+$tk_town8_4501_0010_wm15_0,ACTOR,
+$tk_town8_4502_0010_wm15_0,,No entiendo bien la situación.
+$tk_town8_4502_0010_wm15_0,ACTOR,
+$tk_town8_4503_0010_wm15_0,,¿Podré volver a casa?
+$tk_town8_4503_0010_wm15_0,ACTOR,
+$tk_town8_4504_0010_wm15_0,,"Si puedo coger el tren, lo haré."
+$tk_town8_4504_0010_wm15_0,ACTOR,
+$tk_town8_4511_0010_wm30_0,,¿Podré volver a la barriada?
+$tk_town8_4511_0010_wm30_0,ACTOR,
+$tk_town8_4512_0010_wm30_0,,¿Aún no ha hablado el presidente?
+$tk_town8_4512_0010_wm30_0,ACTOR,
+$tk_town8_4521_0010_mn31_0,,Los soldados llevaban pistolas.
+$tk_town8_4521_0010_mn31_0,ACTOR,
+$tk_town8_4522_0010_mn31_0,,Hizo un ruido enorme y tembló muchísimo.
+$tk_town8_4522_0010_mn31_0,ACTOR,
+$tk_town8_4531_0010_wm32_0,,Hay muchos militares.
+$tk_town8_4531_0010_wm32_0,ACTOR,
+$tk_town8_4532_0010_wm32_0,,Ya no quiero pasar más miedo.
+$tk_town8_4532_0010_wm32_0,ACTOR,
+$tk_town8_4541_0010_mn16_0,,"Señores, vuelvan al interior del hotel, por favor."
+$tk_town8_4541_0010_mn16_0,ACTOR,
+$tk_town8_4541_0020_mn17_0,,Solo queremos preguntar al ejército.
+$tk_town8_4541_0020_mn17_0,ACTOR,
+$tk_town8_4541_0030_wm12_0,,"Si no, no podemos quedarnos tranquilas."
+$tk_town8_4541_0030_wm12_0,ACTOR,
+$tk_town8_4542_0010_mn16_0,,Nuestro hotel se hará responsable de guiarles hasta el refugio.
+$tk_town8_4542_0010_mn16_0,ACTOR,
+$tk_town8_4542_0020_mn17_0,,Dejemos que nos ayude el ejército.
+$tk_town8_4542_0020_mn17_0,ACTOR,
+$tk_town8_4542_0030_wm12_0,,Sí. Así estaremos más tranquilas.
+$tk_town8_4542_0030_wm12_0,ACTOR,
+$tk_town8_4551_0010_mn30_0,,El restaurante está destrozado. Hasta la vajilla buena ha desaparecido.
+$tk_town8_4551_0010_mn30_0,ACTOR,
+$tk_town8_4551_0020_wm31_0,,Seguro que Shinra nos indemnizará.
+$tk_town8_4551_0020_wm31_0,ACTOR,
+$tk_town8_4552_0010_wm32_0,,"Señor, ¿no va a huir?"
+$tk_town8_4552_0010_wm32_0,ACTOR,
+$tk_town8_4552_0020_mn30_0,,No. No puedo abandonar este restaurante.
+$tk_town8_4552_0020_mn30_0,ACTOR,
+$tk_town8_4561_0010_wm18_0,,Los atacados fuimos los ciudadanos de Midgar.
+$tk_town8_4561_0010_wm18_0,ACTOR,
+$tk_town8_4561_0020_wm17_0,,¿Eh...?
+$tk_town8_4561_0020_wm17_0,ACTOR,
+$tk_town8_4561_0030_wm18_0,,"Los de la barriada, celosos de los que vivimos arriba."
+$tk_town8_4561_0030_wm18_0,ACTOR,
+$tk_town8_4561_0040_wm16_0,,Sí...
+$tk_town8_4561_0040_wm16_0,ACTOR,
+$tk_town8_4562_0010_wm18_0,,El presidente Shinra es un incompetente.
+$tk_town8_4562_0010_wm18_0,ACTOR,
+$tk_town8_4562_0020_wm17_0,,¡¿Eh?!
+$tk_town8_4562_0020_wm17_0,ACTOR,
+$tk_town8_4562_0030_wm18_0,,Puede que sea una conspiración del alcalde para que pensemos eso.
+$tk_town8_4562_0030_wm18_0,ACTOR,
+$tk_town8_4562_0040_wm16_0,,¿Eeeh?
+$tk_town8_4562_0040_wm16_0,ACTOR,
+$tk_town8_7001_0010_wm01_0,,"Así que también hay gente en el vagón de mercancías. Bueno, con ese caos, no había otra."
+$tk_town8_7001_0010_wm01_0,ACTOR,
+$tk_town8_7002_0010_wm01_0,,Quiero estar solo.
+$tk_town8_7002_0010_wm01_0,ACTOR,
+$tk_town8_7011_0010_mn03_0,,¿Mm?
+$tk_town8_7011_0010_mn03_0,ACTOR,
+$tk_town8_7012_0010_mn03_0,,¿Qué?
+$tk_town8_7012_0010_mn03_0,ACTOR,
+$tk_town8_7013_0010_mn03_0,,No empujes.
+$tk_town8_7013_0010_mn03_0,ACTOR,
+$tk_town8_7014_0010_mn03_0,,Eh.
+$tk_town8_7014_0010_mn03_0,ACTOR,
+$tk_town8_7015_0010_mn03_0,,"Ah, perdón."
+$tk_town8_7015_0010_mn03_0,ACTOR,
+$tk_town8_7021_0010_mn02_0,,Uy.
+$tk_town8_7021_0010_mn02_0,ACTOR,
+$tk_town8_7022_0010_mn02_0,,¿Qué pasa?
+$tk_town8_7022_0010_mn02_0,ACTOR,
+$tk_town8_7023_0010_mn02_0,,Ten cuidado.
+$tk_town8_7023_0010_mn02_0,ACTOR,
+$tk_town8_7031_0010_wm14_0,,¿Eh?
+$tk_town8_7031_0010_wm14_0,ACTOR,
+$tk_town8_7032_0010_wm14_0,,Venga ya.
+$tk_town8_7032_0010_wm14_0,ACTOR,
+$tk_town8_7033_0010_wm14_0,,¿Qué?
+$tk_town8_7033_0010_wm14_0,ACTOR,
+$tk_town8_7034_0010_wm14_0,,"Ah, perdón."
+$tk_town8_7034_0010_wm14_0,ACTOR,
+$tk_town8_7035_0010_wm14_0,,Ten cuidado.
+$tk_town8_7035_0010_wm14_0,ACTOR,
+$tk_town8_7041_0010_mn32_0,,Oye.
+$tk_town8_7041_0010_mn32_0,ACTOR,
+$tk_town8_7042_0010_mn32_0,,No empujes.
+$tk_town8_7042_0010_mn32_0,ACTOR,
+$tk_town8_7043_0010_mn32_0,,Ay...
+$tk_town8_7043_0010_mn32_0,ACTOR,
+$tk_town8_7051_0010_mn31_0,,¿Mmm?
+$tk_town8_7051_0010_mn31_0,ACTOR,
+$tk_town8_7052_0010_mn31_0,,Mira por dónde vas.
+$tk_town8_7052_0010_mn31_0,ACTOR,
+$tk_town8_7053_0010_mn31_0,,Madre mía.
+$tk_town8_7053_0010_mn31_0,ACTOR,
+$tk_town8_7061_0010_wm15_0,,¿Eh?
+$tk_town8_7061_0010_wm15_0,ACTOR,
+$tk_town8_7062_0010_wm15_0,,Perdón.
+$tk_town8_7062_0010_wm15_0,ACTOR,
+$tk_town8_7063_0010_wm15_0,,Siento estorbar.
+$tk_town8_7063_0010_wm15_0,ACTOR,
+$tk_town8_7071_0010_by02_0,,Uf.
+$tk_town8_7071_0010_by02_0,ACTOR,
+$tk_town8_7072_0010_by02_0,,¡Perdón!
+$tk_town8_7072_0010_by02_0,ACTOR,
+$tk_town8_7073_0010_by02_0,,Hay demasiada gente.
+$tk_town8_7073_0010_by02_0,ACTOR,
+$tk_town8_7081_0010_gr02_0,,Ah...
+$tk_town8_7081_0010_gr02_0,ACTOR,
+$tk_town8_7082_0010_gr02_0,,Perdón.
+$tk_town8_7082_0010_gr02_0,ACTOR,
+$tk_town8_7083_0010_gr02_0,,"Uy, uy."
+$tk_town8_7083_0010_gr02_0,ACTOR,
+$tk_town8_7091_0010_mn06_0,,Menos mal que elegimos el vagón de mercancías.
+$tk_town8_7091_0010_mn06_0,ACTOR,
+$tk_town8_7092_0010_mn06_0,,¿Habrá podido subir?
+$tk_town8_7092_0010_mn06_0,ACTOR,
+$tk_town8_7093_0010_mn06_0,,La autopista se cayó delante de mí.
+$tk_town8_7093_0010_mn06_0,ACTOR,
+$tk_town8_7094_0010_mn06_0,,"Mientras pueda volver, me vale."
+$tk_town8_7094_0010_mn06_0,ACTOR,
+$tk_town8_7095_0010_mn06_0,,"No hay vigilancia, ¿verdad?"
+$tk_town8_7095_0010_mn06_0,ACTOR,
+$tk_town8_7101_0010_wm05_0,,Qué bien que pude subir.
+$tk_town8_7101_0010_wm05_0,ACTOR,
+$tk_town8_7102_0010_wm05_0,,"Aunque nos vean, no nos echarán, ¿no?"
+$tk_town8_7102_0010_wm05_0,ACTOR,
+$tk_town8_7103_0010_wm05_0,,¿Estará bien la barriada?
+$tk_town8_7103_0010_wm05_0,ACTOR,
+$tk_town8_7104_0010_wm05_0,,Así podré volver.
+$tk_town8_7104_0010_wm05_0,ACTOR,
+$tk_town8_7105_0010_wm05_0,,Me he separado de mi amiga.
+$tk_town8_7105_0010_wm05_0,ACTOR,
+$tk_town8_7111_0010_mn08_0,,¿De verdad ha sido un atentado?
+$tk_town8_7111_0010_mn08_0,ACTOR,
+$tk_town8_7112_0010_mn08_0,,"No habrá afectado a la parte de abajo, ¿verdad?"
+$tk_town8_7112_0010_mn08_0,ACTOR,
+$tk_town8_7113_0010_mn08_0,,¿Han atrapado a los culpables?
+$tk_town8_7113_0010_mn08_0,ACTOR,
+$tk_town8_7114_0010_mn08_0,,Me he quedado sin trabajo.
+$tk_town8_7114_0010_mn08_0,ACTOR,
+$tk_town8_7121_0010_mn01_0,,Qué llamarada.
+$tk_town8_7121_0010_mn01_0,ACTOR,
+$tk_town8_7122_0010_mn01_0,,Es el fin del mundo.
+$tk_town8_7122_0010_mn01_0,ACTOR,
+$tk_town8_7123_0010_mn01_0,,Anti-Shinra... Había oído hablar de ellos.
+$tk_town8_7123_0010_mn01_0,ACTOR,
+$tk_town8_7124_0010_mn01_0,,¿Estará bien la barriada?
+$tk_town8_7124_0010_mn01_0,ACTOR,
+$tk_town8_7131_0010_mn02_0,,"Aunque sea una choza, mejor que quemarse."
+$tk_town8_7131_0010_mn02_0,ACTOR,
+$tk_town8_7132_0010_mn02_0,,Bien merecido se lo tienen los que despreciaban la barriada.
+$tk_town8_7132_0010_mn02_0,ACTOR,
+$tk_town8_7133_0010_mn02_0,,Quiero volver pronto.
+$tk_town8_7133_0010_mn02_0,ACTOR,
+$tk_town8_7134_0010_mn02_0,,No necesitamos reactores de mako.
+$tk_town8_7134_0010_mn02_0,ACTOR,
+$tk_town8_7141_0010_mn10_0,,Quería huir al sector 3.
+$tk_town8_7141_0010_mn10_0,ACTOR,
+$tk_town8_7142_0010_mn10_0,,¿Hay posadas en la barriada?
+$tk_town8_7142_0010_mn10_0,ACTOR,
+$tk_town8_7151_0010_mn08_0,,¿Cuántos años llevo sin bajar a la barriada?
+$tk_town8_7151_0010_mn08_0,ACTOR,
+$tk_town8_7152_0010_mn08_0,,"El sector 8 se recuperará, ¿verdad?"
+$tk_town8_7152_0010_mn08_0,ACTOR,
+$tk_town8_7153_0010_mn08_0,,¿Y si atacan también los otros reactores...?
+$tk_town8_7153_0010_mn08_0,ACTOR,
+$tk_town8_7161_0010_wm01_0,,El fuego daba miedo.
+$tk_town8_7161_0010_wm01_0,ACTOR,
+$tk_town8_7162_0010_wm01_0,,Nunca pensé que echaría tanto de menos la barriada.
+$tk_town8_7162_0010_wm01_0,ACTOR,
+$tk_town8_7163_0010_wm01_0,,Mi oficina está destrozada.
+$tk_town8_7163_0010_wm01_0,ACTOR,
+$tk_town8_7164_0010_wm01_0,,Estoy agotado. Quiero dormir...
+$tk_town8_7164_0010_wm01_0,ACTOR,
+$tk_town8_7171_0010_wm02_0,,Era una cita con mi pareja.
+$tk_town8_7171_0010_wm02_0,ACTOR,
+$tk_town8_7172_0010_wm02_0,,¿Quién ha hecho algo así?
+$tk_town8_7172_0010_wm02_0,ACTOR,
+$tk_town8_7173_0010_wm02_0,,Ardía con una fuerza increíble.
+$tk_town8_7173_0010_wm02_0,ACTOR,
+$tk_town8_7174_0010_wm02_0,,Qué suerte haber podido subir.
+$tk_town8_7174_0010_wm02_0,ACTOR,
+$tk_town8_7181_0010_wm02_0,,La plataforma también es peligrosa.
+$tk_town8_7181_0010_wm02_0,ACTOR,
+$tk_town8_7182_0010_wm02_0,,Dicen que fue un ataque. ¿Será verdad?
+$tk_town8_7182_0010_wm02_0,ACTOR,
+$tk_town8_7183_0010_wm02_0,,Se rumorea que Wutai está implicado.
+$tk_town8_7183_0010_wm02_0,ACTOR,
+$tk_town8_7184_0010_wm02_0,,"Eso de proteger el planeta es mentira, ¿verdad?"
+$tk_town8_7184_0010_wm02_0,ACTOR,
+$tk_town8_7191_0010_wm07_0,,¿No será obra de Avalancha?
+$tk_town8_7191_0010_wm07_0,ACTOR,
+$tk_town8_7192_0010_wm07_0,,Quería coger el tren al sector 2.
+$tk_town8_7192_0010_wm07_0,ACTOR,
+$tk_town8_7201_0010_wm10_0,,Parece que esta noche no volveré.
+$tk_town8_7201_0010_wm10_0,ACTOR,
+$tk_town8_7202_0010_wm10_0,,¿Qué será del sector 8?
+$tk_town8_7202_0010_wm10_0,ACTOR,
+$tk_town8_7211_0010_mn20_0,,No debería haber salido. Tenía que haberme quedado en casa.
+$tk_town8_7211_0010_mn20_0,ACTOR,
+$tk_town8_7212_0010_mn20_0,,¿Está implicado Wutai?
+$tk_town8_7212_0010_mn20_0,ACTOR,
+$tk_town8_7221_0010_mn29_0,,"Pensé que moriría, pero parece que me he salvado."
+$tk_town8_7221_0010_mn29_0,ACTOR,
+$tk_town8_7222_0010_mn29_0,,Puede que ataquen también otros reactores.
+$tk_town8_7222_0010_mn29_0,ACTOR,
+$tk_town8_7231_0010_wm11_0,,Mi hija vive en el sector 8.
+$tk_town8_7231_0010_wm11_0,ACTOR,
+$tk_town8_7232_0010_wm11_0,,¿Qué habrá sido de los culpables?
+$tk_town8_7232_0010_wm11_0,ACTOR,
+$tk_town8_7241_0010_wm13_0,,"No hay como la superficie, después de todo."
+$tk_town8_7241_0010_wm13_0,ACTOR,
+$tk_town8_7242_0010_wm13_0,,He oído rumores sobre los anti-Shinra.
+$tk_town8_7242_0010_wm13_0,ACTOR,
+$tk_town8_7251_0010_by01_0,,¿Estará bien mi casa?
+$tk_town8_7251_0010_by01_0,ACTOR,
+$tk_town8_7252_0010_by01_0,,Se lo contaré a mis hermanos.
+$tk_town8_7252_0010_by01_0,ACTOR,
+$tk_town8_7261_0010_gr01_0,,¿Shinra ha atrapado a los malos?
+$tk_town8_7261_0010_gr01_0,ACTOR,
+$tk_town8_7262_0010_gr01_0,,Ardía muchísimo.
+$tk_town8_7262_0010_gr01_0,ACTOR,
+$tk_town8_7271_0010_kre_0,,¿Qué? Me estorbas en el trabajo.
+$tk_town8_7271_0010_kre_0,ACTOR,Kyrie
+$tk_town8_7276_0010_kre_0,,¿Qué quieres?
+$tk_town8_7276_0010_kre_0,ACTOR,Kyrie
+$tk_town8_7277_0010_kre_0,,Ya me gustaría que parases.
+$tk_town8_7277_0010_kre_0,ACTOR,Kyrie
+$tk_town8_7281_0010_mn15_0,,Me ha hecho cosquillas... ¿Habrá sido imaginación?
+$tk_town8_7281_0010_mn15_0,ACTOR,
+$tk_town8_7282_0010_mn15_0,,"La cartera... Sí, está aquí."
+$tk_town8_7282_0010_mn15_0,ACTOR,
+$tk_town8_7291_0010_mn13_0,,"¡Eh! Ah, no... Nada."
+$tk_town8_7291_0010_mn13_0,ACTOR,
+$tk_town8_7292_0010_mn13_0,,Me hace cosquillas cerca del bolsillo.
+$tk_town8_7292_0010_mn13_0,ACTOR,
+$tk_town8_7293_0010_mn13_0,,"Perdón, te he empujado... ¿Eh?"
+$tk_town8_7293_0010_mn13_0,ACTOR,
+$tk_town8_7341_0010_wm05_0,,¿Quién me ha tirado ahora?
+$tk_town8_7341_0010_wm05_0,ACTOR,
+$tk_town8_7342_0010_wm05_0,,Hay que tener cuidado con los carteristas.
+$tk_town8_7342_0010_wm05_0,ACTOR,
+$tk_town8_7351_0010_wm06_0,,La cartera está bien.
+$tk_town8_7351_0010_wm06_0,ACTOR,
+$tk_town8_7352_0010_wm06_0,,¿Me has agarrado la manga tú?
+$tk_town8_7352_0010_wm06_0,ACTOR,
+$tk_town8_7361_0010_mn05_0,,Hay quien lo ve como un castigo por despreciar la barriada.
+$tk_town8_7361_0010_mn05_0,ACTOR,
+$tk_town8_7361_0020_wm04_0,,No bromees.
+$tk_town8_7361_0020_wm04_0,ACTOR,
+$tk_town8_7361_0030_mn04_0,,"Sin los reactores, nosotros también estaríamos perdidos."
+$tk_town8_7361_0030_mn04_0,ACTOR,
+$tk_town8_7362_0010_wm04_0,,No podríamos vivir sin electricidad.
+$tk_town8_7362_0010_wm04_0,ACTOR,
+$tk_town8_7362_0020_mn04_0,,Seguro que el sector 7 también se verá afectado.
+$tk_town8_7362_0020_mn04_0,ACTOR,
+$tk_town8_7362_0030_mn05_0,,"Shinra hará algo, ¿no?"
+$tk_town8_7362_0030_mn05_0,ACTOR,
+$tk_town8_7371_0010_mn32_0,,
+$tk_town8_7371_0010_mn32_0,ACTOR,
+$tk_town8_7381_0010_mn31_0,,No oí nada.
+$tk_town8_7381_0010_mn31_0,ACTOR,
+$tk_town8_7382_0010_mn31_0,,¡Ojalá lleguemos pronto!
+$tk_town8_7382_0010_mn31_0,ACTOR,
+$tk_town8_7391_0010_wm15_0,,No tengo miedo...
+$tk_town8_7391_0010_wm15_0,ACTOR,
+$tk_town8_7392_0010_wm15_0,,Que lleguemos pronto a la estación...
+$tk_town8_7392_0010_wm15_0,ACTOR,
+$tk_town8_7401_0010_wm14_0,,¿Es broma?
+$tk_town8_7401_0010_wm14_0,ACTOR,
+$tk_town8_7402_0010_wm14_0,,Fingiré dormir...
+$tk_town8_7402_0010_wm14_0,ACTOR,
+$tk_town8_btsc054_0020_kb20_0,,Que no salga de aquí.
+$tk_town8_btsc054_0020_kb20_0,ACTOR,Centinela
+$tk_town8_btsc054_0030_kb21_0,,¡No escaparás!
+$tk_town8_btsc054_0030_kb21_0,ACTOR,Centinela
+$tk_town8_btsc055_0010_kb22_0,,Buscadlo. Que no escape bajo ningún concepto.
+$tk_town8_btsc055_0010_kb22_0,ACTOR,Centinela
+$tk_town8_btsc056_0010_kb24_0,,Mensaje de las fuerzas aéreas: reforzad la vigilancia alrededor de la estación.
+$tk_town8_btsc056_0010_kb24_0,ACTOR,Centinela
+$tk_town8_btsc056_0020_cld_0,,Me alejaré de la estación y observaré.
+$tk_town8_btsc056_0020_cld_0,ACTOR,Cloud

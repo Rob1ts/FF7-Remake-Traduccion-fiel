@@ -1,0 +1,1298 @@
+id,sub_id,text
+language,,ES
+$ev_undg6_0010_0010_pre_0,,¿Cómo va todo?
+$ev_undg6_0010_0010_pre_0,ACTOR,Presidente Shinra
+$ev_undg6_0010_0020_hyd_0,,Los Turcos están actuando.
+$ev_undg6_0010_0020_hyd_0,ACTOR,Heidegger
+$ev_undg6_0010_0020_hyd_1,,"Sí, todo marcha bien."
+$ev_undg6_0010_0020_hyd_1,ACTOR,Heidegger
+$ev_undg6_0010_0030_riv_0,,"Presidente, le ruego que reconsidere el plan... No, que lo cancele."
+$ev_undg6_0010_0030_riv_0,ACTOR,Reeve
+$ev_undg6_0010_0030_riv_1,,"En la barriada bajo el sector 7 hay, según las estimaciones, unas 50.000..."
+$ev_undg6_0010_0030_riv_1,ACTOR,Reeve
+$ev_undg6_0010_0040_pre_0,,Reeve.
+$ev_undg6_0010_0040_pre_0,ACTOR,Presidente Shinra
+$ev_undg6_0010_0050_riv_0,,"Al menos, permítanos dar un aviso de evacuación."
+$ev_undg6_0010_0050_riv_0,ACTOR,Reeve
+$ev_undg6_0010_0060_hyd_0,,Otra vez con tu cara de sensatez y tus ideas de crío.
+$ev_undg6_0010_0060_hyd_0,ACTOR,Heidegger
+$ev_undg6_0010_0065_riv_0,,
+$ev_undg6_0010_0065_riv_0,ACTOR,
+$ev_undg6_0010_0070_pre_0,,Reeve.
+$ev_undg6_0010_0070_pre_0,ACTOR,Presidente Shinra
+$ev_undg6_0010_0070_pre_1,,Asume las consecuencias.
+$ev_undg6_0010_0070_pre_1,ACTOR,Presidente Shinra
+$ev_undg6_0010_0070_pre_2,,También es aceite para el progreso.
+$ev_undg6_0010_0070_pre_2,ACTOR,Presidente Shinra
+$ev_undg6_0010_0080_riv_0,,
+$ev_undg6_0010_0080_riv_0,ACTOR,
+$ev_undg6_0020_0001_cld_0,,
+$ev_undg6_0020_0001_cld_0,ACTOR,
+$ev_undg6_0020_0002_cld_0,,
+$ev_undg6_0020_0002_cld_0,ACTOR,
+$ev_undg6_0020_0003_cld_0,,
+$ev_undg6_0020_0003_cld_0,ACTOR,
+$ev_undg6_0020_0004_cld_0,,
+$ev_undg6_0020_0004_cld_0,ACTOR,
+$ev_undg6_0020_0005_cld_0,,
+$ev_undg6_0020_0005_cld_0,ACTOR,
+$ev_undg6_0020_0006_cld_0,,
+$ev_undg6_0020_0006_cld_0,ACTOR,
+$ev_undg6_0020_0010_cld_0,,¿Dónde estamos?
+$ev_undg6_0020_0010_cld_0,ACTOR,Cloud
+$ev_undg6_0020_0013_cld_0,,
+$ev_undg6_0020_0013_cld_0,ACTOR,
+$ev_undg6_0020_0016_cld_0,,
+$ev_undg6_0020_0016_cld_0,ACTOR,
+$ev_undg6_0020_0020_cld_0,,Huele fatal.
+$ev_undg6_0020_0020_cld_0,ACTOR,Cloud
+$ev_undg6_0060_0010_cld_0,,¿Aeris?
+$ev_undg6_0060_0010_cld_0,ACTOR,Cloud
+$ev_undg6_0060_0020_art_0,,Cloud.
+$ev_undg6_0060_0020_art_0,ACTOR,Aeris
+$ev_undg6_0060_0030_art_0,,"Vamos al sector 7, ¿vale? Rápido."
+$ev_undg6_0060_0030_art_0,ACTOR,Aeris
+$ev_undg6_0060_0040_cld_0,,Sí.
+$ev_undg6_0060_0040_cld_0,ACTOR,Cloud
+$ev_undg6_0060_0048_tif_0,,
+$ev_undg6_0060_0048_tif_0,ACTOR,
+$ev_undg6_0060_0050_tif_0,,Qué despreciable.
+$ev_undg6_0060_0050_tif_0,ACTOR,Tifa
+$ev_undg6_0060_0051_tif_0,,
+$ev_undg6_0060_0051_tif_0,ACTOR,
+$ev_undg6_0060_0052_tif_0,,
+$ev_undg6_0060_0052_tif_0,ACTOR,
+$ev_undg6_0060_0054_cld_0,,
+$ev_undg6_0060_0054_cld_0,ACTOR,
+$ev_undg6_0060_0055_art_0,,
+$ev_undg6_0060_0055_art_0,ACTOR,
+$ev_undg6_0060_0057_cld_0,,
+$ev_undg6_0060_0057_cld_0,ACTOR,
+$ev_undg6_0060_0058_cld_0,,
+$ev_undg6_0060_0058_cld_0,ACTOR,
+$ev_undg6_0060_0059_art_0,,
+$ev_undg6_0060_0059_art_0,ACTOR,
+$ev_undg6_0060_0060_tif_0,,¡No me lo puedo creer!
+$ev_undg6_0060_0060_tif_0,ACTOR,Tifa
+$ev_undg6_0080_0010_cld_0,,¿Tifa?
+$ev_undg6_0080_0010_cld_0,ACTOR,Cloud
+$ev_undg6_0080_0018_tif_0,,
+$ev_undg6_0080_0018_tif_0,ACTOR,
+$ev_undg6_0080_0020_tif_0,,Cloud.
+$ev_undg6_0080_0020_tif_0,ACTOR,Tifa
+$ev_undg6_0080_0030_tif_0,,Tenemos que ir al sector 7 corriendo.
+$ev_undg6_0080_0030_tif_0,ACTOR,Tifa
+$ev_undg6_0080_0040_cld_0,,Sí.
+$ev_undg6_0080_0040_cld_0,ACTOR,Cloud
+$ev_undg6_0080_0045_tif_0,,
+$ev_undg6_0080_0045_tif_0,ACTOR,
+$ev_undg6_0080_0050_tif_0,,"Aeris, lo siento, te estoy metiendo en esto."
+$ev_undg6_0080_0050_tif_0,ACTOR,Tifa
+$ev_undg6_0080_0060_cld_0,,Lo entenderá.
+$ev_undg6_0080_0060_cld_0,ACTOR,Cloud
+$ev_undg6_0080_0070_tif_0,,¿Cómo os conocisteis?
+$ev_undg6_0080_0070_tif_0,ACTOR,Tifa
+$ev_undg6_0080_0080_cld_0,,"Me salvó, la salvé y ahora me ha vuelto a salvar."
+$ev_undg6_0080_0080_cld_0,ACTOR,Cloud
+$ev_undg6_0080_0090_tif_0,,¿No me estás ocultando algo?
+$ev_undg6_0080_0090_tif_0,ACTOR,Tifa
+$ev_undg6_0080_0090_tif_1,,¿Por qué me habrá ayudado?
+$ev_undg6_0080_0090_tif_1,ACTOR,Tifa
+$ev_undg6_0080_0092_cld_0,,
+$ev_undg6_0080_0092_cld_0,ACTOR,
+$ev_undg6_0080_0100_art_0,,¡Ay!
+$ev_undg6_0080_0100_art_0,ACTOR,Aeris
+$ev_undg6_0080_0101_art_0,,
+$ev_undg6_0080_0101_art_0,ACTOR,
+$ev_undg6_0080_0102_cld_0,,
+$ev_undg6_0080_0102_cld_0,ACTOR,
+$ev_undg6_0080_0103_art_0,,
+$ev_undg6_0080_0103_art_0,ACTOR,
+$ev_undg6_0080_0104_cld_0,,
+$ev_undg6_0080_0104_cld_0,ACTOR,
+$ev_undg6_0080_0105_tif_0,,
+$ev_undg6_0080_0105_tif_0,ACTOR,
+$ev_undg6_0080_0106_art_0,,
+$ev_undg6_0080_0106_art_0,ACTOR,
+$ev_undg6_0080_0108_cld_0,,
+$ev_undg6_0080_0108_cld_0,ACTOR,
+$ev_undg6_0080_0109_tif_0,,
+$ev_undg6_0080_0109_tif_0,ACTOR,
+$ev_undg6_0080_0110_art_0,,
+$ev_undg6_0080_0110_art_0,ACTOR,
+$ev_undg6_0450_0005_tif_0,,
+$ev_undg6_0450_0005_tif_0,ACTOR,
+$ev_undg6_0450_0010_tif_0,,No... No puedo dejar de pensar en lo peor.
+$ev_undg6_0450_0010_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0020_art_0,,Te entiendo.
+$ev_undg6_0450_0020_art_0,ACTOR,Aeris
+$ev_undg6_0450_0030_tif_0,,Destruir el sector 7 es una broma de muy mal gusto.
+$ev_undg6_0450_0030_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0040_tif_0,,"Pero, y si... y si fuera verdad..."
+$ev_undg6_0450_0040_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0040_tif_1,,Llegaremos justo a tiempo para detenerlo. Seguro.
+$ev_undg6_0450_0040_tif_1,ACTOR,Tifa
+$ev_undg6_0450_0050_art_0,,Sí.
+$ev_undg6_0450_0050_art_0,ACTOR,Aeris
+$ev_undg6_0450_0055_art_0,,
+$ev_undg6_0450_0055_art_0,ACTOR,
+$ev_undg6_0450_0057_tif_0,,
+$ev_undg6_0450_0057_tif_0,ACTOR,
+$ev_undg6_0450_0060_tif_0,,"Aeris, ¿sabes algo?"
+$ev_undg6_0450_0060_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0070_art_0,,¿Eh?
+$ev_undg6_0450_0070_art_0,ACTOR,Aeris
+$ev_undg6_0450_0078_cld_0,,
+$ev_undg6_0450_0078_cld_0,ACTOR,
+$ev_undg6_0450_0080_cld_0,,"Tifa, Aeris, cruzad de una en una."
+$ev_undg6_0450_0080_cld_0,ACTOR,Cloud
+$ev_undg6_0450_0090_tif_0,,Entendido.
+$ev_undg6_0450_0090_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0100_tif_0,,Voy primero.
+$ev_undg6_0450_0100_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0102_art_0,,
+$ev_undg6_0450_0102_art_0,ACTOR,
+$ev_undg6_0450_0104_tif_0,,
+$ev_undg6_0450_0104_tif_0,ACTOR,
+$ev_undg6_0450_0105_art_0,,
+$ev_undg6_0450_0105_art_0,ACTOR,
+$ev_undg6_0450_0110_tif_0,,
+$ev_undg6_0450_0110_tif_0,ACTOR,
+$ev_undg6_0450_0120_tif_0,,"Aeris, puedes venir."
+$ev_undg6_0450_0120_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0130_art_0,,Vale.
+$ev_undg6_0450_0130_art_0,ACTOR,Aeris
+$ev_undg6_0450_0140_art_0,,
+$ev_undg6_0450_0140_art_0,ACTOR,Aeris
+$ev_undg6_0450_0143_art_0,,
+$ev_undg6_0450_0143_art_0,ACTOR,
+$ev_undg6_0450_0146_tif_0,,
+$ev_undg6_0450_0146_tif_0,ACTOR,
+$ev_undg6_0450_0150_tif_0,,Ya casi.
+$ev_undg6_0450_0150_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0160_art_0,,
+$ev_undg6_0450_0160_art_0,ACTOR,
+$ev_undg6_0450_0168_tif_0,,
+$ev_undg6_0450_0168_tif_0,ACTOR,
+$ev_undg6_0450_0170_tif_0,,¡Aeris!
+$ev_undg6_0450_0170_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0180_cld_0,,¡Salta!
+$ev_undg6_0450_0180_cld_0,ACTOR,Cloud
+$ev_undg6_0450_0182_art_0,,
+$ev_undg6_0450_0182_art_0,ACTOR,
+$ev_undg6_0450_0184_tif_0,,
+$ev_undg6_0450_0184_tif_0,ACTOR,
+$ev_undg6_0450_0185_art_0,,
+$ev_undg6_0450_0185_art_0,ACTOR,
+$ev_undg6_0450_0187_cld_0,,
+$ev_undg6_0450_0187_cld_0,ACTOR,
+$ev_undg6_0450_0190_tif_0,,Qué susto.
+$ev_undg6_0450_0190_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0200_art_0,,"Tifa, gracias."
+$ev_undg6_0450_0200_art_0,ACTOR,Aeris
+$ev_undg6_0450_0210_tif_0,,De nada.
+$ev_undg6_0450_0210_tif_0,ACTOR,Tifa
+$ev_undg6_0450_0220_art_0,,Cloud también.
+$ev_undg6_0450_0220_art_0,ACTOR,Aeris
+$ev_undg6_0450_0223_cld_0,,
+$ev_undg6_0450_0223_cld_0,ACTOR,
+$ev_undg6_0450_0226_cld_0,,
+$ev_undg6_0450_0226_cld_0,ACTOR,
+$ev_undg6_0450_0230_art_0,,
+$ev_undg6_0450_0230_art_0,ACTOR,
+$ev_undg6_0450_0240_art_0,,Vamos.
+$ev_undg6_0450_0240_art_0,ACTOR,Aeris
+$ev_undg6_0450_0245_tif_0,,
+$ev_undg6_0450_0245_tif_0,ACTOR,
+$ev_undg6_0450_0250_art_0,,
+$ev_undg6_0450_0250_art_0,ACTOR,
+$ev_undg6_0460_0010_tif_0,,"Ay, otra vez."
+$ev_undg6_0460_0010_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0020_art_0,,¿Lo peor?
+$ev_undg6_0460_0020_art_0,ACTOR,Aeris
+$ev_undg6_0460_0030_tif_0,,Sí.
+$ev_undg6_0460_0030_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0040_art_0,,"El futuro se puede cambiar, ¿sabes?"
+$ev_undg6_0460_0040_art_0,ACTOR,Aeris
+$ev_undg6_0460_0050_art_0,,Yo creo en eso.
+$ev_undg6_0460_0050_art_0,ACTOR,Aeris
+$ev_undg6_0460_0060_tif_0,,Ya... Tienes razón.
+$ev_undg6_0460_0060_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0070_art_0,,Piensa también en cosas divertidas.
+$ev_undg6_0460_0070_art_0,ACTOR,Aeris
+$ev_undg6_0460_0070_art_1,,Cuando salvemos el sector 7...
+$ev_undg6_0460_0070_art_1,ACTOR,Aeris
+$ev_undg6_0460_0080_tif_0,,Si lo salvamos...
+$ev_undg6_0460_0080_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0090_tif_0,,¿Qué tal si vamos de compras arriba?
+$ev_undg6_0460_0090_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0090_tif_1,,A ver...
+$ev_undg6_0460_0090_tif_1,ACTOR,Tifa
+$ev_undg6_0460_0100_tif_0,,"Por ejemplo, buscar cositas y vajilla con encanto."
+$ev_undg6_0460_0100_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0110_art_0,,¿Con Tifa?
+$ev_undg6_0460_0110_art_0,ACTOR,Aeris
+$ev_undg6_0460_0120_tif_0,,Si quieres.
+$ev_undg6_0460_0120_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0130_art_0,,¡Voy sin falta!
+$ev_undg6_0460_0130_art_0,ACTOR,Aeris
+$ev_undg6_0460_0132_tif_0,,
+$ev_undg6_0460_0132_tif_0,ACTOR,
+$ev_undg6_0460_0133_art_0,,
+$ev_undg6_0460_0133_art_0,ACTOR,
+$ev_undg6_0460_0140_tif_0,,Cloud nos llevará las bolsas.
+$ev_undg6_0460_0140_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0150_art_0,,Le haremos cargar un montón.
+$ev_undg6_0460_0150_art_0,ACTOR,Aeris
+$ev_undg6_0460_0155_tif_0,,
+$ev_undg6_0460_0155_tif_0,ACTOR,
+$ev_undg6_0460_0160_cld_0,,¿Qué pasa conmigo?
+$ev_undg6_0460_0160_cld_0,ACTOR,Cloud
+$ev_undg6_0460_0170_tif_0,,Nada.
+$ev_undg6_0460_0170_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0175_art_0,,
+$ev_undg6_0460_0175_art_0,ACTOR,
+$ev_undg6_0460_0180_art_0,,
+$ev_undg6_0460_0180_art_0,ACTOR,
+$ev_undg6_0460_0185_art_0,,
+$ev_undg6_0460_0185_art_0,ACTOR,
+$ev_undg6_0460_0190_tif_0,,
+$ev_undg6_0460_0190_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0195_cld_0,,
+$ev_undg6_0460_0195_cld_0,ACTOR,
+$ev_undg6_0460_0197_tif_0,,
+$ev_undg6_0460_0197_tif_0,ACTOR,
+$ev_undg6_0460_0200_art_0,,Esto tiene mala pinta.
+$ev_undg6_0460_0200_art_0,ACTOR,Aeris
+$ev_undg6_0460_0210_cld_0,,
+$ev_undg6_0460_0210_cld_0,ACTOR,
+$ev_undg6_0460_0215_cld_0,,
+$ev_undg6_0460_0215_cld_0,ACTOR,
+$ev_undg6_0460_0220_art_0,,¡Agárrate!
+$ev_undg6_0460_0220_art_0,ACTOR,Aeris
+$ev_undg6_0460_0225_cld_0,,
+$ev_undg6_0460_0225_cld_0,ACTOR,
+$ev_undg6_0460_0227_tif_0,,
+$ev_undg6_0460_0227_tif_0,ACTOR,
+$ev_undg6_0460_0230_art_0,,No me sueltes.
+$ev_undg6_0460_0230_art_0,ACTOR,Aeris
+$ev_undg6_0460_0240_tif_0,,Voy a subir de golpe.
+$ev_undg6_0460_0240_tif_0,ACTOR,Tifa
+$ev_undg6_0460_0240_tif_1,,¡A la de tres!
+$ev_undg6_0460_0240_tif_1,ACTOR,Tifa
+$ev_undg6_0460_0242_cld_0,,
+$ev_undg6_0460_0242_cld_0,ACTOR,
+$ev_undg6_0460_0250_art_0,,
+$ev_undg6_0460_0250_art_0,ACTOR,
+$ev_undg6_0460_0260_tif_0,,
+$ev_undg6_0460_0260_tif_0,ACTOR,
+$ev_undg6_0460_0262_art_0,,
+$ev_undg6_0460_0262_art_0,ACTOR,
+$ev_undg6_0460_0264_tif_0,,
+$ev_undg6_0460_0264_tif_0,ACTOR,
+$ev_undg6_0460_0270_cld_0,,
+$ev_undg6_0460_0270_cld_0,ACTOR,
+$ev_undg6_0460_0275_cld_0,,
+$ev_undg6_0460_0275_cld_0,ACTOR,
+$ev_undg6_0460_0280_cld_0,,Lo siento.
+$ev_undg6_0460_0280_cld_0,ACTOR,Cloud
+$ev_undg6_0460_0290_art_0,,No pasa nada.
+$ev_undg6_0460_0290_art_0,ACTOR,Aeris
+$ev_undg6_0460_0293_tif_0,,
+$ev_undg6_0460_0293_tif_0,ACTOR,
+$ev_undg6_0460_0295_cld_0,,
+$ev_undg6_0460_0295_cld_0,ACTOR,
+$ev_undg6_0460_0300_cld_0,,
+$ev_undg6_0460_0300_cld_0,ACTOR,
+$ev_undg6_0640_0010_tif_0,,¡Cloud!
+$ev_undg6_0640_0010_tif_0,ACTOR,Tifa
+$ev_undg6_0640_0012_cld_0,,
+$ev_undg6_0640_0012_cld_0,ACTOR,
+$ev_undg6_0640_0013_tif_0,,
+$ev_undg6_0640_0013_tif_0,ACTOR,
+$ev_undg6_0640_0014_art_0,,
+$ev_undg6_0640_0014_art_0,ACTOR,
+$ev_undg6_0640_0015_art_0,,
+$ev_undg6_0640_0015_art_0,ACTOR,
+$ev_undg6_0640_0017_cld_0,,
+$ev_undg6_0640_0017_cld_0,ACTOR,
+$ev_undg6_0640_0020_tif_0,,"No van a dejarnos pasar, ¿eh?"
+$ev_undg6_0640_0020_tif_0,ACTOR,Tifa
+$ev_undg6_0640_0030_art_0,,¡No estamos buenas!
+$ev_undg6_0640_0030_art_0,ACTOR,Aeris
+$ev_undg6_0640_0033_tif_0,,
+$ev_undg6_0640_0033_tif_0,ACTOR,
+$ev_undg6_0640_0034_art_0,,
+$ev_undg6_0640_0034_art_0,ACTOR,
+$ev_undg6_0640_0035_art_0,,
+$ev_undg6_0640_0035_art_0,ACTOR,
+$ev_undg6_0640_0035_tif_0,,
+$ev_undg6_0640_0035_tif_0,ACTOR,
+$ev_undg6_0640_0036_cld_0,,
+$ev_undg6_0640_0036_cld_0,ACTOR,
+$ev_undg6_0640_0040_cld_0,,Id primero.
+$ev_undg6_0640_0040_cld_0,ACTOR,Cloud
+$ev_undg6_0640_0050_tif_0,,¡Aeris!
+$ev_undg6_0640_0050_tif_0,ACTOR,Tifa
+$ev_undg6_0640_0060_art_0,,Sí.
+$ev_undg6_0640_0060_art_0,ACTOR,Aeris
+$ev_undg6_0640_0061_art_0,,
+$ev_undg6_0640_0061_art_0,ACTOR,
+$ev_undg6_0640_0062_cld_0,,
+$ev_undg6_0640_0062_cld_0,ACTOR,
+$ev_undg6_0640_0063_cld_0,,
+$ev_undg6_0640_0063_cld_0,ACTOR,
+$ev_undg6_0640_0063_tif_0,,
+$ev_undg6_0640_0063_tif_0,ACTOR,
+$ev_undg6_0640_0064_tif_0,,
+$ev_undg6_0640_0064_tif_0,ACTOR,
+$ev_undg6_0640_0065_tif_0,,
+$ev_undg6_0640_0065_tif_0,ACTOR,
+$ev_undg6_0640_0067_tif_0,,
+$ev_undg6_0640_0067_tif_0,ACTOR,
+$ev_undg6_0640_0070_cld_0,,"Tifa, tú también."
+$ev_undg6_0640_0070_cld_0,ACTOR,Cloud
+$ev_undg6_0640_0071_tif_0,,
+$ev_undg6_0640_0071_tif_0,ACTOR,
+$ev_undg6_0640_0080_tif_0,,"Pero así, sola..."
+$ev_undg6_0640_0080_tif_0,ACTOR,Tifa
+$ev_undg6_0640_0085_tif_0,,
+$ev_undg6_0640_0085_tif_0,ACTOR,
+$ev_undg6_0640_0090_cld_0,,¿A quién se lo dices?
+$ev_undg6_0640_0090_cld_0,ACTOR,Cloud
+$ev_undg6_0640_0100_tif_0,,Date prisa.
+$ev_undg6_0640_0100_tif_0,ACTOR,Tifa
+$ev_undg6_0640_0102_tif_0,,
+$ev_undg6_0640_0102_tif_0,ACTOR,
+$ev_undg6_0640_0105_cld_0,,
+$ev_undg6_0640_0105_cld_0,ACTOR,
+$ev_undg6_0640_0110_cld_0,,"Ya lo sabes, ¿no? Soy fuerte."
+$ev_undg6_0640_0110_cld_0,ACTOR,Cloud
+$ev_undg6_0640_0120_cld_0,,
+$ev_undg6_0640_0120_cld_0,ACTOR,
+$ev_undg6_0640_0122_cld_0,,
+$ev_undg6_0640_0122_cld_0,ACTOR,
+$ev_undg6_0640_0123_cld_0,,
+$ev_undg6_0640_0123_cld_0,ACTOR,
+$ev_undg6_0640_0124_cld_0,,
+$ev_undg6_0640_0124_cld_0,ACTOR,
+$ev_undg6_0640_0125_cld_0,,
+$ev_undg6_0640_0125_cld_0,ACTOR,
+$ev_undg6_0640_0126_cld_0,,
+$ev_undg6_0640_0126_cld_0,ACTOR,
+$ev_undg6_0640_0130_tif_0,,¡Cloud!
+$ev_undg6_0640_0130_tif_0,ACTOR,Tifa
+$ev_undg6_0640_0140_art_0,,¡Rápido!
+$ev_undg6_0640_0140_art_0,ACTOR,Aeris
+$ev_undg6_2010_0001_cld_0,,
+$ev_undg6_2010_0001_cld_0,ACTOR,
+$ev_undg6_2010_0003_blt_0,,
+$ev_undg6_2010_0003_blt_0,ACTOR,
+$ev_undg6_2010_0010_blt_0,,¿De verdad nos dirás cómo subir?
+$ev_undg6_2010_0010_blt_0,ACTOR,Barret
+$ev_undg6_2010_0020_rez_0,,Si hacéis vuestro trabajo.
+$ev_undg6_2010_0020_rez_0,ACTOR,Leslie
+$ev_undg6_2010_0030_blt_0,,Todavía no me fío de ti.
+$ev_undg6_2010_0030_blt_0,ACTOR,Barret
+$ev_undg6_2010_0030_blt_1,,Si haces algo raro...
+$ev_undg6_2010_0030_blt_1,ACTOR,Barret
+$ev_undg6_2010_0040_blt_0,,"No querrás acabar como un colador, ¿no?"
+$ev_undg6_2010_0040_blt_0,ACTOR,Barret
+$ev_undg6_2010_0050_rez_0,,Eso déjaselo a los monstruos.
+$ev_undg6_2010_0050_rez_0,ACTOR,Leslie
+$ev_undg6_2010_0050_rez_1,,Hay muchos que son bastante duros.
+$ev_undg6_2010_0050_rez_1,ACTOR,Leslie
+$ev_undg6_2010_0060_rez_0,,Yo solo no puedo con ellos.
+$ev_undg6_2010_0060_rez_0,ACTOR,Leslie
+$ev_undg6_2010_0060_rez_1,,"Pero con vosotros será pan comido, ¿no?"
+$ev_undg6_2010_0060_rez_1,ACTOR,Leslie
+$ev_undg6_2010_0080_cld_0,,Acabemos rápido.
+$ev_undg6_2010_0080_cld_0,ACTOR,Cloud
+$ev_undg6_2130_0010_blt_0,,¿Aquí?
+$ev_undg6_2130_0010_blt_0,ACTOR,Barret
+$ev_undg6_2130_0020_rez_0,,Sí.
+$ev_undg6_2130_0020_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0030_cld_0,,¿Cómo subimos a la plataforma?
+$ev_undg6_2130_0030_cld_0,ACTOR,Cloud
+$ev_undg6_2130_0040_rez_0,,Dentro.
+$ev_undg6_2130_0040_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0050_cld_0,,¿Quieres que sigamos hasta el final?
+$ev_undg6_2130_0050_cld_0,ACTOR,Cloud
+$ev_undg6_2130_0060_rez_0,,"Lo siento, pero vosotros..."
+$ev_undg6_2130_0060_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0064_cld_0,,
+$ev_undg6_2130_0064_cld_0,ACTOR,
+$ev_undg6_2130_0065_rez_0,,
+$ev_undg6_2130_0065_rez_0,ACTOR,
+$ev_undg6_2130_0066_blt_0,,
+$ev_undg6_2130_0066_blt_0,ACTOR,
+$ev_undg6_2130_0070_cld_0,,
+$ev_undg6_2130_0070_cld_0,ACTOR,
+$ev_undg6_2130_0080_tif_0,,
+$ev_undg6_2130_0080_tif_0,ACTOR,
+$ev_undg6_2130_0090_blt_0,,
+$ev_undg6_2130_0090_blt_0,ACTOR,
+$ev_undg6_2130_0100_rez_0,,
+$ev_undg6_2130_0100_rez_0,ACTOR,
+$ev_undg6_2130_0102_rez_0,,
+$ev_undg6_2130_0102_rez_0,ACTOR,
+$ev_undg6_2130_0105_cld_0,,
+$ev_undg6_2130_0105_cld_0,ACTOR,
+$ev_undg6_2130_0106_blt_0,,
+$ev_undg6_2130_0106_blt_0,ACTOR,
+$ev_undg6_2130_0110_rez_0,,Es que...
+$ev_undg6_2130_0110_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0120_rez_0,,¡Espera!
+$ev_undg6_2130_0120_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0130_rez_0,,Vamos tras él.
+$ev_undg6_2130_0130_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0140_tif_0,,
+$ev_undg6_2130_0140_tif_0,ACTOR,Tifa
+$ev_undg6_2130_0150_rez_0,,Es algo importante.
+$ev_undg6_2130_0150_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0160_rez_0,,Ahí dentro está la llave de aquí.
+$ev_undg6_2130_0160_rez_0,ACTOR,Leslie
+$ev_undg6_2130_0163_blt_0,,
+$ev_undg6_2130_0163_blt_0,ACTOR,
+$ev_undg6_2130_0166_cld_0,,
+$ev_undg6_2130_0166_cld_0,ACTOR,
+$ev_undg6_2130_0170_cld_0,,Vamos.
+$ev_undg6_2130_0170_cld_0,ACTOR,Cloud
+$ev_undg6_2130_0180_blt_0,,
+$ev_undg6_2130_0180_blt_0,ACTOR,
+$ev_undg6_2130_0190_rez_0,,
+$ev_undg6_2130_0190_rez_0,ACTOR,
+$ev_undg6_2270_0005_cld_0,,
+$ev_undg6_2270_0005_cld_0,ACTOR,
+$ev_undg6_2270_0008_rez_0,,
+$ev_undg6_2270_0008_rez_0,ACTOR,
+$ev_undg6_2270_0010_rez_0,,Devuélvemelo.
+$ev_undg6_2270_0010_rez_0,ACTOR,Leslie
+$ev_undg6_2270_0012_cld_0,,
+$ev_undg6_2270_0012_cld_0,ACTOR,
+$ev_undg6_2270_0015_cld_0,,
+$ev_undg6_2270_0015_cld_0,ACTOR,
+$ev_undg6_2270_0020_tif_0,,Eso...
+$ev_undg6_2270_0020_tif_0,ACTOR,Tifa
+$ev_undg6_2270_0030_rez_0,,Devuélvemelo.
+$ev_undg6_2270_0030_rez_0,ACTOR,Leslie
+$ev_undg6_2270_0035_cld_0,,
+$ev_undg6_2270_0035_cld_0,ACTOR,
+$ev_undg6_2270_0040_blt_0,,¿No era una llave?
+$ev_undg6_2270_0040_blt_0,ACTOR,Barret
+$ev_undg6_2270_0050_rez_0,,Lo siento.
+$ev_undg6_2270_0050_rez_0,ACTOR,Leslie
+$ev_undg6_2270_0060_blt_0,,"No es tuyo, ¿verdad?"
+$ev_undg6_2270_0060_blt_0,ACTOR,Barret
+$ev_undg6_2270_0060_blt_1,,¿Es un recuerdo de un familiar?
+$ev_undg6_2270_0060_blt_1,ACTOR,Barret
+$ev_undg6_2270_0070_rez_0,,No tengo familia.
+$ev_undg6_2270_0070_rez_0,ACTOR,Leslie
+$ev_undg6_2280_0010_wm01_0,,Estábamos soñando.
+$ev_undg6_2280_0010_wm01_0,ACTOR,Novia de Leslie
+$ev_undg6_2280_0020_wm01_0,,El lenguaje de las flores.
+$ev_undg6_2280_0020_wm01_0,ACTOR,Novia de Leslie
+$ev_undg6_2280_0030_wm01_0,,
+$ev_undg6_2280_0030_wm01_0,ACTOR,Novia de Leslie
+$ev_undg6_2280_0030_wm01_1,,Olvídame.
+$ev_undg6_2280_0030_wm01_1,ACTOR,Novia de Leslie
+$ev_undg6_2280_0040_rez_0,,Hace medio año...
+$ev_undg6_2280_0040_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0020_rez_0,,"Tras ser elegida como esposa de Corneo, desapareció sin más."
+$ev_undg6_2290_0020_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0030_rez_0,,Y entonces me la devolvió.
+$ev_undg6_2290_0030_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0040_rez_0,,"Qué cruel, ¿no?"
+$ev_undg6_2290_0040_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0040_rez_1,,Y no me había costado barata.
+$ev_undg6_2290_0040_rez_1,ACTOR,Leslie
+$ev_undg6_2290_0050_tif_0,,¿Y tu objetivo?
+$ev_undg6_2290_0050_tif_0,ACTOR,Tifa
+$ev_undg6_2290_0060_rez_0,,Venganza.
+$ev_undg6_2290_0060_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0070_rez_0,,Sé que es tarde para eso.
+$ev_undg6_2290_0070_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0080_rez_0,,"Pero si no lo resuelvo, no puedo seguir adelante."
+$ev_undg6_2290_0080_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0090_cld_0,,Haz lo que quieras.
+$ev_undg6_2290_0090_cld_0,ACTOR,Cloud
+$ev_undg6_2290_0090_cld_1,,A nosotros nos basta con subir.
+$ev_undg6_2290_0090_cld_1,ACTOR,Cloud
+$ev_undg6_2290_0100_rez_0,,Entendido. De eso me encargo yo.
+$ev_undg6_2290_0100_rez_0,ACTOR,Leslie
+$ev_undg6_2290_0105_tif_0,,
+$ev_undg6_2290_0105_tif_0,ACTOR,
+$ev_undg6_2290_0110_blt_0,,Me gusta.
+$ev_undg6_2290_0110_blt_0,ACTOR,Barret
+$ev_undg6_8010_0005_tif_0,,
+$ev_undg6_8010_0005_tif_0,ACTOR,
+$ev_undg6_8010_0010_cld_0,,¿Estáis listas?
+$ev_undg6_8010_0010_cld_0,ACTOR,Cloud
+$ev_undg6_8010_0020_art_0,,Sin problema.
+$ev_undg6_8010_0020_art_0,ACTOR,Aeris
+$ev_undg6_8010_0030_tif_0,,¡Claro!
+$ev_undg6_8010_0030_tif_0,ACTOR,Tifa
+$ev_undg6_8020_0000_cld_0,,
+$ev_undg6_8020_0000_cld_0,ACTOR,
+$ev_undg6_8020_0001_cld_0,,
+$ev_undg6_8020_0001_cld_0,ACTOR,
+$ev_undg6_8020_0002_tif_0,,
+$ev_undg6_8020_0002_tif_0,ACTOR,
+$ev_undg6_8020_0003_art_0,,
+$ev_undg6_8020_0003_art_0,ACTOR,
+$ev_undg6_8020_0004_cld_0,,
+$ev_undg6_8020_0004_cld_0,ACTOR,
+$ev_undg6_8020_0005_cld_0,,
+$ev_undg6_8020_0005_cld_0,ACTOR,
+$ev_undg6_8020_0006_art_0,,
+$ev_undg6_8020_0006_art_0,ACTOR,
+$ev_undg6_8020_0007_tif_0,,
+$ev_undg6_8020_0007_tif_0,ACTOR,
+$ev_undg6_8020_0009_tif_0,,
+$ev_undg6_8020_0009_tif_0,ACTOR,
+$ev_undg6_8020_0010_tif_0,,Se ha ido.
+$ev_undg6_8020_0010_tif_0,ACTOR,Tifa
+$ev_undg6_8020_0020_art_0,,¿Vivirá aquí?
+$ev_undg6_8020_0020_art_0,ACTOR,Aeris
+$ev_undg6_8020_0030_cld_0,,Puede que Corneo lo tenga como mascota.
+$ev_undg6_8020_0030_cld_0,ACTOR,Cloud
+$ev_undg6_8020_0040_cld_0,,Y la comida...
+$ev_undg6_8020_0040_cld_0,ACTOR,Cloud
+$ev_undg6_8020_0050_art_0,,"Jo, jo..."
+$ev_undg6_8020_0050_art_0,ACTOR,
+$ev_undg6_8020_0060_tif_0,,"Oye, ¿te crees lo que ha dicho Corneo?"
+$ev_undg6_8020_0060_tif_0,ACTOR,Tifa
+$ev_undg6_8020_0070_tif_0,,Tirar la plataforma no es solo acabar con Avalancha...
+$ev_undg6_8020_0070_tif_0,ACTOR,Tifa
+$ev_undg6_8020_0080_tif_0,,Sería una crisis para Midgar. ¿Shinra haría algo así?
+$ev_undg6_8020_0080_tif_0,ACTOR,Tifa
+$ev_undg6_8020_0087_cld_0,,
+$ev_undg6_8020_0087_cld_0,ACTOR,
+$ev_undg6_8020_0090_cld_0,,¿Corneo nos habrá amenazado con un plan que no existe?
+$ev_undg6_8020_0090_cld_0,ACTOR,Cloud
+$ev_undg6_8020_0100_tif_0,,"Con él, es posible."
+$ev_undg6_8020_0100_tif_0,ACTOR,Tifa
+$ev_undg6_8020_0110_art_0,,Pero ¿y si fuera verdad?
+$ev_undg6_8020_0110_art_0,ACTOR,Aeris
+$ev_undg6_8020_0115_tif_0,,
+$ev_undg6_8020_0115_tif_0,ACTOR,
+$ev_undg6_8020_0120_art_0,,Siempre hay un caso entre un millón.
+$ev_undg6_8020_0120_art_0,ACTOR,Aeris
+$ev_undg6_8020_0120_art_1,,"Venga, demos prisa."
+$ev_undg6_8020_0120_art_1,ACTOR,Aeris
+$ev_undg6_8020_0130_art_0,,"Y si no pasa nada, mejor, ¿no?"
+$ev_undg6_8020_0130_art_0,ACTOR,Aeris
+$ev_undg6_8020_0135_cld_0,,
+$ev_undg6_8020_0135_cld_0,ACTOR,
+$ev_undg6_8020_0136_tif_0,,
+$ev_undg6_8020_0136_tif_0,ACTOR,
+$ev_undg6_8020_0140_tif_0,,
+$ev_undg6_8020_0140_tif_0,ACTOR,
+$ev_undg6_8020_0141_tif_0,,
+$ev_undg6_8020_0141_tif_0,ACTOR,
+$ev_undg6_8020_0142_cld_0,,
+$ev_undg6_8020_0142_cld_0,ACTOR,
+$ev_undg6_8020_0145_art_0,,
+$ev_undg6_8020_0145_art_0,ACTOR,
+$ev_undg6_8020_0150_cld_0,,¿Tifa?
+$ev_undg6_8020_0150_cld_0,ACTOR,Cloud
+$ev_undg6_8110_0010_rez_0,,Soy Leslie.
+$ev_undg6_8110_0010_rez_0,ACTOR,Leslie
+$ev_undg6_8110_0010_rez_1,,Vengo a informar al señor Corneo.
+$ev_undg6_8110_0010_rez_1,ACTOR,Leslie
+$ev_undg6_8110_0020_cln_0,,¿Mmm?
+$ev_undg6_8110_0020_cln_0,ACTOR,
+$ev_undg6_8110_0030_cln_0,,¿Solo?
+$ev_undg6_8110_0030_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0040_rez_0,,Sí.
+$ev_undg6_8110_0040_rez_0,ACTOR,Leslie
+$ev_undg6_8110_0050_cln_0,,¿Y las gatitas de Avalancha?
+$ev_undg6_8110_0050_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0050_cln_1,,"Tu trabajo era atraparlas, ¿no?"
+$ev_undg6_8110_0050_cln_1,ACTOR,Don Corneo
+$ev_undg6_8110_0060_rez_0,,"Perdón, vengo a informar de eso."
+$ev_undg6_8110_0060_rez_0,ACTOR,Leslie
+$ev_undg6_8110_0070_cln_0,,
+$ev_undg6_8110_0070_cln_0,ACTOR,
+$ev_undg6_8110_0071_cln_0,,
+$ev_undg6_8110_0071_cln_0,ACTOR,
+$ev_undg6_8110_0072_rez_0,,
+$ev_undg6_8110_0072_rez_0,ACTOR,
+$ev_undg6_8110_0073_cln_0,,
+$ev_undg6_8110_0073_cln_0,ACTOR,
+$ev_undg6_8110_0074_rez_0,,
+$ev_undg6_8110_0074_rez_0,ACTOR,
+$ev_undg6_8110_0075_rez_0,,
+$ev_undg6_8110_0075_rez_0,ACTOR,
+$ev_undg6_8110_0076_cln_0,,
+$ev_undg6_8110_0076_cln_0,ACTOR,
+$ev_undg6_8110_0077_cln_0,,
+$ev_undg6_8110_0077_cln_0,ACTOR,
+$ev_undg6_8110_0078_rez_0,,
+$ev_undg6_8110_0078_rez_0,ACTOR,
+$ev_undg6_8110_0080_cln_0,,
+$ev_undg6_8110_0080_cln_0,ACTOR,
+$ev_undg6_8110_0090_rez_0,,
+$ev_undg6_8110_0090_rez_0,ACTOR,
+$ev_undg6_8110_0092_rez_0,,
+$ev_undg6_8110_0092_rez_0,ACTOR,
+$ev_undg6_8110_0098_cln_0,,
+$ev_undg6_8110_0098_cln_0,ACTOR,
+$ev_undg6_8110_0100_cln_0,,¡Leslie!
+$ev_undg6_8110_0100_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0110_rez_0,,
+$ev_undg6_8110_0110_rez_0,ACTOR,
+$ev_undg6_8110_0120_cln_0,,"Sabes por qué estoy escondido, ¿no?"
+$ev_undg6_8110_0120_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0125_rez_0,,
+$ev_undg6_8110_0125_rez_0,ACTOR,
+$ev_undg6_8110_0130_cln_0,,Les conté a las gatitas de Avalancha un poquito de más...
+$ev_undg6_8110_0130_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0140_cln_0,,Y Shinra me tiene en el punto de mira.
+$ev_undg6_8110_0140_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0150_cln_0,,La plataforma iba a derrumbarse con gran estruendo y las víctimas iban a ser muchas más...
+$ev_undg6_8110_0150_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0155_rez_0,,
+$ev_undg6_8110_0155_rez_0,ACTOR,
+$ev_undg6_8110_0160_cln_0,,Pero esa gente hizo evacuar la barriada.
+$ev_undg6_8110_0160_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0165_blt_0,,
+$ev_undg6_8110_0165_blt_0,ACTOR,
+$ev_undg6_8110_0170_cln_0,,Te lo digo en confianza: Shinra va a abandonar Midgar...
+$ev_undg6_8110_0170_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0180_cln_0,,y va a construir un nuevo paraíso.
+$ev_undg6_8110_0180_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0185_rez_0,,
+$ev_undg6_8110_0185_rez_0,ACTOR,
+$ev_undg6_8110_0190_cln_0,,Y yo iba a ser el don del nuevo Mercado Muro...
+$ev_undg6_8110_0190_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0195_rez_0,,
+$ev_undg6_8110_0195_rez_0,ACTOR,
+$ev_undg6_8110_0200_cln_0,,Ahora soy un fugitivo.
+$ev_undg6_8110_0200_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0203_rez_0,,
+$ev_undg6_8110_0203_rez_0,ACTOR,
+$ev_undg6_8110_0206_cln_0,,
+$ev_undg6_8110_0206_cln_0,ACTOR,
+$ev_undg6_8110_0210_cln_0,,¡Leslie!
+$ev_undg6_8110_0210_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0210_cln_1,,Pensaba dejarte un nuevo local...
+$ev_undg6_8110_0210_cln_1,ACTOR,Don Corneo
+$ev_undg6_8110_0220_cln_0,,Qué pena.
+$ev_undg6_8110_0220_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0230_cln_0,,"¡Y ahora, un acertijo!"
+$ev_undg6_8110_0230_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0230_cln_1,,Los villanos como nosotros hablamos sin parar...
+$ev_undg6_8110_0230_cln_1,ACTOR,Don Corneo
+$ev_undg6_8110_0235_rez_0,,
+$ev_undg6_8110_0235_rez_0,ACTOR,
+$ev_undg6_8110_0240_cln_0,,¿Cuándo contamos la verdad?
+$ev_undg6_8110_0240_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0250_rez_0,,Cuando están seguros de su victoria...
+$ev_undg6_8110_0250_rez_0,ACTOR,Leslie
+$ev_undg6_8110_0255_cln_0,,
+$ev_undg6_8110_0255_cln_0,ACTOR,
+$ev_undg6_8110_0260_cln_0,,Correcto.
+$ev_undg6_8110_0260_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0270_cld_0,,¿De verdad?
+$ev_undg6_8110_0270_cld_0,ACTOR,Cloud
+$ev_undg6_8110_0280_cln_0,,¿Mmm?
+$ev_undg6_8110_0280_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0290_cln_0,,Vosotros...
+$ev_undg6_8110_0290_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0300_blt_0,,Cuéntanos lo del sector 7 con detalle.
+$ev_undg6_8110_0300_blt_0,ACTOR,Barret
+$ev_undg6_8110_0310_cln_0,,¡Ah...!
+$ev_undg6_8110_0310_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0320_blt_0,,¿Me estás tomando el pelo?
+$ev_undg6_8110_0320_blt_0,ACTOR,Barret
+$ev_undg6_8110_0330_cln_0,,¡Qué pena!
+$ev_undg6_8110_0330_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0330_cln_1,,Pero no es ninguna broma.
+$ev_undg6_8110_0330_cln_1,ACTOR,Don Corneo
+$ev_undg6_8110_0332_cld_0,,
+$ev_undg6_8110_0332_cld_0,ACTOR,
+$ev_undg6_8110_0333_rez_0,,
+$ev_undg6_8110_0333_rez_0,ACTOR,
+$ev_undg6_8110_0334_blt_0,,
+$ev_undg6_8110_0334_blt_0,ACTOR,
+$ev_undg6_8110_0335_cln_0,,
+$ev_undg6_8110_0335_cln_0,ACTOR,
+$ev_undg6_8110_0336_blt_0,,
+$ev_undg6_8110_0336_blt_0,ACTOR,
+$ev_undg6_8110_0338_rez_0,,
+$ev_undg6_8110_0338_rez_0,ACTOR,
+$ev_undg6_8110_0340_rez_0,,
+$ev_undg6_8110_0340_rez_0,ACTOR,
+$ev_undg6_8110_0350_tif_0,,
+$ev_undg6_8110_0350_tif_0,ACTOR,
+$ev_undg6_8110_0358_cln_0,,
+$ev_undg6_8110_0358_cln_0,ACTOR,
+$ev_undg6_8110_0360_cln_0,,"Bueno, Aps, te dejo el resto."
+$ev_undg6_8110_0360_cln_0,ACTOR,Don Corneo
+$ev_undg6_8110_0360_cln_1,,¡Adiós!
+$ev_undg6_8110_0360_cln_1,ACTOR,Don Corneo
+$ev_undg6_8110_0370_blt_0,,¡Cabrón!
+$ev_undg6_8110_0370_blt_0,ACTOR,Barret
+$ev_undg6_8110_0372_blt_0,,
+$ev_undg6_8110_0372_blt_0,ACTOR,
+$ev_undg6_8110_0380_cld_0,,"Primero, a callar a este."
+$ev_undg6_8110_0380_cld_0,ACTOR,Cloud
+$ev_undg6_8120_0010_cld_0,,
+$ev_undg6_8120_0010_cld_0,ACTOR,
+$ev_undg6_8120_0020_tif_0,,
+$ev_undg6_8120_0020_tif_0,ACTOR,
+$ev_undg6_8120_0030_tif_0,,
+$ev_undg6_8120_0030_tif_0,ACTOR,
+$ev_undg6_8120_0040_cld_0,,
+$ev_undg6_8120_0040_cld_0,ACTOR,
+$ev_undg6_8120_0050_blt_0,,
+$ev_undg6_8120_0050_blt_0,ACTOR,
+$ev_undg6_8130_0010_tif_0,,
+$ev_undg6_8130_0010_tif_0,ACTOR,
+$ev_undg6_8130_0020_blt_0,,
+$ev_undg6_8130_0020_blt_0,ACTOR,
+$ev_undg6_8130_0030_cld_0,,
+$ev_undg6_8130_0030_cld_0,ACTOR,
+$ev_undg6_8130_0040_tif_0,,
+$ev_undg6_8130_0040_tif_0,ACTOR,
+$ev_undg6_8130_0050_blt_0,,
+$ev_undg6_8130_0050_blt_0,ACTOR,
+$ev_undg6_8130_0060_cld_0,,
+$ev_undg6_8130_0060_cld_0,ACTOR,
+$ev_undg6_8130_0070_tif_0,,
+$ev_undg6_8130_0070_tif_0,ACTOR,
+$ev_undg6_8140_0003_cld_0,,
+$ev_undg6_8140_0003_cld_0,ACTOR,
+$ev_undg6_8140_0006_cld_0,,
+$ev_undg6_8140_0006_cld_0,ACTOR,
+$ev_undg6_8140_0010_cld_0,,¿Estás bien?
+$ev_undg6_8140_0010_cld_0,ACTOR,Cloud
+$ev_undg6_8140_0015_rez_0,,
+$ev_undg6_8140_0015_rez_0,ACTOR,
+$ev_undg6_8140_0020_rez_0,,¿Leslie?
+$ev_undg6_8140_0020_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0030_blt_0,,¿Y Corneo?
+$ev_undg6_8140_0030_blt_0,ACTOR,Barret
+$ev_undg6_8140_0035_tif_0,,
+$ev_undg6_8140_0035_tif_0,ACTOR,
+$ev_undg6_8140_0040_rez_0,,"Perdona, se ha escapado."
+$ev_undg6_8140_0040_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0045_rez_0,,
+$ev_undg6_8140_0045_rez_0,ACTOR,
+$ev_undg6_8140_0050_rez_0,,Ya.
+$ev_undg6_8140_0050_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0060_tif_0,,Lo buscaré otra vez. Tampoco tengo nada mejor que hacer.
+$ev_undg6_8140_0060_tif_0,ACTOR,Tifa
+$ev_undg6_8140_0062_rez_0,,
+$ev_undg6_8140_0062_rez_0,ACTOR,
+$ev_undg6_8140_0068_tif_0,,
+$ev_undg6_8140_0068_tif_0,ACTOR,
+$ev_undg6_8140_0070_tif_0,,¿Seguro que quieres buscar a Corneo?
+$ev_undg6_8140_0070_tif_0,ACTOR,Tifa
+$ev_undg6_8140_0080_blt_0,,"Hay alguien importante para ti, ¿no?"
+$ev_undg6_8140_0080_blt_0,ACTOR,Barret
+$ev_undg6_8140_0080_blt_1,,No te das cuenta hasta que desaparece.
+$ev_undg6_8140_0080_blt_1,ACTOR,Barret
+$ev_undg6_8140_0085_rez_0,,
+$ev_undg6_8140_0085_rez_0,ACTOR,
+$ev_undg6_8140_0090_rez_0,,"Tú aún estás a tiempo, ¿no?"
+$ev_undg6_8140_0090_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0100_rez_0,,El lenguaje de las flores...
+$ev_undg6_8140_0100_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0105_cld_0,,
+$ev_undg6_8140_0105_cld_0,ACTOR,
+$ev_undg6_8140_0110_tif_0,,¿Qué significará?
+$ev_undg6_8140_0110_tif_0,ACTOR,Tifa
+$ev_undg6_8140_0115_cld_0,,
+$ev_undg6_8140_0115_cld_0,ACTOR,
+$ev_undg6_8140_0120_rez_0,,
+$ev_undg6_8140_0120_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0130_tif_0,,Reencuentro.
+$ev_undg6_8140_0130_tif_0,ACTOR,Tifa
+$ev_undg6_8140_0135_rez_0,,
+$ev_undg6_8140_0135_rez_0,ACTOR,
+$ev_undg6_8140_0140_rez_0,,En el lenguaje de las flores significa «reencuentro».
+$ev_undg6_8140_0140_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0143_tif_0,,
+$ev_undg6_8140_0143_tif_0,ACTOR,
+$ev_undg6_8140_0150_rez_0,,Entonces primero tengo que encontrarla a ella.
+$ev_undg6_8140_0150_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0160_blt_0,,Gracias.
+$ev_undg6_8140_0160_blt_0,ACTOR,Barret
+$ev_undg6_8140_0170_rez_0,,"Oye, no habrás olvidado lo prometido, ¿eh?"
+$ev_undg6_8140_0170_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0175_rez_0,,
+$ev_undg6_8140_0175_rez_0,ACTOR,
+$ev_undg6_8140_0180_rez_0,,Lo sé.
+$ev_undg6_8140_0180_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0190_rez_0,,Aquí está.
+$ev_undg6_8140_0190_rez_0,ACTOR,Leslie
+$ev_undg6_8140_0190_rez_1,,Salgamos a la superficie.
+$ev_undg6_8140_0190_rez_1,ACTOR,Leslie
+$pv_und6a_2400_0010_sys_0,,Os diré cómo subir.
+$pv_und6a_2400_0010_sys_0,ACTOR,
+$pv_und6a_2400_0020_cld_0,,
+$pv_und6a_2400_0020_cld_0,ACTOR,Cloud
+$pv_und6a_2400_0030_cld_0,,
+$pv_und6a_2400_0030_cld_0,ACTOR,Cloud
+$pv_und6a_2401_0010_cld_0,,
+$pv_und6a_2401_0010_cld_0,ACTOR,Cloud
+$pv_und6a_2500_0010_sys_0,,Os diré cómo subir.
+$pv_und6a_2500_0010_sys_0,ACTOR,
+$pv_und6a_2500_0020_cld_0,,
+$pv_und6a_2500_0020_cld_0,ACTOR,Cloud
+$pv_und6a_2500_0030_cld_0,,
+$pv_und6a_2500_0030_cld_0,ACTOR,Cloud
+$pv_und6a_2501_0010_cld_0,,
+$pv_und6a_2501_0010_cld_0,ACTOR,Cloud
+$pv_undg6_0090_0010_cld_0,,
+$pv_undg6_0090_0010_cld_0,ACTOR,
+$pv_undg6_0090_0020_cld_0,,
+$pv_undg6_0090_0020_cld_0,ACTOR,
+$pv_undg6_0090_0030_cld_0,,¿Quieres volver a la superficie?
+$pv_undg6_0090_0030_cld_0,ACTOR,Cloud
+$pv_undg6_0090_0040_tif_0,,¿Qué pasa?
+$pv_undg6_0090_0040_tif_0,ACTOR,Tifa
+$pv_undg6_0090_0050_tif_0,,"Si seguimos el canal, deberíamos llegar al sector 7."
+$pv_undg6_0090_0050_tif_0,ACTOR,Tifa
+$pv_undg6_0090_0060_cld_0,,"Las cloacas de los sectores 6 y 7 están conectadas. Si te pierdes, sigue el canal."
+$pv_undg6_0090_0060_cld_0,ACTOR,Cloud
+$pv_undg6_0090_0070_tif_0,,¿Una lección de la barriada?
+$pv_undg6_0090_0070_tif_0,ACTOR,Tifa
+$pv_undg6_0090_0080_tif_0,,"No, las cloacas son la ruta de escape de Avalancha."
+$pv_undg6_0090_0080_tif_0,ACTOR,Tifa
+$pv_undg6_0090_0090_cld_0,,
+$pv_undg6_0090_0090_cld_0,ACTOR,
+$pv_undg6_0090_0100_cld_0,,
+$pv_undg6_0090_0100_cld_0,ACTOR,
+$pv_undg6_0090_0120_cld_0,,
+$pv_undg6_0090_0120_cld_0,ACTOR,
+$pv_undg6_0158_0010_cld_0,,Para las emergencias.
+$pv_undg6_0158_0010_cld_0,ACTOR,Cloud
+$pv_undg6_0160_0010_cld_0,,
+$pv_undg6_0160_0010_cld_0,ACTOR,
+$pv_undg6_0160_0020_art_0,,Probablemente sea una instalación eléctrica.
+$pv_undg6_0160_0020_art_0,ACTOR,Aeris
+$pv_undg6_0160_0030_cld_0,,Parece muy antigua.
+$pv_undg6_0160_0030_cld_0,ACTOR,Cloud
+$pv_undg6_0160_cld_0,,
+$pv_undg6_0160_cld_0,ACTOR,
+$pv_undg6_0190_0010_cld_0,,
+$pv_undg6_0190_0010_cld_0,ACTOR,
+$pv_undg6_0190_0020_cld_0,,
+$pv_undg6_0190_0020_cld_0,ACTOR,
+$pv_undg6_0190_0030_cld_0,,
+$pv_undg6_0190_0030_cld_0,ACTOR,
+$pv_undg6_0190_0040_cld_0,,"Es una antigüedad de antes del mako. Aunque sea de Shinra, si funciona es un milagro."
+$pv_undg6_0190_0040_cld_0,ACTOR,Cloud
+$pv_undg6_0190_0060_tif_0,,No.
+$pv_undg6_0190_0060_tif_0,ACTOR,Tifa
+$pv_undg6_0190_0080_art_0,,La llave maestra. Jessie y los demás la hicieron.
+$pv_undg6_0190_0080_art_0,ACTOR,Aeris
+$pv_undg6_0190_0100_cld_0,,¿Un tesoro bajo el agua?
+$pv_undg6_0190_0100_cld_0,ACTOR,Cloud
+$pv_undg6_0190_0110_cld_0,,
+$pv_undg6_0190_0110_cld_0,ACTOR,
+$pv_undg6_0190_0120_cld_0,,
+$pv_undg6_0190_0120_cld_0,ACTOR,
+$pv_undg6_0190_0130_cld_0,,
+$pv_undg6_0190_0130_cld_0,ACTOR,
+$pv_undg6_0190_cld_0,,
+$pv_undg6_0190_cld_0,ACTOR,
+$pv_undg6_0194_0010_cld_0,,Vamos a buscarla.
+$pv_undg6_0194_0010_cld_0,ACTOR,Cloud
+$pv_undg6_0250_0010_cld_0,,Busquemos la llave.
+$pv_undg6_0250_0010_cld_0,ACTOR,Cloud
+$pv_undg6_0250_cld_0,,
+$pv_undg6_0250_cld_0,ACTOR,
+$pv_undg6_0252_0010_cld_0,,Es esta.
+$pv_undg6_0252_0010_cld_0,ACTOR,Cloud
+$pv_undg6_0252_cld_0,,
+$pv_undg6_0252_cld_0,ACTOR,
+$pv_undg6_0260_0010_art_0,,¿Una llave?
+$pv_undg6_0260_0010_art_0,ACTOR,Aeris
+$pv_undg6_0260_0020_cld_0,,
+$pv_undg6_0260_0020_cld_0,ACTOR,
+$pv_undg6_0260_cld_0,,
+$pv_undg6_0260_cld_0,ACTOR,
+$pv_undg6_0280_0040_tif_0,,¡Bien!
+$pv_undg6_0280_0040_tif_0,ACTOR,Tifa
+$pv_undg6_0280_0050_tif_0,,Aquí...
+$pv_undg6_0280_0050_tif_0,ACTOR,Tifa
+$pv_undg6_0280_0060_cld_0,,Conozco este canal. Al otro lado está el sector 7.
+$pv_undg6_0280_0060_cld_0,ACTOR,Cloud
+$pv_undg6_0280_0080_tif_0,,¿La frontera con el sector 6?
+$pv_undg6_0280_0080_tif_0,ACTOR,Tifa
+$pv_undg6_0280_0090_cld_0,,"En todo caso, entremos por la puerta del sector 7. Debería conectar con la barriada."
+$pv_undg6_0280_0090_cld_0,ACTOR,Cloud
+$pv_undg6_0280_0110_tif_0,,No parece fácil.
+$pv_undg6_0280_0110_tif_0,ACTOR,Tifa
+$pv_undg6_0280_0130_tif_0,,¿Usamos la bomba de agua como referencia? No podemos perdernos.
+$pv_undg6_0280_0130_tif_0,ACTOR,Tifa
+$pv_undg6_0280_0140_art_0,,"Tranquilos, salgamos de esta."
+$pv_undg6_0280_0140_art_0,ACTOR,Aeris
+$pv_undg6_0280_0150_cld_0,,
+$pv_undg6_0280_0150_cld_0,ACTOR,
+$pv_undg6_0280_0160_cld_0,,
+$pv_undg6_0280_0160_cld_0,ACTOR,
+$pv_undg6_0280_0170_cld_0,,
+$pv_undg6_0280_0170_cld_0,ACTOR,
+$pv_undg6_0440_0010_cld_0,,"Sí, tienes razón."
+$pv_undg6_0440_0010_cld_0,ACTOR,Cloud
+$pv_undg6_0440_cld_0,,
+$pv_undg6_0440_cld_0,ACTOR,
+$pv_undg6_0610_0030_art_0,,Cruzo primero y miro cómo está.
+$pv_undg6_0610_0030_art_0,ACTOR,Aeris
+$pv_undg6_0610_cld_0,,
+$pv_undg6_0610_cld_0,ACTOR,
+$pv_undg6_0620_0020_tif_0,,"Eso es la salida, ¿no?"
+$pv_undg6_0620_0020_tif_0,ACTOR,Tifa
+$pv_undg6_0620_0030_tif_0,,Mira esto.
+$pv_undg6_0620_0030_tif_0,ACTOR,Tifa
+$pv_undg6_0620_0040_art_0,,Había un panel igual en el depósito del bar. Regula la cantidad de agua.
+$pv_undg6_0620_0040_art_0,ACTOR,Aeris
+$pv_undg6_0620_0050_cld_0,,"¿Qué tal, manitas?"
+$pv_undg6_0620_0050_cld_0,ACTOR,Cloud
+$pv_undg6_0629_0010_cld_0,,
+$pv_undg6_0629_0010_cld_0,ACTOR,
+$pv_undg6_0629_0020_cld_0,,
+$pv_undg6_0629_0020_cld_0,ACTOR,
+$pv_undg6_0629_0030_cld_0,,
+$pv_undg6_0629_0030_cld_0,ACTOR,
+$pv_undg6_0629_0040_cld_0,,
+$pv_undg6_0629_0040_cld_0,ACTOR,
+$pv_undg6_0629_0050_cld_0,,
+$pv_undg6_0629_0050_cld_0,ACTOR,
+$pv_undg6_0629_0060_cld_0,,
+$pv_undg6_0629_0060_cld_0,ACTOR,
+$pv_undg6_0629_cld_0,,
+$pv_undg6_0629_cld_0,ACTOR,
+$pv_undg6_0630_0010_cld_0,,
+$pv_undg6_0630_0010_cld_0,ACTOR,
+$pv_undg6_0630_0020_cld_0,,
+$pv_undg6_0630_0020_cld_0,ACTOR,
+$pv_undg6_0630_0030_cld_0,,
+$pv_undg6_0630_0030_cld_0,ACTOR,
+$pv_undg6_0630_0040_art_0,,Desagüe... Es esto.
+$pv_undg6_0630_0040_art_0,ACTOR,Aeris
+$pv_undg6_0630_0050_cld_0,,¿Ha fallado?
+$pv_undg6_0630_0050_cld_0,ACTOR,Cloud
+$pv_undg6_0630_0060_tif_0,,Parece que está averiado.
+$pv_undg6_0630_0060_tif_0,ACTOR,Tifa
+$pv_undg6_0630_0070_tif_0,,«La luz roja indica un atasco en la tubería de desagüe».
+$pv_undg6_0630_0070_tif_0,ACTOR,Tifa
+$pv_undg6_0630_0080_tif_0,,«Use la bomba manual para desatascar la suciedad».
+$pv_undg6_0630_0080_tif_0,ACTOR,Tifa
+$pv_undg6_0630_0090_cld_0,,Yo lo he hecho en el bar.
+$pv_undg6_0630_0090_cld_0,ACTOR,Cloud
+$pv_undg6_0630_0100_tif_0,,"Vale, lo hago yo."
+$pv_undg6_0630_0100_tif_0,ACTOR,Tifa
+$pv_undg6_0630_0110_cld_0,,"Aeris, ¿me acompañas? Cloud, tú vigila que no salgan otros errores."
+$pv_undg6_0630_0110_cld_0,ACTOR,Cloud
+$pv_undg6_0630_0120_tif_0,,"No, yo..."
+$pv_undg6_0630_0120_tif_0,ACTOR,Tifa
+$pv_undg6_0630_0130_tif_0,,"Si hay demasiada diferencia de fuerza, no funciona."
+$pv_undg6_0630_0130_tif_0,ACTOR,Tifa
+$pv_undg6_0630_0140_cld_0,,
+$pv_undg6_0630_0140_cld_0,ACTOR,
+$pv_undg6_0630_0150_cld_0,,
+$pv_undg6_0630_0150_cld_0,ACTOR,
+$pv_undg6_0630_0160_cld_0,,
+$pv_undg6_0630_0160_cld_0,ACTOR,
+$pv_undg6_0630_cld_0,,
+$pv_undg6_0630_cld_0,ACTOR,
+$pv_undg6_0632_0090_tif_0,,Volvemos enseguida.
+$pv_undg6_0632_0090_tif_0,ACTOR,Tifa
+$pv_undg6_0637_0070_cld_0,,
+$pv_undg6_0637_0070_cld_0,ACTOR,
+$pv_undg6_0637_0080_cld_0,,
+$pv_undg6_0637_0080_cld_0,ACTOR,
+$pv_undg6_0637_0090_cld_0,,
+$pv_undg6_0637_0090_cld_0,ACTOR,
+$pv_undg6_0637_0110_cld_0,,
+$pv_undg6_0637_0110_cld_0,ACTOR,
+$pv_undg6_0637_0120_cld_0,,
+$pv_undg6_0637_0120_cld_0,ACTOR,
+$pv_undg6_0637_0130_cld_0,,
+$pv_undg6_0637_0130_cld_0,ACTOR,
+$pv_undg6_0637_0140_cld_0,,
+$pv_undg6_0637_0140_cld_0,ACTOR,
+$pv_undg6_0637_cld_0,,
+$pv_undg6_0637_cld_0,ACTOR,
+$pv_undg6_0638_0150_cld_0,,
+$pv_undg6_0638_0150_cld_0,ACTOR,
+$pv_undg6_0638_0160_cld_0,,
+$pv_undg6_0638_0160_cld_0,ACTOR,
+$pv_undg6_0638_0170_cld_0,,
+$pv_undg6_0638_0170_cld_0,ACTOR,
+$pv_undg6_0638_0180_cld_0,,"Desde luego, no es como el del bar. Este es más profesional."
+$pv_undg6_0638_0180_cld_0,ACTOR,Cloud
+$pv_undg6_0638_0190_tif_0,,Ha salido bien.
+$pv_undg6_0638_0190_tif_0,ACTOR,Tifa
+$pv_undg6_0638_0200_art_0,,Lo hemos hecho bien.
+$pv_undg6_0638_0200_art_0,ACTOR,Aeris
+$pv_undg6_0638_0210_cld_0,,
+$pv_undg6_0638_0210_cld_0,ACTOR,
+$pv_undg6_0638_0220_cld_0,,
+$pv_undg6_0638_0220_cld_0,ACTOR,
+$pv_undg6_0638_0230_cld_0,,
+$pv_undg6_0638_0230_cld_0,ACTOR,
+$pv_undg6_0638_cld_0,,
+$pv_undg6_0638_cld_0,ACTOR,
+$pv_undg6_0641_0010_art_0,,¡Sí!
+$pv_undg6_0641_0010_art_0,ACTOR,Aeris
+$pv_undg6_0642_0010_art_0,,
+$pv_undg6_0642_0010_art_0,ACTOR,
+$pv_undg6_0643_0010_art_0,,Voy.
+$pv_undg6_0643_0010_art_0,ACTOR,Aeris
+$pv_undg6_0644_0010_art_0,,
+$pv_undg6_0644_0010_art_0,ACTOR,
+$pv_undg6_0645_0010_art_0,,Sí.
+$pv_undg6_0645_0010_art_0,ACTOR,Aeris
+$pv_undg6_0646_0010_art_0,,
+$pv_undg6_0646_0010_art_0,ACTOR,
+$pv_undg6_0651_0010_tif_0,,
+$pv_undg6_0651_0010_tif_0,ACTOR,
+$pv_undg6_0652_0010_tif_0,,
+$pv_undg6_0652_0010_tif_0,ACTOR,
+$pv_undg6_0653_0010_tif_0,,
+$pv_undg6_0653_0010_tif_0,ACTOR,
+$pv_undg6_0654_0010_tif_0,,
+$pv_undg6_0654_0010_tif_0,ACTOR,
+$pv_undg6_0661_0010_art_0,,Vale.
+$pv_undg6_0661_0010_art_0,ACTOR,Aeris
+$pv_undg6_0662_0010_art_0,,¡Vamos!
+$pv_undg6_0662_0010_art_0,ACTOR,
+$pv_undg6_0663_0010_art_0,,¡A la de tres!
+$pv_undg6_0663_0010_art_0,ACTOR,
+$pv_undg6_0671_0010_art_0,,
+$pv_undg6_0671_0010_art_0,ACTOR,
+$pv_undg6_0672_0010_art_0,,
+$pv_undg6_0672_0010_art_0,ACTOR,
+$pv_undg6_0673_0010_art_0,,
+$pv_undg6_0673_0010_art_0,ACTOR,
+$pv_undg6_0681_0010_tif_0,,¡Déjamelo a mí!
+$pv_undg6_0681_0010_tif_0,ACTOR,Tifa
+$pv_undg6_0682_0010_tif_0,,Coordinemos la respiración.
+$pv_undg6_0682_0010_tif_0,ACTOR,Tifa
+$pv_undg6_0683_0010_art_0,,Sin prisa.
+$pv_undg6_0683_0010_art_0,ACTOR,Aeris
+$pv_undg6_0691_0010_art_0,,
+$pv_undg6_0691_0010_art_0,ACTOR,
+$pv_undg6_0692_0010_art_0,,
+$pv_undg6_0692_0010_art_0,ACTOR,
+$pv_undg6_0693_0010_art_0,,
+$pv_undg6_0693_0010_art_0,ACTOR,
+$pv_undg6_0701_0010_tif_0,,"Vaya, no."
+$pv_undg6_0701_0010_tif_0,ACTOR,Tifa
+$pv_undg6_0702_0010_art_0,,Perfecto.
+$pv_undg6_0702_0010_art_0,ACTOR,Aeris
+$pv_undg6_0703_cld_0,,
+$pv_undg6_0703_cld_0,ACTOR,
+$pv_undg6_0730_0010_cld_0,,
+$pv_undg6_0730_0010_cld_0,ACTOR,
+$pv_undg6_0730_0020_cld_0,,
+$pv_undg6_0730_0020_cld_0,ACTOR,
+$pv_undg6_0730_0030_tif_0,,¿Una llave?
+$pv_undg6_0730_0030_tif_0,ACTOR,Tifa
+$pv_undg6_0730_0040_art_0,,Ha salido bien.
+$pv_undg6_0730_0040_art_0,ACTOR,Aeris
+$pv_undg6_0730_0050_tif_0,,¡Éxito!
+$pv_undg6_0730_0050_tif_0,ACTOR,Tifa
+$pv_undg6_0730_0060_cld_0,,
+$pv_undg6_0730_0060_cld_0,ACTOR,
+$pv_undg6_0730_0070_cld_0,,
+$pv_undg6_0730_0070_cld_0,ACTOR,
+$pv_undg6_0730_cld_0,,
+$pv_undg6_0730_cld_0,ACTOR,
+$pv_undg6_2029_0010_rez_0,,Volvamos. Puede que Cloud se sienta solo.
+$pv_undg6_2029_0010_rez_0,ACTOR,Leslie
+$pv_undg6_2030_0070_rez_0,,Nos dirigimos al gran canal en la frontera con el sector 7.
+$pv_undg6_2030_0070_rez_0,ACTOR,Leslie
+$pv_undg6_2030_0080_cld_0,,
+$pv_undg6_2030_0080_cld_0,ACTOR,
+$pv_undg6_2098_0030_blt_0,,Id primero. Yo os seguiré de cerca.
+$pv_undg6_2098_0030_blt_0,ACTOR,Barret
+$pv_undg6_2098_0040_blt_0,,¿Es una señal de Avalancha?
+$pv_undg6_2098_0040_blt_0,ACTOR,Barret
+$pv_undg6_2100_0050_tif_0,,Es donde Jessie y Biggs escondieron la llave maestra.
+$pv_undg6_2100_0050_tif_0,ACTOR,Tifa
+$pv_undg6_2100_0060_cld_0,,No llegué a decirles que sirvió de algo.
+$pv_undg6_2100_0060_cld_0,ACTOR,Cloud
+$pv_undg6_2100_0070_tif_0,,Tifa...
+$pv_undg6_2100_0070_tif_0,ACTOR,Tifa
+$pv_undg6_2100_0080_rez_0,,Tenemos que darnos prisa.
+$pv_undg6_2100_0080_rez_0,ACTOR,Leslie
+$pv_undg6_2100_0090_blt_0,,"Siento interrumpir, pero el canal está tras esa puerta."
+$pv_undg6_2100_0090_blt_0,ACTOR,Barret
+$pv_undg6_2120_0070_tif_0,,Ya lo sé.
+$pv_undg6_2120_0070_tif_0,ACTOR,Tifa
+$pv_undg6_2120_0080_rez_0,,Aquí antes estaba cerrado.
+$pv_undg6_2120_0080_rez_0,ACTOR,Leslie
+$pv_undg6_2120_0090_blt_0,,Encargaos de la seguridad.
+$pv_undg6_2120_0090_blt_0,ACTOR,Barret
+$pv_undg6_2120_0100_tif_0,,"Sí, sí."
+$pv_undg6_2120_0100_tif_0,ACTOR,Tifa
+$pv_undg6_2120_0110_tif_0,,¿Puedo preguntarte?
+$pv_undg6_2120_0110_tif_0,ACTOR,Tifa
+$pv_undg6_2120_0120_rez_0,,¿Por qué nos ayudaste en la audición?
+$pv_undg6_2120_0120_rez_0,ACTOR,Leslie
+$pv_undg6_2120_0130_tif_0,,Porque Andreas me lo pidió.
+$pv_undg6_2120_0130_tif_0,ACTOR,Tifa
+$pv_undg6_2120_0140_rez_0,,¿Solo por eso?
+$pv_undg6_2120_0140_rez_0,ACTOR,Leslie
+$pv_undg6_2120_0150_tif_0,,
+$pv_undg6_2120_0150_tif_0,ACTOR,Tifa
+$pv_undg6_2120_0160_rez_0,,Yo no fui capaz de arriesgarme hasta ese punto.
+$pv_undg6_2120_0160_rez_0,ACTOR,Leslie
+$pv_undg6_2120_0170_cld_0,,
+$pv_undg6_2120_0170_cld_0,ACTOR,
+$pv_undg6_2150_0010_blt_0,,"Venga, id rápido."
+$pv_undg6_2150_0010_blt_0,ACTOR,Barret
+$pv_undg6_2150_0020_rez_0,,¿Dónde se ha metido ese tipo?
+$pv_undg6_2150_0020_rez_0,ACTOR,Leslie
+$pv_undg6_2180_0010_blt_0,,¡Arriba! Esto se complica.
+$pv_undg6_2180_0010_blt_0,ACTOR,Barret
+$pv_undg6_2210_0050_cld_0,,
+$pv_undg6_2210_0050_cld_0,ACTOR,
+$pv_undg6_2210_0060_cld_0,,¿Ahora al escondite?
+$pv_undg6_2210_0060_cld_0,ACTOR,Cloud
+$pv_undg6_2210_0070_tif_0,,Entendido.
+$pv_undg6_2210_0070_tif_0,ACTOR,Tifa
+$pv_undg6_2210_0080_blt_0,,Vamos a flanquearlo.
+$pv_undg6_2210_0080_blt_0,ACTOR,Barret
+$pv_undg6_2210_0090_cld_0,,
+$pv_undg6_2210_0090_cld_0,ACTOR,
+$pv_undg6_2210_0100_cld_0,,
+$pv_undg6_2210_0100_cld_0,ACTOR,Cloud
+$pv_undg6_2210_0110_cld_0,,
+$pv_undg6_2210_0110_cld_0,ACTOR,Cloud
+$pv_undg6_2210_0120_cld_0,,
+$pv_undg6_2210_0120_cld_0,ACTOR,Cloud
+$pv_undg6_2300_0050_rez_0,,¡Que no escape!
+$pv_undg6_2300_0050_rez_0,ACTOR,Leslie
+$pv_undg6_2300_0070_blt_0,,Esperad aquí.
+$pv_undg6_2300_0070_blt_0,ACTOR,Barret
+$tk_undg6_0005_0010_tif_0,,¿De verdad estará bien él solo?
+$tk_undg6_0005_0010_tif_0,ACTOR,Tifa
+$tk_undg6_0010_0010_cld_0,,"Como esperaba, conecta con las cloacas."
+$tk_undg6_0010_0010_cld_0,ACTOR,Cloud
+$tk_undg6_0010_0020_tif_0,,Parece un laberinto.
+$tk_undg6_0010_0020_tif_0,ACTOR,Tifa
+$tk_undg6_0010_0030_art_0,,Más adelante hay un canal grande. Apuntemos primero ahí.
+$tk_undg6_0010_0030_art_0,ACTOR,Aeris
+$tk_undg6_0010_cld_0,,
+$tk_undg6_0010_cld_0,ACTOR,
+$tk_undg6_0060_0010_art_0,,Entendido.
+$tk_undg6_0060_0010_art_0,ACTOR,Aeris
+$tk_undg6_0060_0020_tif_0,,Qué peste.
+$tk_undg6_0060_0020_tif_0,ACTOR,Tifa
+$tk_undg6_0060_cld_0,,
+$tk_undg6_0060_cld_0,ACTOR,
+$tk_undg6_0070_0010_tif_0,,¿Pasamos por aquí?
+$tk_undg6_0070_0010_tif_0,ACTOR,Tifa
+$tk_undg6_0070_0020_art_0,,Está todo oscuro.
+$tk_undg6_0070_0020_art_0,ACTOR,Aeris
+$tk_undg6_0070_0030_tif_0,,Hagamos como que no pasa nada y sigamos.
+$tk_undg6_0070_0030_tif_0,ACTOR,Tifa
+$tk_undg6_0070_cld_0,,
+$tk_undg6_0070_cld_0,ACTOR,
+$tk_undg6_0080_0010_tif_0,,"Oye, Cloud, si lo de Corneo fuera verdad..."
+$tk_undg6_0080_0010_tif_0,ACTOR,Tifa
+$tk_undg6_0080_0020_tif_0,,"En ese caso, ¿cuál crees que es el objetivo de Shinra? Su verdadero propósito."
+$tk_undg6_0080_0020_tif_0,ACTOR,Tifa
+$tk_undg6_0080_0030_tif_0,,"Si solo fuera para acabar con nosotros, el precio sería demasiado alto."
+$tk_undg6_0080_0030_tif_0,ACTOR,Tifa
+$tk_undg6_0080_0040_cld_0,,¿Un beneficio a cambio de destruir el sector 7? No me lo imagino.
+$tk_undg6_0080_0040_cld_0,ACTOR,Cloud
+$tk_undg6_0080_0050_tif_0,,"Será mentira de Corneo. Es Corneo, al fin y al cabo."
+$tk_undg6_0080_0050_tif_0,ACTOR,Tifa
+$tk_undg6_0080_cld_0,,
+$tk_undg6_0080_cld_0,ACTOR,
+$tk_undg6_0095_0010_tif_0,,¿Una llave?
+$tk_undg6_0095_0010_tif_0,ACTOR,Tifa
+$tk_undg6_0095_0020_art_0,,"Bien, me gusta la luz."
+$tk_undg6_0095_0020_art_0,ACTOR,Aeris
+$tk_undg6_0095_cld_0,,
+$tk_undg6_0095_cld_0,ACTOR,
+$tk_undg6_0300_0030_tif_0,,¡Encendida! Podemos cruzar.
+$tk_undg6_0300_0030_tif_0,ACTOR,Tifa
+$tk_undg6_0360_0010_art_0,,
+$tk_undg6_0360_0010_art_0,ACTOR,
+$tk_undg6_0360_0020_tif_0,,¿Podemos quitar o reducir esta agua?
+$tk_undg6_0360_0020_tif_0,ACTOR,Tifa
+$tk_undg6_0360_cld_0,,
+$tk_undg6_0360_cld_0,ACTOR,
+$tk_undg6_0370_0010_cld_0,,
+$tk_undg6_0370_0010_cld_0,ACTOR,
+$tk_undg6_0370_0020_cld_0,,Por aquí está bien.
+$tk_undg6_0370_0020_cld_0,ACTOR,Cloud
+$tk_undg6_0370_0030_cld_0,,"Si pasa algo, llámame."
+$tk_undg6_0370_0030_cld_0,ACTOR,Cloud
+$tk_undg6_0370_cld_0,,
+$tk_undg6_0370_cld_0,ACTOR,
+$tk_undg6_0420_0010_art_0,,Por fin parece que podremos subir.
+$tk_undg6_0420_0010_art_0,ACTOR,Aeris
+$tk_undg6_0420_0020_tif_0,,Ojalá salgamos cerca.
+$tk_undg6_0420_0020_tif_0,ACTOR,Tifa
+$tk_undg6_0420_cld_0,,
+$tk_undg6_0420_cld_0,ACTOR,
+$tk_undg6_0440_0010_cld_0,,Voy primero y aseguro la salida.
+$tk_undg6_0440_0010_cld_0,ACTOR,Cloud
+$tk_undg6_0440_cld_0,,
+$tk_undg6_0440_cld_0,ACTOR,
+$tk_undg6_2075_0010_blt_0,,"Bien, hemos llegado."
+$tk_undg6_2075_0010_blt_0,ACTOR,Barret
+$tk_undg6_2075_0020_rez_0,,Por aquí.
+$tk_undg6_2075_0020_rez_0,ACTOR,Leslie
+$tk_undg6_2075_0030_rez_0,,Cerca hay una puerta con la marca de Corneo.
+$tk_undg6_2075_0030_rez_0,ACTOR,Leslie
+$tk_undg6_2083_0020_rez_0,,Espera.
+$tk_undg6_2083_0020_rez_0,ACTOR,Leslie
+$tk_undg6_2084_0010_rez_0,,"Ya casi estamos en el escondite de Corneo. De aquí en adelante, voy yo primero."
+$tk_undg6_2084_0010_rez_0,ACTOR,Leslie
+$tk_undg6_2088_0010_blt_0,,¡Ha girado ahí!
+$tk_undg6_2088_0010_blt_0,ACTOR,Barret
+$tk_undg6_2088_0020_rez_0,,¡Mierda! ¡Daos prisa!
+$tk_undg6_2088_0020_rez_0,ACTOR,Leslie
+$tk_undg6_2090_0010_rez_0,,¡Por favor!
+$tk_undg6_2090_0010_rez_0,ACTOR,Leslie
+$tk_undg6_2094_0010_rez_0,,De aquí en adelante está su guarida.
+$tk_undg6_2094_0010_rez_0,ACTOR,Leslie
+$tk_undg6_2094_0020_rez_0,,No sabemos de dónde pueden salir. No bajéis la guardia.
+$tk_undg6_2094_0020_rez_0,ACTOR,Leslie
+$tk_undg6_2108_0010_blt_0,,¡Te tengo acorralado!
+$tk_undg6_2108_0010_blt_0,ACTOR,Barret
+$tk_undg6_2110_0010_blt_0,,¡Nos has hecho perder el tiempo!
+$tk_undg6_2110_0010_blt_0,ACTOR,Barret
+$tk_undg6_2110_0020_blt_0,,"No te haré daño, así que quietecito..."
+$tk_undg6_2110_0020_blt_0,ACTOR,Barret
+$tk_undg6_2110_0040_blt_0,,
+$tk_undg6_2110_0040_blt_0,ACTOR,
+$tk_undg6_2121_0010_tif_0,,Qué pesado.
+$tk_undg6_2121_0010_tif_0,ACTOR,Tifa
+$tk_undg6_2121_0020_cld_0,,¿Se parece a su dueño?
+$tk_undg6_2121_0020_cld_0,ACTOR,Cloud
+$tk_undg6_2121_0030_rez_0,,¡Devuélvemelo!
+$tk_undg6_2121_0030_rez_0,ACTOR,Leslie
+$tk_undg6_2125_0010_rez_0,,Sigamos por aquí. Es un atajo.
+$tk_undg6_2125_0010_rez_0,ACTOR,Leslie
+$tk_undg6_2130_0010_blt_0,,Ese cabrón de Corneo... que se prepare.
+$tk_undg6_2130_0010_blt_0,ACTOR,Barret
+$tk_undg6_2130_0020_rez_0,,A ese déjamelo a mí.
+$tk_undg6_2130_0020_rez_0,ACTOR,Leslie
+$tk_undg6_2130_0030_blt_0,,¿Eh?
+$tk_undg6_2130_0030_blt_0,ACTOR,Barret
+$tk_undg6_2130_0040_rez_0,,Por favor.
+$tk_undg6_2130_0040_rez_0,ACTOR,Leslie
+$tk_undg6_2130_0050_cld_0,,Vale.
+$tk_undg6_2130_0050_cld_0,ACTOR,Cloud
+$tk_undg6_2860_0010_blt_0,,"Con esto ya estarán todos los tesoros de Corneo, ¿no?"
+$tk_undg6_2860_0010_blt_0,ACTOR,Barret
+$tk_undg6_2860_0020_blt_0,,¿Y qué hacemos?
+$tk_undg6_2860_0020_blt_0,ACTOR,Barret
+$tk_undg6_2860_0030_blt_0,,"Venderlos y eso llevará bastante tiempo, ¿eh?"
+$tk_undg6_2860_0030_blt_0,ACTOR,Barret
+$tk_undg6_2860_0040_tif_0,,"Ah, sí. Si vamos a usarlo para reconstruir el sector 7, dejémoselo a Marle."
+$tk_undg6_2860_0040_tif_0,ACTOR,Tifa

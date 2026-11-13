@@ -1,0 +1,77 @@
+FINAL FANTASY VII REMAKE — Traducción al español (España) desde el japonés
+Versión: 1.0 - 13/11/2026
+
+CONTENIDO
+---------
+pakchunk99_ES_JP_P.pak
+
+
+QUÉ HACE
+--------
+Sustituye los textos del juego (historia principal, diálogos, conversaciones con
+PNJ, menús, descripciones de objetos y textos de INTERmission) por una
+traducción realizada directamente desde el japonés. No se ha partido del inglés.
+
+Se mantienen los nombres propios y los términos establecidos: Cloud, Barret,
+Tifa, Aeris, Sefirot, SOLDIER, Shinra, Midgar, Avalancha, TURKS, etc.
+
+
+REQUISITOS
+----------
+- FINAL FANTASY VII REMAKE para PC (Steam o Epic Games Store).
+- Idioma de texto del juego: Español (España).
+
+
+INSTALACIÓN
+-----------
+1. Cierra el juego.
+2. Copia pakchunk99_ES_JP_P.pak en la carpeta ~mods:
+      <carpeta del juego>\End\Content\Paks\~mods\
+   Si la carpeta ~mods no existe, créala.
+   Ejemplo:
+      E:\Juegos\FINAL FANTASY VII REMAKE\End\Content\Paks\~mods\
+3. Inicia el juego con el idioma de texto Español (España).
+
+
+DESINSTALACIÓN
+--------------
+Borra pakchunk99_ES_JP_P.pak de la carpeta ~mods.
+
+
+VERIFICACIÓN DEL PAQUETE
+------------------------
+SHA-256 de pakchunk99_ES_JP_P.pak:
+0865C739666D8A7679793CFDC0950AD6A0C28B1E7B09A9EF6C5491096B18986A
+
+Tamaño: 905.449 bytes.
+
+Puedes comprobarlo en PowerShell con:
+Get-FileHash .\pakchunk99_ES_JP_P.pak -Algorithm SHA256
+
+
+NOTAS
+-----
+- Solo se modifican los textos; el audio no cambia.
+- Traducción personal, sin ánimo de lucro.
+- Si el juego se actualiza y vuelve a mostrar el español oficial, comprueba que
+  el pak sigue en ~mods y que no hay otro mod que cargue los mismos archivos.
+- Los saltos de línea se ajustan al ancho de la caja de diálogo y se guardan
+  como saltos nativos del juego (CRLF), no como etiquetas de texto.
+
+PRIMERA VERSIÓN PÚBLICA (1.0)
+-----------------------------
+- Traducción completa de la historia principal, diálogos de PNJ, misiones,
+  menús, tutoriales, objetos y textos de INTERmission, realizada desde el
+  japonés.
+- Nombres unificados con el locale ES oficial: Mireia, Escarlata, Jénova,
+  Madame M y Presidente Shinra. Se mantiene «Jénova Beat» por el original
+  japonés ジェノバＢｅａｔ.
+- Etiquetas de confirmación de la interfaz unificadas como «Confirmar».
+- Conservadas las subentradas gramaticales de los objetos (artículo, singular
+  y plural), de modo que los avisos de compra, tesoros y entrega muestran el
+  nombre completo del objeto.
+- En el capítulo 17, Cloud, poseído, dice «Ma... a...», en coherencia con
+  «Ma... dre...».
+- Revisadas las líneas con inglés: se mantienen las interjecciones de Jay y
+  Roche y los títulos ingleses de las pistas de la gramola, porque forman parte
+  del original o son títulos oficiales.

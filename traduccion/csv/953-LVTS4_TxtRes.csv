@@ -1,0 +1,126 @@
+id,sub_id,text
+language,,ES
+$pv_lvts4_0030_0010_blt_0,,"Eh, ¿adónde vas?"
+$pv_lvts4_0030_0010_blt_0,ACTOR,Barret
+$pv_lvts4_0100_0010_cld_0,,NPC de comprobación de misión
+$pv_lvts4_0100_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0101_0010_cld_0,,Misión None == 1
+$pv_lvts4_0101_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0101_0030_cld_0,,No.
+$pv_lvts4_0101_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0102_0010_cld_0,,Misión OrderEnable == 1
+$pv_lvts4_0102_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0102_0030_cld_0,,No.
+$pv_lvts4_0102_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0103_0010_cld_0,,Misión en curso == 1
+$pv_lvts4_0103_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0103_0030_cld_0,,No.
+$pv_lvts4_0103_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0104_0010_cld_0,,Misión completada == 1
+$pv_lvts4_0104_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0104_0030_cld_0,,No.
+$pv_lvts4_0104_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0105_0010_cld_0,,Misión fallida == 1
+$pv_lvts4_0105_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0105_0030_cld_0,,No.
+$pv_lvts4_0105_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0106_0010_cld_0,,Correcto.
+$pv_lvts4_0106_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0110_0010_cld_0,,Total de misiones == 2
+$pv_lvts4_0110_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0110_0030_cld_0,,No.
+$pv_lvts4_0110_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0111_0010_cld_0,,Total de misiones >= 3
+$pv_lvts4_0111_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0111_0030_cld_0,,No.
+$pv_lvts4_0111_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0112_0010_cld_0,,Total de misiones <= 3
+$pv_lvts4_0112_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0112_0030_cld_0,,No.
+$pv_lvts4_0112_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0113_0010_cld_0,,Total de misiones < 3
+$pv_lvts4_0113_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0113_0030_cld_0,,No.
+$pv_lvts4_0113_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0114_0010_cld_0,,Total de misiones > 3
+$pv_lvts4_0114_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0114_0030_cld_0,,No.
+$pv_lvts4_0114_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0115_0010_cld_0,,Correcto.
+$pv_lvts4_0115_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0200_0010_tif_0,,¿Qué será?
+$pv_lvts4_0200_0010_tif_0,ACTOR,Tifa
+$pv_lvts4_0200_0020_blt_0,,Qué escalofríos.
+$pv_lvts4_0200_0020_blt_0,ACTOR,Barret
+$pv_lvts4_0200_0030_tif_0,,Esto... ¿será un nido de monstruos?
+$pv_lvts4_0200_0030_tif_0,ACTOR,Tifa
+$pv_lvts4_0200_0040_blt_0,,Sí. Los monstruos bajo la placa se han vuelto peligrosos por culpa del mako.
+$pv_lvts4_0200_0040_blt_0,ACTOR,Barret
+$pv_lvts4_0200_0050_tif_0,,(Sorprendida) ¿Por el mako?
+$pv_lvts4_0200_0050_tif_0,ACTOR,Tifa
+$pv_lvts4_0200_0060_blt_0,,Sí. Culpa de Shinra.
+$pv_lvts4_0200_0060_blt_0,ACTOR,Barret
+$pv_lvts4_0200_0070_cld_0,,Hum.
+$pv_lvts4_0200_0070_cld_0,ACTOR,
+$pv_lvts4_0200_0080_blt_0,,¿Eh?
+$pv_lvts4_0200_0080_blt_0,ACTOR,Barret
+$pv_lvts4_0200_0090_cld_0,,Tu mundo es tan simple que da gusto.
+$pv_lvts4_0200_0090_cld_0,ACTOR,Cloud
+$pv_lvts4_0200_0100_blt_0,,¿Te gusta? Pues únete a nosotros.
+$pv_lvts4_0200_0100_blt_0,ACTOR,Barret
+$pv_lvts4_0200_0110_cld_0,,Me lo pensaré.
+$pv_lvts4_0200_0110_cld_0,ACTOR,Cloud
+$pv_lvts4_0210_0010_blt_0,,¿Cuántos años tienes?
+$pv_lvts4_0210_0010_blt_0,ACTOR,Barret
+$pv_lvts4_0210_0020_cld_0,,De primera.
+$pv_lvts4_0210_0020_cld_0,ACTOR,Cloud
+$pv_lvts4_0210_0030_blt_0,,¿Eh?
+$pv_lvts4_0210_0030_blt_0,ACTOR,Barret
+$pv_lvts4_0210_0040_cld_0,,Los SOLDIER tenemos un rango aparte del escalafón...
+$pv_lvts4_0210_0040_cld_0,ACTOR,Cloud
+$pv_lvts4_0210_0050_blt_0,,"Cuando pregunto la edad, me refiero a los años.<br>Normalmente."
+$pv_lvts4_0210_0050_blt_0,ACTOR,Barret
+$pv_lvts4_0210_0060_cld_0,,……
+$pv_lvts4_0210_0060_cld_0,ACTOR,
+$pv_lvts4_0210_0070_blt_0,,"Ah, perdón.<br>Claro, un SOLDIER no puede ser normal."
+$pv_lvts4_0210_0070_blt_0,ACTOR,Barret
+$pv_lvts4_0210_0080_blt_0,,"Sí, sí, de primera.<br>¿Entonces un año?"
+$pv_lvts4_0210_0080_blt_0,ACTOR,Barret
+$pv_lvts4_0210_0090_blt_0,,¡Me lo apunto!
+$pv_lvts4_0210_0090_blt_0,ACTOR,Barret
+$pv_lvts4_0410_0010_cld_0,,Comprobación de equipación: Espada Bastarda
+$pv_lvts4_0410_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0410_0030_cld_0,,No.
+$pv_lvts4_0410_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0420_0010_cld_0,,Comprobación de escrutinio: >= 3 enemigos
+$pv_lvts4_0420_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0420_0030_cld_0,,No.
+$pv_lvts4_0420_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0430_0010_cld_0,,Comprobación de escrutinio: guardia de seguridad
+$pv_lvts4_0430_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0430_0030_cld_0,,No.
+$pv_lvts4_0430_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0440_0010_cld_0,,Comprobación: materia de curación nivel >= 2
+$pv_lvts4_0440_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0440_0030_cld_0,,No.
+$pv_lvts4_0440_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0450_0010_cld_0,,Comprobación: materia Robar nivel == 1
+$pv_lvts4_0450_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0450_0030_cld_0,,No.
+$pv_lvts4_0450_0030_cld_0,ACTOR,Cloud
+$pv_lvts4_0460_0010_cld_0,,Comprobación de rama de diálogo del informe de combate
+$pv_lvts4_0460_0010_cld_0,ACTOR,Cloud
+$pv_lvts4_0460_0030_cld_0,,No.
+$pv_lvts4_0460_0030_cld_0,ACTOR,Cloud
+$tk_lvts4_0300_0010_cld_0,,Prueba de SE
+$tk_lvts4_0300_0010_cld_0,ACTOR,Cloud
+$tk_lvts4_0300_0020_cld_0,,Cerrar puerta
+$tk_lvts4_0300_0020_cld_0,ACTOR,Cloud
+$tk_lvts4_0300_0030_cld_0,,Abrir puerta
+$tk_lvts4_0300_0030_cld_0,ACTOR,Cloud
+$tk_lvts4_0300_0040_cld_0,,Bajar del puente
+$tk_lvts4_0300_0040_cld_0,ACTOR,Cloud
+$tk_lvts4_0300_0050_cld_0,,Comando de campo
+$tk_lvts4_0300_0050_cld_0,ACTOR,Cloud
+$tk_lvts4_0300_0070_cld_0,,Fin
+$tk_lvts4_0300_0070_cld_0,ACTOR,Cloud

@@ -1,0 +1,28 @@
+id,sub_id,text
+language,,ES
+$ev_comon_0100_0000_chd_0,,"Bien, colócate el simulador de combate portátil."
+$ev_comon_0100_0000_chd_0,ACTOR,Chadley
+$ev_comon_0220_0010_wis_0,,"Ahorcar, destripar, cortar, matar."
+$ev_comon_0220_0010_wis_0,ACTOR,Weiss
+$ev_comon_0220_0020_wis_0,,"Aplastar, apuñalar, machacar;<br>estrangular, ensartar, fusilar."
+$ev_comon_0220_0020_wis_0,ACTOR,Weiss
+$ev_comon_0220_0030_wis_0,,Exterminémoslos.
+$ev_comon_0220_0030_wis_0,ACTOR,Weiss
+$ev_comon_0220_0035_wis_0,,
+$ev_comon_0220_0035_wis_0,ACTOR,
+$ev_comon_0220_0040_wis_0,,"Vamos, empecemos la cacería."
+$ev_comon_0220_0040_wis_0,ACTOR,Weiss
+$ev_comon_0230_0005_wis_0,,
+$ev_comon_0230_0005_wis_0,ACTOR,
+$ev_comon_0230_0010_wis_0,,¿Luchar más allá del cuerpo?
+$ev_comon_0230_0010_wis_0,ACTOR,Weiss
+$ev_comon_0230_0020_wis_0,,Interesante.
+$ev_comon_0230_0020_wis_0,ACTOR,Weiss
+$ev_comon_0230_0022_wis_0,,
+$ev_comon_0230_0022_wis_0,ACTOR,
+$ev_comon_0230_0024_hjo_0,,
+$ev_comon_0230_0024_hjo_0,ACTOR,
+$ev_comon_0230_0030_wis_0,,"Nos veremos en Deepground, tarde o temprano."
+$ev_comon_0230_0030_wis_0,ACTOR,Weiss
+$ev_comon_0230_0040_wis_0,,
+$ev_comon_0230_0040_wis_0,ACTOR,

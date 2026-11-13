@@ -1,0 +1,1282 @@
+id,sub_id,text
+language,,ES
+$ba_tnnl4_0311_0000_0000_kb01_0,,¡Ahí están!
+$ba_tnnl4_0311_0000_0000_kb01_0,ACTOR,Centinela
+$ba_tnnl4_0311_0000_0010_kb02_0,,¡Hemos localizado a los portadores de los ID buscados! ¡Enviad refuerzos!
+$ba_tnnl4_0311_0000_0010_kb02_0,ACTOR,Centinela
+$ba_tnnl4_0401_0000_0000_kb03_0,,Confirmados tres portadores de ID buscados.
+$ba_tnnl4_0401_0000_0000_kb03_0,ACTOR,Granadero
+$ba_tnnl4_0401_0000_0010_kb04_0,,¡Atrapadlos a todos!
+$ba_tnnl4_0401_0000_0010_kb04_0,ACTOR,Granadero
+$ba_tnnl4_0421_0000_0000_ks01_0,,¡Los detendremos aquí!
+$ba_tnnl4_0421_0000_0000_ks01_0,ACTOR,Granadero de élite
+$ba_tnnl4_0440_0000_0000_tif_0,,¡Uah!
+$ba_tnnl4_0440_0000_0000_tif_0,ACTOR,
+$ba_tnnl4_0440_0000_0010_blt_0,,Qué asco.
+$ba_tnnl4_0440_0000_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_0461_0000_0000_blt_0,,¿Qué pasa?
+$ba_tnnl4_0461_0000_0000_blt_0,ACTOR,Barret
+$ba_tnnl4_0461_0000_0010_tif_0,,Es enorme...
+$ba_tnnl4_0461_0000_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_0461_0000_0020_blt_0,,¿La reina hace acto de presencia?
+$ba_tnnl4_0461_0000_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_0465_0000_0000_jk01_0,,¿Por dónde habéis entrado?
+$ba_tnnl4_0465_0000_0000_jk01_0,ACTOR,Guarda incendiario
+$ba_tnnl4_0465_0000_0010_kB09_0,,¿Sois los del informe?
+$ba_tnnl4_0465_0000_0010_kB09_0,ACTOR,Centinela
+$ba_tnnl4_0470_0000_0000_kb10_0,,¡Vosotros!
+$ba_tnnl4_0470_0000_0000_kb10_0,ACTOR,Centinela
+$ba_tnnl4_0480_0000_0000_ks02_0,,¡Han llegado!
+$ba_tnnl4_0480_0000_0000_ks02_0,ACTOR,Guarda incendiario
+$ba_tnnl4_0480_0000_0010_ks03_0,,Tenemos controlados todos vuestros movimientos.
+$ba_tnnl4_0480_0000_0010_ks03_0,ACTOR,Guarda incendiario
+$ba_tnnl4_0490_0000_0000_ks04_0,,No penséis que podréis pasar de aquí.
+$ba_tnnl4_0490_0000_0000_ks04_0,ACTOR,Centinela de élite
+$ba_tnnl4_0490_0000_0010_ks05_0,,Rendíos.
+$ba_tnnl4_0490_0000_0010_ks05_0,ACTOR,Centinela de élite
+$ba_tnnl4_5010_1020_0010_cld_0,,Qué raro. Es un arma anticuada.
+$ba_tnnl4_5010_1020_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1020_0020_blt_0,,"¿Un cacharro viejo, dices?"
+$ba_tnnl4_5010_1020_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1020_0030_cld_0,,"Se mueve despacio, pero tiene mucha potencia de fuego. No lo subestiméis."
+$ba_tnnl4_5010_1020_0030_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1030_0010_blt_0,,Qué duro es.
+$ba_tnnl4_5010_1030_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1030_0020_tif_0,,¿Qué hacemos?
+$ba_tnnl4_5010_1030_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1030_0030_cld_0,,Apunta a las patas y derríbalo.
+$ba_tnnl4_5010_1030_0030_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1040_0010_blt_0,,"¡Cloud, te está apuntando!"
+$ba_tnnl4_5010_1040_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1040_0020_cld_0,,Yo lo distraigo. ¡Atacad ahora!
+$ba_tnnl4_5010_1040_0020_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1050_0010_tif_0,,"¡Barret, te está apuntando!"
+$ba_tnnl4_5010_1050_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1050_0020_blt_0,,"Vale, yo lo distraigo."
+$ba_tnnl4_5010_1050_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1050_0030_cld_0,,Del ataque me encargo yo.
+$ba_tnnl4_5010_1050_0030_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1060_0010_cld_0,,"¡Tifa, cuidado!"
+$ba_tnnl4_5010_1060_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1060_0020_tif_0,,Yo haré de cebo. ¡Atacad!
+$ba_tnnl4_5010_1060_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1070_0010_cld_0,,Yo me encargo de él.
+$ba_tnnl4_5010_1070_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1080_0010_cld_0,,Ahí viene.
+$ba_tnnl4_5010_1080_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1090_0010_blt_0,,"Vaya, qué popular soy."
+$ba_tnnl4_5010_1090_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1100_0010_blt_0,,"Bien, ¡dispara todo lo que quieras!"
+$ba_tnnl4_5010_1100_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1110_0010_tif_0,,¿Me está mirando a mí?
+$ba_tnnl4_5010_1110_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1120_0010_tif_0,,Deja el cebo de mi cuenta.
+$ba_tnnl4_5010_1120_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1210_0010_tif_0,,"¡Mira, ahí!"
+$ba_tnnl4_5010_1210_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1210_0020_cld_0,,El generador de mako es su corazón.
+$ba_tnnl4_5010_1210_0020_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1210_0030_blt_0,,Entonces hay que pararlo.
+$ba_tnnl4_5010_1210_0030_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1220_0010_cld_0,,¿Eso es un generador de mako?
+$ba_tnnl4_5010_1220_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_1230_0010_blt_0,,¡Oh! ¡Punto débil encontrado!
+$ba_tnnl4_5010_1230_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1240_0010_tif_0,,Esa parte que brilla es sospechosa.
+$ba_tnnl4_5010_1240_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1250_0010_blt_0,,¡Se nota que le duele!
+$ba_tnnl4_5010_1250_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_1250_0020_tif_0,,Parece que está funcionando.
+$ba_tnnl4_5010_1250_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_1250_0030_cld_0,,¡Seguimos así!
+$ba_tnnl4_5010_1250_0030_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_2010_0010_tif_0,,¿Qué es eso?
+$ba_tnnl4_5010_2010_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_2010_0020_cld_0,,¿Aeronaves de combate?
+$ba_tnnl4_5010_2010_0020_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_2010_0030_blt_0,,Es mi turno.
+$ba_tnnl4_5010_2010_0030_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_2020_0010_tif_0,,¡Qué pesados!
+$ba_tnnl4_5010_2020_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_2020_0020_cld_0,,Estorban.
+$ba_tnnl4_5010_2020_0020_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_2020_0030_blt_0,,Primero hay que derribar a estos.
+$ba_tnnl4_5010_2020_0030_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_2050_0010_blt_0,,"Con esto basta, ¿no?"
+$ba_tnnl4_5010_2050_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_2050_0020_cld_0,,¡Atacad ahora!
+$ba_tnnl4_5010_2050_0020_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_2060_0010_tif_0,,¡Los hemos derribado todos!
+$ba_tnnl4_5010_2060_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_2060_0020_blt_0,,Centrémonos en el grande.
+$ba_tnnl4_5010_2060_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_2110_0010_tif_0,,¿Otra vez?
+$ba_tnnl4_5010_2110_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_2110_0020_blt_0,,¡Qué pesados!
+$ba_tnnl4_5010_2110_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_2120_0010_cld_0,,"Si esto se alarga, vamos a perder."
+$ba_tnnl4_5010_2120_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_2130_0010_blt_0,,¡Otra vez vienen a por nosotros!
+$ba_tnnl4_5010_2130_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_2140_0010_tif_0,,¡No tienen fin!
+$ba_tnnl4_5010_2140_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3010_0010_tif_0,,¿Qué?
+$ba_tnnl4_5010_3010_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3010_0020_cld_0,,¿Un error del sistema?
+$ba_tnnl4_5010_3010_0020_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3010_0030_blt_0,,¡¿Es defectuoso?!
+$ba_tnnl4_5010_3010_0030_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3020_0010_blt_0,,¿Qué pretende?
+$ba_tnnl4_5010_3020_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3020_0020_tif_0,,Esto es...
+$ba_tnnl4_5010_3020_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3020_0030_cld_0,,¡Apartaos de las vías!
+$ba_tnnl4_5010_3020_0030_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3020_1010_cld_0,,¿Qué piensa hacer...? ¿Las vías?
+$ba_tnnl4_5010_3020_1010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3020_2020_blt_0,,¡Las vías!
+$ba_tnnl4_5010_3020_2020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3020_3020_tif_0,,¿Las vías?
+$ba_tnnl4_5010_3020_3020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3030_0010_cld_0,,¿Electricidad por los raíles?
+$ba_tnnl4_5010_3030_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3040_0010_blt_0,,¡Que no me dé la corriente!
+$ba_tnnl4_5010_3040_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3050_0010_tif_0,,Así que esta es su carta bajo la manga.
+$ba_tnnl4_5010_3050_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3060_0010_cld_0,,¡Ahí va!
+$ba_tnnl4_5010_3060_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3070_0010_cld_0,,Cuidado con la corriente.
+$ba_tnnl4_5010_3070_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3080_0010_blt_0,,¡Otra vez la corriente!
+$ba_tnnl4_5010_3080_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3090_0010_blt_0,,¡Alerta de descarga!
+$ba_tnnl4_5010_3090_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3100_0010_tif_0,,¡Apartaos de las vías!
+$ba_tnnl4_5010_3100_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3110_0010_tif_0,,¡Cuidado con los pies!
+$ba_tnnl4_5010_3110_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3210_0010_blt_0,,¡Ha revivido!
+$ba_tnnl4_5010_3210_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3210_0020_tif_0,,¿Qué hacemos?
+$ba_tnnl4_5010_3210_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3210_0030_cld_0,,Destruye el blindaje. ¡Déjalo al descubierto!
+$ba_tnnl4_5010_3210_0030_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3220_0010_cld_0,,No tiene puntos débiles.
+$ba_tnnl4_5010_3220_0010_cld_0,ACTOR,Cloud
+$ba_tnnl4_5010_3230_0010_blt_0,,¡Ha revivido!
+$ba_tnnl4_5010_3230_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3230_0020_blt_0,,Solo queda destrozar el blindaje.
+$ba_tnnl4_5010_3230_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3240_0010_tif_0,,¿Se ha recuperado?
+$ba_tnnl4_5010_3240_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3240_0020_tif_0,,¿Podremos romper el blindaje frontal?
+$ba_tnnl4_5010_3240_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3250_0010_blt_0,,"¡Aunque lo derribemos, vuelve enseguida!"
+$ba_tnnl4_5010_3250_0010_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3250_0020_tif_0,,"Hay que destruir el blindaje, sin duda."
+$ba_tnnl4_5010_3250_0020_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3310_0010_tif_0,,¡Lo logramos!
+$ba_tnnl4_5010_3310_0010_tif_0,ACTOR,Tifa
+$ba_tnnl4_5010_3310_0020_blt_0,,¡Toma ya!
+$ba_tnnl4_5010_3310_0020_blt_0,ACTOR,Barret
+$ba_tnnl4_5010_3310_0030_cld_0,,Así podremos atacarlo.
+$ba_tnnl4_5010_3310_0030_cld_0,ACTOR,Cloud
+$ev_tnnl4_0010_0010_tan_0,,Les habla la Compañía Shinra a todos los pasajeros.
+$ev_tnnl4_0010_0010_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0010_0020_tan_0,,"Hoy, la organización anti-Shinra autodenominada Avalancha"
+$ev_tnnl4_0010_0020_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0010_0030_tan_0,,ha emitido un comunicado amenazando con volar otro reactor de mako.
+$ev_tnnl4_0010_0030_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0010_0040_tan_0,,"Debido al estado de alerta especial,"
+$ev_tnnl4_0010_0040_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0010_0050_tan_0,,los horarios de todos los trenes se han visto gravemente alterados.
+$ev_tnnl4_0010_0050_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0010_0060_blt_0,,La llegada a la estación del sector 4 se producirá con retraso.
+$ev_tnnl4_0010_0060_blt_0,ACTOR,Barret
+$ev_tnnl4_0010_0070_blt_0,,El objetivo es el reactor de mako n.º 5.
+$ev_tnnl4_0010_0070_blt_0,ACTOR,Barret
+$ev_tnnl4_0010_0070_blt_1,,"Desde la estación, iremos por los callejones del centro."
+$ev_tnnl4_0010_0070_blt_1,ACTOR,Barret
+$ev_tnnl4_0010_0080_cld_0,,"Una vez dentro del reactor, será igual que el n.º 1."
+$ev_tnnl4_0010_0080_cld_0,ACTOR,Cloud
+$ev_tnnl4_0010_0090_blt_0,,Vamos a por el depósito de mako.
+$ev_tnnl4_0010_0090_blt_0,ACTOR,Barret
+$ev_tnnl4_0010_0100_blt_0,,¡Y lo haremos volar por los aires!
+$ev_tnnl4_0010_0100_blt_0,ACTOR,Barret
+$ev_tnnl4_0010_0110_tif_0,,
+$ev_tnnl4_0010_0110_tif_0,ACTOR,Tifa
+$ev_tnnl4_0010_0120_cld_0,,
+$ev_tnnl4_0010_0120_cld_0,ACTOR,Cloud
+$ev_tnnl4_0010_0125_tif_0,,
+$ev_tnnl4_0010_0125_tif_0,ACTOR,
+$ev_tnnl4_0010_0130_tif_0,,Lo haremos por Jessie y por Wedge. Nosotros dos.
+$ev_tnnl4_0010_0130_tif_0,ACTOR,Tifa
+$ev_tnnl4_0010_0130_tif_1,,Hay pocos pasajeros.
+$ev_tnnl4_0010_0130_tif_1,ACTOR,Tifa
+$ev_tnnl4_0010_0140_blt_0,,La noticia del atentado se ha extendido más rápido de lo que esperaba Biggs.
+$ev_tnnl4_0010_0140_blt_0,ACTOR,Barret
+$ev_tnnl4_0010_0140_blt_1,,¿Llama la atención si vamos juntos?
+$ev_tnnl4_0010_0140_blt_1,ACTOR,Barret
+$ev_tnnl4_0010_0150_tif_0,,
+$ev_tnnl4_0010_0150_tif_0,ACTOR,
+$ev_tnnl4_0050_0009_snk_0,,
+$ev_tnnl4_0050_0009_snk_0,ACTOR,
+$ev_tnnl4_0050_0010_snk_0,,Vosotros quedaos aquí.
+$ev_tnnl4_0050_0010_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0050_0030_snk_0,,¿Tú también los defiendes?
+$ev_tnnl4_0050_0030_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0050_0040_blt_0,,
+$ev_tnnl4_0050_0040_blt_0,ACTOR,Barret
+$ev_tnnl4_0050_0050_snk_0,,"Vaya molestia, Avalancha."
+$ev_tnnl4_0050_0050_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0050_0060_snk_0,,La amenaza de bomba ha sembrado el caos en todas las oficinas. En el lugar de los hechos no dejan de oírse gritos.
+$ev_tnnl4_0050_0060_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0050_0060_snk_1,,"Pero yo... No, los empleados de Shinra lucharemos."
+$ev_tnnl4_0050_0060_snk_1,ACTOR,Gerente de Shinra
+$ev_tnnl4_0050_0070_blt_0,,¡Ni se nos ocurrirá parar el reactor!
+$ev_tnnl4_0050_0070_blt_0,ACTOR,Barret
+$ev_tnnl4_0050_0080_snk_0,,Vaya...
+$ev_tnnl4_0050_0080_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0050_0090_blt_0,,¿Qué pasa? ¿Tienes alguna queja?
+$ev_tnnl4_0050_0090_blt_0,ACTOR,Barret
+$ev_tnnl4_0050_0100_cld_0,,¿Una queja? Eso es...
+$ev_tnnl4_0050_0100_cld_0,ACTOR,Cloud
+$ev_tnnl4_0050_0110_snk_0,,
+$ev_tnnl4_0050_0110_snk_0,ACTOR,
+$ev_tnnl4_0050_0115_snk_0,,
+$ev_tnnl4_0050_0115_snk_0,ACTOR,
+$ev_tnnl4_0050_0120_blt_0,,Ninguna en particular.
+$ev_tnnl4_0050_0120_blt_0,ACTOR,Barret
+$ev_tnnl4_0050_0129_cld_0,,
+$ev_tnnl4_0050_0129_cld_0,ACTOR,
+$ev_tnnl4_0050_0130_cld_0,,Qué hombre tan pequeño.
+$ev_tnnl4_0050_0130_cld_0,ACTOR,Cloud
+$ev_tnnl4_0050_0135_blt_0,,
+$ev_tnnl4_0050_0135_blt_0,ACTOR,
+$ev_tnnl4_0050_0136_blt_0,,
+$ev_tnnl4_0050_0136_blt_0,ACTOR,
+$ev_tnnl4_0050_0140_blt_0,,Tú mantente firme.
+$ev_tnnl4_0050_0140_blt_0,ACTOR,
+$ev_tnnl4_0070_0040_tan_0,,"Cha-cha-cha-chán, cha-cha-cha-chán."
+$ev_tnnl4_0070_0040_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0070_0050_tan_0,,Activación del estado de alerta de emergencia.
+$ev_tnnl4_0070_0050_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0070_0055_cld_0,,
+$ev_tnnl4_0070_0055_cld_0,ACTOR,
+$ev_tnnl4_0070_0060_tan_0,,Sospecha de portadores de ID buscados.
+$ev_tnnl4_0070_0060_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0070_0070_tif_0,,"Desde el vagón de cola, comenzamos la inspección de los vagones y la preparación del aislamiento."
+$ev_tnnl4_0070_0070_tif_0,ACTOR,Tifa
+$ev_tnnl4_0070_0079_blt_0,,
+$ev_tnnl4_0070_0079_blt_0,ACTOR,
+$ev_tnnl4_0070_0080_blt_0,,¡Esto es grave!
+$ev_tnnl4_0070_0080_blt_0,ACTOR,Barret
+$ev_tnnl4_0070_0085_tif_0,,
+$ev_tnnl4_0070_0085_tif_0,ACTOR,
+$ev_tnnl4_0070_0090_ym01_0,,"¡Vosotros, venid rápido!"
+$ev_tnnl4_0070_0090_ym01_0,ACTOR,Pasajero
+$ev_tnnl4_0070_0091_ym02_0,,
+$ev_tnnl4_0070_0091_ym02_0,ACTOR,
+$ev_tnnl4_0070_0092_ym03_0,,
+$ev_tnnl4_0070_0092_ym03_0,ACTOR,
+$ev_tnnl4_0070_0093_wm02_0,,
+$ev_tnnl4_0070_0093_wm02_0,ACTOR,
+$ev_tnnl4_0070_0100_ym02_0,,
+$ev_tnnl4_0070_0100_ym02_0,ACTOR,
+$ev_tnnl4_0070_0110_tif_0,,¿¡Qué pasa!?
+$ev_tnnl4_0070_0110_tif_0,ACTOR,Tifa
+$ev_tnnl4_0070_0120_cld_0,,"¡Cloud, encárgate de esos!"
+$ev_tnnl4_0070_0120_cld_0,ACTOR,Cloud
+$ev_tnnl4_0090_0000_cld_0,,
+$ev_tnnl4_0090_0000_cld_0,ACTOR,
+$ev_tnnl4_0090_0001_cld_0,,
+$ev_tnnl4_0090_0001_cld_0,ACTOR,
+$ev_tnnl4_0090_0002_cld_0,,
+$ev_tnnl4_0090_0002_cld_0,ACTOR,
+$ev_tnnl4_0090_0003_cld_0,,
+$ev_tnnl4_0090_0003_cld_0,ACTOR,
+$ev_tnnl4_0090_0004_cld_0,,
+$ev_tnnl4_0090_0004_cld_0,ACTOR,
+$ev_tnnl4_0090_0005_cld_0,,
+$ev_tnnl4_0090_0005_cld_0,ACTOR,
+$ev_tnnl4_0090_0006_blt_0,,
+$ev_tnnl4_0090_0006_blt_0,ACTOR,
+$ev_tnnl4_0090_0008_tif_0,,Déjamelo a mí.
+$ev_tnnl4_0090_0008_tif_0,ACTOR,Tifa
+$ev_tnnl4_0090_0009_snk_0,,
+$ev_tnnl4_0090_0009_snk_0,ACTOR,
+$ev_tnnl4_0090_0010_snk_0,,"¡Vamos, huid rápido!"
+$ev_tnnl4_0090_0010_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0090_0015_tif_0,,
+$ev_tnnl4_0090_0015_tif_0,ACTOR,
+$ev_tnnl4_0090_0020_tif_0,,¿Qué pretendéis?
+$ev_tnnl4_0090_0020_tif_0,ACTOR,Tifa
+$ev_tnnl4_0090_0030_snk_0,,Seguro que allí estaréis a salvo.
+$ev_tnnl4_0090_0030_snk_0,ACTOR,Gerente de Shinra
+$ev_tnnl4_0090_0040_tif_0,,"Soy empleada de Shinra. Soy el enemigo, ¿no?"
+$ev_tnnl4_0090_0040_tif_0,ACTOR,Tifa
+$ev_tnnl4_0090_0050_tif_0,,No sois enemigos.
+$ev_tnnl4_0090_0050_tif_0,ACTOR,Tifa
+$ev_tnnl4_0090_0060_snk_0,,
+$ev_tnnl4_0090_0060_snk_0,ACTOR,
+$ev_tnnl4_0090_0060_snk_1,,Quiero proteger a todos. Por favor.
+$ev_tnnl4_0090_0060_snk_1,ACTOR,Gerente de Shinra
+$ev_tnnl4_0090_0065_tif_0,,
+$ev_tnnl4_0090_0065_tif_0,ACTOR,
+$ev_tnnl4_0090_0070_tif_0,,Yo me encargo de estos.
+$ev_tnnl4_0090_0070_tif_0,ACTOR,Tifa
+$ev_tnnl4_0090_0071_tif_0,,
+$ev_tnnl4_0090_0071_tif_0,ACTOR,
+$ev_tnnl4_0090_0072_tif_0,,
+$ev_tnnl4_0090_0072_tif_0,ACTOR,
+$ev_tnnl4_0090_0079_cld_0,,
+$ev_tnnl4_0090_0079_cld_0,ACTOR,
+$ev_tnnl4_0090_0080_cld_0,,Los protejo.
+$ev_tnnl4_0090_0080_cld_0,ACTOR,Cloud
+$ev_tnnl4_0090_0090_tan_0,,No tienen fin.
+$ev_tnnl4_0090_0090_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0090_0091_cld_0,,
+$ev_tnnl4_0090_0091_cld_0,ACTOR,
+$ev_tnnl4_0090_0092_tif_0,,
+$ev_tnnl4_0090_0092_tif_0,ACTOR,
+$ev_tnnl4_0090_0100_tan_0,,Confirmado el aislamiento de tres portadores de ID buscados.
+$ev_tnnl4_0090_0100_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0090_0110_blt_0,,Pasamos a la fase de barrido.
+$ev_tnnl4_0090_0110_blt_0,ACTOR,Barret
+$ev_tnnl4_0090_0120_cld_0,,"Como dice el señor SOLDIER, ¿eh?"
+$ev_tnnl4_0090_0120_cld_0,ACTOR,Cloud
+$ev_tnnl4_0090_0160_blt_0,,
+$ev_tnnl4_0090_0160_blt_0,ACTOR,Barret
+$ev_tnnl4_0090_0170_cld_0,,No hay más remedio.
+$ev_tnnl4_0090_0170_cld_0,ACTOR,Cloud
+$ev_tnnl4_0090_0180_blt_0,,La estación debe de estar rodeada. Vamos a saltar.
+$ev_tnnl4_0090_0180_blt_0,ACTOR,Barret
+$ev_tnnl4_0090_0190_cld_0,,¡¿En serio?!
+$ev_tnnl4_0090_0190_cld_0,ACTOR,Cloud
+$ev_tnnl4_0090_0192_tif_0,,
+$ev_tnnl4_0090_0192_tif_0,ACTOR,
+$ev_tnnl4_0090_0195_blt_0,,Solo hay que reducir la velocidad.
+$ev_tnnl4_0090_0195_blt_0,ACTOR,Barret
+$ev_tnnl4_0090_0200_tif_0,,
+$ev_tnnl4_0090_0200_tif_0,ACTOR,
+$ev_tnnl4_0090_0201_blt_0,,
+$ev_tnnl4_0090_0201_blt_0,ACTOR,
+$ev_tnnl4_0090_0202_blt_0,,
+$ev_tnnl4_0090_0202_blt_0,ACTOR,
+$ev_tnnl4_0090_0210_blt_0,,
+$ev_tnnl4_0090_0210_blt_0,ACTOR,
+$ev_tnnl4_0090_0230_tif_0,,
+$ev_tnnl4_0090_0230_tif_0,ACTOR,
+$ev_tnnl4_0090_0240_cld_0,,
+$ev_tnnl4_0090_0240_cld_0,ACTOR,
+$ev_tnnl4_0090_0250_blt_0,,
+$ev_tnnl4_0090_0250_blt_0,ACTOR,
+$ev_tnnl4_0090_0260_tif_0,,
+$ev_tnnl4_0090_0260_tif_0,ACTOR,
+$ev_tnnl4_0090_0265_cld_0,,
+$ev_tnnl4_0090_0265_cld_0,ACTOR,
+$ev_tnnl4_0090_0266_tif_0,,
+$ev_tnnl4_0090_0266_tif_0,ACTOR,
+$ev_tnnl4_0090_0270_blt_0,,
+$ev_tnnl4_0090_0270_blt_0,ACTOR,
+$ev_tnnl4_0090_0280_blt_0,,"Eso es el «plan E» de Biggs, ¿no?"
+$ev_tnnl4_0090_0280_blt_0,ACTOR,Barret
+$ev_tnnl4_0090_0300_cld_0,,"Entonces, primero... ¡Allá voy, allá voy, allá voooy!"
+$ev_tnnl4_0090_0300_cld_0,ACTOR,Cloud
+$ev_tnnl4_0090_0310_tif_0,,
+$ev_tnnl4_0090_0310_tif_0,ACTOR,
+$ev_tnnl4_0090_0315_tif_0,,
+$ev_tnnl4_0090_0315_tif_0,ACTOR,
+$ev_tnnl4_0090_0320_cld_0,,
+$ev_tnnl4_0090_0320_cld_0,ACTOR,
+$ev_tnnl4_0090_0330_cld_0,,
+$ev_tnnl4_0090_0330_cld_0,ACTOR,
+$ev_tnnl4_0090_0334_tif_0,,
+$ev_tnnl4_0090_0334_tif_0,ACTOR,
+$ev_tnnl4_0090_0335_cld_0,,
+$ev_tnnl4_0090_0335_cld_0,ACTOR,
+$ev_tnnl4_0090_0340_cld_0,,
+$ev_tnnl4_0090_0340_cld_0,ACTOR,
+$ev_tnnl4_0090_0350_tif_0,,
+$ev_tnnl4_0090_0350_tif_0,ACTOR,
+$ev_tnnl4_0110_0005_cld_0,,
+$ev_tnnl4_0110_0005_cld_0,ACTOR,
+$ev_tnnl4_0110_0010_cld_0,,¡Tifa!
+$ev_tnnl4_0110_0010_cld_0,ACTOR,Cloud
+$ev_tnnl4_0110_0011_cld_0,,
+$ev_tnnl4_0110_0011_cld_0,ACTOR,
+$ev_tnnl4_0110_0015_blt_0,,
+$ev_tnnl4_0110_0015_blt_0,ACTOR,
+$ev_tnnl4_0110_0016_wm01_0,,
+$ev_tnnl4_0110_0016_wm01_0,ACTOR,
+$ev_tnnl4_0110_0017_wm02_0,,
+$ev_tnnl4_0110_0017_wm02_0,ACTOR,
+$ev_tnnl4_0110_0018_ym03_0,,
+$ev_tnnl4_0110_0018_ym03_0,ACTOR,
+$ev_tnnl4_0110_0019_ym02_0,,
+$ev_tnnl4_0110_0019_ym02_0,ACTOR,
+$ev_tnnl4_0110_0020_blt_0,,
+$ev_tnnl4_0110_0020_blt_0,ACTOR,
+$ev_tnnl4_0110_0030_tif_0,,No puedo.
+$ev_tnnl4_0110_0030_tif_0,ACTOR,Tifa
+$ev_tnnl4_0110_0035_tif_0,,
+$ev_tnnl4_0110_0035_tif_0,ACTOR,
+$ev_tnnl4_0110_0040_tif_0,,¡Date prisa!
+$ev_tnnl4_0110_0040_tif_0,ACTOR,Tifa
+$ev_tnnl4_0110_0050_tan_0,,No tienen fin.
+$ev_tnnl4_0110_0050_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0110_0055_blt_0,,
+$ev_tnnl4_0110_0055_blt_0,ACTOR,
+$ev_tnnl4_0110_0056_tif_0,,
+$ev_tnnl4_0110_0056_tif_0,ACTOR,
+$ev_tnnl4_0110_0060_tan_0,,No tienen fin.
+$ev_tnnl4_0110_0060_tan_0,ACTOR,Megafonía
+$ev_tnnl4_0110_0065_blt_0,,
+$ev_tnnl4_0110_0065_blt_0,ACTOR,
+$ev_tnnl4_0110_0067_tif_0,,
+$ev_tnnl4_0110_0067_tif_0,ACTOR,
+$ev_tnnl4_0110_0070_blt_0,,Pasamos a la fase de barrido.
+$ev_tnnl4_0110_0070_blt_0,ACTOR,Barret
+$ev_tnnl4_0110_0072_tif_0,,
+$ev_tnnl4_0110_0072_tif_0,ACTOR,
+$ev_tnnl4_0110_0074_tif_0,,
+$ev_tnnl4_0110_0074_tif_0,ACTOR,
+$ev_tnnl4_0110_0075_blt_0,,
+$ev_tnnl4_0110_0075_blt_0,ACTOR,
+$ev_tnnl4_0110_0076_tif_0,,
+$ev_tnnl4_0110_0076_tif_0,ACTOR,
+$ev_tnnl4_0110_0078_cld_0,,
+$ev_tnnl4_0110_0078_cld_0,ACTOR,
+$ev_tnnl4_0110_0079_cld_0,,
+$ev_tnnl4_0110_0079_cld_0,ACTOR,
+$ev_tnnl4_0110_0080_cld_0,,
+$ev_tnnl4_0110_0080_cld_0,ACTOR,
+$ev_tnnl4_0110_0090_cld_0,,
+$ev_tnnl4_0110_0090_cld_0,ACTOR,
+$ev_tnnl4_0110_0100_cld_0,,
+$ev_tnnl4_0110_0100_cld_0,ACTOR,
+$ev_tnnl4_0110_0110_cld_0,,
+$ev_tnnl4_0110_0110_cld_0,ACTOR,
+$ev_tnnl4_0120_0005_cld_0,,
+$ev_tnnl4_0120_0005_cld_0,ACTOR,
+$ev_tnnl4_0120_0010_cld_0,,No queda otra que bajar.
+$ev_tnnl4_0120_0010_cld_0,ACTOR,Cloud
+$ev_tnnl4_0120_0011_cld_0,,
+$ev_tnnl4_0120_0011_cld_0,ACTOR,
+$ev_tnnl4_0120_0015_cld_0,,
+$ev_tnnl4_0120_0015_cld_0,ACTOR,
+$ev_tnnl4_0120_0020_cld_0,,Tifa. Barret.
+$ev_tnnl4_0120_0020_cld_0,ACTOR,Cloud
+$ev_tnnl4_0160_0000_cld_0,,
+$ev_tnnl4_0160_0000_cld_0,ACTOR,
+$ev_tnnl4_0160_0005_tif_0,,
+$ev_tnnl4_0160_0005_tif_0,ACTOR,
+$ev_tnnl4_0160_0010_cld_0,,No me sigáis hasta que os rompáis.
+$ev_tnnl4_0160_0010_cld_0,ACTOR,Cloud
+$ev_tnnl4_0160_0020_tif_0,,¿Estás bien?
+$ev_tnnl4_0160_0020_tif_0,ACTOR,Tifa
+$ev_tnnl4_0160_0021_cld_0,,
+$ev_tnnl4_0160_0021_cld_0,ACTOR,
+$ev_tnnl4_0160_0023_tif_0,,
+$ev_tnnl4_0160_0023_tif_0,ACTOR,
+$ev_tnnl4_0160_0024_cld_0,,
+$ev_tnnl4_0160_0024_cld_0,ACTOR,
+$ev_tnnl4_0160_0026_cld_0,,
+$ev_tnnl4_0160_0026_cld_0,ACTOR,
+$ev_tnnl4_0160_0030_cld_0,,Sí.
+$ev_tnnl4_0160_0030_cld_0,ACTOR,Cloud
+$ev_tnnl4_0160_0040_tif_0,,"Tifa, ¿puedes seguir?"
+$ev_tnnl4_0160_0040_tif_0,ACTOR,Tifa
+$ev_tnnl4_0160_0050_cld_0,,
+$ev_tnnl4_0160_0050_cld_0,ACTOR,
+$ev_tnnl4_0160_0060_tif_0,,
+$ev_tnnl4_0160_0060_tif_0,ACTOR,
+$ev_tnnl4_0180_0010_hyd_0,,
+$ev_tnnl4_0180_0010_hyd_0,ACTOR,
+$ev_tnnl4_0180_0010_hyd_1,,¡Estoy bien!
+$ev_tnnl4_0180_0010_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0180_0010_hyd_2,,Así que os habéis colado en la fase de barrido.
+$ev_tnnl4_0180_0010_hyd_2,ACTOR,Heidegger
+$ev_tnnl4_0180_0020_kb01_0,,
+$ev_tnnl4_0180_0020_kb01_0,ACTOR,Subordinado
+$ev_tnnl4_0180_0030_hyd_0,,¡Qué divertido! ¡Qué placer!
+$ev_tnnl4_0180_0030_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0180_0030_hyd_1,,Sois unas ratas persistentes.
+$ev_tnnl4_0180_0030_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0180_0040_kb01_0,,¿Habéis dejado vivo al tercero?
+$ev_tnnl4_0180_0040_kb01_0,ACTOR,Subordinado
+$ev_tnnl4_0180_0050_hyd_0,,Lo tenemos acorralado.
+$ev_tnnl4_0180_0050_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0180_0060_kb01_0,,Haced que se reúna con los otros dos.
+$ev_tnnl4_0180_0060_kb01_0,ACTOR,Subordinado
+$ev_tnnl4_0180_0070_hyd_0,,
+$ev_tnnl4_0180_0070_hyd_0,ACTOR,
+$ev_tnnl4_0230_0010_blt_0,,Entendido.
+$ev_tnnl4_0230_0010_blt_0,ACTOR,Barret
+$ev_tnnl4_0230_0020_cld_0,,A partir de aquí es el «plan E».
+$ev_tnnl4_0230_0020_cld_0,ACTOR,Cloud
+$ev_tnnl4_0230_0030_blt_0,,Te escucho.
+$ev_tnnl4_0230_0030_blt_0,ACTOR,Barret
+$ev_tnnl4_0230_0030_blt_1,,"Si todo hubiera salido según lo previsto, sería el plan A."
+$ev_tnnl4_0230_0030_blt_1,ACTOR,Barret
+$ev_tnnl4_0230_0030_blt_2,,"Ahora nos hemos desviado de lo previsto, pero no hay fallos."
+$ev_tnnl4_0230_0030_blt_2,ACTOR,Barret
+$ev_tnnl4_0230_0030_blt_3,,"Por orden de cercanía al reactor: plan B, C, D... ¡y así!"
+$ev_tnnl4_0230_0030_blt_3,ACTOR,Barret
+$ev_tnnl4_0230_0030_blt_4,,Esta es la ruta que va directa de la estación al reactor.
+$ev_tnnl4_0230_0030_blt_4,ACTOR,Barret
+$ev_tnnl4_0230_0040_cld_0,,Tengo preparadas varias opciones.
+$ev_tnnl4_0230_0040_cld_0,ACTOR,Cloud
+$ev_tnnl4_0230_0050_tif_0,,¿Cuántas hay?
+$ev_tnnl4_0230_0050_tif_0,ACTOR,Tifa
+$ev_tnnl4_0230_0060_cld_0,,Hasta la E.
+$ev_tnnl4_0230_0060_cld_0,ACTOR,Cloud
+$ev_tnnl4_0230_0070_blt_0,,
+$ev_tnnl4_0230_0070_blt_0,ACTOR,
+$ev_tnnl4_0230_0070_blt_1,,Por los pelos.
+$ev_tnnl4_0230_0070_blt_1,ACTOR,Barret
+$ev_tnnl4_0230_0080_tif_0,,¡Qué suerte!
+$ev_tnnl4_0230_0080_tif_0,ACTOR,Tifa
+$ev_tnnl4_0230_0080_tif_1,,"El tren en el que íbamos era la línea del sector 4, que une el pilar principal con el sector 4."
+$ev_tnnl4_0230_0080_tif_1,ACTOR,Tifa
+$ev_tnnl4_0230_0090_blt_0,,"Donde estamos ahora es la línea del reactor de mako n.º 5, la de al lado."
+$ev_tnnl4_0230_0090_blt_0,ACTOR,Barret
+$ev_tnnl4_0230_0090_blt_1,,Primero avanzaremos hacia el reactor siguiendo las vías.
+$ev_tnnl4_0230_0090_blt_1,ACTOR,Barret
+$ev_tnnl4_0230_0090_blt_2,,Las estaciones cercanas al reactor están vigiladas que da miedo.
+$ev_tnnl4_0230_0090_blt_2,ACTOR,Barret
+$ev_tnnl4_0230_0100_tif_0,,Pero no llegaremos a la estación. Nos desviaremos antes.
+$ev_tnnl4_0230_0100_tif_0,ACTOR,Tifa
+$ev_tnnl4_0230_0110_blt_0,,Nuestros compañeros del sector 5 han dejado marcas. No hay de qué preocuparse.
+$ev_tnnl4_0230_0110_blt_0,ACTOR,Barret
+$ev_tnnl4_0230_0120_blt_0,,"Vamos bien, vamos bien."
+$ev_tnnl4_0230_0120_blt_0,ACTOR,Barret
+$ev_tnnl4_0230_0120_blt_1,,¡Mi instinto me lo dice!
+$ev_tnnl4_0230_0120_blt_1,ACTOR,Barret
+$ev_tnnl4_0240_0010_hyd_0,,"Sí, para preparar el clímax lo hemos adelantado un poco."
+$ev_tnnl4_0240_0010_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0240_0010_hyd_1,,"Por supuesto, el final será tal como usted lo ha dispuesto, presidente."
+$ev_tnnl4_0240_0010_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0240_0010_hyd_2,,"Sí, déjemelo a mí."
+$ev_tnnl4_0240_0010_hyd_2,ACTOR,Heidegger
+$ev_tnnl4_0240_0015_hyd_0,,
+$ev_tnnl4_0240_0015_hyd_0,ACTOR,
+$ev_tnnl4_0240_0017_kd01_0,,Con permiso.
+$ev_tnnl4_0240_0017_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0240_0020_kd01_0,,Desde la sala de análisis informan de que el análisis de datos marcha bien.
+$ev_tnnl4_0240_0020_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0240_0020_kd01_1,,"Sin embargo, los daños son mayores de lo previsto. A este paso..."
+$ev_tnnl4_0240_0020_kd01_1,ACTOR,Subordinado
+$ev_tnnl4_0240_0025_hyd_0,,
+$ev_tnnl4_0240_0025_hyd_0,ACTOR,
+$ev_tnnl4_0240_0030_hyd_0,,¿Cuál es vuestro trabajo? ¿Gritar por lo que ya ha pasado?
+$ev_tnnl4_0240_0030_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0240_0040_kd01_0,,
+$ev_tnnl4_0240_0040_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0240_0050_hyd_0,,¿Daños? ¿Y qué?
+$ev_tnnl4_0240_0050_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0240_0050_hyd_1,,"Si faltan piezas, que las pidan al sector 3 o de donde sea."
+$ev_tnnl4_0240_0050_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0240_0050_hyd_2,,¿No podéis usar un poco la cabeza y adelantaros?
+$ev_tnnl4_0240_0050_hyd_2,ACTOR,Heidegger
+$ev_tnnl4_0240_0050_hyd_3,,"Al fin y al cabo, son piezas desechables."
+$ev_tnnl4_0240_0050_hyd_3,ACTOR,Heidegger
+$ev_tnnl4_0240_0055_kd01_0,,
+$ev_tnnl4_0240_0055_kd01_0,ACTOR,
+$ev_tnnl4_0240_0060_kd01_0,,
+$ev_tnnl4_0240_0060_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0240_0062_kd01_0,,
+$ev_tnnl4_0240_0062_kd01_0,ACTOR,
+$ev_tnnl4_0240_0065_hyd_0,,
+$ev_tnnl4_0240_0065_hyd_0,ACTOR,
+$ev_tnnl4_0240_0070_hyd_0,,Da problemas tener subordinados incompetentes.
+$ev_tnnl4_0240_0070_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0240_0070_hyd_1,,"En eso, el presidente tiene suerte."
+$ev_tnnl4_0240_0070_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0240_0070_hyd_2,,
+$ev_tnnl4_0240_0070_hyd_2,ACTOR,
+$ev_tnnl4_0240_0070_hyd_3,,Porque me tiene a mí.
+$ev_tnnl4_0240_0070_hyd_3,ACTOR,Heidegger
+$ev_tnnl4_0310_0010_kd01_0,,El informe dice que se han recogido suficientes datos de combate de Avalancha...
+$ev_tnnl4_0310_0010_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0310_0020_hyd_0,,¡No me hagas repetir lo mismo! ¿De qué sirve un informe?
+$ev_tnnl4_0310_0020_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0310_0030_kd01_0,,Eso...
+$ev_tnnl4_0310_0030_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0310_0040_hyd_0,,¿Has olvidado la guerra contra Wutai?
+$ev_tnnl4_0310_0040_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0310_0040_hyd_1,,"A los que se nos oponen hay que aplastarlos sin piedad, hasta el último hueso."
+$ev_tnnl4_0310_0040_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0310_0040_hyd_2,,"Si subestimamos al enemigo, quien sale herido es la reputación de Shinra."
+$ev_tnnl4_0310_0040_hyd_2,ACTOR,Heidegger
+$ev_tnnl4_0310_0040_hyd_3,,¿No es así como actúa Shinra?
+$ev_tnnl4_0310_0040_hyd_3,ACTOR,Heidegger
+$ev_tnnl4_0310_0045_kd01_0,,
+$ev_tnnl4_0310_0045_kd01_0,ACTOR,
+$ev_tnnl4_0310_0050_kd01_0,,Pero...
+$ev_tnnl4_0310_0050_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0310_0060_hyd_0,,Vaya. Parece que tú y los de aquí queréis perder vuestro puesto juntos.
+$ev_tnnl4_0310_0060_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0310_0063_ev1_0,,
+$ev_tnnl4_0310_0063_ev1_0,ACTOR,
+$ev_tnnl4_0310_0066_kd01_0,,
+$ev_tnnl4_0310_0066_kd01_0,ACTOR,
+$ev_tnnl4_0310_0070_kd01_0,,Activaremos el modelo experimental de gran tamaño de la zona E.
+$ev_tnnl4_0310_0070_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0310_0070_kd01_1,,¡Dad prisa a los preparativos!
+$ev_tnnl4_0310_0070_kd01_1,ACTOR,Subordinado
+$ev_tnnl4_0310_0075_kd01_0,,
+$ev_tnnl4_0310_0075_kd01_0,ACTOR,
+$ev_tnnl4_0310_0080_hyd_0,,Con esto parece que mis méritos volverán a aumentar.
+$ev_tnnl4_0310_0080_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0360_0019_tif_0,,
+$ev_tnnl4_0360_0019_tif_0,ACTOR,
+$ev_tnnl4_0360_0020_tif_0,,
+$ev_tnnl4_0360_0020_tif_0,ACTOR,
+$ev_tnnl4_0360_0030_cld_0,,¡Apartaos!
+$ev_tnnl4_0360_0030_cld_0,ACTOR,Cloud
+$ev_tnnl4_0360_0040_tif_0,,¿Qué?
+$ev_tnnl4_0360_0040_tif_0,ACTOR,Tifa
+$ev_tnnl4_0360_0043_blt_0,,
+$ev_tnnl4_0360_0043_blt_0,ACTOR,
+$ev_tnnl4_0360_0044_blt_0,,
+$ev_tnnl4_0360_0044_blt_0,ACTOR,
+$ev_tnnl4_0360_0045_blt_0,,
+$ev_tnnl4_0360_0045_blt_0,ACTOR,
+$ev_tnnl4_0360_0050_blt_0,,No me lo han preguntado.
+$ev_tnnl4_0360_0050_blt_0,ACTOR,Barret
+$ev_tnnl4_0360_0060_cld_0,,Así que quiere pelea.
+$ev_tnnl4_0360_0060_cld_0,ACTOR,Cloud
+$ev_tnnl4_0360_0065_blt_0,,
+$ev_tnnl4_0360_0065_blt_0,ACTOR,
+$ev_tnnl4_0360_0067_tif_0,,
+$ev_tnnl4_0360_0067_tif_0,ACTOR,
+$ev_tnnl4_0360_0070_blt_0,,¡No me estorbes!
+$ev_tnnl4_0360_0070_blt_0,ACTOR,Barret
+$ev_tnnl4_0360_0080_cld_0,,
+$ev_tnnl4_0360_0080_cld_0,ACTOR,
+$ev_tnnl4_0360_0090_blt_0,,
+$ev_tnnl4_0360_0090_blt_0,ACTOR,
+$ev_tnnl4_0390_0000_cld_0,,
+$ev_tnnl4_0390_0000_cld_0,ACTOR,
+$ev_tnnl4_0390_0001_cld_0,,Despejado.
+$ev_tnnl4_0390_0001_cld_0,ACTOR,Cloud
+$ev_tnnl4_0390_0002_blt_0,,¡Toma ya!
+$ev_tnnl4_0390_0002_blt_0,ACTOR,Barret
+$ev_tnnl4_0390_0003_tif_0,,
+$ev_tnnl4_0390_0003_tif_0,ACTOR,
+$ev_tnnl4_0390_0005_cld_0,,Vamos.
+$ev_tnnl4_0390_0005_cld_0,ACTOR,Cloud
+$ev_tnnl4_0390_0006_tif_0,,
+$ev_tnnl4_0390_0006_tif_0,ACTOR,Tifa
+$ev_tnnl4_0390_0007_blt_0,,Por aquí.
+$ev_tnnl4_0390_0007_blt_0,ACTOR,Barret
+$ev_tnnl4_0390_0010_hyd_0,,Qué fastidio.
+$ev_tnnl4_0390_0010_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0390_0020_kd01_0,,El informe de la sala de análisis indica que se detectaron valores anómalos durante el combate.
+$ev_tnnl4_0390_0020_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0390_0020_kd01_1,,"Según parece, la comunicación se interrumpió justo después."
+$ev_tnnl4_0390_0020_kd01_1,ACTOR,Subordinado
+$ev_tnnl4_0390_0030_hyd_0,,¿Valores anómalos?
+$ev_tnnl4_0390_0030_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0390_0030_hyd_1,,Si es una excusa por vuestro mantenimiento deficiente...
+$ev_tnnl4_0390_0030_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0390_0040_kd01_0,,No. El módulo de análisis parece que funcionaba con normalidad.
+$ev_tnnl4_0390_0040_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0390_0050_kd01_0,,"Según la situación, solo cabe pensar que el sujeto observado superó nuestras previsiones."
+$ev_tnnl4_0390_0050_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0390_0055_hyd_0,,
+$ev_tnnl4_0390_0055_hyd_0,ACTOR,
+$ev_tnnl4_0390_0060_hyd_0,,¿Y ellos?
+$ev_tnnl4_0390_0060_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0390_0070_kd01_0,,Todos los equipos de vigilancia del punto E han sido destruidos.
+$ev_tnnl4_0390_0070_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0390_0080_kd02_0,,Es el presidente.
+$ev_tnnl4_0390_0080_kd02_0,ACTOR,Subordinado
+$ev_tnnl4_0390_0090_hyd_0,,
+$ev_tnnl4_0390_0090_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0390_0090_hyd_1,,Más bien diría que podremos obtener datos interesantes.
+$ev_tnnl4_0390_0090_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0390_0090_hyd_2,,No hay problema.
+$ev_tnnl4_0390_0090_hyd_2,ACTOR,Heidegger
+$ev_tnnl4_0390_0090_hyd_3,,"Sí, lo entiendo."
+$ev_tnnl4_0390_0090_hyd_3,ACTOR,Heidegger
+$ev_tnnl4_0390_0100_hyd_0,,Sabemos adónde se dirigen las ratas.
+$ev_tnnl4_0390_0100_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0390_0100_hyd_1,,"Si no llegamos a tiempo,"
+$ev_tnnl4_0390_0100_hyd_1,ACTOR,Heidegger
+$ev_tnnl4_0390_0100_hyd_2,,los enviaré al frente para que lo comprueben en persona.
+$ev_tnnl4_0390_0100_hyd_2,ACTOR,Heidegger
+$ev_tnnl4_0390_0100_hyd_3,,"Si insistís en que no es un fallo de mantenimiento, investigad de inmediato la causa de los valores anómalos."
+$ev_tnnl4_0390_0100_hyd_3,ACTOR,Heidegger
+$ev_tnnl4_0390_0101_hyd_0,,
+$ev_tnnl4_0390_0101_hyd_0,ACTOR,
+$ev_tnnl4_0390_0103_kd01_0,,
+$ev_tnnl4_0390_0103_kd01_0,ACTOR,
+$ev_tnnl4_0390_0110_kd01_0,,
+$ev_tnnl4_0390_0110_kd01_0,ACTOR,Subordinado
+$ev_tnnl4_0390_0120_hyd_0,,No tengáis tanto miedo. Yo soy amable con los subordinados competentes.
+$ev_tnnl4_0390_0120_hyd_0,ACTOR,Heidegger
+$ev_tnnl4_0390_0120_hyd_1,,
+$ev_tnnl4_0390_0120_hyd_1,ACTOR,
+$ev_tnnl4_0390_0125_kd01_0,,
+$ev_tnnl4_0390_0125_kd01_0,ACTOR,
+$ev_tnnl4_0390_0127_kd01_0,,
+$ev_tnnl4_0390_0127_kd01_0,ACTOR,
+$ev_tnnl4_0430_0010_blt_0,,De aquí en adelante se va a poner un poco peliagudo.
+$ev_tnnl4_0430_0010_blt_0,ACTOR,Barret
+$ev_tnnl4_0430_0020_cld_0,,Ya era hora.
+$ev_tnnl4_0430_0020_cld_0,ACTOR,Cloud
+$ev_tnnl4_8020_0010_cld_0,,
+$ev_tnnl4_8020_0010_cld_0,ACTOR,
+$ev_tnnl4_8020_0020_blt_0,,
+$ev_tnnl4_8020_0020_blt_0,ACTOR,
+$ev_tnnl4_8030_0010_blt_0,,¿Lo has hecho?
+$ev_tnnl4_8030_0010_blt_0,ACTOR,Barret
+$ev_tnnl4_8030_0012_cld_0,,
+$ev_tnnl4_8030_0012_cld_0,ACTOR,
+$ev_tnnl4_8030_0014_tif_0,,
+$ev_tnnl4_8030_0014_tif_0,ACTOR,
+$ev_tnnl4_8030_0016_blt_0,,
+$ev_tnnl4_8030_0016_blt_0,ACTOR,
+$ev_tnnl4_8030_0020_cld_0,,
+$ev_tnnl4_8030_0020_cld_0,ACTOR,
+$ev_tnnl4_8030_0030_tif_0,,
+$ev_tnnl4_8030_0030_tif_0,ACTOR,
+$ev_tnnl4_8030_0040_blt_0,,
+$ev_tnnl4_8030_0040_blt_0,ACTOR,
+$ev_tnnl4_8030_0050_blt_0,,
+$ev_tnnl4_8030_0050_blt_0,ACTOR,
+$pv_tnnl4_0020_0030_tif_0,,Cloud.
+$pv_tnnl4_0020_0030_tif_0,ACTOR,Tifa
+$pv_tnnl4_0020_0040_tan_0,,Dentro de poco pasaremos por la zona de escaneo de ID.
+$pv_tnnl4_0020_0040_tan_0,ACTOR,Megafonía
+$pv_tnnl4_0020_0050_tif_0,,El primer control.
+$pv_tnnl4_0020_0050_tif_0,ACTOR,Tifa
+$pv_tnnl4_0020_0060_cld_0,,Será pan comido.
+$pv_tnnl4_0020_0060_cld_0,ACTOR,Cloud
+$pv_tnnl4_0020_0080_tif_0,,"Ya sé que no hay de qué preocuparse, pero no puedo quedarme tranquila."
+$pv_tnnl4_0020_0080_tif_0,ACTOR,Tifa
+$pv_tnnl4_0020_0100_tif_0,,
+$pv_tnnl4_0020_0100_tif_0,ACTOR,
+$pv_tnnl4_0030_0030_tif_0,,¿Puedes echar un vistazo al vagón de al lado? Estoy un poco preocupada.
+$pv_tnnl4_0030_0030_tif_0,ACTOR,Tifa
+$pv_tnnl4_0030_0040_cld_0,,¿Por qué lo dices?
+$pv_tnnl4_0030_0040_cld_0,ACTOR,Cloud
+$pv_tnnl4_0030_0050_tif_0,,Barret se pone nervioso antes de las misiones. Puede que los pasajeros tengan miedo.
+$pv_tnnl4_0030_0050_tif_0,ACTOR,Tifa
+$pv_tnnl4_0030_0060_cld_0,,Déjalo.
+$pv_tnnl4_0030_0060_cld_0,ACTOR,Cloud
+$pv_tnnl4_0030_0070_tif_0,,No lo digas. Yo estaré bien.
+$pv_tnnl4_0030_0070_tif_0,ACTOR,Tifa
+$pv_tnnl4_0030_0080_cld_0,,Vuelvo enseguida.
+$pv_tnnl4_0030_0080_cld_0,ACTOR,Cloud
+$pv_tnnl4_0030_0090_tif_0,,Gracias.
+$pv_tnnl4_0030_0090_tif_0,ACTOR,Tifa
+$pv_tnnl4_0065_0020_tan_0,,Escaneo de ID temporal en curso.
+$pv_tnnl4_0065_0020_tan_0,ACTOR,Megafonía
+$pv_tnnl4_0065_0025_cld_0,,
+$pv_tnnl4_0065_0025_cld_0,ACTOR,
+$pv_tnnl4_0065_0030_tif_0,,¿Cómo es posible...?
+$pv_tnnl4_0065_0030_tif_0,ACTOR,Tifa
+$pv_tnnl4_0065_0040_tan_0,,Escaneo de ID temporal en curso.
+$pv_tnnl4_0065_0040_tan_0,ACTOR,Megafonía
+$pv_tnnl4_0080_0010_tan_0,,Sistema de bloqueo de vagones activado. Este vagón será aislado en tres minutos.
+$pv_tnnl4_0080_0010_tan_0,ACTOR,Megafonía
+$pv_tnnl4_0080_0020_tif_0,,"Vamos al vagón de delante, como sea."
+$pv_tnnl4_0080_0020_tif_0,ACTOR,Tifa
+$pv_tnnl4_0080_0030_blt_0,,¡No os paréis!
+$pv_tnnl4_0080_0030_blt_0,ACTOR,Barret
+$pv_tnnl4_0080_0040_ym01_0,,Ayuda...
+$pv_tnnl4_0080_0040_ym01_0,ACTOR,
+$pv_tnnl4_0080_0050_blt_0,,¡Id al vagón de delante!
+$pv_tnnl4_0080_0050_blt_0,ACTOR,Barret
+$pv_tnnl4_0080_0060_ym01_0,,La espalda...
+$pv_tnnl4_0080_0060_ym01_0,ACTOR,
+$pv_tnnl4_0080_0065_ym01_0,,
+$pv_tnnl4_0080_0065_ym01_0,ACTOR,
+$pv_tnnl4_0080_0070_blt_0,,"¡Si queréis salvaros, moveos ya!"
+$pv_tnnl4_0080_0070_blt_0,ACTOR,Barret
+$pv_tnnl4_0080_0080_ym01_0,,¡Sí!
+$pv_tnnl4_0080_0080_ym01_0,ACTOR,
+$pv_tnnl4_0125_0010_cld_0,,¿Dónde está?
+$pv_tnnl4_0125_0010_cld_0,ACTOR,Cloud
+$pv_tnnl4_0140_0010_cld_0,,"Entonces, primero... ¡Allá voy, allá voy, allá voooy!"
+$pv_tnnl4_0140_0010_cld_0,ACTOR,Cloud
+$pv_tnnl4_0140_0020_tif_0,,Estos no se rinden.
+$pv_tnnl4_0140_0020_tif_0,ACTOR,Tifa
+$pv_tnnl4_0165_0020_tif_0,,Seguro que es Barret.
+$pv_tnnl4_0165_0020_tif_0,ACTOR,Tifa
+$pv_tnnl4_0170_0010_tif_0,,"Cloud, menos mal."
+$pv_tnnl4_0170_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_0170_0020_cld_0,,Parece que estás bien. ¿Y Barret?
+$pv_tnnl4_0170_0020_cld_0,ACTOR,Cloud
+$pv_tnnl4_0170_0040_tif_0,,"Por allí, creo."
+$pv_tnnl4_0170_0040_tif_0,ACTOR,Tifa
+$pv_tnnl4_0175_0005_blt_0,,"¡Ora, ora!"
+$pv_tnnl4_0175_0005_blt_0,ACTOR,
+$pv_tnnl4_0175_0010_blt_0,,
+$pv_tnnl4_0175_0010_blt_0,ACTOR,
+$pv_tnnl4_0198_0010_blt_0,,
+$pv_tnnl4_0198_0010_blt_0,ACTOR,
+$pv_tnnl4_0200_0010_tif_0,,¡Barret!
+$pv_tnnl4_0200_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_0200_0020_blt_0,,"Tifa, ¿estás bien?"
+$pv_tnnl4_0200_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_0200_0030_tif_0,,¡Voy enseguida!
+$pv_tnnl4_0200_0030_tif_0,ACTOR,Tifa
+$pv_tnnl4_0200_0040_blt_0,,Hay unas escaleras ahí.
+$pv_tnnl4_0200_0040_blt_0,ACTOR,Barret
+$pv_tnnl4_0200_0060_tif_0,,"Rápido, tenemos que reunirnos."
+$pv_tnnl4_0200_0060_tif_0,ACTOR,Tifa
+$pv_tnnl4_0200_0070_cld_0,,Sí.
+$pv_tnnl4_0200_0070_cld_0,ACTOR,Cloud
+$pv_tnnl4_0200_0080_blt_0,,Malditas medusas. ¿Queréis que os arranque esas patas una a una?
+$pv_tnnl4_0200_0080_blt_0,ACTOR,Barret
+$pv_tnnl4_0201_0100_tif_0,,Barret está más adelante.
+$pv_tnnl4_0201_0100_tif_0,ACTOR,Tifa
+$pv_tnnl4_0201_0230_tif_0,,"Rápido, tenemos que reunirnos."
+$pv_tnnl4_0201_0230_tif_0,ACTOR,Tifa
+$pv_tnnl4_0201_0380_tif_0,,¡Vamos!
+$pv_tnnl4_0201_0380_tif_0,ACTOR,Tifa
+$pv_tnnl4_0220_0010_tif_0,,¡Barret!
+$pv_tnnl4_0220_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_0220_0020_blt_0,,Por aquí.
+$pv_tnnl4_0220_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_0260_0010_blt_0,,Ahí está.
+$pv_tnnl4_0260_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_0270_0020_blt_0,,Me guiaré por su hocico.
+$pv_tnnl4_0270_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_0270_0040_tif_0,,La dirección a la que apunta el hocico de Stamp es la ruta. Sigamos las marcas.
+$pv_tnnl4_0270_0040_tif_0,ACTOR,Tifa
+$pv_tnnl4_0308_0020_blt_0,,Hay una cochera de trenes abandonada cerca. Ese es nuestro destino.
+$pv_tnnl4_0308_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_0308_0030_cld_0,,¿Y después?
+$pv_tnnl4_0308_0030_cld_0,ACTOR,Cloud
+$pv_tnnl4_0308_0040_blt_0,,Hay un pasadizo oculto.
+$pv_tnnl4_0308_0040_blt_0,ACTOR,Barret
+$pv_tnnl4_0325_0010_blt_0,,"Oye, espera un poco."
+$pv_tnnl4_0325_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_0326_0010_blt_0,,Por aquí.
+$pv_tnnl4_0326_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_0327_0010_blt_0,,¿Adónde vas?
+$pv_tnnl4_0327_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_0330_0020_tif_0,,La vigilancia es más estricta de lo que pensaba.
+$pv_tnnl4_0330_0020_tif_0,ACTOR,Tifa
+$pv_tnnl4_0330_0030_blt_0,,Ahí detrás parece estar la base. No queda otra que quitarlos de en medio.
+$pv_tnnl4_0330_0030_blt_0,ACTOR,Barret
+$pv_tnnl4_0335_0010_blt_0,,No se puede pasar por esa puerta. Vamos por las escaleras.
+$pv_tnnl4_0335_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_0340_0010_tif_0,,"Se supone que es un lugar abandonado, ¿no?"
+$pv_tnnl4_0340_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_0340_0020_blt_0,,Parece que no.
+$pv_tnnl4_0340_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_0345_0010_tif_0,,Hay mucha vigilancia.
+$pv_tnnl4_0345_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_0345_0020_blt_0,,Qué raro...
+$pv_tnnl4_0345_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_0346_0010_blt_0,,Buscad al fiel Stamp. Os indicará el pasadizo oculto.
+$pv_tnnl4_0346_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_0347_0040_cld_0,,¿Por aquí?
+$pv_tnnl4_0347_0040_cld_0,ACTOR,Cloud
+$pv_tnnl4_0425_0010_blt_0,,Por aquí bajamos.
+$pv_tnnl4_0425_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_1227_0010_blt_0,,Por ahí no.
+$pv_tnnl4_1227_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_1228_0010_blt_0,,¿Qué haces? Vuelve.
+$pv_tnnl4_1228_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_1229_0010_blt_0,,Por ahí no hay nada.
+$pv_tnnl4_1229_0010_blt_0,ACTOR,Barret
+$pv_tnnl4_1230_0020_blt_0,,Vuelve. No hay tiempo para perdernos.
+$pv_tnnl4_1230_0020_blt_0,ACTOR,Barret
+$pv_tnnl4_2310_0010_tif_0,,"Por aquí no, ¿verdad?"
+$pv_tnnl4_2310_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_2320_0010_tif_0,,"Rápido, vamos con Barret."
+$pv_tnnl4_2320_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_2330_0010_tif_0,,Nos hemos pasado de las escaleras.
+$pv_tnnl4_2330_0010_tif_0,ACTOR,Tifa
+$pv_tnnl4_2340_0010_tif_0,,Por aquí no se puede.
+$pv_tnnl4_2340_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0081_0010_tan_0,,Sistema de bloqueo de vagones activado. Este vagón será aislado en dos minutos.
+$tk_tnnl4_0081_0010_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0082_0010_tan_0,,Sistema de bloqueo de vagones activado. Este vagón será aislado en un minuto.
+$tk_tnnl4_0082_0010_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0083_0010_tan_0,,Sistema de bloqueo de vagones activado. Este vagón será aislado en treinta segundos.
+$tk_tnnl4_0083_0010_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0084_0090_tif_0,,¡Cloud!
+$tk_tnnl4_0084_0090_tif_0,ACTOR,Tifa
+$tk_tnnl4_0084_0100_tan_0,,Sistema de bloqueo interior activado. Este vagón será aislado en breve.
+$tk_tnnl4_0084_0100_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0084_0110_blt_0,,Date prisa.
+$tk_tnnl4_0084_0110_blt_0,ACTOR,Barret
+$tk_tnnl4_0085_0010_tan_0,,Tres portadores de ID buscados identificados.
+$tk_tnnl4_0085_0010_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0085_0020_tan_0,,"En el vagón correspondiente, procedemos a la inspección y a la preparación del aislamiento."
+$tk_tnnl4_0085_0020_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0086_0010_tan_0,,Bloqueo de vagón completado. Un portador de ID buscado aislado.
+$tk_tnnl4_0086_0010_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0086_0020_tan_0,,Continuamos la inspección hasta confirmar el aislamiento de los dos restantes.
+$tk_tnnl4_0086_0020_tan_0,ACTOR,Megafonía
+$tk_tnnl4_0086_0025_cld_0,,
+$tk_tnnl4_0086_0025_cld_0,ACTOR,
+$tk_tnnl4_0086_0030_cld_0,,
+$tk_tnnl4_0086_0030_cld_0,ACTOR,
+$tk_tnnl4_0135_0010_cld_0,,¿Es allí?
+$tk_tnnl4_0135_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_0195_0000_cld_0,,
+$tk_tnnl4_0195_0000_cld_0,ACTOR,
+$tk_tnnl4_0195_0010_tif_0,,¡Ahí está!
+$tk_tnnl4_0195_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0195_0020_tif_0,,Está cerca. ¡Date prisa!
+$tk_tnnl4_0195_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_0205_0010_tif_0,,Por estas escaleras deberíamos poder pasar al otro lado.
+$tk_tnnl4_0205_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0206_0010_blt_0,,¡Oraaa!
+$tk_tnnl4_0206_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0206_0020_tif_0,,¿Lo están empujando?
+$tk_tnnl4_0206_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_0206_0030_cld_0,,Vamos.
+$tk_tnnl4_0206_0030_cld_0,ACTOR,Cloud
+$tk_tnnl4_0221_0010_blt_0,,"Oye, por aquí."
+$tk_tnnl4_0221_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0222_0010_tif_0,,"Cloud, ven."
+$tk_tnnl4_0222_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0223_0010_blt_0,,¡Vamos a explicar el plan! ¡Ven!
+$tk_tnnl4_0223_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0225_0010_blt_0,,"Cha-cha-cha-chán, cha-cha-cha-chán, ¡y eso es todo!"
+$tk_tnnl4_0225_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0225_0015_cld_0,,
+$tk_tnnl4_0225_0015_cld_0,ACTOR,
+$tk_tnnl4_0225_0020_tif_0,,¿Nos habremos deshecho de los perseguidores?
+$tk_tnnl4_0225_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_0225_0030_blt_0,,"Fácil, fácil. Confirmemos la posición y retomemos la misión."
+$tk_tnnl4_0225_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_0229_0010_blt_0,,Vamos a confirmar el plan. A partir de aquí es el «plan E».
+$tk_tnnl4_0229_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0229_0015_blt_0,,Seguimos las vías en dirección al reactor.
+$tk_tnnl4_0229_0015_blt_0,ACTOR,Barret
+$tk_tnnl4_0229_0020_blt_0,,La marca es el dibujo del perro de Shinra. Fijaos en las paredes.
+$tk_tnnl4_0229_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_0229_0030_cld_0,,¿Un perro?
+$tk_tnnl4_0229_0030_cld_0,ACTOR,Cloud
+$tk_tnnl4_0229_0040_tif_0,,El fiel Stamp.
+$tk_tnnl4_0229_0040_tif_0,ACTOR,Tifa
+$tk_tnnl4_0229_0050_blt_0,,La dirección a la que apunta su hocico lleva al reactor de mako n.º 5.
+$tk_tnnl4_0229_0050_blt_0,ACTOR,Barret
+$tk_tnnl4_0229_0060_blt_0,,Tampoco os perdáis los colores de las señales. El azul es nuestra dirección.
+$tk_tnnl4_0229_0060_blt_0,ACTOR,Barret
+$tk_tnnl4_0295_0010_blt_0,,Mirad qué gordos están. ¿Cuánto tiempo llevan abandonados?
+$tk_tnnl4_0295_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0301_0010_tif_0,,¿Otra vez?
+$tk_tnnl4_0301_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0301_0020_blt_0,,¿Es que quieren montar un parque de insectos?
+$tk_tnnl4_0301_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_0302_0010_blt_0,,Por aquí no se puede. Busquemos otro camino.
+$tk_tnnl4_0302_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0305_0010_blt_0,,Perro encontrado. Confirma la dirección del hocico.
+$tk_tnnl4_0305_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0305_0020_tif_0,,Está bien dibujado.
+$tk_tnnl4_0305_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_0305_0030_blt_0,,"Sí, da un mal rollo que te cagas."
+$tk_tnnl4_0305_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_0307_0010_blt_0,,Reunión de estrategia. Vamos a confirmar dónde estamos.
+$tk_tnnl4_0307_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0311_0010_blt_0,,¿Adónde vas?
+$tk_tnnl4_0311_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0312_0010_tif_0,,"Cloud, por aquí."
+$tk_tnnl4_0312_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0313_0010_tif_0,,"Cloud, date prisa."
+$tk_tnnl4_0313_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0315_0010_blt_0,,"Mira, otro perro de Shinra. No te equivoques con la dirección del hocico."
+$tk_tnnl4_0315_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0315_0020_tif_0,,"Barret odia de verdad a Stamp, ¿eh?"
+$tk_tnnl4_0315_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_0315_0030_blt_0,,Stamp no tiene la culpa.
+$tk_tnnl4_0315_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_0315_0040_blt_0,,"Lo que me da asco es que lo ensalcen como el perro fiel, el modelo de perro."
+$tk_tnnl4_0315_0040_blt_0,ACTOR,Barret
+$tk_tnnl4_0315_0050_tif_0,,Pobre Stamp.
+$tk_tnnl4_0315_0050_tif_0,ACTOR,Tifa
+$tk_tnnl4_0405_0010_blt_0,,El pasadizo está detrás de los contenedores. Vamos por el hueco.
+$tk_tnnl4_0405_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0410_0005_blt_0,,
+$tk_tnnl4_0410_0005_blt_0,ACTOR,
+$tk_tnnl4_0410_0010_blt_0,,Qué estrecho...
+$tk_tnnl4_0410_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_0410_0020_tif_0,,¿Estás bien?
+$tk_tnnl4_0410_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_0410_0030_blt_0,,Sí...
+$tk_tnnl4_0410_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_0420_0010_tif_0,,¿En el reactor n.º 1 también luchasteis contra una máquina grande como la de antes?
+$tk_tnnl4_0420_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_0420_0020_blt_0,,"Sí, contra una que parecía un escorpión."
+$tk_tnnl4_0420_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_0420_0025_blt_0,,"La de antes... Si tuviera que compararla con algo, ¿qué sería?"
+$tk_tnnl4_0420_0025_blt_0,ACTOR,Barret
+$tk_tnnl4_0420_0030_tif_0,,Eh...
+$tk_tnnl4_0420_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_0420_0040_cld_0,,No hace falta que la compares.
+$tk_tnnl4_0420_0040_cld_0,ACTOR,Cloud
+$tk_tnnl4_0424_0010_blt_0,,Es tal como decía la información.
+$tk_tnnl4_0424_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_1100_0020_blt_0,,¿Qué pasa con Tifa? No la dejes tirada.
+$tk_tnnl4_1100_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_1100_0030_blt_0,,Vuelve al lado de Tifa. Quédate con ella.
+$tk_tnnl4_1100_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_1200_0010_tif_0,,"Cloud, estás muy tranquilo."
+$tk_tnnl4_1200_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_1200_0020_cld_0,,Fui SOLDIER. Es cuestión de costumbre.
+$tk_tnnl4_1200_0020_cld_0,ACTOR,Cloud
+$tk_tnnl4_1200_0030_tif_0,,Qué tranquilidad.
+$tk_tnnl4_1200_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_1210_0010_tif_0,,"Cuida de Barret, ¿vale?"
+$tk_tnnl4_1210_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_1310_0010_ym01_0,,"Con el estado de alerta especial, eso significa que hay más seguridad y estamos a salvo, ¿no?"
+$tk_tnnl4_1310_0010_ym01_0,ACTOR,
+$tk_tnnl4_1320_0010_ym01_0,,No me han dado el día libre. ¿A ti tampoco?
+$tk_tnnl4_1320_0010_ym01_0,ACTOR,
+$tk_tnnl4_1330_0010_ym01_0,,¿Qué pasa?
+$tk_tnnl4_1330_0010_ym01_0,ACTOR,
+$tk_tnnl4_1330_0020_ym01_0,,¿Otra vez?
+$tk_tnnl4_1330_0020_ym01_0,ACTOR,
+$tk_tnnl4_1410_0010_ym02_0,,¿Por qué hay tan poca gente?
+$tk_tnnl4_1410_0010_ym02_0,ACTOR,
+$tk_tnnl4_1420_0010_ym02_0,,"Una amenaza de bomba y la gente se asusta demasiado, ¿no?"
+$tk_tnnl4_1420_0010_ym02_0,ACTOR,
+$tk_tnnl4_1430_0010_ym02_0,,Mmm...
+$tk_tnnl4_1430_0010_ym02_0,ACTOR,
+$tk_tnnl4_1430_0020_ym02_0,,"¡Oye, oye, oye!"
+$tk_tnnl4_1430_0020_ym02_0,ACTOR,
+$tk_tnnl4_1500_0010_wm01_0,,No sé nada.
+$tk_tnnl4_1500_0010_wm01_0,ACTOR,
+$tk_tnnl4_1510_0010_wm01_0,,No he oído nada.
+$tk_tnnl4_1510_0010_wm01_0,ACTOR,
+$tk_tnnl4_1600_0020_snk_0,,"No tienes de qué quejarte, ¿verdad?"
+$tk_tnnl4_1600_0020_snk_0,ACTOR,Gerente de Shinra
+$tk_tnnl4_1600_0030_snk_0,,El caos de la oficina del sector 4 es el peor de todos.
+$tk_tnnl4_1600_0030_snk_0,ACTOR,Gerente de Shinra
+$tk_tnnl4_1600_0040_snk_0,,Dejadme en paz de una vez.
+$tk_tnnl4_1600_0040_snk_0,ACTOR,Gerente de Shinra
+$tk_tnnl4_1710_0010_ym03_0,,"Oye, si explotara una bomba ahora, ¿qué sería de nosotros?"
+$tk_tnnl4_1710_0010_ym03_0,ACTOR,
+$tk_tnnl4_1710_0020_wm02_0,,"Oye, perdona. No hagas caso."
+$tk_tnnl4_1710_0020_wm02_0,ACTOR,
+$tk_tnnl4_1720_0010_wm02_0,,A estas horas Avalancha ya estará detenida.
+$tk_tnnl4_1720_0010_wm02_0,ACTOR,
+$tk_tnnl4_1720_0020_ym03_0,,Eso espero...
+$tk_tnnl4_1720_0020_ym03_0,ACTOR,
+$tk_tnnl4_1730_0010_ym03_0,,Eh... ¿Eh?
+$tk_tnnl4_1730_0010_ym03_0,ACTOR,
+$tk_tnnl4_1730_0020_wm02_0,,¿Qué le pasa?
+$tk_tnnl4_1730_0020_wm02_0,ACTOR,
+$tk_tnnl4_1730_0030_ym03_0,,Pero... la bomba...
+$tk_tnnl4_1730_0030_ym03_0,ACTOR,
+$tk_tnnl4_1730_0040_wm02_0,,Cálmate.
+$tk_tnnl4_1730_0040_wm02_0,ACTOR,
+$tk_tnnl4_1800_0010_mn01_0,,Solo mantener Midgar ya consume una cantidad enorme de energía mako todos los días.
+$tk_tnnl4_1800_0010_mn01_0,ACTOR,
+$tk_tnnl4_1800_0020_mn01_0,,"No digo que no entienda los argumentos de Avalancha. Pero si lo digo, ¿me detendrán?"
+$tk_tnnl4_1800_0020_mn01_0,ACTOR,
+$tk_tnnl4_2020_0010_blt_0,,"Oye, no andes de aquí para allá."
+$tk_tnnl4_2020_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2030_0010_blt_0,,"Tifa no está por ahí, idiota."
+$tk_tnnl4_2030_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2110_0010_cld_0,,El ruido no viene de aquí.
+$tk_tnnl4_2110_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_2120_0010_cld_0,,"Primero, reunámonos."
+$tk_tnnl4_2120_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_2140_0010_cld_0,,"Si ando por ahí, los perderé de vista."
+$tk_tnnl4_2140_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_2150_0010_cld_0,,¿Me he perdido?
+$tk_tnnl4_2150_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_2210_0010_tif_0,,"Por aquí no, ¿verdad?"
+$tk_tnnl4_2210_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2220_0010_tif_0,,"Rápido, tenemos que reunirnos con Barret."
+$tk_tnnl4_2220_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2230_0010_tif_0,,¿Hay algo por aquí?
+$tk_tnnl4_2230_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2240_0010_tif_0,,"Si andamos demasiado, nos perderemos."
+$tk_tnnl4_2240_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2250_0010_tif_0,,"Barret estará bien, ¿verdad?"
+$tk_tnnl4_2250_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2610_0010_blt_0,,¿Hay algo por aquí?
+$tk_tnnl4_2610_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2620_0010_tif_0,,¿No hemos vuelto ya?
+$tk_tnnl4_2620_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2710_0010_tif_0,,El reactor no está por aquí.
+$tk_tnnl4_2710_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2720_0010_blt_0,,No te orientas nada bien.
+$tk_tnnl4_2720_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2730_0010_blt_0,,"Si vamos más allá, tendrás que explicártelo."
+$tk_tnnl4_2730_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2730_0020_tif_0,,"El reactor está en la dirección opuesta, ¿no?"
+$tk_tnnl4_2730_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_2810_0010_blt_0,,¿Es por aquí?
+$tk_tnnl4_2810_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2810_0020_tif_0,,Tengo la sensación de que nos hemos equivocado.
+$tk_tnnl4_2810_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_2810_0030_blt_0,,Vamos a comprobar otra vez el hocico del perro.
+$tk_tnnl4_2810_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_2820_0010_tif_0,,¿Era por aquí?
+$tk_tnnl4_2820_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2820_0020_blt_0,,"Oye, señor Cloud."
+$tk_tnnl4_2820_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_2820_0030_tif_0,,¿No deberíamos volver una vez?
+$tk_tnnl4_2820_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_2910_0010_blt_0,,"Oye, por aquí no."
+$tk_tnnl4_2910_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_2920_0010_tif_0,,Más adelante está la estación. Es distinta de la cochera.
+$tk_tnnl4_2920_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_2930_0010_blt_0,,¡Te digo que es al revés!
+$tk_tnnl4_2930_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_6010_0010_tif_0,,¿Está bien por aquí?
+$tk_tnnl4_6010_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_6110_0010_tif_0,,¿No nos hemos perdido?
+$tk_tnnl4_6110_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_6210_0010_tif_0,,"Cloud, ¿adónde vas?"
+$tk_tnnl4_6210_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_6310_0010_tif_0,,"Cloud, por ahí no."
+$tk_tnnl4_6310_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_6410_0010_tif_0,,"Cloud, quizá sea peligroso seguir."
+$tk_tnnl4_6410_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_6510_0010_blt_0,,No avances por instinto.
+$tk_tnnl4_6510_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_6610_0010_blt_0,,No veo la siguiente marca.
+$tk_tnnl4_6610_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_6710_0010_blt_0,,"Oye, ¿no estás perdido?"
+$tk_tnnl4_6710_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_6810_0010_blt_0,,"Oye, ¿adónde vas?"
+$tk_tnnl4_6810_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_6910_0010_blt_0,,No sigas por ahí.
+$tk_tnnl4_6910_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_7010_0010_blt_0,,No te empeñes. Volvamos.
+$tk_tnnl4_7010_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_7110_0010_cld_0,,Por aquí no.
+$tk_tnnl4_7110_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_7210_0010_cld_0,,Voy a comprobarlo otra vez.
+$tk_tnnl4_7210_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_7310_0010_cld_0,,El hocico de Stamp...
+$tk_tnnl4_7310_0010_cld_0,ACTOR,Cloud
+$tk_tnnl4_7410_0010_blt_0,,El reactor está después de la luz azul.
+$tk_tnnl4_7410_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_7420_0010_blt_0,,Fíjate bien en el color de la señal.
+$tk_tnnl4_7420_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_7430_0010_blt_0,,"Esa es roja, ¿no?"
+$tk_tnnl4_7430_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9010_0010_tif_0,,"Después de que Barret saltara, yo no pude seguirlo enseguida."
+$tk_tnnl4_9010_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9010_0020_cld_0,,No había nada que hacer.
+$tk_tnnl4_9010_0020_cld_0,ACTOR,Cloud
+$tk_tnnl4_9010_0030_tif_0,,¿Eso te parece poca cosa?
+$tk_tnnl4_9010_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_9010_0040_cld_0,,"Si no fuera así, no serviría como SOLDIER."
+$tk_tnnl4_9010_0040_cld_0,ACTOR,Cloud
+$tk_tnnl4_9010_0050_tif_0,,Como esperaba.
+$tk_tnnl4_9010_0050_tif_0,ACTOR,Tifa
+$tk_tnnl4_9020_0010_tif_0,,"Gracias. Por lo de antes, al saltar."
+$tk_tnnl4_9020_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9020_0020_cld_0,,No pasa nada. Pesabas poco.
+$tk_tnnl4_9020_0020_cld_0,ACTOR,Cloud
+$tk_tnnl4_9020_0030_tif_0,,"Vaya, ¿qué se supone que significa eso?"
+$tk_tnnl4_9020_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_9030_0010_blt_0,,Biggs está arriba.
+$tk_tnnl4_9030_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9030_0020_blt_0,,"Era un trabajo que tenía que hacer con Jessie, así que seguro que lo está pasando mal solo."
+$tk_tnnl4_9030_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_9030_0030_blt_0,,Hay que ir a ayudarlo.
+$tk_tnnl4_9030_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_9030_0040_tif_0,,¿Estás bien?
+$tk_tnnl4_9030_0040_tif_0,ACTOR,Tifa
+$tk_tnnl4_9040_0010_tif_0,,¿Qué será?
+$tk_tnnl4_9040_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9040_0020_blt_0,,Qué asco.
+$tk_tnnl4_9040_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_9040_0030_tif_0,,¿Esto es un nido de monstruos?
+$tk_tnnl4_9040_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_9040_0040_blt_0,,Sí. Los monstruos de debajo de la plataforma se han vuelto peligrosos por culpa del mako.
+$tk_tnnl4_9040_0040_blt_0,ACTOR,Barret
+$tk_tnnl4_9040_0050_tif_0,,¿Por culpa del mako?
+$tk_tnnl4_9040_0050_tif_0,ACTOR,Tifa
+$tk_tnnl4_9040_0060_blt_0,,Sí. Por culpa de Shinra.
+$tk_tnnl4_9040_0060_blt_0,ACTOR,Barret
+$tk_tnnl4_9040_0070_cld_0,,
+$tk_tnnl4_9040_0070_cld_0,ACTOR,
+$tk_tnnl4_9040_0080_blt_0,,
+$tk_tnnl4_9040_0080_blt_0,ACTOR,Barret
+$tk_tnnl4_9040_0090_cld_0,,Tu visión del mundo es muy simple.
+$tk_tnnl4_9040_0090_cld_0,ACTOR,Cloud
+$tk_tnnl4_9040_0100_blt_0,,¿Te gusta? Pues ven conmigo.
+$tk_tnnl4_9040_0100_blt_0,ACTOR,Barret
+$tk_tnnl4_9040_0110_cld_0,,Me lo pensaré.
+$tk_tnnl4_9040_0110_cld_0,ACTOR,Cloud
+$tk_tnnl4_9045_0010_tif_0,,Qué asco.
+$tk_tnnl4_9045_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9045_0020_blt_0,,"Si sigue así, cualquier día el tren tendrá un accidente."
+$tk_tnnl4_9045_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_9045_0030_tif_0,,¿No los exterminan?
+$tk_tnnl4_9045_0030_tif_0,ACTOR,Tifa
+$tk_tnnl4_9045_0040_blt_0,,"Si hay un accidente, los exterminarán."
+$tk_tnnl4_9045_0040_blt_0,ACTOR,Barret
+$tk_tnnl4_9045_0050_tif_0,,El orden de las cosas está mal.
+$tk_tnnl4_9045_0050_tif_0,ACTOR,Tifa
+$tk_tnnl4_9050_0010_tif_0,,"Mirad. Parece que Shinra también los estaba exterminando, dentro de lo que cabe."
+$tk_tnnl4_9050_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9050_0020_blt_0,,Le ponen menos ganas que a los bichos.
+$tk_tnnl4_9050_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_9055_0010_jk01_0,,Vaya. ¿Por qué nos toca hacer esto a nosotros?
+$tk_tnnl4_9055_0010_jk01_0,ACTOR,Centinela
+$tk_tnnl4_9055_0020_kB09_0,,"Si total, van a volver a salir en nada. Acabemos rápido y volvamos."
+$tk_tnnl4_9055_0020_kB09_0,ACTOR,Guarda incendiario
+$tk_tnnl4_9060_0010_tif_0,,Si nos perdemos en un sitio como este...
+$tk_tnnl4_9060_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9060_0020_blt_0,,¿Tiramos la pared abajo?
+$tk_tnnl4_9060_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_9060_0030_cld_0,,No tiene gracia.
+$tk_tnnl4_9060_0030_cld_0,ACTOR,Cloud
+$tk_tnnl4_9060_0040_blt_0,,¿Lo digo en serio?
+$tk_tnnl4_9060_0040_blt_0,ACTOR,Barret
+$tk_tnnl4_9065_0010_blt_0,,No me digas que te has perdido.
+$tk_tnnl4_9065_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9065_0020_cld_0,,"Si tú lo dices, puedo volver."
+$tk_tnnl4_9065_0020_cld_0,ACTOR,Cloud
+$tk_tnnl4_9065_0030_blt_0,,Qué poco sincero.
+$tk_tnnl4_9065_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_9070_0010_blt_0,,Me recuerda al libro de Marlene. Ese en el que te encierran en un laberinto enorme.
+$tk_tnnl4_9070_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9070_0020_tif_0,,"Avanzas y avanzas, pero solo hay paredes."
+$tk_tnnl4_9070_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_9070_0030_cld_0,,Pues las rompemos.
+$tk_tnnl4_9070_0030_cld_0,ACTOR,Cloud
+$tk_tnnl4_9070_0040_tif_0,,Estás diciendo lo mismo que Barret.
+$tk_tnnl4_9070_0040_tif_0,ACTOR,Tifa
+$tk_tnnl4_9070_0050_cld_0,,Lo retiro.
+$tk_tnnl4_9070_0050_cld_0,ACTOR,Cloud
+$tk_tnnl4_9070_0060_blt_0,,¿Qué te molesta?
+$tk_tnnl4_9070_0060_blt_0,ACTOR,Barret
+$tk_tnnl4_9080_0010_blt_0,,"Ya casi estamos en el pasadizo secreto. El plan E no pinta nada mal, ¿eh?"
+$tk_tnnl4_9080_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9080_0020_blt_0,,"¿Qué dices, ex-SOLDIER?"
+$tk_tnnl4_9080_0020_blt_0,ACTOR,Barret
+$tk_tnnl4_9080_0030_cld_0,,"Lo ideó Biggs, ¿no?"
+$tk_tnnl4_9080_0030_cld_0,ACTOR,Cloud
+$tk_tnnl4_9080_0040_blt_0,,Con alguna idea mía.
+$tk_tnnl4_9080_0040_blt_0,ACTOR,Barret
+$tk_tnnl4_9080_0050_cld_0,,Avancemos con cuidado.
+$tk_tnnl4_9080_0050_cld_0,ACTOR,Cloud
+$tk_tnnl4_9080_0060_blt_0,,¿Y eso qué significa?
+$tk_tnnl4_9080_0060_blt_0,ACTOR,Barret
+$tk_tnnl4_9125_0010_blt_0,,¿Qué pasa? ¿Se te ha olvidado algo?
+$tk_tnnl4_9125_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9125_0020_tif_0,,Por aquí no.
+$tk_tnnl4_9125_0020_tif_0,ACTOR,Tifa
+$tk_tnnl4_9125_0030_blt_0,,Confirma bien el hocico del fiel Stamp.
+$tk_tnnl4_9125_0030_blt_0,ACTOR,Barret
+$tk_tnnl4_9150_0010_blt_0,,La dirección a la que apunta el hocico del perro.
+$tk_tnnl4_9150_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9151_0010_blt_0,,Fíjate bien en el hocico del perro.
+$tk_tnnl4_9151_0010_blt_0,ACTOR,Barret
+$tk_tnnl4_9152_0010_tif_0,,Eh... La dirección del hocico de Stamp...
+$tk_tnnl4_9152_0010_tif_0,ACTOR,Tifa
+$tk_tnnl4_9153_0010_tif_0,,Avancemos hacia donde apunta el hocico de Stamp.
+$tk_tnnl4_9153_0010_tif_0,ACTOR,Tifa

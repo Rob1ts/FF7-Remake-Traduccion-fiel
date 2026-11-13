@@ -1,0 +1,674 @@
+id,sub_id,text
+language,,ES
+$ev_plat4_0010_0005_blt_0,,
+$ev_plat4_0010_0005_blt_0,ACTOR,
+$ev_plat4_0010_0010_blt_0,,"Si pasamos de aquí, llegamos al reactor de mako n.º 5."
+$ev_plat4_0010_0010_blt_0,ACTOR,Barret
+$ev_plat4_0010_0020_tif_0,,Parece más duro de lo que pensaba.
+$ev_plat4_0010_0020_tif_0,ACTOR,Tifa
+$ev_plat4_0010_0030_blt_0,,"Bueno, algo se nos ocurrirá."
+$ev_plat4_0010_0030_blt_0,ACTOR,Barret
+$ev_plat4_0010_0030_blt_1,,Ese de ahí es el pilar del reactor de mako n.º 5.
+$ev_plat4_0010_0030_blt_1,ACTOR,Barret
+$ev_plat4_0010_0040_cld_0,,¿Cuál es la ruta?
+$ev_plat4_0010_0040_cld_0,ACTOR,Cloud
+$ev_plat4_0010_0050_blt_0,,"Después del plan E vienen el F, el G y el H."
+$ev_plat4_0010_0050_blt_0,ACTOR,Barret
+$ev_plat4_0010_0060_cld_0,,¿Todavía había más?
+$ev_plat4_0010_0060_cld_0,ACTOR,Cloud
+$ev_plat4_0010_0070_tif_0,,La F es el nombre de este sector.
+$ev_plat4_0010_0070_tif_0,ACTOR,Tifa
+$ev_plat4_0010_0080_blt_0,,Pasamos por el G y nos dirigimos al H.
+$ev_plat4_0010_0080_blt_0,ACTOR,Barret
+$ev_plat4_0010_0090_tif_0,,En el H hay un ascensor que nos deja cerca del reactor.
+$ev_plat4_0010_0090_tif_0,ACTOR,Tifa
+$ev_plat4_0010_0090_tif_1,,Biggs también debería estar esperándonos más adelante.
+$ev_plat4_0010_0090_tif_1,ACTOR,Tifa
+$ev_plat4_0010_0100_tif_0,,Ya está empezando a caer el sol.
+$ev_plat4_0010_0100_tif_0,ACTOR,Tifa
+$ev_plat4_0010_0110_blt_0,,¡Sí! ¡Vamos!
+$ev_plat4_0010_0110_blt_0,ACTOR,Barret
+$ev_plat4_0010_0110_blt_1,,Vamos a darle disgustos a Shinra.
+$ev_plat4_0010_0110_blt_1,ACTOR,Barret
+$ev_plat4_0010_0120_cld_0,,
+$ev_plat4_0010_0120_cld_0,ACTOR,
+$ev_plat4_0010_0130_tif_0,,
+$ev_plat4_0010_0130_tif_0,ACTOR,
+$ev_plat4_0035_0030_ana_0,,Suministro de energía de emergencia confirmado. Reiniciando la compuerta.
+$ev_plat4_0035_0030_ana_0,ACTOR,Voz digital
+$ev_plat4_0035_0040_blt_0,,¡Bien! Ha salido bien.
+$ev_plat4_0035_0040_blt_0,ACTOR,Barret
+$ev_plat4_0035_0045_tif_0,,
+$ev_plat4_0035_0045_tif_0,ACTOR,
+$ev_plat4_0035_0050_tif_0,,"Gracias, Cloud."
+$ev_plat4_0035_0050_tif_0,ACTOR,Tifa
+$ev_plat4_0035_0060_cld_0,,
+$ev_plat4_0035_0060_cld_0,ACTOR,
+$ev_plat4_0090_0010_blt_0,,No hay duda. Este es el ascensor principal del que hablaba Biggs.
+$ev_plat4_0090_0010_blt_0,ACTOR,Barret
+$ev_plat4_0090_0010_blt_1,,Él también está esperándonos más adelante.
+$ev_plat4_0090_0010_blt_1,ACTOR,Barret
+$ev_plat4_0090_0020_ana_0,,Suministro eléctrico insuficiente.
+$ev_plat4_0090_0020_ana_0,ACTOR,Panel de control
+$ev_plat4_0090_0030_blt_0,,¿Otra vez?
+$ev_plat4_0090_0030_blt_0,ACTOR,Barret
+$ev_plat4_0090_0030_cld_0,,Hacen falta tres luces.
+$ev_plat4_0090_0030_cld_0,ACTOR,Cloud
+$ev_plat4_0090_0040_tif_0,,Tanto...
+$ev_plat4_0090_0040_tif_0,ACTOR,Tifa
+$ev_plat4_0090_0060_tif_0,,"¿O sea, todas las de por aquí?"
+$ev_plat4_0090_0060_tif_0,ACTOR,Tifa
+$ev_plat4_0090_0080_blt_0,,Entonces no queda otra que ir una por una.
+$ev_plat4_0090_0080_blt_0,ACTOR,Barret
+$ev_plat4_0090_0100_tif_0,,"Si nos perdemos, volvemos aquí."
+$ev_plat4_0090_0100_tif_0,ACTOR,Tifa
+$ev_plat4_0090_0100_tif_1,,La marca es el número H-01.
+$ev_plat4_0090_0100_tif_1,ACTOR,Tifa
+$ev_plat4_0090_0110_cld_0,,Sí.
+$ev_plat4_0090_0110_cld_0,ACTOR,Cloud
+$ev_plat4_0090_0130_blt_0,,"A ver, la luz más cercana desde aquí..."
+$ev_plat4_0090_0130_blt_0,ACTOR,Barret
+$ev_plat4_0090_0150_cld_0,,Esa.
+$ev_plat4_0090_0150_cld_0,ACTOR,Cloud
+$ev_plat4_0200_0001_cld_0,,
+$ev_plat4_0200_0001_cld_0,ACTOR,
+$ev_plat4_0200_0002_cld_0,,
+$ev_plat4_0200_0002_cld_0,ACTOR,
+$ev_plat4_0200_0003_big_0,,
+$ev_plat4_0200_0003_big_0,ACTOR,
+$ev_plat4_0200_0010_big_0,,¡Me rindo!
+$ev_plat4_0200_0010_big_0,ACTOR,Biggs
+$ev_plat4_0200_0020_big_0,,Espera... ¿Cloud?
+$ev_plat4_0200_0020_big_0,ACTOR,Biggs
+$ev_plat4_0200_0020_big_1,,¿Y Jessie y Wedge?
+$ev_plat4_0200_0020_big_1,ACTOR,Biggs
+$ev_plat4_0200_0025_cld_0,,
+$ev_plat4_0200_0025_cld_0,ACTOR,
+$ev_plat4_0200_0030_blt_0,,¿Cómo va todo?
+$ev_plat4_0200_0030_blt_0,ACTOR,Barret
+$ev_plat4_0200_0040_big_0,,Arriba hay un gran revuelo porque el grupo culpable ha saltado del tren.
+$ev_plat4_0200_0040_big_0,ACTOR,Biggs
+$ev_plat4_0200_0040_big_1,,"Gracias a eso, aquí hay tranquilidad."
+$ev_plat4_0200_0040_big_1,ACTOR,Biggs
+$ev_plat4_0200_0040_big_2,,La ruta al reactor ya está asegurada.
+$ev_plat4_0200_0040_big_2,ACTOR,Biggs
+$ev_plat4_0200_0050_blt_0,,"¡Eh, eh, eh, Biggs!"
+$ev_plat4_0200_0050_blt_0,ACTOR,Barret
+$ev_plat4_0200_0055_big_0,,
+$ev_plat4_0200_0055_big_0,ACTOR,
+$ev_plat4_0200_0060_big_0,,¿Y los otros dos?
+$ev_plat4_0200_0060_big_0,ACTOR,Biggs
+$ev_plat4_0200_0070_tif_0,,Jessie resultó herida.
+$ev_plat4_0200_0070_tif_0,ACTOR,Tifa
+$ev_plat4_0200_0080_big_0,,¿Es grave?
+$ev_plat4_0200_0080_big_0,ACTOR,Biggs
+$ev_plat4_0200_0090_blt_0,,No habla menos que antes. Está bien.
+$ev_plat4_0200_0090_blt_0,ACTOR,Barret
+$ev_plat4_0200_0100_big_0,,Gracias por preocuparte.
+$ev_plat4_0200_0100_big_0,ACTOR,Biggs
+$ev_plat4_0200_0110_cld_0,,Es mi trabajo.
+$ev_plat4_0200_0110_cld_0,ACTOR,Cloud
+$ev_plat4_0200_0120_big_0,,Acertamos al coger el tren del sector 4.
+$ev_plat4_0200_0120_big_0,ACTOR,Biggs
+$ev_plat4_0200_0120_big_1,,Pero el objetivo real es el n.º 5.
+$ev_plat4_0200_0120_big_1,ACTOR,Biggs
+$ev_plat4_0200_0120_big_2,,La seguridad se concentra en el sector 4.
+$ev_plat4_0200_0120_big_2,ACTOR,Biggs
+$ev_plat4_0200_0130_big_0,,"Es un poco complicado, pero detrás de esto ya está el reactor."
+$ev_plat4_0200_0130_big_0,ACTOR,Biggs
+$ev_plat4_0200_0140_blt_0,,Es un agujero estrecho.
+$ev_plat4_0200_0140_blt_0,ACTOR,Barret
+$ev_plat4_0200_0150_big_0,,No te quejes.
+$ev_plat4_0200_0150_big_0,ACTOR,Biggs
+$ev_plat4_0200_0150_big_1,,Por aquí tengo suministros y un carrete de cable.
+$ev_plat4_0200_0150_big_1,ACTOR,Biggs
+$ev_plat4_0200_0160_big_0,,¿Cómo lo llevas?
+$ev_plat4_0200_0160_big_0,ACTOR,Biggs
+$ev_plat4_0200_0170_blt_0,,Mejor imposible.
+$ev_plat4_0200_0170_blt_0,ACTOR,Barret
+$ev_plat4_0200_0180_tif_0,,Cuida de todos.
+$ev_plat4_0200_0180_tif_0,ACTOR,Tifa
+$ev_plat4_0200_0190_big_0,,Claro.
+$ev_plat4_0200_0190_big_0,ACTOR,Biggs
+$ev_plat4_0200_0200_big_0,,
+$ev_plat4_0200_0200_big_0,ACTOR,
+$ev_plat4_0200_0230_big_0,,
+$ev_plat4_0200_0230_big_0,ACTOR,
+$ev_plat4_0200_0240_big_0,,
+$ev_plat4_0200_0240_big_0,ACTOR,
+$ev_plat4_0200_0250_blt_0,,"Bien, nosotros también nos equipamos con el cable."
+$ev_plat4_0200_0250_blt_0,ACTOR,Barret
+$ev_plat4_0200_0255_tif_0,,
+$ev_plat4_0200_0255_tif_0,ACTOR,
+$ev_plat4_0200_0260_blt_0,,Atadlo bien para no perderlo.
+$ev_plat4_0200_0260_blt_0,ACTOR,Barret
+$ev_plat4_0200_0260_blt_1,,"Cuando termine la misión, bajaremos de golpe hasta abajo con esto."
+$ev_plat4_0200_0260_blt_1,ACTOR,Barret
+$ev_plat4_0200_0270_blt_0,,Vamos a volver vivos.
+$ev_plat4_0200_0270_blt_0,ACTOR,Barret
+$ev_plat4_0200_0280_cld_0,,Por supuesto.
+$ev_plat4_0200_0280_cld_0,ACTOR,Cloud
+$ev_plat4_0200_0290_tif_0,,
+$ev_plat4_0200_0290_tif_0,ACTOR,
+$pv_plat4_0015_0010_blt_0,,¿La sección G está al otro lado de la puerta?
+$pv_plat4_0015_0010_blt_0,ACTOR,Barret
+$pv_plat4_0020_0010_tif_0,,¿Se abrirá con esto?
+$pv_plat4_0020_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0021_0010_cld_0,,
+$pv_plat4_0021_0010_cld_0,ACTOR,
+$pv_plat4_0021_0021_tif_0,,
+$pv_plat4_0021_0021_tif_0,ACTOR,Tifa
+$pv_plat4_0021_0030_tif_0,,¿No funciona?
+$pv_plat4_0021_0030_tif_0,ACTOR,Tifa
+$pv_plat4_0021_0040_cld_0,,No llega corriente.
+$pv_plat4_0021_0040_cld_0,ACTOR,Cloud
+$pv_plat4_0021_0050_blt_0,,Ahí hay luz.
+$pv_plat4_0021_0050_blt_0,ACTOR,Barret
+$pv_plat4_0021_0070_cld_0,,¿La sala de control?
+$pv_plat4_0021_0070_cld_0,ACTOR,Cloud
+$pv_plat4_0021_0071_tif_0,,
+$pv_plat4_0021_0071_tif_0,ACTOR,
+$pv_plat4_0021_0080_tif_0,,Vamos a echar un vistazo.
+$pv_plat4_0021_0080_tif_0,ACTOR,Tifa
+$pv_plat4_0022_0010_cld_0,,"Primero, la electricidad."
+$pv_plat4_0022_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0023_0010_blt_0,,"Oye, ¿hay algo por ahí?"
+$pv_plat4_0023_0010_blt_0,ACTOR,Barret
+$pv_plat4_0025_0010_cld_0,,¿El interruptor de la luz?
+$pv_plat4_0025_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0026_0010_tif_0,,La puerta no se abrió. Parece que falta energía.
+$pv_plat4_0026_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0026_0020_blt_0,,Habrá que hacer algo.
+$pv_plat4_0026_0020_blt_0,ACTOR,Barret
+$pv_plat4_0030_0010_blt_0,,¿Aún está vivo?
+$pv_plat4_0030_0010_blt_0,ACTOR,Barret
+$pv_plat4_0030_0020_tif_0,,¿Funcionará?
+$pv_plat4_0030_0020_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0020_ana_0,,Suministro eléctrico insuficiente.
+$pv_plat4_0032_0020_ana_0,ACTOR,Voz digital
+$pv_plat4_0032_0030_cld_0,,No.
+$pv_plat4_0032_0030_cld_0,ACTOR,Cloud
+$pv_plat4_0032_0040_tif_0,,"Oye, esto."
+$pv_plat4_0032_0040_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0050_tif_0,,Dice qué hacer cuando falta energía.
+$pv_plat4_0032_0050_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0060_cld_0,,"¿Si apagamos las luces, podemos conseguir energía de emergencia?"
+$pv_plat4_0032_0060_cld_0,ACTOR,Cloud
+$pv_plat4_0032_0070_tif_0,,¿Las luces...? ¿Te refieres a los «soles de la barriada»?
+$pv_plat4_0032_0070_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0080_tif_0,,Así llamamos a las luces que iluminan la barriada.
+$pv_plat4_0032_0080_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0090_blt_0,,"¿Y si las apagamos, se abre la puerta?"
+$pv_plat4_0032_0090_blt_0,ACTOR,Barret
+$pv_plat4_0032_0100_tif_0,,"Pero si el sol se apaga, los del sector 4 tendrán problemas."
+$pv_plat4_0032_0100_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0110_blt_0,,"Si volamos el reactor, de todas formas se apagarán."
+$pv_plat4_0032_0110_blt_0,ACTOR,Barret
+$pv_plat4_0032_0120_tif_0,,Es verdad.
+$pv_plat4_0032_0120_tif_0,ACTOR,Tifa
+$pv_plat4_0032_0130_cld_0,,Volvamos.
+$pv_plat4_0032_0130_cld_0,ACTOR,Cloud
+$pv_plat4_0034_0010_tif_0,,"Ahí está. Visto así, es enorme."
+$pv_plat4_0034_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0034_0020_blt_0,,¿El interruptor está sobre la escalera? Está bastante alto.
+$pv_plat4_0034_0020_blt_0,ACTOR,Barret
+$pv_plat4_0034_0030_cld_0,,Voy yo.
+$pv_plat4_0034_0030_cld_0,ACTOR,Cloud
+$pv_plat4_0034_0040_tif_0,,Sí. Te espero abajo.
+$pv_plat4_0034_0040_tif_0,ACTOR,Tifa
+$pv_plat4_0036_0010_cld_0,,
+$pv_plat4_0036_0010_cld_0,ACTOR,
+$pv_plat4_0040_0020_blt_0,,Con esto llegamos hasta la G.
+$pv_plat4_0040_0020_blt_0,ACTOR,Barret
+$pv_plat4_0040_0030_tif_0,,"Sí. Y luego, guiándonos por el reactor..."
+$pv_plat4_0040_0030_tif_0,ACTOR,Tifa
+$pv_plat4_0040_0050_tif_0,,Esta crisálida...
+$pv_plat4_0040_0050_tif_0,ACTOR,Tifa
+$pv_plat4_0040_0060_blt_0,,Esto parece la bienvenida a su madriguera.
+$pv_plat4_0040_0060_blt_0,ACTOR,Barret
+$pv_plat4_0040_0070_blt_0,,¿Hasta dónde está podrida esta pizza?
+$pv_plat4_0040_0070_blt_0,ACTOR,Barret
+$pv_plat4_0050_0010_cld_0,,
+$pv_plat4_0050_0010_cld_0,ACTOR,
+$pv_plat4_0050_0030_tif_0,,¿Estás bien?
+$pv_plat4_0050_0030_tif_0,ACTOR,Tifa
+$pv_plat4_0050_0040_cld_0,,Sí.
+$pv_plat4_0050_0040_cld_0,ACTOR,Cloud
+$pv_plat4_0050_0050_blt_0,,"Estabas pendiente de la materia, ¿eh?"
+$pv_plat4_0050_0050_blt_0,ACTOR,Barret
+$pv_plat4_0050_0060_tif_0,,Está ahí mismo.
+$pv_plat4_0050_0060_tif_0,ACTOR,Tifa
+$pv_plat4_0060_0010_tif_0,,¿No lo comprobamos otra vez?
+$pv_plat4_0060_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0061_0030_blt_0,,¿Dónde estamos ahora?
+$pv_plat4_0061_0030_blt_0,ACTOR,Barret
+$pv_plat4_0061_0040_tif_0,,El reactor que buscamos está más allá de la H.
+$pv_plat4_0061_0040_tif_0,ACTOR,Tifa
+$pv_plat4_0061_0050_cld_0,,Sí.
+$pv_plat4_0061_0050_cld_0,ACTOR,Cloud
+$pv_plat4_0061_0060_tif_0,,"Pero hasta aquí no había ningún camino que conectara con la H, ¿verdad?"
+$pv_plat4_0061_0060_tif_0,ACTOR,Tifa
+$pv_plat4_0061_0070_blt_0,,"Bueno, si seguimos dando vueltas, alguna vez..."
+$pv_plat4_0061_0070_blt_0,ACTOR,Barret
+$pv_plat4_0061_0080_cld_0,,Hazlo tú solo.
+$pv_plat4_0061_0080_cld_0,ACTOR,Cloud
+$pv_plat4_0061_0100_tif_0,,Si tiene que haber otro sitio conectado...
+$pv_plat4_0061_0100_tif_0,ACTOR,Tifa
+$pv_plat4_0061_0120_cld_0,,¿Junto a la pared?
+$pv_plat4_0061_0120_cld_0,ACTOR,Cloud
+$pv_plat4_0061_0130_tif_0,,"¿Probamos por si acaso? Con un objetivo en mente, se hace más llevadero."
+$pv_plat4_0061_0130_tif_0,ACTOR,Tifa
+$pv_plat4_0061_0140_cld_0,,No es mala idea.
+$pv_plat4_0061_0140_cld_0,ACTOR,Cloud
+$pv_plat4_0061_0150_blt_0,,"¿Ese ventilador gigante es la marca? Desde luego, si lo usamos de referencia, no nos perderemos."
+$pv_plat4_0061_0150_blt_0,ACTOR,Barret
+$pv_plat4_0070_0010_tif_0,,Mirad. Puede que podamos subir por esa tubería.
+$pv_plat4_0070_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0071_0020_cld_0,,Parece que se puede ir agarrándose.
+$pv_plat4_0071_0020_cld_0,ACTOR,Cloud
+$pv_plat4_0071_0030_blt_0,,¿En serio?
+$pv_plat4_0071_0030_blt_0,ACTOR,Barret
+$pv_plat4_0073_0010_blt_0,,"Oye, se oye un ruido enorme de ventilador..."
+$pv_plat4_0073_0010_blt_0,ACTOR,Barret
+$pv_plat4_0073_0020_cld_0,,¿Tienes miedo?
+$pv_plat4_0073_0020_cld_0,ACTOR,Cloud
+$pv_plat4_0073_0040_blt_0,,¡¿Yo?!
+$pv_plat4_0073_0040_blt_0,ACTOR,Barret
+$pv_plat4_0073_0050_blt_0,,"Es que con ese cuerpo tan delgado, a ver si te va a llevar el viento..."
+$pv_plat4_0073_0050_blt_0,ACTOR,Barret
+$pv_plat4_0073_0060_tif_0,,"Venga, que tenemos prisa."
+$pv_plat4_0073_0060_tif_0,ACTOR,Tifa
+$pv_plat4_0073_0080_blt_0,,"Sí, seguidme."
+$pv_plat4_0073_0080_blt_0,ACTOR,Barret
+$pv_plat4_0075_0010_blt_0,,"No tengo miedo, no tengo miedo..."
+$pv_plat4_0075_0010_blt_0,ACTOR,Barret
+$pv_plat4_0080_0010_blt_0,,Qué bien sopla el viento.
+$pv_plat4_0080_0010_blt_0,ACTOR,Barret
+$pv_plat4_0080_0020_tif_0,,No tiene nada de bueno.
+$pv_plat4_0080_0020_tif_0,ACTOR,Tifa
+$pv_plat4_0082_0010_tif_0,,No mires hacia otro lado.
+$pv_plat4_0082_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0082_0020_blt_0,,Vale.
+$pv_plat4_0082_0020_blt_0,ACTOR,Barret
+$pv_plat4_0083_0010_tif_0,,¿Qué habrá dentro de ese ventilador?
+$pv_plat4_0083_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0084_0010_cld_0,,Eso es...
+$pv_plat4_0084_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0085_0010_blt_0,,¡Idiota!
+$pv_plat4_0085_0010_blt_0,ACTOR,Barret
+$pv_plat4_0085_0020_blt_0,,¡Has mirado hacia otro lado!
+$pv_plat4_0085_0020_blt_0,ACTOR,Barret
+$pv_plat4_0085_0030_cld_0,,
+$pv_plat4_0085_0030_cld_0,ACTOR,
+$pv_plat4_0086_0010_tif_0,,Hemos conseguido cruzar.
+$pv_plat4_0086_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0086_0020_blt_0,,Me has quitado años de vida.
+$pv_plat4_0086_0020_blt_0,ACTOR,Barret
+$pv_plat4_0086_0030_blt_0,,"Solo un poco. Dos segundos, dos segundos."
+$pv_plat4_0086_0030_blt_0,ACTOR,Barret
+$pv_plat4_0086_0040_cld_0,,
+$pv_plat4_0086_0040_cld_0,ACTOR,
+$pv_plat4_0100_0020_tif_0,,¿Se ha parado?
+$pv_plat4_0100_0020_tif_0,ACTOR,Tifa
+$pv_plat4_0100_0040_ana_0,,El sistema de ventilación pasa a modo de mantenimiento.
+$pv_plat4_0100_0040_ana_0,ACTOR,Voz digital
+$pv_plat4_0100_0050_ana_0,,Acceded al terminal de desbloqueo dentro del tiempo límite.
+$pv_plat4_0100_0050_ana_0,ACTOR,Voz digital
+$pv_plat4_0100_0070_blt_0,,¿Qué estamos haciendo?
+$pv_plat4_0100_0070_blt_0,ACTOR,Barret
+$pv_plat4_0102_0010_ana_0,,Error de autenticación. Error de autenticación. No se ha confirmado el acceso dentro del tiempo límite.
+$pv_plat4_0102_0010_ana_0,ACTOR,Voz digital
+$pv_plat4_0102_0020_ana_0,,Reactivando el sistema de ventilación.
+$pv_plat4_0102_0020_ana_0,ACTOR,Voz digital
+$pv_plat4_0103_0010_cld_0,,El control de los ventiladores...
+$pv_plat4_0103_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0103_0015_cld_0,,
+$pv_plat4_0103_0015_cld_0,ACTOR,
+$pv_plat4_0104_0010_ana_0,,Desbloqueo prohibido. El sistema de ventilación está en funcionamiento.
+$pv_plat4_0104_0010_ana_0,ACTOR,Voz digital
+$pv_plat4_0105_0010_ana_0,,Desbloqueo permitido. Acceso concedido.
+$pv_plat4_0105_0010_ana_0,ACTOR,Voz digital
+$pv_plat4_0107_0010_blt_0,,¿Qué pasa? ¿Adónde vamos? ¿A buscar un tesoro?
+$pv_plat4_0107_0010_blt_0,ACTOR,Barret
+$pv_plat4_0108_0010_ana_0,,Estableciendo el modo de mantenimiento del sistema de ventilación. El operario debe acceder al terminal.
+$pv_plat4_0108_0010_ana_0,ACTOR,Voz digital
+$pv_plat4_0110_0020_blt_0,,¡¿Una materia de invocación?!
+$pv_plat4_0110_0020_blt_0,ACTOR,Barret
+$pv_plat4_0110_0030_tif_0,,Qué bonita.
+$pv_plat4_0110_0030_tif_0,ACTOR,Tifa
+$pv_plat4_0110_0040_blt_0,,¿Qué tipo de bicho saldrá de ahí?
+$pv_plat4_0110_0040_blt_0,ACTOR,Barret
+$pv_plat4_0110_0050_cld_0,,Ni idea.
+$pv_plat4_0110_0050_cld_0,ACTOR,Cloud
+$pv_plat4_0140_0040_tif_0,,"Primero, una."
+$pv_plat4_0140_0040_tif_0,ACTOR,Tifa
+$pv_plat4_0140_0050_ana_0,,Energía restaurada. Encendido.
+$pv_plat4_0140_0050_ana_0,ACTOR,Megafonía
+$pv_plat4_0140_0060_blt_0,,Quedan esas dos.
+$pv_plat4_0140_0060_blt_0,ACTOR,Barret
+$pv_plat4_0140_0070_ana_0,,Iniciando el reinicio del sistema de repulsión de intrusos.
+$pv_plat4_0140_0070_ana_0,ACTOR,Megafonía
+$pv_plat4_0140_0071_ana_0,,
+$pv_plat4_0140_0071_ana_0,ACTOR,Megafonía
+$pv_plat4_0140_0100_tif_0,,¿Sistema de repulsión?
+$pv_plat4_0140_0100_tif_0,ACTOR,Tifa
+$pv_plat4_0140_0110_cld_0,,¿Se ha restaurado la energía?
+$pv_plat4_0140_0110_cld_0,ACTOR,Cloud
+$pv_plat4_0140_0120_blt_0,,¿Y eso qué importa? Lo destrozamos todo y vamos al reactor.
+$pv_plat4_0140_0120_blt_0,ACTOR,Barret
+$pv_plat4_0150_0030_blt_0,,"Con esto, ¿el segundo?"
+$pv_plat4_0150_0030_blt_0,ACTOR,Barret
+$pv_plat4_0150_0050_tif_0,,Solo queda esa luz.
+$pv_plat4_0150_0050_tif_0,ACTOR,Tifa
+$pv_plat4_0150_0060_blt_0,,Ya se ve el final.
+$pv_plat4_0150_0060_blt_0,ACTOR,Barret
+$pv_plat4_0150_0080_cld_0,,Desde aquí parece que se puede bajar.
+$pv_plat4_0150_0080_cld_0,ACTOR,Cloud
+$pv_plat4_0160_0030_tif_0,,"Con esto, la tercera. ¿Podremos mover el ascensor principal?"
+$pv_plat4_0160_0030_tif_0,ACTOR,Tifa
+$pv_plat4_0160_0040_cld_0,,Eso espero.
+$pv_plat4_0160_0040_cld_0,ACTOR,Cloud
+$pv_plat4_0160_0050_blt_0,,Bien. Volvamos a la zona H-01.
+$pv_plat4_0160_0050_blt_0,ACTOR,Barret
+$pv_plat4_0170_0010_ana_0,,Suministro de energía de emergencia confirmado. Reiniciando el ascensor.
+$pv_plat4_0170_0010_ana_0,ACTOR,Megafonía
+$pv_plat4_0170_0030_ana_0,,Reinicio completado. Subid al ascensor.
+$pv_plat4_0170_0030_ana_0,ACTOR,Megafonía
+$pv_plat4_0170_0050_blt_0,,"Adiós, laberinto de chatarra."
+$pv_plat4_0170_0050_blt_0,ACTOR,Barret
+$pv_plat4_0171_0010_blt_0,,"Ah, por cierto, había una materia tirada. ¿No quieres recogerla?"
+$pv_plat4_0171_0010_blt_0,ACTOR,Barret
+$pv_plat4_0171_0020_sys_0,,¿No quieres recogerla?
+$pv_plat4_0171_0020_sys_0,ACTOR,
+$pv_plat4_0172_0010_cld_0,,Pues sí. Volvamos.
+$pv_plat4_0172_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0173_0010_cld_0,,"No, démonos prisa."
+$pv_plat4_0173_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0173_0020_cld_0,,
+$pv_plat4_0173_0020_cld_0,ACTOR,
+$pv_plat4_0174_0010_cld_0,,
+$pv_plat4_0174_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0174_0020_cld_0,,
+$pv_plat4_0174_0020_cld_0,ACTOR,Cloud
+$pv_plat4_0175_0010_cld_0,,Pues sí. Volvamos.
+$pv_plat4_0175_0010_cld_0,ACTOR,Cloud
+$pv_plat4_0175_0020_cld_0,,"No, démonos prisa."
+$pv_plat4_0175_0020_cld_0,ACTOR,Cloud
+$pv_plat4_0180_0010_tif_0,,"Por fin, el reactor."
+$pv_plat4_0180_0010_tif_0,ACTOR,Tifa
+$pv_plat4_0180_0020_blt_0,,Oscuro y deprimente. El lugar donde se consume la vida del planeta.
+$pv_plat4_0180_0020_blt_0,ACTOR,Barret
+$pv_plat4_0180_0030_tif_0,,
+$pv_plat4_0180_0030_tif_0,ACTOR,
+$pv_plat4_0180_0040_blt_0,,"Dentro, el olor a mako te va a dar en la nariz. Prepárate."
+$pv_plat4_0180_0040_blt_0,ACTOR,Barret
+$pv_plat4_0180_0050_tif_0,,Vale.
+$pv_plat4_0180_0050_tif_0,ACTOR,Tifa
+$pv_plat4_0180_0060_cld_0,,
+$pv_plat4_0180_0060_cld_0,ACTOR,
+$pv_plat4_0190_0010_blt_0,,¿Falta mucho?
+$pv_plat4_0190_0010_blt_0,ACTOR,Barret
+$pv_plat4_0190_0020_tif_0,,
+$pv_plat4_0190_0020_tif_0,ACTOR,
+$pv_plat4_0190_0030_cld_0,,¿Tifa?
+$pv_plat4_0190_0030_cld_0,ACTOR,Cloud
+$pv_plat4_0190_0040_tif_0,,"No, nada. Pensaba que ya casi estamos."
+$pv_plat4_0190_0040_tif_0,ACTOR,Tifa
+$pv_plat4_0190_0050_tif_0,,Parece que estoy más nerviosa de lo que creía.
+$pv_plat4_0190_0050_tif_0,ACTOR,Tifa
+$pv_plat4_0190_0060_blt_0,,Con esto no hay quien se acostumbre.
+$pv_plat4_0190_0060_blt_0,ACTOR,Barret
+$pv_plat4_0190_0070_tif_0,,Vale.
+$pv_plat4_0190_0070_tif_0,ACTOR,Tifa
+$tk_plat4_0500_0010_blt_0,,"¡Vaya, se ve todo lo de abajo!"
+$tk_plat4_0500_0010_blt_0,ACTOR,Barret
+$tk_plat4_0500_0020_cld_0,,Calla y avanza.
+$tk_plat4_0500_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0500_0030_tif_0,,"Si no miras abajo, estás bien."
+$tk_plat4_0500_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0500_0040_blt_0,,Sois más duros de lo que parece.
+$tk_plat4_0500_0040_blt_0,ACTOR,Barret
+$tk_plat4_0510_0010_tif_0,,¿No usan esa puerta?
+$tk_plat4_0510_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0510_0020_blt_0,,"Es más, no creo que nadie use este pasillo."
+$tk_plat4_0510_0020_blt_0,ACTOR,Barret
+$tk_plat4_0510_0030_tif_0,,Así no se puede ni inspeccionar.
+$tk_plat4_0510_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0520_0010_tif_0,,¿Habrá falta de energía aquí por culpa de los soles de la barriada?
+$tk_plat4_0520_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0520_0020_blt_0,,Ni idea. Seguro que se saltan las inspecciones.
+$tk_plat4_0520_0020_blt_0,ACTOR,Barret
+$tk_plat4_0520_0030_tif_0,,"La luz es útil, pero consume mucha mako."
+$tk_plat4_0520_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0530_0010_blt_0,,Parece que enseguida nos van a dar la bienvenida.
+$tk_plat4_0530_0010_blt_0,ACTOR,Barret
+$tk_plat4_0530_0020_cld_0,,No te confíes.
+$tk_plat4_0530_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0540_0010_cld_0,,Aquí no se puede cruzar.
+$tk_plat4_0540_0010_cld_0,ACTOR,Cloud
+$tk_plat4_0540_0020_tif_0,,No queda otra que ir por donde se puede avanzar.
+$tk_plat4_0540_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0550_0010_tif_0,,¿Están averiadas?
+$tk_plat4_0550_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0550_0020_cld_0,,Aquí también parece que falta energía.
+$tk_plat4_0550_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0550_0030_blt_0,,Mejor para nosotros. Así podemos entrar sin problema.
+$tk_plat4_0550_0030_blt_0,ACTOR,Barret
+$tk_plat4_0560_0010_blt_0,,Van soltando gas apestoso por toda la barriada.
+$tk_plat4_0560_0010_blt_0,ACTOR,Barret
+$tk_plat4_0560_0020_tif_0,,¿Se acumulan monstruos cerca del gas?
+$tk_plat4_0560_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0560_0030_blt_0,,Igual que en el túnel. Es culpa de Shinra y del mako.
+$tk_plat4_0560_0030_blt_0,ACTOR,Barret
+$tk_plat4_0570_0010_tif_0,,¿Tampoco se puede por el pasillo de antes?
+$tk_plat4_0570_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0570_0020_blt_0,,"Bueno, seguro que algo conecta."
+$tk_plat4_0570_0020_blt_0,ACTOR,Barret
+$tk_plat4_0570_0030_tif_0,,No queda otra que buscar con paciencia.
+$tk_plat4_0570_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0570_0040_blt_0,,Y también cómo conseguir esa materia.
+$tk_plat4_0570_0040_blt_0,ACTOR,Barret
+$tk_plat4_0570_0050_cld_0,,
+$tk_plat4_0570_0050_cld_0,ACTOR,
+$tk_plat4_0580_0010_blt_0,,"En sitios así, lo importante es creer que no te vas a perder."
+$tk_plat4_0580_0010_blt_0,ACTOR,Barret
+$tk_plat4_0580_0020_tif_0,,Eso es una frase de un libro.
+$tk_plat4_0580_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0580_0030_blt_0,,"Sí. A Marlene le gusta, y si la imito, se alegra."
+$tk_plat4_0580_0030_blt_0,ACTOR,Barret
+$tk_plat4_0580_0040_tif_0,,"«La vida es un laberinto sin fin», ¿no? Yo también me la sé."
+$tk_plat4_0580_0040_tif_0,ACTOR,Tifa
+$tk_plat4_0590_0010_tif_0,,¿Eso son ventiladores?
+$tk_plat4_0590_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0590_0020_blt_0,,"Aunque los apaguemos, el gas no desaparece."
+$tk_plat4_0590_0020_blt_0,ACTOR,Barret
+$tk_plat4_0590_0030_blt_0,,Todas las cosas peligrosas las sueltan en la barriada.
+$tk_plat4_0590_0030_blt_0,ACTOR,Barret
+$tk_plat4_0600_0010_tif_0,,Ya está la H delante. Cuidado con los pies.
+$tk_plat4_0600_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0600_0020_cld_0,,¿Aquel es el ascensor que buscamos?
+$tk_plat4_0600_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0600_0030_tif_0,,"El ascensor principal. Creo que dijo eso, ¡sí!"
+$tk_plat4_0600_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0610_0010_blt_0,,"Mirad, el reactor nos llama. ¡Que vengamos ya, que vengamos ya!"
+$tk_plat4_0610_0010_blt_0,ACTOR,Barret
+$tk_plat4_0620_0010_tif_0,,«La luz que cuida de la oscura barriada...»
+$tk_plat4_0620_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0620_0020_tif_0,,«es la guía que ilumina incluso el futuro. Es el sol.»
+$tk_plat4_0620_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0620_0030_blt_0,,¿Qué es eso?
+$tk_plat4_0620_0030_blt_0,ACTOR,Barret
+$tk_plat4_0620_0040_tif_0,,El eslogan de los soles de la barriada. El presidente lo dijo en un discurso.
+$tk_plat4_0620_0040_tif_0,ACTOR,Tifa
+$tk_plat4_0620_0050_blt_0,,El futuro que Shinra ilumina no puede ser más negro.
+$tk_plat4_0620_0050_blt_0,ACTOR,Barret
+$tk_plat4_0630_0010_tif_0,,Ahí está el interruptor.
+$tk_plat4_0630_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0630_0020_blt_0,,Vamos a apagarlo rápido.
+$tk_plat4_0630_0020_blt_0,ACTOR,Barret
+$tk_plat4_0640_0010_ana_0,,Intrusos detectados. Pasando a modo de barrido.
+$tk_plat4_0640_0010_ana_0,ACTOR,Megafonía
+$tk_plat4_0640_0020_cld_0,,Son del tipo de disparo a media distancia.
+$tk_plat4_0640_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0640_0030_blt_0,,Esos déjamelos a mí.
+$tk_plat4_0640_0030_blt_0,ACTOR,Barret
+$tk_plat4_0641_0020_ana_0,,
+$tk_plat4_0641_0020_ana_0,ACTOR,
+$tk_plat4_0650_0010_tif_0,,Vaya panorama.
+$tk_plat4_0650_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0650_0020_cld_0,,Lo que se ha restaurado no son solo las armas de seguridad.
+$tk_plat4_0650_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0660_0010_blt_0,,¿También se ha derrumbado esto?
+$tk_plat4_0660_0010_blt_0,ACTOR,Barret
+$tk_plat4_0660_0020_tif_0,,Habrá que buscar otra forma.
+$tk_plat4_0660_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0661_0010_blt_0,,Piensa bien adónde puede llevar.
+$tk_plat4_0661_0010_blt_0,ACTOR,Barret
+$tk_plat4_0662_0020_tif_0,,El pasillo se puede mover.
+$tk_plat4_0662_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0663_0010_blt_0,,¿Ha venido de arriba?
+$tk_plat4_0663_0010_blt_0,ACTOR,Barret
+$tk_plat4_0664_0010_blt_0,,Encaja perfectamente.
+$tk_plat4_0664_0010_blt_0,ACTOR,Barret
+$tk_plat4_0667_0010_blt_0,,Conecta bien el puente hasta la luz.
+$tk_plat4_0667_0010_blt_0,ACTOR,Barret
+$tk_plat4_0670_0010_blt_0,,¿Hacia dónde está la siguiente luz?
+$tk_plat4_0670_0010_blt_0,ACTOR,Barret
+$tk_plat4_0670_0020_tif_0,,Hay que comprobar a menudo o acabaremos sin saber dónde estamos.
+$tk_plat4_0670_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0670_0030_blt_0,,Menos mal que es grande como una tonta.
+$tk_plat4_0670_0030_blt_0,ACTOR,Barret
+$tk_plat4_0680_0010_blt_0,,¿No se derrumbará?
+$tk_plat4_0680_0010_blt_0,ACTOR,Barret
+$tk_plat4_0680_0020_cld_0,,¿Abajo está la barriada del sector 4?
+$tk_plat4_0680_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0680_0030_tif_0,,¿Te interesa? La próxima vez te hago de guía.
+$tk_plat4_0680_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0680_0040_blt_0,,Preocúpate un poco.
+$tk_plat4_0680_0040_blt_0,ACTOR,Barret
+$tk_plat4_0682_0010_tif_0,,Parece que se mueve.
+$tk_plat4_0682_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0684_0010_blt_0,,Aquí también hay un ascensor.
+$tk_plat4_0684_0010_blt_0,ACTOR,Barret
+$tk_plat4_0690_0010_tif_0,,"Hemos apagado muchas luces, ¿eh? Soles."
+$tk_plat4_0690_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0690_0020_blt_0,,Con un sol de verdad basta.
+$tk_plat4_0690_0020_blt_0,ACTOR,Barret
+$tk_plat4_0690_0030_blt_0,,Shinra solo sabe hacer imitaciones.
+$tk_plat4_0690_0030_blt_0,ACTOR,Barret
+$tk_plat4_0700_0020_tif_0,,Parece que hemos dado la vuelta y hemos vuelto.
+$tk_plat4_0700_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0700_0030_tif_0,,Eh... La última luz...
+$tk_plat4_0700_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0730_0010_tif_0,,Esa es la última. Hemos dado muchas vueltas.
+$tk_plat4_0730_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0730_0020_blt_0,,Aquí tampoco hay marcas de los compañeros. Y no tener a Jessie y Wedge se nota.
+$tk_plat4_0730_0020_blt_0,ACTOR,Barret
+$tk_plat4_0730_0030_tif_0,,¿Qué le decimos a Biggs sobre los dos?
+$tk_plat4_0730_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0730_0040_tif_0,,Seguro que se preocupa.
+$tk_plat4_0730_0040_tif_0,ACTOR,Tifa
+$tk_plat4_0740_0010_tif_0,,¿Estará bien la herida de Jessie?
+$tk_plat4_0740_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0740_0020_blt_0,,La mejor medicina para ellos es que le demos su merecido a Shinra.
+$tk_plat4_0740_0020_blt_0,ACTOR,Barret
+$tk_plat4_0740_0030_tif_0,,"Sí. Cloud, encárgate también de la parte de Wedge."
+$tk_plat4_0740_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0740_0040_cld_0,,
+$tk_plat4_0740_0040_cld_0,ACTOR,
+$tk_plat4_0741_0010_blt_0,,¿Ahora te pierdes?
+$tk_plat4_0741_0010_blt_0,ACTOR,Barret
+$tk_plat4_0742_0010_tif_0,,"Rápido, volvamos a H-01."
+$tk_plat4_0742_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0743_0010_tif_0,,¿El ascensor principal era por aquí?
+$tk_plat4_0743_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0745_0010_blt_0,,"No estarás perdido, ¿verdad?"
+$tk_plat4_0745_0010_blt_0,ACTOR,Barret
+$tk_plat4_0746_0010_blt_0,,"¿Te desvías? Bueno, te acompaño."
+$tk_plat4_0746_0010_blt_0,ACTOR,Barret
+$tk_plat4_0747_0010_blt_0,,¿Qué pasa? ¿Adónde vamos? ¿A buscar un tesoro?
+$tk_plat4_0747_0010_blt_0,ACTOR,Barret
+$tk_plat4_0750_0010_cld_0,,¿Dónde quedamos con Biggs?
+$tk_plat4_0750_0010_cld_0,ACTOR,Cloud
+$tk_plat4_0750_0020_blt_0,,En el pasillo que lleva al reactor.
+$tk_plat4_0750_0020_blt_0,ACTOR,Barret
+$tk_plat4_0750_0030_tif_0,,Decía que tenía planes para matar el aburrimiento de la A a la Z.
+$tk_plat4_0750_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0750_0040_blt_0,,Habrá que llegar antes de la G.
+$tk_plat4_0750_0040_blt_0,ACTOR,Barret
+$tk_plat4_0760_0010_tif_0,,Hemos vuelto al ascensor principal.
+$tk_plat4_0760_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0760_0020_blt_0,,"Lávate el cuello y espera, reactor de mako."
+$tk_plat4_0760_0020_blt_0,ACTOR,Barret
+$tk_plat4_0770_0010_blt_0,,El punto de reunión con Biggs está más adelante.
+$tk_plat4_0770_0010_blt_0,ACTOR,Barret
+$tk_plat4_0770_0020_tif_0,,"Como hemos tardado, seguro que está preocupado."
+$tk_plat4_0770_0020_tif_0,ACTOR,Tifa
+$tk_plat4_0780_0010_tif_0,,"A pesar de todo el jaleo, no nos sigue nadie."
+$tk_plat4_0780_0010_tif_0,ACTOR,Tifa
+$tk_plat4_0780_0020_cld_0,,Midgar está en manos de Shinra. Seguro que nos han estado vigilando.
+$tk_plat4_0780_0020_cld_0,ACTOR,Cloud
+$tk_plat4_0780_0030_tif_0,,"Si lo sabías, podrías haberlo dicho."
+$tk_plat4_0780_0030_tif_0,ACTOR,Tifa
+$tk_plat4_0780_0040_cld_0,,¿Habrías parado si te lo digo?
+$tk_plat4_0780_0040_cld_0,ACTOR,Cloud
+$tk_plat4_0780_0050_blt_0,,Desde el principio vamos por la cuerda floja. No queda otra que cruzarla.
+$tk_plat4_0780_0050_blt_0,ACTOR,Barret
+$tk_plat4_0780_0060_tif_0,,Aunque sea por la fuerza.
+$tk_plat4_0780_0060_tif_0,ACTOR,Tifa
+$tk_plat4_0780_0070_cld_0,,Parece que se te da bien.
+$tk_plat4_0780_0070_cld_0,ACTOR,Cloud
+$tk_plat4_0780_0080_tif_0,,Ya veremos.
+$tk_plat4_0780_0080_tif_0,ACTOR,Tifa
+$tk_plat4_0930_0010_cld_0,,Vamos.
+$tk_plat4_0930_0010_cld_0,ACTOR,Cloud
+$tk_plat4_0930_0020_blt_0,,¿Qué pasa?
+$tk_plat4_0930_0020_blt_0,ACTOR,Barret
+$tk_plat4_1000_0010_tif_0,,¿No hemos venido ya aquí?
+$tk_plat4_1000_0010_tif_0,ACTOR,Tifa
+$tk_plat4_1010_0010_tif_0,,Seguro que ya hemos visto esta zona.
+$tk_plat4_1010_0010_tif_0,ACTOR,Tifa
+$tk_plat4_1020_0010_tif_0,,¿Estás perdido?
+$tk_plat4_1020_0010_tif_0,ACTOR,Tifa
+$tk_plat4_1100_0010_tif_0,,Este ascensor ya lo hemos usado.
+$tk_plat4_1100_0010_tif_0,ACTOR,Tifa
+$tk_plat4_1100_0020_blt_0,,¿Se te ha olvidado algo?
+$tk_plat4_1100_0020_blt_0,ACTOR,Barret
+$tk_plat4_1110_0010_blt_0,,"Vaya, si es el mismo en el que hemos subido antes."
+$tk_plat4_1110_0010_blt_0,ACTOR,Barret
+$tk_plat4_1110_0020_tif_0,,"No estás perdido, ¿verdad?"
+$tk_plat4_1110_0020_tif_0,ACTOR,Tifa
+$tk_plat4_1120_0010_tif_0,,"Eh, ¿volvemos?"
+$tk_plat4_1120_0010_tif_0,ACTOR,Tifa
+$tk_plat4_1120_0020_blt_0,,"Si tienes algo que hacer, date prisa."
+$tk_plat4_1120_0020_blt_0,ACTOR,Barret
+$tk_plat4_1360_0010_cld_0,,¿La energía de tres luces?
+$tk_plat4_1360_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1370_0010_cld_0,,"Si apagamos tres luces, parece que funcionará."
+$tk_plat4_1370_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1380_0010_cld_0,,No parece que vaya a funcionar por falta de energía.
+$tk_plat4_1380_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1460_0010_cld_0,,Faltan dos luces.
+$tk_plat4_1460_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1470_0010_cld_0,,¿Hacen falta dos luces?
+$tk_plat4_1470_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1480_0010_cld_0,,Falta energía.
+$tk_plat4_1480_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1560_0010_cld_0,,¿La energía necesaria es la de una luz?
+$tk_plat4_1560_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1570_0010_cld_0,,"Si apagamos una luz, parece que funcionará."
+$tk_plat4_1570_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1580_0010_cld_0,,Lo que falta es una luz.
+$tk_plat4_1580_0010_cld_0,ACTOR,Cloud
+$tk_plat4_1800_0010_ana_0,,Suministro eléctrico insuficiente.
+$tk_plat4_1800_0010_ana_0,ACTOR,Megafonía
+$tk_plat4_1800_0020_cld_0,,Primero hay que apagar la luz.
+$tk_plat4_1800_0020_cld_0,ACTOR,Cloud
+$tk_plat4_1810_0010_ana_0,,Suministro eléctrico insuficiente.
+$tk_plat4_1810_0010_ana_0,ACTOR,Megafonía
+$tk_plat4_1810_0020_tif_0,,"Si apagamos esa, ¿funcionará?"
+$tk_plat4_1810_0020_tif_0,ACTOR,Tifa
+$tk_plat4_1820_0010_ana_0,,Suministro eléctrico insuficiente.
+$tk_plat4_1820_0010_ana_0,ACTOR,Megafonía
+$tk_plat4_1820_0020_tif_0,,Primero hay que apagar la luz.
+$tk_plat4_1820_0020_tif_0,ACTOR,Tifa

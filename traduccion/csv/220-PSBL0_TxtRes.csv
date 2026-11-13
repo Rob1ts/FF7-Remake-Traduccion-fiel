@@ -1,0 +1,1709 @@
+id,sub_id,text
+language,,ES
+$ba_psbl0_0210_0000_0000_yfi_0,,¡Abrid paso!
+$ba_psbl0_0210_0000_0000_yfi_0,ACTOR,Yuffie
+$ba_psbl0_0210_0000_0010_snn_0,,"Aunque no hayamos encontrado la materia suprema, hemos obtenido mucha información."
+$ba_psbl0_0210_0000_0010_snn_0,ACTOR,Sonon
+$ba_psbl0_0210_0000_0020_snn_0,,"Jefa, volveremos sin falta."
+$ba_psbl0_0210_0000_0020_snn_0,ACTOR,Sonon
+$ba_psbl0_0260_1000_0010_yfi_0,,¿Eh? ¡¿No podemos romperlo?!
+$ba_psbl0_0260_1000_0010_yfi_0,ACTOR,Yuffie
+$ba_psbl0_0260_1000_0020_snn_0,,"¿Será cosa de ese?<br>Primero aguantemos, ¡jefa!"
+$ba_psbl0_0260_1000_0020_snn_0,ACTOR,Sonon
+$ba_psbl0_0260_1010_0010_snn_0,,"¡Jefa, el proyector, ahora que podemos!"
+$ba_psbl0_0260_1010_0010_snn_0,ACTOR,Sonon
+$ba_psbl0_0260_1010_0020_yfi_0,,¡Déjamelo a mí!
+$ba_psbl0_0260_1010_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_1010_0010_yfi_0,,¿En Shinra solo hay gente rara?
+$ba_psbl0_20_5010_1010_0010_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_1010_0020_snn_0,,No te confíes. No es alguien normal.
+$ba_psbl0_20_5010_1010_0020_snn_0,ACTOR,Sonon
+$ba_psbl0_20_5010_1010_0110_ner_0,,¿Me tenéis miedo?
+$ba_psbl0_20_5010_1010_0110_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_1010_0120_yfi_0,,Me da escalofríos...
+$ba_psbl0_20_5010_1010_0120_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_1010_0130_snn_0,,"No le hagas caso, jefa."
+$ba_psbl0_20_5010_1010_0130_snn_0,ACTOR,Sonon
+$ba_psbl0_20_5010_1010_0210_ner_0,,Te tengo.
+$ba_psbl0_20_5010_1010_0210_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_1010_0220_yfi_0,,"¡Sonon! ¡Help, help!"
+$ba_psbl0_20_5010_1010_0220_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_1010_0310_ner_0,,No os soltaré.
+$ba_psbl0_20_5010_1010_0310_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_1010_0320_snn_0,,"¡Jefa, ahora!"
+$ba_psbl0_20_5010_1010_0320_snn_0,ACTOR,Sonon
+$ba_psbl0_20_5010_2010_0010_yfi_0,,Esa cosa negra es muy peligrosa.
+$ba_psbl0_20_5010_2010_0010_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_2010_0020_ner_0,,Seamos uno en la oscuridad.
+$ba_psbl0_20_5010_2010_0020_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_2010_0110_yfi_0,,Qué asco... Su oscuridad.
+$ba_psbl0_20_5010_2010_0110_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_2010_0120_snn_0,,Sí. Acabemos rápido.
+$ba_psbl0_20_5010_2010_0120_snn_0,ACTOR,Sonon
+$ba_psbl0_20_5010_2010_0210_yfi_0,,¡Ugh...!
+$ba_psbl0_20_5010_2010_0210_yfi_0,ACTOR,
+$ba_psbl0_20_5010_2010_0220_ner_0,,Pronto no sentiréis nada.
+$ba_psbl0_20_5010_2010_0220_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_2010_0310_snn_0,,¡Gah...!
+$ba_psbl0_20_5010_2010_0310_snn_0,ACTOR,
+$ba_psbl0_20_5010_2010_0320_ner_0,,Sentidlo todo.
+$ba_psbl0_20_5010_2010_0320_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_2010_0410_ner_0,,"Viene... ya viene, hermano."
+$ba_psbl0_20_5010_2010_0410_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_2010_0420_yfi_0,,¡No! ¡No me huelas!
+$ba_psbl0_20_5010_2010_0420_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_3010_0010_yfi_0,,¡Todo está negro!
+$ba_psbl0_20_5010_3010_0010_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_3010_0020_snn_0,,Acabemos con esto antes de que nos consuma.
+$ba_psbl0_20_5010_3010_0020_snn_0,ACTOR,Sonon
+$ba_psbl0_20_5010_3010_0110_ner_0,,¿Quieres morir rápido?
+$ba_psbl0_20_5010_3010_0110_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_3010_0120_yfi_0,,¡Puedo apuntarte sin acercarme!
+$ba_psbl0_20_5010_3010_0120_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_3010_0210_snn_0,,¿Me he acercado demasiado?
+$ba_psbl0_20_5010_3010_0210_snn_0,ACTOR,Sonon
+$ba_psbl0_20_5010_3010_0220_yfi_0,,Yo puedo. ¡Apártate!
+$ba_psbl0_20_5010_3010_0220_yfi_0,ACTOR,Yuffie
+$ba_psbl0_20_5010_3010_0310_ner_0,,Ya va siendo hora de terminar.
+$ba_psbl0_20_5010_3010_0310_ner_0,ACTOR,Nero
+$ba_psbl0_20_5010_3010_0410_ner_0,,"Qué crueldad...<br>¡Qué crueldad, qué crueldad!"
+$ba_psbl0_20_5010_3010_0410_ner_0,ACTOR,Nero
+$ba_psbl0_5010_1010_0010_yfi_0,,"Vaya, nos han rodeado."
+$ba_psbl0_5010_1010_0010_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_1010_0020_snn_0,,Vamos a quitarnos primero a los de alrededor.
+$ba_psbl0_5010_1010_0020_snn_0,ACTOR,Sonon
+$ba_psbl0_5010_1010_0030_yfi_0,,¡Vamos a hacer limpieza a fondo!
+$ba_psbl0_5010_1010_0030_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_1020_0010_scr_0,,"Venga, venga, fijaos también en lo que os rodea."
+$ba_psbl0_5010_1020_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1020_0020_yfi_0,,¡Qué injusto!
+$ba_psbl0_5010_1020_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_1030_0010_scr_0,,¡Acabad con ellos!
+$ba_psbl0_5010_1030_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1030_0020_scr_0,,No os cortéis.
+$ba_psbl0_5010_1030_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1030_0030_scr_0,,Apunta bien.
+$ba_psbl0_5010_1030_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1040_0010_snn_0,,¡Bien!
+$ba_psbl0_5010_1040_0010_snn_0,ACTOR,Sonon
+$ba_psbl0_5010_1040_0020_yfi_0,,"Je, je. ¿Qué tal?"
+$ba_psbl0_5010_1040_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_1040_0040_scr_0,,Encargaos de limpiar esto.
+$ba_psbl0_5010_1040_0040_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1050_0010_scr_0,,¡Qué descaro!
+$ba_psbl0_5010_1050_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1050_0020_scr_0,,¡Maldita sea!
+$ba_psbl0_5010_1050_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1050_0030_scr_0,,¡Inútil!
+$ba_psbl0_5010_1050_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1050_0040_scr_0,,¡¿Dónde apuntas?!
+$ba_psbl0_5010_1050_0040_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1060_0010_scr_0,,Vamos a acabar de una vez.
+$ba_psbl0_5010_1060_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1060_0020_yfi_0,,¿Vais a dispararme?
+$ba_psbl0_5010_1060_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_1070_0010_scr_0,,¿Estáis listos?
+$ba_psbl0_5010_1070_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1070_0020_scr_0,,Os atravesaré.
+$ba_psbl0_5010_1070_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1070_0030_scr_0,,Qué divertido es torturaros.
+$ba_psbl0_5010_1070_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1080_0010_scr_0,,Os quemaré hasta los huesos.
+$ba_psbl0_5010_1080_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1080_0020_yfi_0,,"¡Eh, perdona, perdona!"
+$ba_psbl0_5010_1080_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_1090_0010_scr_0,,Recibidlo todo.
+$ba_psbl0_5010_1090_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1090_0020_scr_0,,¿Creéis que hay escapatoria?
+$ba_psbl0_5010_1090_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_1090_0030_scr_0,,"Estéis donde estéis, os veré."
+$ba_psbl0_5010_1090_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2010_0010_snn_0,,¿Especializada en largo alcance?
+$ba_psbl0_5010_2010_0010_snn_0,ACTOR,Sonon
+$ba_psbl0_5010_2010_0020_yfi_0,,¡Acabemos con todo!
+$ba_psbl0_5010_2010_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_2020_0010_scr_0,,"Vaya, no está mal."
+$ba_psbl0_5010_2020_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2020_0020_yfi_0,,¡Toma ya!
+$ba_psbl0_5010_2020_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_2030_0010_scr_0,,¿No os ha gustado?
+$ba_psbl0_5010_2030_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2030_0020_yfi_0,,¡Claro que no!
+$ba_psbl0_5010_2030_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_2040_0010_scr_0,,"Vaya, ¿se ha roto otra vez?"
+$ba_psbl0_5010_2040_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2040_0020_scr_0,,Hay un problema de resistencia.
+$ba_psbl0_5010_2040_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2040_0030_scr_0,,Qué brutos sois.
+$ba_psbl0_5010_2040_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2050_0010_scr_0,,"Portaos bien, ¿vale?"
+$ba_psbl0_5010_2050_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2050_0020_yfi_0,,"¡Eh, no se aceptan huidas!"
+$ba_psbl0_5010_2050_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_2060_0010_scr_0,,"Queréis el postre, ¿verdad?"
+$ba_psbl0_5010_2060_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2060_0020_scr_0,,Todavía quedan más.
+$ba_psbl0_5010_2060_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2060_0030_scr_0,,Qué ratas tan pesadas.
+$ba_psbl0_5010_2060_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2060_0040_scr_0,,Faltan gritos.
+$ba_psbl0_5010_2060_0040_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2070_0010_scr_0,,Siento la espera.
+$ba_psbl0_5010_2070_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2070_0020_yfi_0,,¿Aún hay más?
+$ba_psbl0_5010_2070_0020_yfi_0,ACTOR,Yuffie
+$ba_psbl0_5010_2080_0010_scr_0,,Esta arma también es recomendable.
+$ba_psbl0_5010_2080_0010_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2080_0020_scr_0,,¿Y ahora qué tal esto?
+$ba_psbl0_5010_2080_0020_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2080_0030_scr_0,,Voy a jugar un poco con esto.
+$ba_psbl0_5010_2080_0030_scr_0,ACTOR,Escarlata
+$ba_psbl0_5010_2080_0040_scr_0,,"Con el mismo juguete os aburriríais, ¿no?"
+$ba_psbl0_5010_2080_0040_scr_0,ACTOR,Escarlata
+$ev_psbl0_0010_0010_pre_0,,¿Cómo va todo?
+$ev_psbl0_0010_0010_pre_0,ACTOR,Presidente Shinra
+$ev_psbl0_0010_0020_hyd_0,,Los Turcos están actuando.
+$ev_psbl0_0010_0020_hyd_0,ACTOR,Heidegger
+$ev_psbl0_0010_0020_hyd_1,,"Sí, todo marcha bien."
+$ev_psbl0_0010_0020_hyd_1,ACTOR,Heidegger
+$ev_psbl0_0010_0030_riv_0,,"Presidente, le ruego que reconsidere el plan... No, que lo cancele."
+$ev_psbl0_0010_0030_riv_0,ACTOR,Reeve
+$ev_psbl0_0010_0030_riv_1,,"En la barriada bajo el sector 7 hay, según las estimaciones, unas 50.000..."
+$ev_psbl0_0010_0030_riv_1,ACTOR,Reeve
+$ev_psbl0_0010_0040_pre_0,,Reeve.
+$ev_psbl0_0010_0040_pre_0,ACTOR,Presidente Shinra
+$ev_psbl0_0010_0050_riv_0,,"Al menos, permítanos dar un aviso de evacuación."
+$ev_psbl0_0010_0050_riv_0,ACTOR,Reeve
+$ev_psbl0_0010_0060_hyd_0,,Otra vez con tu cara de sensatez y tus ideas de crío.
+$ev_psbl0_0010_0060_hyd_0,ACTOR,Heidegger
+$ev_psbl0_0010_0065_riv_0,,
+$ev_psbl0_0010_0065_riv_0,ACTOR,
+$ev_psbl0_0010_0070_pre_0,,Reeve.
+$ev_psbl0_0010_0070_pre_0,ACTOR,Presidente Shinra
+$ev_psbl0_0010_0070_pre_1,,Asume las consecuencias.
+$ev_psbl0_0010_0070_pre_1,ACTOR,Presidente Shinra
+$ev_psbl0_0010_0070_pre_2,,También es aceite para el progreso.
+$ev_psbl0_0010_0070_pre_2,ACTOR,Presidente Shinra
+$ev_psbl0_0010_0080_riv_0,,
+$ev_psbl0_0010_0080_riv_0,ACTOR,
+$ev_psbl0_0020_0010_snn_0,,Este sitio también impresiona.
+$ev_psbl0_0020_0010_snn_0,ACTOR,Sonon
+$ev_psbl0_0020_0015_dem_0,,
+$ev_psbl0_0020_0015_dem_0,ACTOR,
+$ev_psbl0_0020_0020_yfi_0,,Vámonos rápido.<br>Tanta gente me marea.
+$ev_psbl0_0020_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0020_0023_dem_0,,
+$ev_psbl0_0020_0023_dem_0,ACTOR,
+$ev_psbl0_0020_0026_dem_0,,
+$ev_psbl0_0020_0026_dem_0,ACTOR,
+$ev_psbl0_0020_0030_dem_0,,¡Perdón! ¡Perdón!
+$ev_psbl0_0020_0030_dem_0,ACTOR,Periodista
+$ev_psbl0_0020_0032_yfi_0,,
+$ev_psbl0_0020_0032_yfi_0,ACTOR,
+$ev_psbl0_0020_0040_dem_0,,¿Vosotros sois de la Compañía Shinra?
+$ev_psbl0_0020_0040_dem_0,ACTOR,Periodista
+$ev_psbl0_0020_0050_dem_0,,Hay rumores de que el próximo objetivo es el sector 7...
+$ev_psbl0_0020_0050_dem_0,ACTOR,Periodista
+$ev_psbl0_0020_0055_yfi_0,,
+$ev_psbl0_0020_0055_yfi_0,ACTOR,
+$ev_psbl0_0020_0060_yfi_0,,¿Eh?
+$ev_psbl0_0020_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0020_0062_yfi_0,,
+$ev_psbl0_0020_0062_yfi_0,ACTOR,
+$ev_psbl0_0020_0063_cut0_0,,
+$ev_psbl0_0020_0063_cut0_0,ACTOR,
+$ev_psbl0_0020_0068_dem_0,,
+$ev_psbl0_0020_0068_dem_0,ACTOR,
+$ev_psbl0_0020_0070_dem_0,,¿Es el reactor de mako n.º 7?
+$ev_psbl0_0020_0070_dem_0,ACTOR,Periodista
+$ev_psbl0_0020_0072_yfi_0,,
+$ev_psbl0_0020_0072_yfi_0,ACTOR,
+$ev_psbl0_0020_0080_kb01_0,,¡Eh!
+$ev_psbl0_0020_0080_kb01_0,ACTOR,Centinela
+$ev_psbl0_0020_0080_kb01_1,,¡Hasta ahí!
+$ev_psbl0_0020_0080_kb01_1,ACTOR,Centinela
+$ev_psbl0_0020_0081_yfi_0,,
+$ev_psbl0_0020_0081_yfi_0,ACTOR,
+$ev_psbl0_0020_0082_dem_0,,
+$ev_psbl0_0020_0082_dem_0,ACTOR,
+$ev_psbl0_0020_0083_yfi_0,,
+$ev_psbl0_0020_0083_yfi_0,ACTOR,
+$ev_psbl0_0020_0084_snn_0,,
+$ev_psbl0_0020_0084_snn_0,ACTOR,
+$ev_psbl0_0020_0085_yfi_0,,
+$ev_psbl0_0020_0085_yfi_0,ACTOR,
+$ev_psbl0_0020_0086_dem_0,,
+$ev_psbl0_0020_0086_dem_0,ACTOR,
+$ev_psbl0_0020_0087_dem_0,,
+$ev_psbl0_0020_0087_dem_0,ACTOR,
+$ev_psbl0_0020_0088_dem_0,,
+$ev_psbl0_0020_0088_dem_0,ACTOR,
+$ev_psbl0_0020_0089_dem_0,,
+$ev_psbl0_0020_0089_dem_0,ACTOR,Periodista
+$ev_psbl0_0020_0090_snn_0,,Hay un ascensor. Vamos a probar.
+$ev_psbl0_0020_0090_snn_0,ACTOR,Sonon
+$ev_psbl0_0020_0092_snn_0,,
+$ev_psbl0_0020_0092_snn_0,ACTOR,
+$ev_psbl0_0020_0130_cut0_0,,
+$ev_psbl0_0020_0130_cut0_0,ACTOR,Empleada de Shinra
+$ev_psbl0_0020_0140_cut0_0,,
+$ev_psbl0_0020_0140_cut0_0,ACTOR,Empleado de Shinra
+$ev_psbl0_0020_0150_cut0_0,,
+$ev_psbl0_0020_0150_cut0_0,ACTOR,Empleada de Shinra
+$ev_psbl0_0020_0160_cut0_0,,
+$ev_psbl0_0020_0160_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0170_cut0_0,,
+$ev_psbl0_0020_0170_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0180_cut0_0,,
+$ev_psbl0_0020_0180_cut0_0,ACTOR,Empleado de Shinra
+$ev_psbl0_0020_0190_cut0_0,,
+$ev_psbl0_0020_0190_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0200_cut0_0,,
+$ev_psbl0_0020_0200_cut0_0,ACTOR,Empleado de Shinra
+$ev_psbl0_0020_0210_cut0_0,,
+$ev_psbl0_0020_0210_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0270_cut0_0,,
+$ev_psbl0_0020_0270_cut0_0,ACTOR,Centinela
+$ev_psbl0_0020_0280_cut0_0,,
+$ev_psbl0_0020_0280_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0290_cut0_0,,
+$ev_psbl0_0020_0290_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0300_cut0_0,,
+$ev_psbl0_0020_0300_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0310_cut0_0,,
+$ev_psbl0_0020_0310_cut0_0,ACTOR,Periodista
+$ev_psbl0_0020_0315_cut0_0,,
+$ev_psbl0_0020_0315_cut0_0,ACTOR,
+$ev_psbl0_0030_0000_yfi_0,,¡Es su turno!
+$ev_psbl0_0030_0000_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0030_0001_snn_0,,
+$ev_psbl0_0030_0001_snn_0,ACTOR,
+$ev_psbl0_0030_0001_snn_1,,
+$ev_psbl0_0030_0001_snn_1,ACTOR,
+$ev_psbl0_0030_0001_yfi_0,,
+$ev_psbl0_0030_0001_yfi_0,ACTOR,
+$ev_psbl0_0030_0002_snn_0,,
+$ev_psbl0_0030_0002_snn_0,ACTOR,
+$ev_psbl0_0030_0002_yfi_0,,"¡Rápido, rápido!"
+$ev_psbl0_0030_0002_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0030_0002_yfi_1,,
+$ev_psbl0_0030_0002_yfi_1,ACTOR,
+$ev_psbl0_0030_0003_yfi_0,,
+$ev_psbl0_0030_0003_yfi_0,ACTOR,
+$ev_psbl0_0030_0005_yfi_0,,
+$ev_psbl0_0030_0005_yfi_0,ACTOR,
+$ev_psbl0_0030_0007_yfi_0,,
+$ev_psbl0_0030_0007_yfi_0,ACTOR,
+$ev_psbl0_0030_0010_kb02_0,,Esperad.
+$ev_psbl0_0030_0010_kb02_0,ACTOR,Centinela
+$ev_psbl0_0030_0011_yfi_0,,
+$ev_psbl0_0030_0011_yfi_0,ACTOR,
+$ev_psbl0_0030_0012_kb02_0,,
+$ev_psbl0_0030_0012_kb02_0,ACTOR,
+$ev_psbl0_0030_0015_snn_0,,
+$ev_psbl0_0030_0015_snn_0,ACTOR,
+$ev_psbl0_0030_0017_yfi_0,,
+$ev_psbl0_0030_0017_yfi_0,ACTOR,
+$ev_psbl0_0030_0020_kb03_0,,¿Adónde vais?
+$ev_psbl0_0030_0020_kb03_0,ACTOR,Centinela
+$ev_psbl0_0030_0030_snn_0,,Al sótano... Desarrollo de armas.
+$ev_psbl0_0030_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0030_0040_ele_0,,Bajando.
+$ev_psbl0_0030_0040_ele_0,ACTOR,Voz digital
+$ev_psbl0_0030_0050_ele_0,,Las puertas se cierran.
+$ev_psbl0_0030_0050_ele_0,ACTOR,Voz digital
+$ev_psbl0_0030_0060_scr_0,,"Vaya, vaya. Menuda molestia."
+$ev_psbl0_0030_0060_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0062_scr_0,,
+$ev_psbl0_0030_0062_scr_0,ACTOR,
+$ev_psbl0_0030_0063_yfi_0,,
+$ev_psbl0_0030_0063_yfi_0,ACTOR,
+$ev_psbl0_0030_0064_yfi_0,,
+$ev_psbl0_0030_0064_yfi_0,ACTOR,
+$ev_psbl0_0030_0066_scr_0,,
+$ev_psbl0_0030_0066_scr_0,ACTOR,
+$ev_psbl0_0030_0067_scr_0,,
+$ev_psbl0_0030_0067_scr_0,ACTOR,
+$ev_psbl0_0030_0070_scr_0,,Wutai también es rastrero.
+$ev_psbl0_0030_0070_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0080_scr_0,,Aliarse con gente como Avalancha<br>y atacar a escondidas...
+$ev_psbl0_0030_0080_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0090_scr_0,,"Había oído que los de Wutai eran orgullosos,<br>pero parece que eso es cosa del pasado."
+$ev_psbl0_0030_0090_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0100_scr_0,,El Wutai de ahora<br>es como un insecto que parasita a Shinra.
+$ev_psbl0_0030_0100_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0105_yfi_0,,
+$ev_psbl0_0030_0105_yfi_0,ACTOR,
+$ev_psbl0_0030_0110_scr_0,,"Oye, ¿vosotros no lo creéis también?"
+$ev_psbl0_0030_0110_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0115_yfi_0,,
+$ev_psbl0_0030_0115_yfi_0,ACTOR,
+$ev_psbl0_0030_0120_yfi_0,,"Sí, claro..."
+$ev_psbl0_0030_0120_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0030_0120_yfi_1,,¡Totalmente!
+$ev_psbl0_0030_0120_yfi_1,ACTOR,Yuffie
+$ev_psbl0_0030_0125_yfi_0,,
+$ev_psbl0_0030_0125_yfi_0,ACTOR,
+$ev_psbl0_0030_0130_scr_0,,Qué buena sonrisa.
+$ev_psbl0_0030_0130_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0140_yfi_0,,
+$ev_psbl0_0030_0140_yfi_0,ACTOR,
+$ev_psbl0_0030_0142_snn_0,,
+$ev_psbl0_0030_0142_snn_0,ACTOR,
+$ev_psbl0_0030_0143_yfi_0,,
+$ev_psbl0_0030_0143_yfi_0,ACTOR,
+$ev_psbl0_0030_0144_snn_0,,
+$ev_psbl0_0030_0144_snn_0,ACTOR,
+$ev_psbl0_0030_0145_yfi_0,,¡Oye!
+$ev_psbl0_0030_0145_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0030_0146_snn_0,,
+$ev_psbl0_0030_0146_snn_0,ACTOR,
+$ev_psbl0_0030_0150_scr_0,,Lástima. Las ratas de Wutai van por allí.
+$ev_psbl0_0030_0150_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0153_yfi_0,,
+$ev_psbl0_0030_0153_yfi_0,ACTOR,
+$ev_psbl0_0030_0156_snn_0,,
+$ev_psbl0_0030_0156_snn_0,ACTOR,
+$ev_psbl0_0030_0160_scr_0,,Vosotros<br>seréis conejillos de indias para nuestras nuevas armas.
+$ev_psbl0_0030_0160_scr_0,ACTOR,Escarlata
+$ev_psbl0_0030_0162_yfi_0,,
+$ev_psbl0_0030_0162_yfi_0,ACTOR,
+$ev_psbl0_0030_0165_scr_0,,
+$ev_psbl0_0030_0165_scr_0,ACTOR,
+$ev_psbl0_0030_0167_yfi_0,,
+$ev_psbl0_0030_0167_yfi_0,ACTOR,
+$ev_psbl0_0030_0168_snn_0,,
+$ev_psbl0_0030_0168_snn_0,ACTOR,
+$ev_psbl0_0030_0170_snn_0,,¡Mierda!
+$ev_psbl0_0030_0170_snn_0,ACTOR,Sonon
+$ev_psbl0_0030_0175_snn_0,,
+$ev_psbl0_0030_0175_snn_0,ACTOR,
+$ev_psbl0_0030_0180_snn_0,,¡Y era una oportunidad perfecta!
+$ev_psbl0_0030_0180_snn_0,ACTOR,Sonon
+$ev_psbl0_0032_0202_snn_1,,
+$ev_psbl0_0032_0202_snn_1,ACTOR,
+$ev_psbl0_0032_0220_yfi_0,,Cálmate.
+$ev_psbl0_0032_0220_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0032_0230_yfi_0,,¿A qué hemos venido?
+$ev_psbl0_0032_0230_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0032_0240_snn_0,,"Jefa, lo siento."
+$ev_psbl0_0032_0240_snn_0,ACTOR,Sonon
+$ev_psbl0_0032_0250_yfi_0,,No pasa nada. A mí también me cabrea.
+$ev_psbl0_0032_0250_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0032_0260_yfi_0,,Tendríamos que haberla obligado<br>a llevarnos hasta la materia suprema.
+$ev_psbl0_0032_0260_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0032_0265_yfi_0,,
+$ev_psbl0_0032_0265_yfi_0,ACTOR,
+$ev_psbl0_0032_0270_snn_0,,¿Adónde nos habrá mandado?
+$ev_psbl0_0032_0270_snn_0,ACTOR,Sonon
+$ev_psbl0_0032_0273_yfi_0,,
+$ev_psbl0_0032_0273_yfi_0,ACTOR,
+$ev_psbl0_0032_0275_yfi_0,,
+$ev_psbl0_0032_0275_yfi_0,ACTOR,
+$ev_psbl0_0032_0280_yfi_0,,Pues vamos a averiguarlo.
+$ev_psbl0_0032_0280_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0032_0290_yfi_0,,"Es la planta de investigación de materias, ¿no?"
+$ev_psbl0_0032_0290_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0032_0300_yfi_0,,"Espérame, materita."
+$ev_psbl0_0032_0300_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0040_0010_cut0_0,,Señora Escarlata.
+$ev_psbl0_0040_0010_cut0_0,ACTOR,Centinela
+$ev_psbl0_0040_0020_cut0_0,,"Si seguimos así,<br>entrarán en la zona de desarrollo."
+$ev_psbl0_0040_0020_cut0_0,ACTOR,Centinela
+$ev_psbl0_0040_0030_scr_0,,Dejadlos sueltos un rato<br>y averiguad qué buscan.
+$ev_psbl0_0040_0030_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0040_cut0_0,,¿Eh...?
+$ev_psbl0_0040_0040_cut0_0,ACTOR,
+$ev_psbl0_0040_0050_scr_0,,¿Habéis visto lo de antes?
+$ev_psbl0_0040_0050_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0060_scr_0,,"Han venido hasta aquí tan campantes.<br>Para ser unos idiotas, no tenían ningún punto débil en sus movimientos."
+$ev_psbl0_0040_0060_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0070_scr_0,,Son shinobis de Wutai.
+$ev_psbl0_0040_0070_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0080_scr_0,,Aunque todavía sean unos críos.
+$ev_psbl0_0040_0080_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0085_scr_0,,
+$ev_psbl0_0040_0085_scr_0,ACTOR,
+$ev_psbl0_0040_0090_scr_0,,"No pinta nada mal, ¿eh?<br>Atendámoslos como se merecen."
+$ev_psbl0_0040_0090_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0100_scr_0,,Yo voy a comprobar<br>el estado de mantenimiento del «caballito».
+$ev_psbl0_0040_0100_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0110_scr_0,,"Informadme luego, ¿vale?"
+$ev_psbl0_0040_0110_scr_0,ACTOR,Escarlata
+$ev_psbl0_0040_0120_cut0_0,,
+$ev_psbl0_0040_0120_cut0_0,ACTOR,Centinela
+$ev_psbl0_0040_0130_cut0_0,,Desconectad el sistema principal de la zona de desarrollo.
+$ev_psbl0_0040_0130_cut0_0,ACTOR,Centinela
+$ev_psbl0_0040_0140_cut0_0,,Restringid el acceso a la información confidencial<br>y averiguad su objetivo siguiendo su ruta de regreso.
+$ev_psbl0_0040_0140_cut0_0,ACTOR,Centinela
+$ev_psbl0_0040_0150_cut0_0,,"Todos, reanudad la vigilancia de los intrusos."
+$ev_psbl0_0040_0150_cut0_0,ACTOR,Centinela
+$ev_psbl0_0040_0160_ev1_0,,
+$ev_psbl0_0040_0160_ev1_0,ACTOR,Centinelas
+$ev_psbl0_0210_0010_yfi_0,,¿Por cuál?
+$ev_psbl0_0210_0010_yfi_0,ACTOR,
+$ev_psbl0_0210_0015_yfi_0,,
+$ev_psbl0_0210_0015_yfi_0,ACTOR,
+$ev_psbl0_0210_0020_yfi_0,,"Vaya, nos hemos perdido."
+$ev_psbl0_0210_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0210_0030_snn_0,,"Jefa, calmémonos."
+$ev_psbl0_0210_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0210_0040_snn_0,,"Ah, sí. Habichuelas.<br>¿Tienes habichuelas Da-chao?"
+$ev_psbl0_0210_0040_snn_0,ACTOR,Sonon
+$ev_psbl0_0210_0050_yfi_0,,"Sí, ¿por qué?"
+$ev_psbl0_0210_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0210_0053_yfi_0,,
+$ev_psbl0_0210_0053_yfi_0,ACTOR,
+$ev_psbl0_0210_0056_snn_0,,
+$ev_psbl0_0210_0056_snn_0,ACTOR,
+$ev_psbl0_0210_0060_yfi_0,,¡Las muerdes!
+$ev_psbl0_0210_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0210_0070_snn_0,,Pues claro.
+$ev_psbl0_0210_0070_snn_0,ACTOR,Sonon
+$ev_psbl0_0210_0075_yfi_0,,
+$ev_psbl0_0210_0075_yfi_0,ACTOR,
+$ev_psbl0_0210_0080_yfi_0,,"Me alegro de que estés aquí, Sonon."
+$ev_psbl0_0210_0080_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0210_0090_snn_0,,Lo sé.
+$ev_psbl0_0210_0090_snn_0,ACTOR,Sonon
+$ev_psbl0_0210_0100_yfi_0,,Somos paisanos.
+$ev_psbl0_0210_0100_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0210_0110_snn_0,,Sí. Es reconfortante.
+$ev_psbl0_0210_0110_snn_0,ACTOR,Sonon
+$ev_psbl0_0210_0113_snn_0,,
+$ev_psbl0_0210_0113_snn_0,ACTOR,
+$ev_psbl0_0210_0116_yfi_0,,
+$ev_psbl0_0210_0116_yfi_0,ACTOR,
+$ev_psbl0_0210_0117_yfi_0,,¡Ah!
+$ev_psbl0_0210_0117_yfi_0,ACTOR,
+$ev_psbl0_0210_0118_yfi_0,,Eso puede servir.
+$ev_psbl0_0210_0118_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0210_0120_snn_0,,"Bien, vamos."
+$ev_psbl0_0210_0120_snn_0,ACTOR,Sonon
+$ev_psbl0_0215_0002_yfi_0,,
+$ev_psbl0_0215_0002_yfi_0,ACTOR,
+$ev_psbl0_0215_0003_yfi_0,,
+$ev_psbl0_0215_0003_yfi_0,ACTOR,
+$ev_psbl0_0215_0004_yfi_0,,
+$ev_psbl0_0215_0004_yfi_0,ACTOR,
+$ev_psbl0_0215_0005_yfi_0,,
+$ev_psbl0_0215_0005_yfi_0,ACTOR,
+$ev_psbl0_0215_0006_yfi_0,,
+$ev_psbl0_0215_0006_yfi_0,ACTOR,
+$ev_psbl0_0215_0010_yfi_0,,¡Sonon!
+$ev_psbl0_0215_0010_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0215_0020_yfi_0,,"Mira, ahí."
+$ev_psbl0_0215_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0215_0025_yfi_0,,
+$ev_psbl0_0215_0025_yfi_0,ACTOR,
+$ev_psbl0_0215_0030_snn_0,,Es más grande que el aparato de abajo.
+$ev_psbl0_0215_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0215_0040_yfi_0,,¡Entonces esta es la materia suprema!
+$ev_psbl0_0215_0040_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0215_0043_yfi_0,,
+$ev_psbl0_0215_0043_yfi_0,ACTOR,
+$ev_psbl0_0215_0046_yfi_0,,
+$ev_psbl0_0215_0046_yfi_0,ACTOR,
+$ev_psbl0_0215_0050_yfi_0,,"¡Ay, ya no se ve!"
+$ev_psbl0_0215_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0215_0060_yfi_0,,"¡Electricidad, electricidad, electricidad!"
+$ev_psbl0_0215_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0220_0005_yfi_0,,
+$ev_psbl0_0220_0005_yfi_0,ACTOR,
+$ev_psbl0_0220_0010_scr_0,,¿Qué? ¿Ya sabéis qué buscan?
+$ev_psbl0_0220_0010_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0020_cut0_0,,"Como no hay coherencia en sus acciones,<br>no podemos asegurarlo."
+$ev_psbl0_0220_0020_cut0_0,ACTOR,Centinela
+$ev_psbl0_0220_0030_cut0_0,,Pero parece que buscan materias.
+$ev_psbl0_0220_0030_cut0_0,ACTOR,Centinela
+$ev_psbl0_0220_0040_scr_0,,¿Materias?
+$ev_psbl0_0220_0040_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0050_scr_0,,¿Decís que han venido<br>hasta el centro del territorio enemigo por eso?
+$ev_psbl0_0220_0050_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0060_cut0_0,,"Por ahora, no hay otra explicación."
+$ev_psbl0_0220_0060_cut0_0,ACTOR,Centinela
+$ev_psbl0_0220_0070_scr_0,,Qué respuesta tan aburrida.
+$ev_psbl0_0220_0070_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0080_scr_0,,"Bueno, da igual.<br>Conectadme con ellos."
+$ev_psbl0_0220_0080_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0090_cut0_0,,
+$ev_psbl0_0220_0090_cut0_0,ACTOR,Centinelas
+$ev_psbl0_0220_0100_scr_0,,¿Cómo os va?
+$ev_psbl0_0220_0100_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0110_yfi_0,,
+$ev_psbl0_0220_0110_yfi_0,ACTOR,
+$ev_psbl0_0220_0112_snn_0,,
+$ev_psbl0_0220_0112_snn_0,ACTOR,
+$ev_psbl0_0220_0120_scr_0,,Me honra que os sorprenda algo tan simple.
+$ev_psbl0_0220_0120_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0121_snn_0,,
+$ev_psbl0_0220_0121_snn_0,ACTOR,
+$ev_psbl0_0220_0123_yfi_0,,
+$ev_psbl0_0220_0123_yfi_0,ACTOR,
+$ev_psbl0_0220_0124_yfi_0,,
+$ev_psbl0_0220_0124_yfi_0,ACTOR,
+$ev_psbl0_0220_0130_scr_0,,"Oye, ya que habéis llegado hasta aquí,<br>un poco más..."
+$ev_psbl0_0220_0130_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0130_scr_1,,¿No os apetece jugar conmigo?
+$ev_psbl0_0220_0130_scr_1,ACTOR,Escarlata
+$ev_psbl0_0220_0133_yfi_0,,
+$ev_psbl0_0220_0133_yfi_0,ACTOR,
+$ev_psbl0_0220_0140_scr_0,,Os enseñaré algo<br>mucho más divertido que un holograma.
+$ev_psbl0_0220_0140_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0150_snn_0,,¿Qué pretendes?
+$ev_psbl0_0220_0150_snn_0,ACTOR,Sonon
+$ev_psbl0_0220_0160_scr_0,,"Vaya, no pongáis esa cara de miedo."
+$ev_psbl0_0220_0160_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0162_snn_0,,
+$ev_psbl0_0220_0162_snn_0,ACTOR,
+$ev_psbl0_0220_0170_scr_0,,Eso sí: puede que lo que buscáis<br>esté más adelante.
+$ev_psbl0_0220_0170_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0172_yfi_0,,
+$ev_psbl0_0220_0172_yfi_0,ACTOR,
+$ev_psbl0_0220_0175_yfi_0,,
+$ev_psbl0_0220_0175_yfi_0,ACTOR,
+$ev_psbl0_0220_0177_snn_0,,
+$ev_psbl0_0220_0177_snn_0,ACTOR,
+$ev_psbl0_0220_0180_scr_0,,Entonces os espero.
+$ev_psbl0_0220_0180_scr_0,ACTOR,Escarlata
+$ev_psbl0_0220_0190_snn_0,,"Jefa, ¿qué hacemos?"
+$ev_psbl0_0220_0190_snn_0,ACTOR,Sonon
+$ev_psbl0_0220_0200_yfi_0,,"Es una trampa, lo sé."
+$ev_psbl0_0220_0200_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0220_0210_yfi_0,,"Pero no nos queda otra, ¿no?"
+$ev_psbl0_0220_0210_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0220_0220_snn_0,,Me alegra que opinemos lo mismo.
+$ev_psbl0_0220_0220_snn_0,ACTOR,Sonon
+$ev_psbl0_0310_0010_yfi_0,,¿Aquí?
+$ev_psbl0_0310_0010_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0020_yfi_0,,"Eso parece inacabado, ¿no?"
+$ev_psbl0_0310_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0030_snn_0,,Eso quiero creer.
+$ev_psbl0_0310_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0310_0040_scr_1,,"Buen trabajo, shinobis de Wutai."
+$ev_psbl0_0310_0040_scr_1,ACTOR,Escarlata
+$ev_psbl0_0310_0042_yfi_0,,
+$ev_psbl0_0310_0042_yfi_0,ACTOR,
+$ev_psbl0_0310_0044_snn_0,,
+$ev_psbl0_0310_0044_snn_0,ACTOR,
+$ev_psbl0_0310_0050_scr_0,,No lo habéis hecho nada mal.
+$ev_psbl0_0310_0050_scr_0,ACTOR,Escarlata
+$ev_psbl0_0310_0060_yfi_0,,"¿Qué pasa, te las das de tranquila?<br>¡En realidad estás acojonada!"
+$ev_psbl0_0310_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0070_scr_0,,¿Tú crees? Puede que sí.
+$ev_psbl0_0310_0070_scr_0,ACTOR,Escarlata
+$ev_psbl0_0310_0080_yfi_0,,En Wutai<br>hay un montón como nosotras.
+$ev_psbl0_0310_0080_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0090_yfi_0,,Imagínatelo:<br>vendrán muchos descendientes de shinobis.
+$ev_psbl0_0310_0090_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0095_yfi_0,,"¡Shu, shu, shu!"
+$ev_psbl0_0310_0095_yfi_0,ACTOR,
+$ev_psbl0_0310_0100_scr_0,,Eso es grave.<br>Tendremos que tomar medidas.
+$ev_psbl0_0310_0100_scr_0,ACTOR,Escarlata
+$ev_psbl0_0310_0110_yfi_0,,¡Inútil!
+$ev_psbl0_0310_0110_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0120_scr_0,,No seáis tacaños.<br>Dadme una oportunidad.
+$ev_psbl0_0310_0120_scr_0,ACTOR,Escarlata
+$ev_psbl0_0310_0130_yfi_0,,
+$ev_psbl0_0310_0130_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0310_0140_scr_0,,Esto es<br>una armadura de combate de última generación llena de ideas mías.
+$ev_psbl0_0310_0140_scr_0,ACTOR,Escarlata
+$ev_psbl0_0310_0150_scr_0,,Acompañadme en la prueba.
+$ev_psbl0_0310_0150_scr_0,ACTOR,Escarlata
+$ev_psbl0_0310_0152_yfi_0,,
+$ev_psbl0_0310_0152_yfi_0,ACTOR,
+$ev_psbl0_0310_0154_snn_0,,
+$ev_psbl0_0310_0154_snn_0,ACTOR,
+$ev_psbl0_0310_0170_scr_0,,Que sea un buen recuerdo.<br>Aunque no creo que podáis contárselo a nadie.
+$ev_psbl0_0310_0170_scr_0,ACTOR,Escarlata
+$ev_psbl0_0320_0010_scr_0,,
+$ev_psbl0_0320_0010_scr_0,ACTOR,
+$ev_psbl0_0320_0020_yfi_0,,"¡Ah, se ha escapado!"
+$ev_psbl0_0320_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0320_0030_scr_0,,¿Quién ha dicho que me escapo?
+$ev_psbl0_0320_0030_scr_0,ACTOR,Escarlata
+$ev_psbl0_0320_0040_scr_0,,"Venga, llorad bien fuerte."
+$ev_psbl0_0320_0040_scr_0,ACTOR,Escarlata
+$ev_psbl0_0320_0050_yfi_0,,
+$ev_psbl0_0320_0050_yfi_0,ACTOR,
+$ev_psbl0_0320_0060_snn_0,,
+$ev_psbl0_0320_0060_snn_0,ACTOR,
+$ev_psbl0_0320_0065_snn_0,,
+$ev_psbl0_0320_0065_snn_0,ACTOR,
+$ev_psbl0_0320_0070_yfi_0,,
+$ev_psbl0_0320_0070_yfi_0,ACTOR,
+$ev_psbl0_0410_0005_scr_0,,
+$ev_psbl0_0410_0005_scr_0,ACTOR,
+$ev_psbl0_0410_0010_scr_0,,¡Maldita sea!
+$ev_psbl0_0410_0010_scr_0,ACTOR,Escarlata
+$ev_psbl0_0410_0015_scr_0,,
+$ev_psbl0_0410_0015_scr_0,ACTOR,
+$ev_psbl0_0410_0020_scr_0,,La movilidad no es del todo buena.
+$ev_psbl0_0410_0020_scr_0,ACTOR,Escarlata
+$ev_psbl0_0410_0030_scr_0,,Revisad los actuadores de las articulaciones<br>y además...
+$ev_psbl0_0410_0030_scr_0,ACTOR,Escarlata
+$ev_psbl0_0410_0040_yfi_0,,"¡Hola, hola!"
+$ev_psbl0_0410_0040_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0410_0045_scr_0,,
+$ev_psbl0_0410_0045_scr_0,ACTOR,
+$ev_psbl0_0410_0048_yfi_0,,
+$ev_psbl0_0410_0048_yfi_0,ACTOR,
+$ev_psbl0_0410_0050_yfi_0,,"Bueno, ¿y ahora qué hago?"
+$ev_psbl0_0410_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0410_0055_yfi_0,,
+$ev_psbl0_0410_0055_yfi_0,ACTOR,
+$ev_psbl0_0410_0058_scr_0,,
+$ev_psbl0_0410_0058_scr_0,ACTOR,
+$ev_psbl0_0410_0060_scr_0,,Qué cara de paleta.
+$ev_psbl0_0410_0060_scr_0,ACTOR,Escarlata
+$ev_psbl0_0410_0062_yfi_0,,
+$ev_psbl0_0410_0062_yfi_0,ACTOR,
+$ev_psbl0_0410_0067_scr_0,,
+$ev_psbl0_0410_0067_scr_0,ACTOR,
+$ev_psbl0_0410_0070_snn_0,,¡¿Qué haces?!
+$ev_psbl0_0410_0070_snn_0,ACTOR,Sonon
+$ev_psbl0_0410_0080_yfi_0,,
+$ev_psbl0_0410_0080_yfi_0,ACTOR,
+$ev_psbl0_0420_0010_wis_0,,¿Ya has despertado?
+$ev_psbl0_0420_0010_wis_0,ACTOR,Weiss
+$ev_psbl0_0420_0020_ner_0,,"Hermano, ¿qué haces aquí?"
+$ev_psbl0_0420_0020_ner_0,ACTOR,Nero
+$ev_psbl0_0420_0030_wis_0,,Quieren obtener datos<br>y recrearme en un espacio virtual.
+$ev_psbl0_0420_0030_wis_0,ACTOR,Weiss
+$ev_psbl0_0420_0033_cut1_0,,Preparativos listos.
+$ev_psbl0_0420_0033_cut1_0,ACTOR,Científico
+$ev_psbl0_0420_0036_cut2_0,,Iniciando transferencia.
+$ev_psbl0_0420_0036_cut2_0,ACTOR,Científico
+$ev_psbl0_0420_0040_ner_0,,Shinra sigue siendo igual de estúpida.
+$ev_psbl0_0420_0040_ner_0,ACTOR,Nero
+$ev_psbl0_0420_0050_ner_0,,Recrear a mi hermano es imposible.
+$ev_psbl0_0420_0050_ner_0,ACTOR,Nero
+$ev_psbl0_0420_0058_wis_0,,
+$ev_psbl0_0420_0058_wis_0,ACTOR,
+$ev_psbl0_0420_0060_wis_0,,¿Y tú? ¿Te diviertes?
+$ev_psbl0_0420_0060_wis_0,ACTOR,Weiss
+$ev_psbl0_0420_0070_ner_0,,Sí. Por fin me dejan cazar después de tanto tiempo.
+$ev_psbl0_0420_0070_ner_0,ACTOR,Nero
+$ev_psbl0_0430_0005_scr_0,,
+$ev_psbl0_0430_0005_scr_0,ACTOR,
+$ev_psbl0_0430_0010_snn_0,,¡Habla! ¿Qué has hecho?
+$ev_psbl0_0430_0010_snn_0,ACTOR,Sonon
+$ev_psbl0_0430_0015_scr_0,,
+$ev_psbl0_0430_0015_scr_0,ACTOR,
+$ev_psbl0_0430_0020_scr_0,,No hacéis más que gritar.<br>¿Es así como se hace en Wutai?
+$ev_psbl0_0430_0020_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0030_snn_0,,
+$ev_psbl0_0430_0030_snn_0,ACTOR,
+$ev_psbl0_0430_0040_yfi_0,,"Sonon, ya basta."
+$ev_psbl0_0430_0040_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0050_yfi_0,,"Más importante, señora..."
+$ev_psbl0_0430_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0060_yfi_0,,¿Dónde está la materia suprema?
+$ev_psbl0_0430_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0070_yfi_0,,"Lo sabemos. Habéis fabricado<br>una materia súper potente a la fuerza, ¿no?"
+$ev_psbl0_0430_0070_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0080_scr_0,,Vaya...<br>Tenéis una red de información bastante buena.
+$ev_psbl0_0430_0080_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0090_scr_0,,¿O es que tenéis un topo?
+$ev_psbl0_0430_0090_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0095_snn_0,,
+$ev_psbl0_0430_0095_snn_0,ACTOR,
+$ev_psbl0_0430_0100_yfi_0,,¿Qué?
+$ev_psbl0_0430_0100_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0110_snn_0,,Voy a echar un vistazo.
+$ev_psbl0_0430_0110_snn_0,ACTOR,Sonon
+$ev_psbl0_0430_0120_yfi_0,,Vuelve enseguida.
+$ev_psbl0_0430_0120_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0130_scr_0,,Es cierto que hemos preparado<br>una materia magnífica.
+$ev_psbl0_0430_0130_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0140_scr_0,,Pero aún no está terminada.
+$ev_psbl0_0430_0140_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0150_yfi_0,,Mentira. No me lo creo.
+$ev_psbl0_0430_0150_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0160_scr_0,,Es verdad.
+$ev_psbl0_0430_0160_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0170_scr_0,,Nos ocupamos en otros asuntos<br>y aplazamos el experimento.
+$ev_psbl0_0430_0170_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0180_yfi_0,,¿Otros asuntos?
+$ev_psbl0_0430_0180_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0190_scr_0,,"Je, je. Te lo cuento en confianza..."
+$ev_psbl0_0430_0190_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0200_scr_0,,Vamos a tirar la plataforma del sector 7.
+$ev_psbl0_0430_0200_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0210_scr_0,,Y haremos que parezca cosa de Wutai y Avalancha.
+$ev_psbl0_0430_0210_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0220_yfi_0,,¿Cómo?
+$ev_psbl0_0430_0220_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0230_yfi_0,,¿Tirar la plataforma?
+$ev_psbl0_0430_0230_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0240_yfi_0,,¿Qué?
+$ev_psbl0_0430_0240_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0430_0250_scr_0,,"Vaya, parece que tu amigo está luchando."
+$ev_psbl0_0430_0250_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0260_scr_0,,¿No vas a ayudarlo?
+$ev_psbl0_0430_0260_scr_0,ACTOR,Escarlata
+$ev_psbl0_0430_0270_yfi_0,,
+$ev_psbl0_0430_0270_yfi_0,ACTOR,
+$ev_psbl0_0430_0275_yfi_0,,
+$ev_psbl0_0430_0275_yfi_0,ACTOR,
+$ev_psbl0_0430_0280_scr_0,,"¡Date prisa! ¡Ja, ja, ja!"
+$ev_psbl0_0430_0280_scr_0,ACTOR,Escarlata
+$ev_psbl0_0510_0005_yfi_0,,
+$ev_psbl0_0510_0005_yfi_0,ACTOR,
+$ev_psbl0_0510_0010_snn_0,,¡Jefa!
+$ev_psbl0_0510_0010_snn_0,ACTOR,Sonon
+$ev_psbl0_0510_0012_yfi_0,,
+$ev_psbl0_0510_0012_yfi_0,ACTOR,
+$ev_psbl0_0510_0020_yfi_0,,¿Y estos quiénes son?
+$ev_psbl0_0510_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0030_snn_0,,No lo sé. Han aparecido de repente.
+$ev_psbl0_0510_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0510_0032_cut0_0,,Objetivo confirmado.
+$ev_psbl0_0510_0032_cut0_0,ACTOR,Soldado de Deepground
+$ev_psbl0_0510_0035_yfi_0,,
+$ev_psbl0_0510_0035_yfi_0,ACTOR,
+$ev_psbl0_0510_0037_snn_0,,
+$ev_psbl0_0510_0037_snn_0,ACTOR,
+$ev_psbl0_0510_0040_yfi_0,,"Sonon, tengo malas noticias."
+$ev_psbl0_0510_0040_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0050_snn_0,,Te escucho.
+$ev_psbl0_0510_0050_snn_0,ACTOR,Sonon
+$ev_psbl0_0510_0060_yfi_0,,La materia suprema todavía no está hecha.<br>La están investigando...
+$ev_psbl0_0510_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0065_cut0_0,,¡Rodeadlos!
+$ev_psbl0_0510_0065_cut0_0,ACTOR,Soldado de Deepground
+$ev_psbl0_0510_0070_snn_0,,
+$ev_psbl0_0510_0070_snn_0,ACTOR,
+$ev_psbl0_0510_0080_yfi_0,,Y hay otra mala noticia.
+$ev_psbl0_0510_0080_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0090_yfi_0,,Van a tirar la plataforma del sector 7.
+$ev_psbl0_0510_0090_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0092_yfi_0,,
+$ev_psbl0_0510_0092_yfi_0,ACTOR,
+$ev_psbl0_0510_0094_snn_0,,
+$ev_psbl0_0510_0094_snn_0,ACTOR,
+$ev_psbl0_0510_0096_snn_0,,
+$ev_psbl0_0510_0096_snn_0,ACTOR,
+$ev_psbl0_0510_0100_snn_0,,¿Van a tirar la plataforma del sector 7?
+$ev_psbl0_0510_0100_snn_0,ACTOR,Sonon
+$ev_psbl0_0510_0110_yfi_0,,Sí. La plataforma del sector 7.
+$ev_psbl0_0510_0110_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0120_snn_0,,"La plataforma del sector 7... eso es la barriada del sector 7, ¿no?"
+$ev_psbl0_0510_0120_snn_0,ACTOR,Sonon
+$ev_psbl0_0510_0130_yfi_0,,¡No!
+$ev_psbl0_0510_0130_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0140_yfi_0,,¡Lo que dijo Zhijie era verdad!
+$ev_psbl0_0510_0140_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0510_0150_snn_0,,¿Qué hacemos?
+$ev_psbl0_0510_0150_snn_0,ACTOR,Sonon
+$ev_psbl0_0510_0160_yfi_0,,
+$ev_psbl0_0510_0160_yfi_0,ACTOR,
+$ev_psbl0_0510_0161_yfi_0,,
+$ev_psbl0_0510_0161_yfi_0,ACTOR,
+$ev_psbl0_0510_0162_yfi_0,,
+$ev_psbl0_0510_0162_yfi_0,ACTOR,
+$ev_psbl0_0510_0163_yfi_0,,
+$ev_psbl0_0510_0163_yfi_0,ACTOR,
+$ev_psbl0_0510_0164_yfi_0,,
+$ev_psbl0_0510_0164_yfi_0,ACTOR,
+$ev_psbl0_0510_0165_yfi_0,,
+$ev_psbl0_0510_0165_yfi_0,ACTOR,
+$ev_psbl0_0510_0166_yfi_0,,
+$ev_psbl0_0510_0166_yfi_0,ACTOR,
+$ev_psbl0_0510_0167_yfi_0,,
+$ev_psbl0_0510_0167_yfi_0,ACTOR,
+$ev_psbl0_0510_0168_yfi_0,,
+$ev_psbl0_0510_0168_yfi_0,ACTOR,
+$ev_psbl0_0510_0170_snn_0,,
+$ev_psbl0_0510_0170_snn_0,ACTOR,
+$ev_psbl0_0510_0171_snn_0,,
+$ev_psbl0_0510_0171_snn_0,ACTOR,
+$ev_psbl0_0510_0172_snn_0,,
+$ev_psbl0_0510_0172_snn_0,ACTOR,
+$ev_psbl0_0510_0173_snn_0,,
+$ev_psbl0_0510_0173_snn_0,ACTOR,
+$ev_psbl0_0510_0174_snn_0,,
+$ev_psbl0_0510_0174_snn_0,ACTOR,
+$ev_psbl0_0510_0175_snn_0,,
+$ev_psbl0_0510_0175_snn_0,ACTOR,
+$ev_psbl0_0510_0176_snn_0,,
+$ev_psbl0_0510_0176_snn_0,ACTOR,
+$ev_psbl0_0510_0177_snn_0,,
+$ev_psbl0_0510_0177_snn_0,ACTOR,
+$ev_psbl0_0610_0001_yfi_0,,
+$ev_psbl0_0610_0001_yfi_0,ACTOR,
+$ev_psbl0_0610_0002_snn_0,,
+$ev_psbl0_0610_0002_snn_0,ACTOR,
+$ev_psbl0_0610_0003_cut0_0,,¡Presa avistada! ¡Cazadlos!
+$ev_psbl0_0610_0003_cut0_0,ACTOR,Soldado de Deepground
+$ev_psbl0_0610_0005_cut0_0,,¡No hay escapatoria! ¡Rodeadlos!
+$ev_psbl0_0610_0005_cut0_0,ACTOR,Soldado de Deepground
+$ev_psbl0_0610_0006_snn_0,,
+$ev_psbl0_0610_0006_snn_0,ACTOR,
+$ev_psbl0_0610_0007_yfi_0,,
+$ev_psbl0_0610_0007_yfi_0,ACTOR,
+$ev_psbl0_0610_0008_yfi_0,,
+$ev_psbl0_0610_0008_yfi_0,ACTOR,
+$ev_psbl0_0610_0009_snn_0,,
+$ev_psbl0_0610_0009_snn_0,ACTOR,
+$ev_psbl0_0610_0010_yfi_0,,¡No pienso perder!
+$ev_psbl0_0610_0010_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0610_0020_snn_0,,"¡Así se habla, jefa!"
+$ev_psbl0_0610_0020_snn_0,ACTOR,Sonon
+$ev_psbl0_0610_0025_yfi_0,,
+$ev_psbl0_0610_0025_yfi_0,ACTOR,
+$ev_psbl0_0610_0030_yfi_0,,¡Quiero ir a la Casa de las Tortugas!
+$ev_psbl0_0610_0030_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0610_0032_snn_0,,
+$ev_psbl0_0610_0032_snn_0,ACTOR,
+$ev_psbl0_0610_0033_cut0_0,,No os confiéis.
+$ev_psbl0_0610_0033_cut0_0,ACTOR,Soldado de Deepground
+$ev_psbl0_0610_0034_cut0_0,,Os vamos a liquidar.
+$ev_psbl0_0610_0034_cut0_0,ACTOR,Soldado de Deepground
+$ev_psbl0_0610_0035_yfi_0,,
+$ev_psbl0_0610_0035_yfi_0,ACTOR,
+$ev_psbl0_0610_0040_snn_0,,¡Yuffie!
+$ev_psbl0_0610_0040_snn_0,ACTOR,Sonon
+$ev_psbl0_0610_0042_yfi_0,,
+$ev_psbl0_0610_0042_yfi_0,ACTOR,
+$ev_psbl0_0610_0045_snn_0,,
+$ev_psbl0_0610_0045_snn_0,ACTOR,
+$ev_psbl0_0610_0047_yfi_0,,
+$ev_psbl0_0610_0047_yfi_0,ACTOR,
+$ev_psbl0_0610_0048_yfi_0,,
+$ev_psbl0_0610_0048_yfi_0,ACTOR,
+$ev_psbl0_0610_0050_yfi_0,,¿Estamos a salvo?
+$ev_psbl0_0610_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0610_0060_snn_0,,"Jefa, me temo que no."
+$ev_psbl0_0610_0060_snn_0,ACTOR,Sonon
+$ev_psbl0_0610_0070_yfi_0,,
+$ev_psbl0_0610_0070_yfi_0,ACTOR,
+$ev_psbl0_0620_0001_yfi_0,,
+$ev_psbl0_0620_0001_yfi_0,ACTOR,
+$ev_psbl0_0620_0002_yfi_0,,Eh... ¿Eh?
+$ev_psbl0_0620_0002_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0620_0005_yfi_0,,No. No se abre.
+$ev_psbl0_0620_0005_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0620_0008_snn_0,,¿Nos han encerrado?
+$ev_psbl0_0620_0008_snn_0,ACTOR,Sonon
+$ev_psbl0_0620_0010_scr_0,,Sufrid todo lo que podáis.
+$ev_psbl0_0620_0010_scr_0,ACTOR,Escarlata
+$ev_psbl0_0620_0015_scr_0,,
+$ev_psbl0_0620_0015_scr_0,ACTOR,
+$ev_psbl0_0620_0020_scr_0,,"Y ahora, haced lo que queráis."
+$ev_psbl0_0620_0020_scr_0,ACTOR,Escarlata
+$ev_psbl0_0620_0030_ner_0,,
+$ev_psbl0_0620_0030_ner_0,ACTOR,
+$ev_psbl0_0620_0050_ner_0,,
+$ev_psbl0_0620_0050_ner_0,ACTOR,
+$ev_psbl0_0630_0003_yfi_0,,
+$ev_psbl0_0630_0003_yfi_0,ACTOR,
+$ev_psbl0_0630_0006_snn_0,,
+$ev_psbl0_0630_0006_snn_0,ACTOR,
+$ev_psbl0_0630_0010_vrs_0,,La sensibilidad al dolor<br>se ha ajustado al máximo.
+$ev_psbl0_0630_0010_vrs_0,ACTOR,Voz digital
+$ev_psbl0_0630_0020_yfi_0,,¿Qué significa eso?
+$ev_psbl0_0630_0020_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0630_0030_snn_0,,Que la sensibilidad al dolor está al máximo.
+$ev_psbl0_0630_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0630_0040_snn_0,,"O sea, que va a doler muchísimo."
+$ev_psbl0_0630_0040_snn_0,ACTOR,Sonon
+$ev_psbl0_0630_0050_yfi_0,,¿En serio?
+$ev_psbl0_0630_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0630_0060_yfi_0,,
+$ev_psbl0_0630_0060_yfi_0,ACTOR,
+$ev_psbl0_0630_0070_snn_0,,
+$ev_psbl0_0630_0070_snn_0,ACTOR,
+$ev_psbl0_0630_0080_yfi_0,,
+$ev_psbl0_0630_0080_yfi_0,ACTOR,
+$ev_psbl0_0630_0090_snn_0,,
+$ev_psbl0_0630_0090_snn_0,ACTOR,
+$ev_psbl0_0810_0001_yfi_0,,
+$ev_psbl0_0810_0001_yfi_0,ACTOR,
+$ev_psbl0_0810_0002_snn_0,,
+$ev_psbl0_0810_0002_snn_0,ACTOR,
+$ev_psbl0_0810_0003_yfi_0,,
+$ev_psbl0_0810_0003_yfi_0,ACTOR,
+$ev_psbl0_0810_0005_cut1_0,,Confirmada la intrusión de los sujetos.
+$ev_psbl0_0810_0005_cut1_0,ACTOR,Científico
+$ev_psbl0_0810_0006_cut1_0,,Iniciamos la prueba de combate<br>del Tsviet.
+$ev_psbl0_0810_0006_cut1_0,ACTOR,Científico
+$ev_psbl0_0810_0007_cut2_0,,
+$ev_psbl0_0810_0007_cut2_0,ACTOR,
+$ev_psbl0_0810_0009_yfi_0,,
+$ev_psbl0_0810_0009_yfi_0,ACTOR,
+$ev_psbl0_0810_0010_yfi_0,,¿Qué pasa? ¿Se han peleado entre ellos?
+$ev_psbl0_0810_0010_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0810_0020_ner_0,,¿Compañeros?
+$ev_psbl0_0810_0020_ner_0,ACTOR,Nero
+$ev_psbl0_0810_0040_ner_0,,En Deepground no existe eso.
+$ev_psbl0_0810_0040_ner_0,ACTOR,Nero
+$ev_psbl0_0810_0050_yfi_0,,¿Deep... qué?
+$ev_psbl0_0810_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0810_0060_ner_0,,El patio de juegos de mi hermano y mío.
+$ev_psbl0_0810_0060_ner_0,ACTOR,Nero
+$ev_psbl0_0810_0070_yfi_0,,¿Nos dejas pasar?
+$ev_psbl0_0810_0070_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0810_0071_ner_0,,
+$ev_psbl0_0810_0071_ner_0,ACTOR,
+$ev_psbl0_0810_0080_snn_0,,Parece que no.
+$ev_psbl0_0810_0080_snn_0,ACTOR,Sonon
+$ev_psbl0_0810_0090_yfi_0,,"Solo preguntaba, por si acaso."
+$ev_psbl0_0810_0090_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0810_0100_ner_0,,"Bien, divirtámonos."
+$ev_psbl0_0810_0100_ner_0,ACTOR,Nero
+$ev_psbl0_0820_0010_ner_0,,
+$ev_psbl0_0820_0010_ner_0,ACTOR,
+$ev_psbl0_0820_0020_cut2_0,,Valores anómalos detectados.<br>Está corrompiendo el programa de control.
+$ev_psbl0_0820_0020_cut2_0,ACTOR,Científico
+$ev_psbl0_0820_0030_cut1_0,,¡Apresurad la contención!
+$ev_psbl0_0820_0030_cut1_0,ACTOR,Científico
+$ev_psbl0_0820_0035_cut2_0,,
+$ev_psbl0_0820_0035_cut2_0,ACTOR,
+$ev_psbl0_0820_0040_ner_0,,
+$ev_psbl0_0820_0040_ner_0,ACTOR,
+$ev_psbl0_0820_0050_yfi_0,,¡Toma ya!
+$ev_psbl0_0820_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0820_0055_yfi_0,,
+$ev_psbl0_0820_0055_yfi_0,ACTOR,
+$ev_psbl0_0820_0060_ner_0,,
+$ev_psbl0_0820_0060_ner_0,ACTOR,
+$ev_psbl0_0820_0062_yfi_0,,
+$ev_psbl0_0820_0062_yfi_0,ACTOR,
+$ev_psbl0_0820_0063_yfi_0,,
+$ev_psbl0_0820_0063_yfi_0,ACTOR,
+$ev_psbl0_0820_0065_ner_0,,
+$ev_psbl0_0820_0065_ner_0,ACTOR,
+$ev_psbl0_0820_0070_yfi_0,,
+$ev_psbl0_0820_0070_yfi_0,ACTOR,
+$ev_psbl0_0820_0078_snn_0,,
+$ev_psbl0_0820_0078_snn_0,ACTOR,
+$ev_psbl0_0820_0080_snn_0,,¡Jefa!
+$ev_psbl0_0820_0080_snn_0,ACTOR,Sonon
+$ev_psbl0_0820_0082_snn_0,,
+$ev_psbl0_0820_0082_snn_0,ACTOR,
+$ev_psbl0_0820_0085_ner_0,,
+$ev_psbl0_0820_0085_ner_0,ACTOR,
+$ev_psbl0_0820_0086_cut1_0,,
+$ev_psbl0_0820_0086_cut1_0,ACTOR,
+$ev_psbl0_0820_0086_cut1_1,,
+$ev_psbl0_0820_0086_cut1_1,ACTOR,
+$ev_psbl0_0820_0087_cut2_0,,
+$ev_psbl0_0820_0087_cut2_0,ACTOR,
+$ev_psbl0_0820_0088_cut3_0,,
+$ev_psbl0_0820_0088_cut3_0,ACTOR,
+$ev_psbl0_0820_0090_ner_0,,¿Quién osa interrumpirme?
+$ev_psbl0_0820_0090_ner_0,ACTOR,Nero
+$ev_psbl0_0820_0092_cut1_0,,
+$ev_psbl0_0820_0092_cut1_0,ACTOR,
+$ev_psbl0_0820_0094_cut2_0,,
+$ev_psbl0_0820_0094_cut2_0,ACTOR,
+$ev_psbl0_0820_0096_cut3_0,,
+$ev_psbl0_0820_0096_cut3_0,ACTOR,
+$ev_psbl0_0820_0100_cut2_0,,
+$ev_psbl0_0820_0100_cut2_0,ACTOR,
+$ev_psbl0_0820_0110_cut1_0,,
+$ev_psbl0_0820_0110_cut1_0,ACTOR,Científico
+$ev_psbl0_0820_0112_cut3_0,,
+$ev_psbl0_0820_0112_cut3_0,ACTOR,
+$ev_psbl0_0820_0117_yfi_0,,
+$ev_psbl0_0820_0117_yfi_0,ACTOR,
+$ev_psbl0_0820_0120_yfi_0,,¿Qué... es esto?
+$ev_psbl0_0820_0120_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0820_0125_snn_0,,
+$ev_psbl0_0820_0125_snn_0,ACTOR,
+$ev_psbl0_0820_0130_ner_0,,
+$ev_psbl0_0820_0130_ner_0,ACTOR,
+$ev_psbl0_0820_0140_ner_0,,"Vamos, sigamos."
+$ev_psbl0_0820_0140_ner_0,ACTOR,Nero
+$ev_psbl0_0820_0150_snn_0,,
+$ev_psbl0_0820_0150_snn_0,ACTOR,
+$ev_psbl0_0830_0010_ner_0,,
+$ev_psbl0_0830_0010_ner_0,ACTOR,
+$ev_psbl0_0830_0020_ner_0,,"Me duele, hermano. Me duele."
+$ev_psbl0_0830_0020_ner_0,ACTOR,Nero
+$ev_psbl0_0830_0025_yfi_0,,
+$ev_psbl0_0830_0025_yfi_0,ACTOR,
+$ev_psbl0_0830_0027_snn_0,,
+$ev_psbl0_0830_0027_snn_0,ACTOR,
+$ev_psbl0_0830_0030_yfi_0,,"Esto pinta mal, ¿no?"
+$ev_psbl0_0830_0030_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0830_0040_snn_0,,Huyamos.
+$ev_psbl0_0830_0040_snn_0,ACTOR,Sonon
+$ev_psbl0_0830_0042_yfi_0,,
+$ev_psbl0_0830_0042_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0830_0045_yfi_0,,
+$ev_psbl0_0830_0045_yfi_0,ACTOR,
+$ev_psbl0_0830_0047_snn_0,,
+$ev_psbl0_0830_0047_snn_0,ACTOR,
+$ev_psbl0_0830_0050_yfi_0,,¡No!
+$ev_psbl0_0830_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0830_0058_snn_0,,
+$ev_psbl0_0830_0058_snn_0,ACTOR,
+$ev_psbl0_0830_0060_snn_0,,¡Cuidado!
+$ev_psbl0_0830_0060_snn_0,ACTOR,Sonon
+$ev_psbl0_0830_0062_yfi_0,,
+$ev_psbl0_0830_0062_yfi_0,ACTOR,
+$ev_psbl0_0830_0065_yfi_0,,
+$ev_psbl0_0830_0065_yfi_0,ACTOR,
+$ev_psbl0_0830_0067_snn_0,,
+$ev_psbl0_0830_0067_snn_0,ACTOR,
+$ev_psbl0_0830_0070_ner_0,,Os hundiré.
+$ev_psbl0_0830_0070_ner_0,ACTOR,Nero
+$ev_psbl0_0830_0080_yfi_0,,
+$ev_psbl0_0830_0080_yfi_0,ACTOR,
+$ev_psbl0_0910_0010_ner_0,,¡Bien! ¡Bien!
+$ev_psbl0_0910_0010_ner_0,ACTOR,Nero
+$ev_psbl0_0910_0020_ner_0,,¡Hacedme sentir más!<br>¡Dolor! ¡Muerte!
+$ev_psbl0_0910_0020_ner_0,ACTOR,Nero
+$ev_psbl0_0910_0030_snn_0,,"¡Jefa, acabemos aquí!"
+$ev_psbl0_0910_0030_snn_0,ACTOR,Sonon
+$ev_psbl0_0910_0035_ner_0,,
+$ev_psbl0_0910_0035_ner_0,ACTOR,
+$ev_psbl0_0910_0040_yfi_0,,¡Déjamelo a mí!
+$ev_psbl0_0910_0040_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0910_0041_snn_0,,
+$ev_psbl0_0910_0041_snn_0,ACTOR,
+$ev_psbl0_0910_0041_yfi_0,,
+$ev_psbl0_0910_0041_yfi_0,ACTOR,
+$ev_psbl0_0910_0041_yfi_1,,
+$ev_psbl0_0910_0041_yfi_1,ACTOR,
+$ev_psbl0_0910_0042_yfi_0,,
+$ev_psbl0_0910_0042_yfi_0,ACTOR,
+$ev_psbl0_0910_0043_ner_0,,
+$ev_psbl0_0910_0043_ner_0,ACTOR,
+$ev_psbl0_0910_0043_ner_1,,
+$ev_psbl0_0910_0043_ner_1,ACTOR,
+$ev_psbl0_0910_0043_ner_2,,
+$ev_psbl0_0910_0043_ner_2,ACTOR,
+$ev_psbl0_0910_0044_ner_0,,
+$ev_psbl0_0910_0044_ner_0,ACTOR,
+$ev_psbl0_0910_0045_snn_0,,
+$ev_psbl0_0910_0045_snn_0,ACTOR,
+$ev_psbl0_0910_0046_ner_0,,
+$ev_psbl0_0910_0046_ner_0,ACTOR,
+$ev_psbl0_0910_0050_yfi_0,,¿Hemos ganado?
+$ev_psbl0_0910_0050_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0910_0055_snn_0,,Sí.
+$ev_psbl0_0910_0055_snn_0,ACTOR,Sonon
+$ev_psbl0_0910_0060_yfi_0,,¡Bien!
+$ev_psbl0_0910_0060_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0910_0062_yfi_0,,
+$ev_psbl0_0910_0062_yfi_0,ACTOR,
+$ev_psbl0_0910_0065_snn_0,,
+$ev_psbl0_0910_0065_snn_0,ACTOR,
+$ev_psbl0_0910_0070_snn_0,,"Sé que estás cansada, pero..."
+$ev_psbl0_0910_0070_snn_0,ACTOR,Sonon
+$ev_psbl0_0910_0080_snn_0,,Tenemos que escapar rápido.
+$ev_psbl0_0910_0080_snn_0,ACTOR,Sonon
+$ev_psbl0_0910_0090_yfi_0,,¿No descansamos un poco?
+$ev_psbl0_0910_0090_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0910_0100_snn_0,,¿Te llevo a cuestas?
+$ev_psbl0_0910_0100_snn_0,ACTOR,Sonon
+$ev_psbl0_0910_0110_yfi_0,,"No, gracias."
+$ev_psbl0_0910_0110_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0910_0112_yfi_0,,
+$ev_psbl0_0910_0112_yfi_0,ACTOR,
+$ev_psbl0_0910_0117_yfi_0,,
+$ev_psbl0_0910_0117_yfi_0,ACTOR,
+$ev_psbl0_0910_0118_snn_0,,
+$ev_psbl0_0910_0118_snn_0,ACTOR,
+$ev_psbl0_0910_0119_yfi_0,,
+$ev_psbl0_0910_0119_yfi_0,ACTOR,
+$ev_psbl0_0910_0120_yfi_0,,¡Ahí está!
+$ev_psbl0_0910_0120_yfi_0,ACTOR,
+$ev_psbl0_0910_0121_snn_0,,
+$ev_psbl0_0910_0121_snn_0,ACTOR,
+$ev_psbl0_0910_0122_snn_0,,
+$ev_psbl0_0910_0122_snn_0,ACTOR,
+$ev_psbl0_0912_0123_snn_1,,
+$ev_psbl0_0912_0123_snn_1,ACTOR,
+$ev_psbl0_0912_0124_yfi_0,,
+$ev_psbl0_0912_0124_yfi_0,ACTOR,
+$ev_psbl0_0912_0124_yfi_1,,
+$ev_psbl0_0912_0124_yfi_1,ACTOR,
+$ev_psbl0_0912_0125_snn_0,,
+$ev_psbl0_0912_0125_snn_0,ACTOR,
+$ev_psbl0_0912_0130_yfi_0,,¡Eh! ¿Qué haces?
+$ev_psbl0_0912_0130_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0135_yfi_0,,
+$ev_psbl0_0912_0135_yfi_0,ACTOR,
+$ev_psbl0_0912_0140_yfi_0,,¿Sonon?
+$ev_psbl0_0912_0140_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0147_snn_0,,
+$ev_psbl0_0912_0147_snn_0,ACTOR,
+$ev_psbl0_0912_0148_ner_0,,
+$ev_psbl0_0912_0148_ner_0,ACTOR,
+$ev_psbl0_0912_0148_ner_4,,
+$ev_psbl0_0912_0148_ner_4,ACTOR,
+$ev_psbl0_0912_0149_yfi_0,,
+$ev_psbl0_0912_0149_yfi_0,ACTOR,
+$ev_psbl0_0912_0150_snn_0,,Vete.
+$ev_psbl0_0912_0150_snn_0,ACTOR,Sonon
+$ev_psbl0_0912_0153_snn_0,,
+$ev_psbl0_0912_0153_snn_0,ACTOR,
+$ev_psbl0_0912_0155_yfi_0,,
+$ev_psbl0_0912_0155_yfi_0,ACTOR,
+$ev_psbl0_0912_0160_yfi_0,,No...
+$ev_psbl0_0912_0160_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0170_snn_0,,Por favor.
+$ev_psbl0_0912_0170_snn_0,ACTOR,Sonon
+$ev_psbl0_0912_0180_yfi_0,,Pero...
+$ev_psbl0_0912_0180_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0183_yfi_0,,
+$ev_psbl0_0912_0183_yfi_0,ACTOR,
+$ev_psbl0_0912_0185_ner_0,,
+$ev_psbl0_0912_0185_ner_0,ACTOR,
+$ev_psbl0_0912_0187_yfi_0,,
+$ev_psbl0_0912_0187_yfi_0,ACTOR,
+$ev_psbl0_0912_0188_yfi_0,,Sonon.
+$ev_psbl0_0912_0188_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0190_snn_0,,"Jefa, sobrevive."
+$ev_psbl0_0912_0190_snn_0,ACTOR,Sonon
+$ev_psbl0_0912_0192_yfi_0,,
+$ev_psbl0_0912_0192_yfi_0,ACTOR,
+$ev_psbl0_0912_0200_snn_0,,Lucha...
+$ev_psbl0_0912_0200_snn_0,ACTOR,Sonon
+$ev_psbl0_0912_0201_yfi_0,,"No, eso no..."
+$ev_psbl0_0912_0201_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0202_yfi_0,,¡Sonon!
+$ev_psbl0_0912_0202_yfi_0,ACTOR,Yuffie
+$ev_psbl0_0912_0203_snn_0,,
+$ev_psbl0_0912_0203_snn_0,ACTOR,
+$ev_psbl0_0912_0206_yfi_0,,
+$ev_psbl0_0912_0206_yfi_0,ACTOR,
+$ev_psbl0_0912_0207_yfi_0,,
+$ev_psbl0_0912_0207_yfi_0,ACTOR,
+$ev_psbl0_0912_0208_yfi_0,,
+$ev_psbl0_0912_0208_yfi_0,ACTOR,
+$ev_psbl0_0912_0210_yfi_0,,
+$ev_psbl0_0912_0210_yfi_0,ACTOR,
+$ev_psbl0_0912_0212_snn_0,,
+$ev_psbl0_0912_0212_snn_0,ACTOR,
+$ev_psbl0_0912_0214_snn_0,,
+$ev_psbl0_0912_0214_snn_0,ACTOR,
+$ev_psbl0_0912_0215_snn_0,,
+$ev_psbl0_0912_0215_snn_0,ACTOR,
+$ev_psbl0_0912_0215_snn_1,,
+$ev_psbl0_0912_0215_snn_1,ACTOR,
+$ev_psbl0_0912_0219_snn_0,,
+$ev_psbl0_0912_0219_snn_0,ACTOR,
+$ev_psbl0_0912_0220_snn_0,,Maldita...
+$ev_psbl0_0912_0220_snn_0,ACTOR,Sonon
+$ev_psbl0_0912_0225_snn_0,,
+$ev_psbl0_0912_0225_snn_0,ACTOR,
+$ev_psbl0_0914_0229_snn_0,,
+$ev_psbl0_0914_0229_snn_0,ACTOR,
+$ev_psbl0_0914_0230_snn_0,,Melfi...
+$ev_psbl0_0914_0230_snn_0,ACTOR,Sonon
+$ev_psbl0_0914_0240_snn_0,,
+$ev_psbl0_0914_0240_snn_0,ACTOR,
+$ev_psbl0_0914_0250_snn_0,,
+$ev_psbl0_0914_0250_snn_0,ACTOR,
+$level_psbl0_clabox_cancel,,No participar.
+$level_psbl0_clabox_hard,,Modo SOLDIER.
+$level_psbl0_clabox_normal,,Modo soldado raso.
+$level_psbl0_clashbox_clear,,¡Has alcanzado la puntuación objetivo: <count=0>!
+$level_psbl0_clashbox_openhard_1l,,SHINRA CRUSH BOX
+$level_psbl0_clashbox_openhard_2l,,¡Ya puedes intentar el <color=yellow>modo SOLDIER</color>!
+$level_psbl0_clashbox_openhard_3l,,SOLDIER MODE UNLOCKED!
+$level_psbl0_elevator_destination_1f,,Planta S15: producción.
+$level_psbl0_elevator_destination_1f,ACTOR,
+$level_psbl0_elevator_destination_2f,,Planta S14: mantenimiento.
+$level_psbl0_elevator_destination_2f,ACTOR,
+$level_psbl0_elevator_destination_3f,,Planta S13: desarrollo técnico.
+$level_psbl0_elevator_destination_3f,ACTOR,
+$level_psbl0_elevator_destination_cancel,,No moverse.
+$level_psbl0_elevator_destination_cancel,ACTOR,
+$mv_psbl0_0031_0190_snn_0,,"Esa mujer es Escarlata, del departamento de desarrollo de armas."
+$mv_psbl0_0031_0190_snn_0,ACTOR,Sonon
+$mv_psbl0_0031_0200_snn_0,,La responsable de crear el arma que mató a Melfi.
+$mv_psbl0_0031_0200_snn_0,ACTOR,Sonon
+$mv_psbl0_0031_0202_snn_0,,
+$mv_psbl0_0031_0202_snn_0,ACTOR,
+$mv_psbl0_0031_0210_yfi_0,,"Cálmate, Sonon."
+$mv_psbl0_0031_0210_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0911_0123_snn_0,,
+$mv_psbl0_0911_0123_snn_0,ACTOR,
+$mv_psbl0_0920_0010_yfi_0,,
+$mv_psbl0_0920_0010_yfi_0,ACTOR,
+$mv_psbl0_0920_0012_mbn_0,,
+$mv_psbl0_0920_0012_mbn_0,ACTOR,
+$mv_psbl0_0920_0013_mbn_0,,
+$mv_psbl0_0920_0013_mbn_0,ACTOR,
+$mv_psbl0_0920_0014_mbn_0,,
+$mv_psbl0_0920_0014_mbn_0,ACTOR,
+$mv_psbl0_0920_0015_mbn_0,,
+$mv_psbl0_0920_0015_mbn_0,ACTOR,
+$mv_psbl0_0920_0016_mbn_0,,
+$mv_psbl0_0920_0016_mbn_0,ACTOR,
+$mv_psbl0_0920_0017_mbn_0,,
+$mv_psbl0_0920_0017_mbn_0,ACTOR,
+$mv_psbl0_0920_0018_mbn_0,,
+$mv_psbl0_0920_0018_mbn_0,ACTOR,
+$mv_psbl0_0920_0020_yfi_0,,¡Qué pesado!
+$mv_psbl0_0920_0020_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0920_0022_mbn_0,,
+$mv_psbl0_0920_0022_mbn_0,ACTOR,
+$mv_psbl0_0920_0030_yfi_0,,¡No me subestimes!
+$mv_psbl0_0920_0030_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0920_0040_yfi_0,,¡Que no soy tu hermana!
+$mv_psbl0_0920_0040_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0920_0045_yfi_0,,
+$mv_psbl0_0920_0045_yfi_0,ACTOR,
+$mv_psbl0_0920_0050_yfi_0,,
+$mv_psbl0_0920_0050_yfi_0,ACTOR,
+$mv_psbl0_0920_0055_yfi_0,,
+$mv_psbl0_0920_0055_yfi_0,ACTOR,
+$mv_psbl0_0920_0060_yfi_0,,Esto es una locura.
+$mv_psbl0_0920_0060_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0920_0065_yfi_0,,
+$mv_psbl0_0920_0065_yfi_0,ACTOR,
+$mv_psbl0_0920_0070_yfi_0,,
+$mv_psbl0_0920_0070_yfi_0,ACTOR,
+$mv_psbl0_0920_0110_yfi_0,,
+$mv_psbl0_0920_0110_yfi_0,ACTOR,
+$mv_psbl0_0920_0125_yfi_0,,
+$mv_psbl0_0920_0125_yfi_0,ACTOR,
+$mv_psbl0_0920_0130_yfi_0,,Sola no puedo.
+$mv_psbl0_0920_0130_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0920_0132_yfi_0,,
+$mv_psbl0_0920_0132_yfi_0,ACTOR,
+$mv_psbl0_0920_0135_yfi_0,,
+$mv_psbl0_0920_0135_yfi_0,ACTOR,
+$mv_psbl0_0920_0140_yfi_0,,¡Se buscan secuaces para la gran Yuffie!
+$mv_psbl0_0920_0140_yfi_0,ACTOR,Yuffie
+$mv_psbl0_0920_0140_yfi_1,,¡Venid todos!
+$mv_psbl0_0920_0140_yfi_1,ACTOR,Yuffie
+$mv_psbl0_0920_1010_tif_0,,"Oye, Barret."
+$mv_psbl0_0920_1010_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1020_tif_0,,¿No nos queda otra que ir andando?
+$mv_psbl0_0920_1020_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1030_blt_0,,Pues sí.
+$mv_psbl0_0920_1030_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1040_tif_0,,"Kalm está bastante lejos, ¿no?"
+$mv_psbl0_0920_1040_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1050_blt_0,,Más o menos un día.
+$mv_psbl0_0920_1050_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1060_art_0,,Oye.
+$mv_psbl0_0920_1060_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1070_art_0,,"Cuando mi madre dice «un día»,<br>se refiere a desde la mañana hasta la noche, hasta dormir."
+$mv_psbl0_0920_1070_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1080_art_0,,"Pero yo, cuando me dicen «un día»,<br>pienso en desde la mañana hasta la mañana siguiente."
+$mv_psbl0_0920_1080_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1090_art_0,,"¿Tú cuál dices, Barret?"
+$mv_psbl0_0920_1090_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1100_blt_0,,Yo soy del equipo de Elmyra.
+$mv_psbl0_0920_1100_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1110_art_0,,Qué alivio.
+$mv_psbl0_0920_1110_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1120_tif_0,,¿En serio?
+$mv_psbl0_0920_1120_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1130_blt_0,,Cloud.
+$mv_psbl0_0920_1130_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1140_blt_0,,"Para ti, caminar de la mañana a la noche<br>no es nada, ¿verdad?"
+$mv_psbl0_0920_1140_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1150_blt_0,,"Claro, tienes experiencia."
+$mv_psbl0_0920_1150_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1160_cld_0,,Pues sí.
+$mv_psbl0_0920_1160_cld_0,ACTOR,Cloud
+$mv_psbl0_0920_1170_cld_0,,Pero con la condición de descansar lo suficiente.<br>Sobre todo tú.
+$mv_psbl0_0920_1170_cld_0,ACTOR,Cloud
+$mv_psbl0_0920_1180_blt_0,,Eso ya lo sé.
+$mv_psbl0_0920_1180_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1190_blt_0,,"Bueno, un camino desconocido da inseguridad,<br>¡pero déjalo en manos de tu líder!"
+$mv_psbl0_0920_1190_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1200_art_0,,Qué tranquilizador.
+$mv_psbl0_0920_1200_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1210_blt_0,,
+$mv_psbl0_0920_1210_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1220_blt_0,,"¡Bien! De momento, que todos se detengan."
+$mv_psbl0_0920_1220_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1230_art_0,,
+$mv_psbl0_0920_1230_art_0,ACTOR,
+$mv_psbl0_0920_1240_blt_0,,¡Respirad hondo!
+$mv_psbl0_0920_1240_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1250_art_0,,
+$mv_psbl0_0920_1250_art_0,ACTOR,
+$mv_psbl0_0920_1260_blt_0,,
+$mv_psbl0_0920_1260_blt_0,ACTOR,
+$mv_psbl0_0920_1270_blt_0,,
+$mv_psbl0_0920_1270_blt_0,ACTOR,
+$mv_psbl0_0920_1280_art_0,,
+$mv_psbl0_0920_1280_art_0,ACTOR,
+$mv_psbl0_0920_1290_blt_0,,Mejor no.
+$mv_psbl0_0920_1290_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1300_art_0,,
+$mv_psbl0_0920_1300_art_0,ACTOR,
+$mv_psbl0_0920_1310_blt_0,,Tenemos que alejarnos más.
+$mv_psbl0_0920_1310_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1320_blt_0,,El aire fresco tendrá que esperar.
+$mv_psbl0_0920_1320_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1330_tif_0,,"Adiós, Midgar."
+$mv_psbl0_0920_1330_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1340_blt_0,,
+$mv_psbl0_0920_1340_blt_0,ACTOR,
+$mv_psbl0_0920_1350_art_0,,Mmm...
+$mv_psbl0_0920_1350_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1360_tif_0,,"Sí, sí, así."
+$mv_psbl0_0920_1360_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1370_art_0,,
+$mv_psbl0_0920_1370_art_0,ACTOR,
+$mv_psbl0_0920_1380_art_0,,
+$mv_psbl0_0920_1380_art_0,ACTOR,
+$mv_psbl0_0920_1390_art_0,,
+$mv_psbl0_0920_1390_art_0,ACTOR,
+$mv_psbl0_0920_1400_tif_0,,
+$mv_psbl0_0920_1400_tif_0,ACTOR,
+$mv_psbl0_0920_1410_tif_0,,
+$mv_psbl0_0920_1410_tif_0,ACTOR,
+$mv_psbl0_0920_1420_tif_0,,
+$mv_psbl0_0920_1420_tif_0,ACTOR,
+$mv_psbl0_0920_1430_tif_0,,¡No puede ser! ¡Viene!
+$mv_psbl0_0920_1430_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1440_tif_0,,
+$mv_psbl0_0920_1440_tif_0,ACTOR,
+$mv_psbl0_0920_1450_art_0,,
+$mv_psbl0_0920_1450_art_0,ACTOR,
+$mv_psbl0_0920_1460_blt_0,,
+$mv_psbl0_0920_1460_blt_0,ACTOR,
+$mv_psbl0_0920_1470_blt_0,,
+$mv_psbl0_0920_1470_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1480_blt_0,,
+$mv_psbl0_0920_1480_blt_0,ACTOR,
+$mv_psbl0_0920_1490_blt_0,,
+$mv_psbl0_0920_1490_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1500_tif_0,,
+$mv_psbl0_0920_1500_tif_0,ACTOR,
+$mv_psbl0_0920_1510_art_0,,
+$mv_psbl0_0920_1510_art_0,ACTOR,
+$mv_psbl0_0920_1520_tif_0,,
+$mv_psbl0_0920_1520_tif_0,ACTOR,
+$mv_psbl0_0920_1530_art_0,,
+$mv_psbl0_0920_1530_art_0,ACTOR,
+$mv_psbl0_0920_1535_cut0_0,,
+$mv_psbl0_0920_1535_cut0_0,ACTOR,
+$mv_psbl0_0920_1540_tif_0,,
+$mv_psbl0_0920_1540_tif_0,ACTOR,Tifa
+$mv_psbl0_0920_1550_cut0_0,,"Vaya, qué suerte."
+$mv_psbl0_0920_1550_cut0_0,ACTOR,Conductor
+$mv_psbl0_0920_1560_blt_0,,
+$mv_psbl0_0920_1560_blt_0,ACTOR,
+$mv_psbl0_0920_1570_blt_0,,
+$mv_psbl0_0920_1570_blt_0,ACTOR,
+$mv_psbl0_0920_1580_blt_0,,
+$mv_psbl0_0920_1580_blt_0,ACTOR,
+$mv_psbl0_0920_1590_tif_0,,
+$mv_psbl0_0920_1590_tif_0,ACTOR,
+$mv_psbl0_0920_1600_blt_0,,
+$mv_psbl0_0920_1600_blt_0,ACTOR,
+$mv_psbl0_0920_1610_art_0,,
+$mv_psbl0_0920_1610_art_0,ACTOR,
+$mv_psbl0_0920_1620_cld_0,,
+$mv_psbl0_0920_1620_cld_0,ACTOR,
+$mv_psbl0_0920_1630_art_0,,¡Llueve!
+$mv_psbl0_0920_1630_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1640_tif_0,,
+$mv_psbl0_0920_1640_tif_0,ACTOR,
+$mv_psbl0_0920_1650_art_0,,
+$mv_psbl0_0920_1650_art_0,ACTOR,
+$mv_psbl0_0920_1660_art_0,,No hay tejado.
+$mv_psbl0_0920_1660_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1670_cld_0,,¿Estás bien?
+$mv_psbl0_0920_1670_cld_0,ACTOR,Cloud
+$mv_psbl0_0920_1680_art_0,,
+$mv_psbl0_0920_1680_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1690_art_0,,¿Eh? De repente me siento intranquila.
+$mv_psbl0_0920_1690_art_0,ACTOR,Aeris
+$mv_psbl0_0920_1700_blt_0,,Será porque tienes hambre.
+$mv_psbl0_0920_1700_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1710_blt_0,,Vamos rápido.
+$mv_psbl0_0920_1710_blt_0,ACTOR,Barret
+$mv_psbl0_0920_1720_art_0,,
+$mv_psbl0_0920_1720_art_0,ACTOR,
+$mv_psbl0_0920_1730_tif_0,,
+$mv_psbl0_0920_1730_tif_0,ACTOR,
+$mv_psbl0_0920_1740_cld_0,,
+$mv_psbl0_0920_1740_cld_0,ACTOR,
+$mv_psbl0_0920_1750_zax_0,,
+$mv_psbl0_0920_1750_zax_0,ACTOR,
+$mv_psbl0_0920_1750_zax_1,,Cuánto tiempo.
+$mv_psbl0_0920_1750_zax_1,ACTOR,Zack
+$mv_psbl0_0920_1750_zax_2,,¿Has estado bien?
+$mv_psbl0_0920_1750_zax_2,ACTOR,Zack
+$mv_psbl0_0920_1750_zax_3,,Perdón.
+$mv_psbl0_0920_1750_zax_3,ACTOR,Zack
+$mv_psbl0_0920_1750_zax_4,,Lo siento...
+$mv_psbl0_0920_1750_zax_4,ACTOR,Zack
+$mv_psbl0_0920_1750_zax_5,,Cuánto tiempo sin verte.
+$mv_psbl0_0920_1750_zax_5,ACTOR,Zack
+$mv_psbl0_0920_1760_zax_0,,Ya estoy en casa.
+$mv_psbl0_0920_1760_zax_0,ACTOR,Zack
+$mv_psbl0_0920_1770_zax_0,,
+$mv_psbl0_0920_1770_zax_0,ACTOR,
+$mv_psbl0_0920_1780_zax_0,,
+$mv_psbl0_0920_1780_zax_0,ACTOR,
+$mv_psbl0_0920_1790_zax_0,,Aeris...
+$mv_psbl0_0920_1790_zax_0,ACTOR,Zack
+$pv_psbl0_0920_0010_sys_0,,
+$pv_psbl0_0920_0010_sys_0,ACTOR,
+$pv_psbl0_0930_0010_sys_0,,
+$pv_psbl0_0930_0010_sys_0,ACTOR,
+$pv_psbl0_1200_0010_yfi_0,,"Mira esto.<br>¡Armas, armas, armas, armas!"
+$pv_psbl0_1200_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0020_yfi_0,,"Están muy motivados, ¿eh?"
+$pv_psbl0_1200_0020_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0030_snn_0,,Tú también estás muy motivada.
+$pv_psbl0_1200_0030_snn_0,ACTOR,Sonon
+$pv_psbl0_1200_0040_yfi_0,,Yo no soy como mi viejo.
+$pv_psbl0_1200_0040_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0050_yfi_0,,"A diferencia de ese holgazán, yo siempre estoy motivada."
+$pv_psbl0_1200_0050_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0060_snn_0,,¿Cómo estará el señor Godo?
+$pv_psbl0_1200_0060_snn_0,ACTOR,Sonon
+$pv_psbl0_1200_0070_yfi_0,,En la cárcel. El gobierno provisional lo encarceló.
+$pv_psbl0_1200_0070_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0080_yfi_0,,"Ya que está ahí, que se enfríe la cabeza."
+$pv_psbl0_1200_0080_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0090_snn_0,,Es mi maestro. No hables tan mal de él.
+$pv_psbl0_1200_0090_snn_0,ACTOR,Sonon
+$pv_psbl0_1200_0100_yfi_0,,"Sí, tienes razón.<br>Dejemos este tema."
+$pv_psbl0_1200_0100_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0110_yfi_0,,Solo consigo cabrearme.
+$pv_psbl0_1200_0110_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1200_0120_yfi_0,,Más importante...
+$pv_psbl0_1200_0120_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1300_0010_scr_0,,Qué aburridas son las conversaciones de provincianos.
+$pv_psbl0_1300_0010_scr_0,ACTOR,Escarlata
+$pv_psbl0_1300_0020_scr_0,,Basta de charla.<br>Empecemos el experimento.
+$pv_psbl0_1300_0020_scr_0,ACTOR,Escarlata
+$pv_psbl0_1300_0030_scr_0,,"No creo que haga falta decirlo,<br>pero no os muráis en un sitio como este, ¿vale?"
+$pv_psbl0_1300_0030_scr_0,ACTOR,Escarlata
+$pv_psbl0_1400_0010_sys_0,,Máquina de pruebas activada.<br>Iniciando recopilación de datos de combate.
+$pv_psbl0_1400_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_1500_0010_sys_0,,Recopilación de datos completada.
+$pv_psbl0_1500_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_1500_0020_sys_0,,Iniciando preparativos para la siguiente prueba.
+$pv_psbl0_1500_0020_sys_0,ACTOR,Voz digital
+$pv_psbl0_1500_0030_yfi_0,,¿Aún hay más?
+$pv_psbl0_1500_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1520_0010_sys_0,,Recopilación de datos completada.
+$pv_psbl0_1520_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_1520_0020_scr_0,,Qué desastre.<br>No lo hacéis tan mal como pensaba.
+$pv_psbl0_1520_0020_scr_0,ACTOR,Escarlata
+$pv_psbl0_1520_0030_scr_0,,"Adelante, podéis seguir."
+$pv_psbl0_1520_0030_scr_0,ACTOR,Escarlata
+$pv_psbl0_1520_0040_yfi_0,,"¡Qué rabia!<br>Y además, ¿cómo se supone que subamos?"
+$pv_psbl0_1520_0040_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1700_0010_yfi_0,,"Bien, bien, buena idea.<br>Sonon, ¿me haces de apoyo?"
+$pv_psbl0_1700_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_1700_0020_snn_0,,"Sí, sí."
+$pv_psbl0_1700_0020_snn_0,ACTOR,Sonon
+$pv_psbl0_1800_0010_snn_0,,¡A la de tres!
+$pv_psbl0_1800_0010_snn_0,ACTOR,Sonon
+$pv_psbl0_1800_0020_yfi_0,,
+$pv_psbl0_1800_0020_yfi_0,ACTOR,
+$pv_psbl0_1900_0005_yfi_0,,
+$pv_psbl0_1900_0005_yfi_0,ACTOR,
+$pv_psbl0_1900_0010_yfi_0,,"¡Adelante, adelante!"
+$pv_psbl0_1900_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2100_0010_yfi_0,,"¡Materia, dónde estás!"
+$pv_psbl0_2100_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2200_0010_yfi_0,,"Mmm, ¿huele a materia?"
+$pv_psbl0_2200_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2200_0040_st01_0,,"¡Habéis venido, Wutai!"
+$pv_psbl0_2200_0040_st01_0,ACTOR,Centinela
+$pv_psbl0_2300_0010_yfi_0,,¿No está esto un poco oscuro?
+$pv_psbl0_2300_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2300_0020_snn_0,,Ese aparato también parece parado.
+$pv_psbl0_2300_0020_snn_0,ACTOR,Sonon
+$pv_psbl0_2400_0010_yfi_0,,¡Bingo!<br>Aquí es donde fabrican las materias.
+$pv_psbl0_2400_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2400_0020_snn_0,,"Por lo que veo, son materias normales.<br>No son lo que buscamos."
+$pv_psbl0_2400_0020_snn_0,ACTOR,Sonon
+$pv_psbl0_2400_0030_yfi_0,,Pero me lo llevo todo.
+$pv_psbl0_2400_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2600_0010_ele_0,,Sistema desconectado.<br>Active el dispositivo central.
+$pv_psbl0_2600_0010_ele_0,ACTOR,Voz digital
+$pv_psbl0_2610_0010_ele_0,,No hay plantas accesibles en este momento.
+$pv_psbl0_2610_0010_ele_0,ACTOR,Voz digital
+$pv_psbl0_2610_0020_yfi_0,,¿Eh? ¿Había otra salida?
+$pv_psbl0_2610_0020_yfi_0,ACTOR,Yuffie
+$pv_psbl0_2700_0010_ana_0,,"Sistema principal, nivel 1 activado."
+$pv_psbl0_2700_0010_ana_0,ACTOR,Voz digital
+$pv_psbl0_2700_0020_ana_0,,Iniciando carga de energía mako.<br>Desplegando barrera de protección.
+$pv_psbl0_2700_0020_ana_0,ACTOR,Voz digital
+$pv_psbl0_3000_0010_yfi_0,,Esta reja... ¿se podrá escalar?
+$pv_psbl0_3000_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3100_0010_yfi_0,,¿Eh?<br>Aquí no huele a materia.
+$pv_psbl0_3100_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3100_0020_yfi_0,,¿Estará más arriba?
+$pv_psbl0_3100_0020_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3400_0005_sys_0,,
+$pv_psbl0_3400_0005_sys_0,ACTOR,
+$pv_psbl0_3400_0010_ana_0,,"Sistema principal, nivel 2 activado."
+$pv_psbl0_3400_0010_ana_0,ACTOR,Voz digital
+$pv_psbl0_3400_0020_ana_0,,Iniciando carga de energía mako.<br>Desplegando barrera de protección.
+$pv_psbl0_3400_0020_ana_0,ACTOR,Voz digital
+$pv_psbl0_3400_0030_yfi_0,,¡Ya está! ¡El puente hacia la materita!
+$pv_psbl0_3400_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3400_0040_ana_0,,Bloqueo de la compuerta desactivado.
+$pv_psbl0_3400_0040_ana_0,ACTOR,Voz digital
+$pv_psbl0_3400_0050_yfi_0,,¿Será una sala secreta de materias?
+$pv_psbl0_3400_0050_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3800_0005_sys_0,,
+$pv_psbl0_3800_0005_sys_0,ACTOR,
+$pv_psbl0_3800_0010_ana_0,,"Sistema principal, nivel 3 activado."
+$pv_psbl0_3800_0010_ana_0,ACTOR,Voz digital
+$pv_psbl0_3800_0020_ana_0,,Iniciando carga de energía mako.<br>Desplegando barrera de protección.
+$pv_psbl0_3800_0020_ana_0,ACTOR,Voz digital
+$pv_psbl0_3800_0030_yfi_0,,"¡Vamos, vamos!<br>¡Volvamos a ver la materia suprema!"
+$pv_psbl0_3800_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0010_yfi_0,,"Oye, Sonon."
+$pv_psbl0_3900_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0020_snn_0,,¿Qué?
+$pv_psbl0_3900_0020_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0030_yfi_0,,¿Qué crees que quería decir Nayo?
+$pv_psbl0_3900_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0040_yfi_0,,Eso de que esta cooperación<br>sería un puente hacia el futuro.
+$pv_psbl0_3900_0040_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0050_snn_0,,Nosotros y la Avalancha de Nayo<br>somos como el agua y el aceite.
+$pv_psbl0_3900_0050_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0060_snn_0,,Puede que algún día terminemos enfrentados.
+$pv_psbl0_3900_0060_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0070_snn_0,,"Pero cuando llegue ese día, nuestros lazos personales<br>podrían ayudar a evitar el conflicto."
+$pv_psbl0_3900_0070_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0080_snn_0,,"Algo así, supongo."
+$pv_psbl0_3900_0080_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0090_yfi_0,,Eso pensaba.
+$pv_psbl0_3900_0090_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0100_snn_0,,"Antes de que llegaras, estuve observándolos."
+$pv_psbl0_3900_0100_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0110_snn_0,,"Cómo eligen a sus líderes,<br>la solidaridad entre trabajadores, el reparto de la riqueza..."
+$pv_psbl0_3900_0110_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0120_snn_0,,Ven el mundo distinto a nosotros.
+$pv_psbl0_3900_0120_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0130_yfi_0,,"¿Y tú qué mundo ves, Sonon?"
+$pv_psbl0_3900_0130_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0140_snn_0,,"Explosiones, disparos, gritos, sangre..."
+$pv_psbl0_3900_0140_snn_0,ACTOR,Sonon
+$pv_psbl0_3900_0150_yfi_0,,Yo también.
+$pv_psbl0_3900_0150_yfi_0,ACTOR,Yuffie
+$pv_psbl0_3900_0160_yfi_0,,Es imposible olvidarlo.
+$pv_psbl0_3900_0160_yfi_0,ACTOR,Sonon
+$pv_psbl0_4000_0010_yfi_0,,No. No es la materia suprema.
+$pv_psbl0_4000_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_4000_0020_yfi_0,,¿Q-qué?
+$pv_psbl0_4000_0020_yfi_0,ACTOR,Yuffie
+$pv_psbl0_4000_0030_yfi_0,,"¡Maldita sea!<br>¡No quiero soldados, quiero materias!"
+$pv_psbl0_4000_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_4100_0010_scr_0,,Este es nuestro campo de pruebas de armas de última generación.
+$pv_psbl0_4100_0010_scr_0,ACTOR,Escarlata
+$pv_psbl0_4100_0020_scr_0,,Recopilamos datos del historial de combate<br>de los sujetos que superan las pruebas de resistencia.
+$pv_psbl0_4100_0020_scr_0,ACTOR,Escarlata
+$pv_psbl0_4100_0030_scr_0,,Y los usamos para desarrollar y mejorar nuevas armas.
+$pv_psbl0_4100_0030_scr_0,ACTOR,Escarlata
+$pv_psbl0_4100_0040_scr_0,,Observadlo con calma.
+$pv_psbl0_4100_0040_scr_0,ACTOR,Escarlata
+$pv_psbl0_4100_0050_sys_0,,Iniciando prueba de resistencia.
+$pv_psbl0_4100_0050_sys_0,ACTOR,Voz digital
+$pv_psbl0_4200_0010_sys_0,,Seleccione el sujeto que se usará en la verificación.
+$pv_psbl0_4200_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4210_0010_sys_0,,Recepción completada.<br>Iniciando configuración del sujeto.
+$pv_psbl0_4210_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4220_0010_sys_0,,Desplazándose al área de medición.
+$pv_psbl0_4220_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4220_0020_sys_0,,Prepárese para el inicio de la prueba.
+$pv_psbl0_4220_0020_sys_0,ACTOR,Voz digital
+$pv_psbl0_4230_0010_sys_0,,Medición iniciada.
+$pv_psbl0_4230_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4240_0010_sys_0,,Superado. Continuando la prueba.
+$pv_psbl0_4240_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4240_0020_sys_0,,Seleccione el sujeto que se usará en la verificación.
+$pv_psbl0_4240_0020_sys_0,ACTOR,Voz digital
+$pv_psbl0_4250_0010_sys_0,,Superado. Iniciando la prueba final.
+$pv_psbl0_4250_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4260_0010_sys_0,,¿Desea realizar otra verificación?
+$pv_psbl0_4260_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4265_0010_sys_0,,Iniciando prueba de resistencia.
+$pv_psbl0_4265_0010_sys_0,ACTOR,Voz digital
+$pv_psbl0_4265_0020_sys_0,,Diríjase al ascensor.
+$pv_psbl0_4265_0020_sys_0,ACTOR,Voz digital
+$pv_psbl0_4266_0010_sys_0,,
+$pv_psbl0_4266_0010_sys_0,ACTOR,
+$pv_psbl0_4700_0010_scr_0,,"Desde luego, sois excelentes."
+$pv_psbl0_4700_0010_scr_0,ACTOR,Escarlata
+$pv_psbl0_4700_0020_scr_0,,"¿Os habrá sabido a poco,<br>shinobis de Wutai?"
+$pv_psbl0_4700_0020_scr_0,ACTOR,Escarlata
+$pv_psbl0_4700_0030_yfi_0,,¡Para nada! ¡Nos ha sabido a muy poco!
+$pv_psbl0_4700_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_4700_0040_scr_0,,"Qué tranquilizador.<br>Entonces, ¿qué tal la siguiente?"
+$pv_psbl0_4700_0040_scr_0,ACTOR,Escarlata
+$pv_psbl0_4700_0050_scr_0,,"En honor a nuestros invitados venidos de lejos,<br>he preparado un recibimiento especial."
+$pv_psbl0_4700_0050_scr_0,ACTOR,Escarlata
+$pv_psbl0_4700_0060_scr_0,,"Por aquí, adelante."
+$pv_psbl0_4700_0060_scr_0,ACTOR,Escarlata
+$pv_psbl0_4900_0010_scr_0,,Daos prisa.
+$pv_psbl0_4900_0010_scr_0,ACTOR,Escarlata
+$pv_psbl0_4950_0010_snn_0,,
+$pv_psbl0_4950_0010_snn_0,ACTOR,
+$pv_psbl0_5200_0010_yfi_0,,"Ay, ay..."
+$pv_psbl0_5200_0010_yfi_0,ACTOR,
+$pv_psbl0_5200_0020_yfi_0,,"Seguro que hay un montón esperándonos,<br>pero no queda otra que volver."
+$pv_psbl0_5200_0020_yfi_0,ACTOR,Yuffie
+$pv_psbl0_5400_0010_vrs_0,,Sensibilidad al dolor: máxima.
+$pv_psbl0_5400_0010_vrs_0,ACTOR,Voz digital
+$pv_psbl0_5400_0020_vrs_0,,Desplegando datos de refuerzos.
+$pv_psbl0_5400_0020_vrs_0,ACTOR,Voz digital
+$pv_psbl0_5400_0030_yfi_0,,¡Uno tras otro!<br>¡¿De dónde salís?!
+$pv_psbl0_5400_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_5500_0010_vrs_0,,Sensibilidad al dolor: máxima.
+$pv_psbl0_5500_0010_vrs_0,ACTOR,Voz digital
+$pv_psbl0_5500_0020_vrs_0,,Desplegando datos de refuerzos.
+$pv_psbl0_5500_0020_vrs_0,ACTOR,Voz digital
+$pv_psbl0_5500_0030_yfi_0,,"¡Ay, basta! ¡Pienso volver, pase lo que pase!"
+$pv_psbl0_5500_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_5600_0010_vrs_0,,Sensibilidad al dolor: máxima.
+$pv_psbl0_5600_0010_vrs_0,ACTOR,Voz digital
+$pv_psbl0_5600_0020_vrs_0,,Desplegando datos de refuerzos.
+$pv_psbl0_5600_0020_vrs_0,ACTOR,Voz digital
+$pv_psbl0_5600_0030_yfi_0,,¡No tienen fin!
+$pv_psbl0_5600_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_5600_0040_snn_0,,Debe de haber un proyector de imágenes en algún sitio.
+$pv_psbl0_5600_0040_snn_0,ACTOR,Sonon
+$pv_psbl0_5600_0050_snn_0,,Si lo encontramos y lo destrozamos...
+$pv_psbl0_5600_0050_snn_0,ACTOR,Sonon
+$pv_psbl0_5700_0010_snn_0,,¡Ese!
+$pv_psbl0_5700_0010_snn_0,ACTOR,Sonon
+$pv_psbl0_5800_0010_yfi_0,,¡Salgamos rápido de aquí!
+$pv_psbl0_5800_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_6100_0010_yfi_0,,¡Uah...!
+$pv_psbl0_6100_0010_yfi_0,ACTOR,
+$pv_psbl0_6100_0020_snn_0,,¿Qué ha pasado?
+$pv_psbl0_6100_0020_snn_0,ACTOR,Sonon
+$pv_psbl0_6300_0010_yfi_0,,"Esto no ha venido a salvarnos,<br>¿verdad?"
+$pv_psbl0_6300_0010_yfi_0,ACTOR,Yuffie
+$pv_psbl0_8001_0010_sys_0,,"¿A qué planta quieres ir?<br>(Ahora: planta S15, producción.)"
+$pv_psbl0_8001_0010_sys_0,ACTOR,
+$pv_psbl0_8001_0020_sys_0,,"¿A qué planta quieres ir?<br>(Ahora: planta S14, mantenimiento.)"
+$pv_psbl0_8001_0020_sys_0,ACTOR,
+$pv_psbl0_8101_0010_sys_0,,"¿A qué planta quieres ir?<br>(Ahora: planta S15, producción.)"
+$pv_psbl0_8101_0010_sys_0,ACTOR,
+$pv_psbl0_8101_0020_sys_0,,"¿A qué planta quieres ir?<br>(Ahora: planta S14, mantenimiento.)"
+$pv_psbl0_8101_0020_sys_0,ACTOR,
+$pv_psbl0_8101_0030_sys_0,,"¿A qué planta quieres ir?<br><br>(Ahora: planta S13, desarrollo técnico.)"
+$pv_psbl0_8101_0030_sys_0,ACTOR,
+$pv_psbl0_9110_0010_ana_0,,Identificación de empleado verificada.
+$pv_psbl0_9110_0010_ana_0,ACTOR,Voz digital
+$pv_psbl0_9110_0020_ana_0,,Acceso a la sala de entrenamiento confirmado.<br>Un sujeto. Diríjase a la entrada.
+$pv_psbl0_9110_0020_ana_0,ACTOR,Voz digital
+$pv_psbl0_9110_0030_yfi_0,,"¿Entrenamiento?<br>Vaya, ¿no era una materia?"
+$pv_psbl0_9110_0030_yfi_0,ACTOR,Yuffie
+$pv_psbl0_9110_0035_sys_0,,¿A qué modo quieres jugar?
+$pv_psbl0_9110_0035_sys_0,ACTOR,
+$pv_psbl0_9110_0040_snn_0,,"Parece que es para uno solo.<br>Jefa, si vas, ten mucho cuidado."
+$pv_psbl0_9110_0040_snn_0,ACTOR,Sonon
+$pv_psbl0_9110_0050_sys_0,,¿Quieres intentar el <color=yellow>modo soldado raso</color> del menú de entrenamiento?
+$pv_psbl0_9110_0050_sys_0,ACTOR,
+$pv_psbl0_9110_0055_sys_0,,¿Quieres intentar el <color=yellow>modo SOLDIER</color> del menú de entrenamiento?
+$pv_psbl0_9110_0055_sys_0,ACTOR,

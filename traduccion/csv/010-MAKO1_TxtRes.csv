@@ -1,0 +1,1294 @@
+id,sub_id,text
+language,,ES
+$ba_mako1_0000_0000_0000_blt_0,,"Vaya, sí que estás hecho polvo.<br>¿Estás bien?"
+$ba_mako1_0000_0000_0000_blt_0,ACTOR,Barret
+$ba_mako1_0000_0010_0000_cld_0,,"Eh, vigila también tu resistencia."
+$ba_mako1_0000_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0010_0000_0000_kb01_0,,¿Un intruso?
+$ba_mako1_0010_0000_0000_kb01_0,ACTOR,Centinela
+$ba_mako1_0010_0000_0010_kb02_0,,No te resistas.
+$ba_mako1_0010_0000_0010_kb02_0,ACTOR,Centinela
+$ba_mako1_0010_0000_0020_cld_0,,No me hagas reír.
+$ba_mako1_0010_0000_0020_cld_0,ACTOR,Cloud
+$ba_mako1_0010_0010_0000_cld_0,,No está mal.
+$ba_mako1_0010_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0020_0000_0000_kb05_0,,¡No te muevas!
+$ba_mako1_0020_0000_0000_kb05_0,ACTOR,Centinela
+$ba_mako1_0020_0000_0010_kb06_0,,"Si te mueves, disparo."
+$ba_mako1_0020_0000_0010_kb06_0,ACTOR,Centinela
+$ba_mako1_0020_0000_0020_cld_0,,Haz lo que quieras.
+$ba_mako1_0020_0000_0020_cld_0,ACTOR,Cloud
+$ba_mako1_0020_0010_0000_cld_0,,Con esto acabo.
+$ba_mako1_0020_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0020_0020_0000_kb05_0,,Esta técnica...
+$ba_mako1_0020_0020_0000_kb05_0,ACTOR,Centinela
+$ba_mako1_0020_0020_0010_kb06_0,,No me digas que eres un SOLDIER...
+$ba_mako1_0020_0020_0010_kb06_0,ACTOR,Centinela
+$ba_mako1_0020_0030_0000_kb05_0,,¿Usa magia?
+$ba_mako1_0020_0030_0000_kb05_0,ACTOR,Centinela
+$ba_mako1_0020_0030_0010_kb06_0,,"¡Mira, es materia!"
+$ba_mako1_0020_0030_0010_kb06_0,ACTOR,Centinela
+$ba_mako1_0020_0040_0000_kb05_0,,Así que esas tenemos...
+$ba_mako1_0020_0040_0000_kb05_0,ACTOR,Centinela
+$ba_mako1_0020_0040_0010_kb06_0,,Este tío está acostumbrado a pelear.
+$ba_mako1_0020_0040_0010_kb06_0,ACTOR,Centinela
+$ba_mako1_0030_0000_0000_kb10_0,,¡Obedece y no te resistas!
+$ba_mako1_0030_0000_0000_kb10_0,ACTOR,Centinela
+$ba_mako1_0030_0000_0010_cld_0,,Que no me rodeen.
+$ba_mako1_0030_0000_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0030_0010_0000_cld_0,,Demasiado fácil.
+$ba_mako1_0030_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0030_0020_0000_cld_0,,Lento.
+$ba_mako1_0030_0020_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0040_0000_0000_kb15_0,,¡Hora de comer!
+$ba_mako1_0040_0000_0000_kb15_0,ACTOR,Centinela
+$ba_mako1_0040_0000_0010_gh01_0,,
+$ba_mako1_0040_0000_0010_gh01_0,ACTOR,
+$ba_mako1_0040_0010_0000_cld_0,,Primero me encargo de esto.
+$ba_mako1_0040_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0040_0020_0000_kb15_0,,Eh...
+$ba_mako1_0040_0020_0000_kb15_0,ACTOR,Centinela
+$ba_mako1_0040_0020_0010_cld_0,,El siguiente eres tú.
+$ba_mako1_0040_0020_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0060_0000_0000_kb25_0,,Así que tú eres el intruso.
+$ba_mako1_0060_0000_0000_kb25_0,ACTOR,Centinela
+$ba_mako1_0060_0000_0010_kb26_0,,Suelta el arma y ríndete.
+$ba_mako1_0060_0000_0010_kb26_0,ACTOR,Centinela
+$ba_mako1_0070_0000_0000_kb32_0,,Solo es uno. No os precipitéis.
+$ba_mako1_0070_0000_0000_kb32_0,ACTOR,Centinela
+$ba_mako1_0070_0000_0010_kb33_0,,¡Fuego concentrado!
+$ba_mako1_0070_0000_0010_kb33_0,ACTOR,Centinela
+$ba_mako1_0070_0010_0000_cld_0,,A afinar los sentidos.
+$ba_mako1_0070_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0080_0000_0000_blt_0,,Con esa espada no llegas.<br>Quédate ahí mirando.
+$ba_mako1_0080_0000_0000_blt_0,ACTOR,Barret
+$ba_mako1_0080_0000_0010_cld_0,,
+$ba_mako1_0080_0000_0010_cld_0,ACTOR,
+$ba_mako1_0080_0010_0000_blt_0,,Conmigo es pan comido.
+$ba_mako1_0080_0010_0000_blt_0,ACTOR,Barret
+$ba_mako1_0080_0020_0000_blt_0,,Te voy a mandar a volar.
+$ba_mako1_0080_0020_0000_blt_0,ACTOR,Barret
+$ba_mako1_0081_0010_0000_cld_0,,Apunta bien.
+$ba_mako1_0081_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0081_0010_0010_blt_0,,No me subestimes.
+$ba_mako1_0081_0010_0010_blt_0,ACTOR,Barret
+$ba_mako1_0081_0020_0000_blt_0,,Gánate lo que te pagan.
+$ba_mako1_0081_0020_0000_blt_0,ACTOR,Barret
+$ba_mako1_0081_0020_0010_cld_0,,Estorbas. Aparta.
+$ba_mako1_0081_0020_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0081_0030_0000_cld_0,,Dispara desde ahí.
+$ba_mako1_0081_0030_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0081_0040_0000_blt_0,,Es tu trabajo.
+$ba_mako1_0081_0040_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0000_0000_blt_0,,"Solo es chatarra, ¿no?"
+$ba_mako1_0090_0000_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0000_0010_cld_0,,"Su ataque y su defensa están a otro nivel.<br>Si lo subestimas, morirás."
+$ba_mako1_0090_0000_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0000_0020_blt_0,,¿Tienes un plan?
+$ba_mako1_0090_0000_0020_blt_0,ACTOR,Barret
+$ba_mako1_0090_0000_0030_cld_0,,La magia debería funcionar mejor.<br>Busca un hueco y remátalo.
+$ba_mako1_0090_0000_0030_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0010_0000_blt_0,,Se tambalea.
+$ba_mako1_0090_0010_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0010_0010_cld_0,,Así lo inmovilizamos.<br>¡Remátalo!
+$ba_mako1_0090_0010_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0020_0000_blt_0,,¿Se ha vuelto a levantar?
+$ba_mako1_0090_0020_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0020_0010_cld_0,,Las oportunidades las crea uno mismo.<br>Vamos otra vez.
+$ba_mako1_0090_0020_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0030_0000_cld_0,,¡Ahora! ¡Atacamos!
+$ba_mako1_0090_0030_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0030_0010_blt_0,,No hace falta que me lo digas. Lo aplasto con todas mis fuerzas.
+$ba_mako1_0090_0030_0010_blt_0,ACTOR,Barret
+$ba_mako1_0090_0050_0000_blt_0,,¿También se rinde el señorito SOLDIER?
+$ba_mako1_0090_0050_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0050_0010_cld_0,,
+$ba_mako1_0090_0050_0010_cld_0,ACTOR,
+$ba_mako1_0090_0050_0020_blt_0,,¿Quieres que te ayude?
+$ba_mako1_0090_0050_0020_blt_0,ACTOR,Barret
+$ba_mako1_0090_0060_0000_blt_0,,"¡Aparta, joder!"
+$ba_mako1_0090_0060_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0060_0010_cld_0,,
+$ba_mako1_0090_0060_0010_cld_0,ACTOR,
+$ba_mako1_0090_0060_0020_blt_0,,"¡Eh, deja de mirar y haz algo!"
+$ba_mako1_0090_0060_0020_blt_0,ACTOR,Barret
+$ba_mako1_0090_0070_0000_blt_0,,No queda otra...
+$ba_mako1_0090_0070_0000_blt_0,ACTOR,Barret
+$ba_mako1_0090_0070_0010_cld_0,,Esto no es nada...
+$ba_mako1_0090_0070_0010_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0080_0000_cld_0,,Patético.
+$ba_mako1_0090_0080_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0090_0080_0010_blt_0,,¡Me las vas a pagar!
+$ba_mako1_0090_0080_0010_blt_0,ACTOR,Barret
+$ba_mako1_0110_0010_0000_cld_0,,Voy a superarlo.
+$ba_mako1_0110_0010_0000_cld_0,ACTOR,Cloud
+$ba_mako1_0110_0020_0000_blt_0,,"¡Al límite, a tope!"
+$ba_mako1_0110_0020_0000_blt_0,ACTOR,Barret
+$ba_mako1_0130_0000_0000_kb40_0,,¡Os he encontrado!
+$ba_mako1_0130_0000_0000_kb40_0,ACTOR,Centinela
+$ba_mako1_0130_0000_0010_kb41_0,,¡A por ellos!
+$ba_mako1_0130_0000_0010_kb41_0,ACTOR,Centinela
+$ba_mako1_0130_0000_0020_blt_0,,Esto va a estallar. ¡No me estorbes!
+$ba_mako1_0130_0000_0020_blt_0,ACTOR,Barret
+$ba_mako1_0130_0000_0030_cld_0,,"Barret, cinco segundos."
+$ba_mako1_0130_0000_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1000_0010_blt_0,,"Eh, ¿y el dato curioso de este?"
+$ba_mako1_5010_1000_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1000_0020_cld_0,,Lleva blindaje reforzado de combate.<br>Las máquinas son débiles a los rayos.
+$ba_mako1_5010_1000_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1000_0030_cld_0,,Ataca con magia.
+$ba_mako1_5010_1000_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1000_0040_blt_0,,Tendrá que ser así.
+$ba_mako1_5010_1000_0040_blt_0,ACTOR,Barret
+$ba_mako1_5010_1010_0010_blt_0,,"Vaya, sí que funciona."
+$ba_mako1_5010_1010_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1010_0020_cld_0,,Seguimos.
+$ba_mako1_5010_1010_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1030_0010_blt_0,,¿Seguro que le está haciendo efecto?
+$ba_mako1_5010_1030_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1030_0020_cld_0,,He dicho que ataques con magia.
+$ba_mako1_5010_1030_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1030_0030_blt_0,,Pensaba que era una trampa.
+$ba_mako1_5010_1030_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_1030_0040_cld_0,,"Créeme o no, hazlo."
+$ba_mako1_5010_1030_0040_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1050_0010_cld_0,,"Eh, ¿no sabes usarla?<br>La de rayo..."
+$ba_mako1_5010_1050_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1050_0020_blt_0,,"¡Ya lo sé!<br>Magia, ¿vale? Espera un poco."
+$ba_mako1_5010_1050_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_1070_0010_cld_0,,Vamos.
+$ba_mako1_5010_1070_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1080_0010_cld_0,,No tiene puntos débiles. Su tecnología es impresionante.
+$ba_mako1_5010_1080_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1090_0010_cld_0,,¿Cómo atacamos?
+$ba_mako1_5010_1090_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_1100_0010_blt_0,,Lo hago por el planeta.
+$ba_mako1_5010_1100_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1110_0010_blt_0,,No tendré piedad.
+$ba_mako1_5010_1110_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1120_0010_blt_0,,"Para lo grande que es, se mueve mucho."
+$ba_mako1_5010_1120_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1800_0010_blt_0,,¿Vas a huir con el rabo entre las piernas?
+$ba_mako1_5010_1800_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1810_0010_blt_0,,"Eh, ¿adónde vas?"
+$ba_mako1_5010_1810_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1820_0010_blt_0,,Ahora céntrate en el escorpión.
+$ba_mako1_5010_1820_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_1860_0010_cld_0,,No va a dejarnos escapar.
+$ba_mako1_5010_1860_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2020_0010_blt_0,,¿Qué es eso?
+$ba_mako1_5010_2020_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2020_0020_cld_0,,¿Una barrera?<br>Nunca había visto este sistema defensivo.
+$ba_mako1_5010_2020_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2020_0030_blt_0,,No sirve de nada.
+$ba_mako1_5010_2020_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_2020_0040_cld_0,,Entonces haz algo tú.
+$ba_mako1_5010_2020_0040_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2030_0010_blt_0,,Me muero de ganas.
+$ba_mako1_5010_2030_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2030_0020_cld_0,,No te acerques demasiado y explotes.
+$ba_mako1_5010_2030_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2070_0010_cld_0,,Lo repele...
+$ba_mako1_5010_2070_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2070_0020_blt_0,,Te está bien empleado.
+$ba_mako1_5010_2070_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_2070_0030_cld_0,,De frente no se puede.
+$ba_mako1_5010_2070_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2080_0010_cld_0,,"Joder, no funciona."
+$ba_mako1_5010_2080_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2080_0020_blt_0,,"Eh, no le estás dando ni una."
+$ba_mako1_5010_2080_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_2080_0030_cld_0,,El sistema tiene que tener algún punto débil.
+$ba_mako1_5010_2080_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2080_0040_blt_0,,Pues encuéntralo rápido.
+$ba_mako1_5010_2080_0040_blt_0,ACTOR,Barret
+$ba_mako1_5010_2085_0010_cld_0,,Lo tengo. Ataco el hueco de la barrera.
+$ba_mako1_5010_2085_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2085_0020_blt_0,,"Si ya sabías cuál era el punto débil,<br>no te lo guardes."
+$ba_mako1_5010_2085_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_2085_0030_cld_0,,Aquí. Ataco por la espalda.
+$ba_mako1_5010_2085_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2085_0040_blt_0,,Espero grandes cosas del señorito SOLDIER.
+$ba_mako1_5010_2085_0040_blt_0,ACTOR,Barret
+$ba_mako1_5010_2090_0010_cld_0,,¿Mejor atacar desde lejos?
+$ba_mako1_5010_2090_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2091_0010_cld_0,,De frente llevamos las de perder.
+$ba_mako1_5010_2091_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2092_0010_cld_0,,Tiene que haber una forma de entrar.
+$ba_mako1_5010_2092_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2100_0010_blt_0,,"Eh, ¿de verdad vamos a poder con esto<br>si seguimos así?"
+$ba_mako1_5010_2100_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2100_0020_cld_0,,"Antes de quejarte, dispara más."
+$ba_mako1_5010_2100_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2100_0030_blt_0,,El que está vagueando eres tú.
+$ba_mako1_5010_2100_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_2110_0010_blt_0,,"Joder, qué duro es."
+$ba_mako1_5010_2110_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2110_0020_cld_0,,"Si fuera fácil de destruir, no lo llamarían arma."
+$ba_mako1_5010_2110_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2110_0030_blt_0,,¿De qué lado estás?
+$ba_mako1_5010_2110_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_2130_0010_cld_0,,¿Tampoco funciona?
+$ba_mako1_5010_2130_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2140_0010_cld_0,,Disparar ahora es perder el tiempo.
+$ba_mako1_5010_2140_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2150_0010_blt_0,,No le entra.
+$ba_mako1_5010_2150_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2160_0010_blt_0,,Joder.<br>¿No hay forma de quitar esa barrera?
+$ba_mako1_5010_2160_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2170_0010_cld_0,,"Bien, ahora contraatacamos."
+$ba_mako1_5010_2170_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2170_0020_blt_0,,"¡Vamos, vamos, vamos!"
+$ba_mako1_5010_2170_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_2170_0030_cld_0,,Cállate y dispara.
+$ba_mako1_5010_2170_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2190_0010_blt_0,,¡Eso es!
+$ba_mako1_5010_2190_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2190_0020_cld_0,,¡Contraataque! Acabemos con esto de una vez.
+$ba_mako1_5010_2190_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2230_0010_cld_0,,Busco un hueco para entrar.
+$ba_mako1_5010_2230_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2240_0010_cld_0,,Hay posibilidades.
+$ba_mako1_5010_2240_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2250_0010_cld_0,,Atacar no lo es todo.
+$ba_mako1_5010_2250_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2260_0010_blt_0,,No haces más que estorbar.
+$ba_mako1_5010_2260_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2270_0010_blt_0,,Voy a por ti.
+$ba_mako1_5010_2270_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2280_0010_blt_0,,¡Yo me encargo!
+$ba_mako1_5010_2280_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2290_0010_cld_0,,Otra vez la barrera.
+$ba_mako1_5010_2290_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2300_0010_cld_0,,Puedo con ello.
+$ba_mako1_5010_2300_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2310_0010_cld_0,,Voy a quitarla.
+$ba_mako1_5010_2310_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2320_0010_blt_0,,¡Otra vez la barrera!
+$ba_mako1_5010_2320_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2330_0010_blt_0,,Qué pesado es el cabrón.
+$ba_mako1_5010_2330_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2340_0010_blt_0,,Te la romperé todas las veces que haga falta.
+$ba_mako1_5010_2340_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2800_0010_blt_0,,"Eh, ¿esto te parece un juego?"
+$ba_mako1_5010_2800_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2810_0010_blt_0,,No te escaquees.
+$ba_mako1_5010_2810_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2820_0010_blt_0,,Estás demasiado lejos. Ponte serio.
+$ba_mako1_5010_2820_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_2850_0010_cld_0,,¿Puedes disparar desde ahí?
+$ba_mako1_5010_2850_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_2860_0010_cld_0,,Ahora céntrate en el enemigo.
+$ba_mako1_5010_2860_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3000_0010_cld_0,,Va a disparar el láser.<br>Cuidado con la cola del escorpión.
+$ba_mako1_5010_3000_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3000_0020_blt_0,,¿Qué hago?
+$ba_mako1_5010_3000_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_3000_0030_cld_0,,"Si te da de lleno, no sobrevivirás.<br>Escóndete tras las vigas."
+$ba_mako1_5010_3000_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3040_0010_cld_0,,Otra vez. ¡El láser!
+$ba_mako1_5010_3040_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3040_0020_blt_0,,¡Ya lo sé!
+$ba_mako1_5010_3040_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_3040_0030_cld_0,,Entonces escóndete de una vez.
+$ba_mako1_5010_3040_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3050_0010_cld_0,,¡Ahí viene! ¡Corre!
+$ba_mako1_5010_3050_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3050_0020_blt_0,,¿No hay más remedio que esconderse?
+$ba_mako1_5010_3050_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_3050_0030_cld_0,,"Si quieres que te dé, allá tú."
+$ba_mako1_5010_3050_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3060_0010_cld_0,,Está preparando el disparo. No falles al escapar.
+$ba_mako1_5010_3060_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3060_0020_blt_0,,Preocúpate por ti.
+$ba_mako1_5010_3060_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_3070_0010_cld_0,,El siguiente también es láser.
+$ba_mako1_5010_3070_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3070_0020_blt_0,,"Qué pesado eres.<br>¡Que me esconda, ya está!"
+$ba_mako1_5010_3070_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_3070_0030_cld_0,,"Si lo sabes, muévete."
+$ba_mako1_5010_3070_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3080_0010_blt_0,,"Eh, ya viene otra vez."
+$ba_mako1_5010_3080_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3080_0020_cld_0,,Usa bien los obstáculos.
+$ba_mako1_5010_3080_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3080_0030_blt_0,,Qué lentitud.
+$ba_mako1_5010_3080_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_3090_0010_blt_0,,¿Otra vez el láser?
+$ba_mako1_5010_3090_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3090_0020_cld_0,,Las máquinas no se cansan ni se rinden.
+$ba_mako1_5010_3090_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3090_0030_blt_0,,Yo soy pesado y enrevesado.<br>¿Te ha quedado claro?
+$ba_mako1_5010_3090_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_3100_0010_blt_0,,"Sí, sí, el láser."
+$ba_mako1_5010_3100_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3100_0020_cld_0,,Cuando te confías es cuando más peligro hay.
+$ba_mako1_5010_3100_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3100_0030_blt_0,,No haces más que replicar.
+$ba_mako1_5010_3100_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_3110_0010_blt_0,,¿Otra vez?<br>¿Solo sabes hacer eso?
+$ba_mako1_5010_3110_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3110_0020_cld_0,,Solo sigue su programación.
+$ba_mako1_5010_3110_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3110_0030_blt_0,,"Vaya, qué sacrificio."
+$ba_mako1_5010_3110_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_3120_0010_cld_0,,Aprovecho el hueco tras su ataque. ¡Vamos!
+$ba_mako1_5010_3120_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3130_0010_cld_0,,¡Vamos al ataque!
+$ba_mako1_5010_3130_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3140_0010_blt_0,,¡Ahora! ¡No dejes escapar esta oportunidad!
+$ba_mako1_5010_3140_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3150_0010_blt_0,,¡Está abierto! Le voy a disparar sin parar.
+$ba_mako1_5010_3150_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3160_0010_cld_0,,Grábate sus patrones de ataque.
+$ba_mako1_5010_3160_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3170_0010_cld_0,,¿Por qué hay armamento militar en un reactor de mako...?
+$ba_mako1_5010_3170_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3180_0010_cld_0,,No dejes escapar el hueco.
+$ba_mako1_5010_3180_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3190_0010_blt_0,,Déjame descansar un poco.
+$ba_mako1_5010_3190_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3200_0010_blt_0,,¿Todavía no ha muerto?
+$ba_mako1_5010_3200_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3210_0010_blt_0,,"Qué duro es esto, joder."
+$ba_mako1_5010_3210_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_3850_0010_cld_0,,¿Adónde crees que vas?
+$ba_mako1_5010_3850_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_3860_0010_cld_0,,"Si quieres huir, hazlo."
+$ba_mako1_5010_3860_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4010_0010_blt_0,,"Eh, algo le pasa."
+$ba_mako1_5010_4010_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4010_0020_cld_0,,"¿Se autorrepara?<br>Date prisa, acabemos antes de que se cure."
+$ba_mako1_5010_4010_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4010_0030_blt_0,,¡Eso es! ¡Me estoy encendiendo!
+$ba_mako1_5010_4010_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_4020_0010_cld_0,,"La oportunidad llega cuando muestra un hueco.<br>Hasta entonces, aguanta."
+$ba_mako1_5010_4020_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4030_0010_cld_0,,Se ha echado atrás. ¡Atacamos ahora!
+$ba_mako1_5010_4030_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4030_0020_blt_0,,Lo voy a convertir en chatarra.
+$ba_mako1_5010_4030_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_4040_0010_cld_0,,Le voy a dar fuerte. No te quedes atrás.
+$ba_mako1_5010_4040_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4040_0020_blt_0,,Tú también.<br>No seas tacaño y no falles el remate.
+$ba_mako1_5010_4040_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_4050_0010_blt_0,,"Cuando llegue la oportunidad, le daré con todo.<br>Prepárate."
+$ba_mako1_5010_4050_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4060_0010_blt_0,,Sígueme.
+$ba_mako1_5010_4060_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4060_0020_cld_0,,No hay tiempo que perder. Entramos a la vez.
+$ba_mako1_5010_4060_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4070_0010_blt_0,,"Eh, ¿estás listo?<br>Empezamos."
+$ba_mako1_5010_4070_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4070_0020_cld_0,,Cuando quieras.
+$ba_mako1_5010_4070_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4080_0010_cld_0,,Sigo atacando.
+$ba_mako1_5010_4080_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4090_0010_cld_0,,Ya basta. Lo termino.
+$ba_mako1_5010_4090_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4100_0010_cld_0,,Falta un último empujón.
+$ba_mako1_5010_4100_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4110_0010_blt_0,,Voy a disparar sin parar.
+$ba_mako1_5010_4110_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4120_0010_blt_0,,No pienso rendirme aquí.
+$ba_mako1_5010_4120_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4130_0010_blt_0,,"¡Lo voy a conseguir, seguro!"
+$ba_mako1_5010_4130_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4860_0010_cld_0,,"¿Después de llegar hasta aquí, te vas?"
+$ba_mako1_5010_4860_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4900_0010_cld_0,,Con esto se acaba.
+$ba_mako1_5010_4900_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_4900_0020_blt_0,,¡Toma lo tuyo!
+$ba_mako1_5010_4900_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_4910_0010_blt_0,,¡Aplástalo!
+$ba_mako1_5010_4910_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_4910_0020_cld_0,,¿Lo hemos conseguido?
+$ba_mako1_5010_4910_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7040_0010_cld_0,,Le he destruido una pata.<br>No debería moverse en un rato.
+$ba_mako1_5010_7040_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7050_0010_cld_0,,"Las dos patas destruidas.<br>Ahora que ha perdido el equilibrio, es nuestra oportunidad."
+$ba_mako1_5010_7050_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7100_0010_blt_0,,Le he dado a la pata.<br>No podrá moverse en un rato.
+$ba_mako1_5010_7100_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7110_0010_blt_0,,Otro destruido. Está lleno de huecos.
+$ba_mako1_5010_7110_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7160_0010_cld_0,,¡Mierda!
+$ba_mako1_5010_7160_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7160_0020_blt_0,,"Eh, eh, esto pinta mal."
+$ba_mako1_5010_7160_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_7170_0010_cld_0,,Mal asunto.
+$ba_mako1_5010_7170_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7180_0010_blt_0,,¡¿Qué es esto?!
+$ba_mako1_5010_7180_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7180_0020_cld_0,,Nos está apuntando. Ten cuidado.
+$ba_mako1_5010_7180_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7190_0010_blt_0,,"Joder, ¿me está apuntando a mí?"
+$ba_mako1_5010_7190_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7200_0010_blt_0,,Qué trabajo me da...
+$ba_mako1_5010_7200_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7210_0010_blt_0,,Parece que le has caído bien al escorpión.
+$ba_mako1_5010_7210_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7240_0020_blt_0,,Eh...<br>¿No tienes nada que decirme?
+$ba_mako1_5010_7240_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_7250_0020_blt_0,,Que te salve un civil ya es el colmo.
+$ba_mako1_5010_7250_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_7260_0010_blt_0,,"Lo siento, no he llegado a tiempo."
+$ba_mako1_5010_7260_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7260_0020_cld_0,,No esperaba nada de ti desde el principio.
+$ba_mako1_5010_7260_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7270_0010_blt_0,,"Eh, ¿estás bien?"
+$ba_mako1_5010_7270_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7270_0020_cld_0,,No hay problema.
+$ba_mako1_5010_7270_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7280_0010_cld_0,,¿Qué estás haciendo?
+$ba_mako1_5010_7280_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7290_0010_cld_0,,Parece que levantarte no va a ser fácil.
+$ba_mako1_5010_7290_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7320_0010_blt_0,,"Vaya, ha valido la pena pagarte tanto."
+$ba_mako1_5010_7320_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7320_0020_cld_0,,Todavía no me lo has pagado.
+$ba_mako1_5010_7320_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7330_0010_blt_0,,¿Has dudado en ayudarme ahora?
+$ba_mako1_5010_7330_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7330_0020_cld_0,,Puede ser.
+$ba_mako1_5010_7330_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7340_0010_cld_0,,¿Puedes moverte?
+$ba_mako1_5010_7340_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7340_0020_blt_0,,"Si me hubieras ayudado,<br>habría podido moverme antes."
+$ba_mako1_5010_7340_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_7350_0010_cld_0,,¿Estás bien?
+$ba_mako1_5010_7350_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_7350_0020_blt_0,,"Si te preocupas, ayúdame."
+$ba_mako1_5010_7350_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_7400_0010_blt_0,,¿Qué? ¿Te has acobardado?
+$ba_mako1_5010_7400_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_7410_0010_cld_0,,Eres un aficionado.
+$ba_mako1_5010_7410_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8000_0010_cld_0,,Necesito curarme.
+$ba_mako1_5010_8000_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8010_0010_cld_0,,No puedo ignorar este daño.
+$ba_mako1_5010_8010_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8020_0010_cld_0,,Me curo y me recompongo.
+$ba_mako1_5010_8020_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8030_0010_cld_0,,Mal. Necesito curarme.
+$ba_mako1_5010_8030_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8040_0010_cld_0,,Aprovecharé un hueco para curarme.
+$ba_mako1_5010_8040_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8050_0010_cld_0,,Así no puedo seguir. Tengo que curarme.
+$ba_mako1_5010_8050_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8060_0010_blt_0,,"Eh, ¿quieres que lo haga yo solo?"
+$ba_mako1_5010_8060_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8070_0010_blt_0,,¿Así que esto es todo lo que valen los SOLDIER?
+$ba_mako1_5010_8070_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8080_0010_blt_0,,¡No te me duermas!
+$ba_mako1_5010_8080_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8090_0010_blt_0,,"Si me curo, aún puedo seguir."
+$ba_mako1_5010_8090_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8100_0010_blt_0,,Hace lo que le da la gana. ¡Cómo duele!
+$ba_mako1_5010_8100_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8110_0010_blt_0,,Solo son rasguños. No me importan.
+$ba_mako1_5010_8110_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8120_0010_blt_0,,No pienso dejar que un escorpión como este me venza.
+$ba_mako1_5010_8120_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8130_0010_blt_0,,"Si no me curo pronto, vamos mal."
+$ba_mako1_5010_8130_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8140_0010_blt_0,,El cuerpo me pesa. Me curo ahora que puedo.
+$ba_mako1_5010_8140_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8150_0010_cld_0,,Solo hemos perdido un estorbo.
+$ba_mako1_5010_8150_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8160_0010_cld_0,,"Eh, te voy a dejar atrás."
+$ba_mako1_5010_8160_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8170_0010_cld_0,,"Esta es tu lucha, ¿no?"
+$ba_mako1_5010_8170_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8180_0010_blt_0,,"Eh, ¿y lo demás?<br>¿Se te ha olvidado con el golpe?"
+$ba_mako1_5010_8180_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8180_0020_cld_0,,No era nada importante.
+$ba_mako1_5010_8180_0020_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8180_0030_blt_0,,Claro que te importa.
+$ba_mako1_5010_8180_0030_blt_0,ACTOR,Barret
+$ba_mako1_5010_8190_0010_blt_0,,Espabila.<br>Se supone que eres un SOLDIER.
+$ba_mako1_5010_8190_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8200_0010_blt_0,,"Te han dado bien, ¿eh?"
+$ba_mako1_5010_8200_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8210_0010_cld_0,,¿Y el resto de la historia?
+$ba_mako1_5010_8210_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8210_0020_blt_0,,"Eh... nada, olvídalo."
+$ba_mako1_5010_8210_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_8210_0030_cld_0,,Entonces vale.
+$ba_mako1_5010_8210_0030_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8220_0010_cld_0,,Ya hablaremos luego.
+$ba_mako1_5010_8220_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8230_0010_cld_0,,Céntrate en el combate.
+$ba_mako1_5010_8230_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8300_0010_cld_0,,"Vamos, es la oportunidad de atacar."
+$ba_mako1_5010_8300_0010_cld_0,ACTOR,Cloud
+$ba_mako1_5010_8300_0020_blt_0,,He guardado esto hasta ahora.<br>¡Voy a soltarlo todo!
+$ba_mako1_5010_8300_0020_blt_0,ACTOR,Barret
+$ba_mako1_5010_8350_0010_blt_0,,¡Ya está! Es nuestro turno.
+$ba_mako1_5010_8350_0010_blt_0,ACTOR,Barret
+$ba_mako1_5010_8350_0020_cld_0,,Le doy con todo.
+$ba_mako1_5010_8350_0020_cld_0,ACTOR,Cloud
+$ev_mako1_0020_0010_kb99_0,,
+$ev_mako1_0020_0010_kb99_0,ACTOR,
+$ev_mako1_0020_0020_kb79_0,,
+$ev_mako1_0020_0020_kb79_0,ACTOR,
+$ev_mako1_0020_0030_big_0,,
+$ev_mako1_0020_0030_big_0,ACTOR,
+$ev_mako1_0020_0040_jec_0,,
+$ev_mako1_0020_0040_jec_0,ACTOR,
+$ev_mako1_0020_0050_big_0,,
+$ev_mako1_0020_0050_big_0,ACTOR,
+$ev_mako1_0020_0060_wed_0,,
+$ev_mako1_0020_0060_wed_0,ACTOR,
+$ev_mako1_0020_0070_ev1_0,,
+$ev_mako1_0020_0070_ev1_0,ACTOR,
+$ev_mako1_0020_0080_ev1_0,,
+$ev_mako1_0020_0080_ev1_0,ACTOR,
+$ev_mako1_0020_0090_blt_0,,
+$ev_mako1_0020_0090_blt_0,ACTOR,
+$ev_mako1_0020_0100_ev1_0,,
+$ev_mako1_0020_0100_ev1_0,ACTOR,
+$ev_mako1_0020_0110_ev1_0,,
+$ev_mako1_0020_0110_ev1_0,ACTOR,
+$ev_mako1_0020_0120_wed_0,,
+$ev_mako1_0020_0120_wed_0,ACTOR,
+$ev_mako1_0020_0130_blt_0,,"¡Vamos, novato!"
+$ev_mako1_0020_0130_blt_0,ACTOR,Barret
+$ev_mako1_0020_0140_cld_0,,
+$ev_mako1_0020_0140_cld_0,ACTOR,
+$ev_mako1_0020_0150_cld_0,,
+$ev_mako1_0020_0150_cld_0,ACTOR,
+$ev_mako1_0030_0010_kb01_0,,¡Detente!
+$ev_mako1_0030_0010_kb01_0,ACTOR,Centinela
+$ev_mako1_0030_0020_kb02_0,,¿Quién eres?
+$ev_mako1_0030_0020_kb02_0,ACTOR,Centinela
+$ev_mako1_0030_0040_blt_0,,Es tu turno.
+$ev_mako1_0030_0040_blt_0,ACTOR,Barret
+$ev_mako1_0040_0000_kb05_0,,¿Qué pasa?
+$ev_mako1_0040_0000_kb05_0,ACTOR,Centinela
+$ev_mako1_0040_0010_kb06_0,,"Eh, detente."
+$ev_mako1_0040_0010_kb06_0,ACTOR,Centinela
+$ev_mako1_0040_0011_wed_0,,
+$ev_mako1_0040_0011_wed_0,ACTOR,
+$ev_mako1_0040_0012_jec_0,,
+$ev_mako1_0040_0012_jec_0,ACTOR,
+$ev_mako1_0040_0013_big_0,,
+$ev_mako1_0040_0013_big_0,ACTOR,
+$ev_mako1_0040_0014_jec_0,,
+$ev_mako1_0040_0014_jec_0,ACTOR,
+$ev_mako1_0040_0020_jec_0,,Buen trabajo.
+$ev_mako1_0040_0020_jec_0,ACTOR,Jessie
+$ev_mako1_0040_0030_cld_0,,
+$ev_mako1_0040_0030_cld_0,ACTOR,
+$ev_mako1_0060_0000_kb10_0,,Deja de resistirte.
+$ev_mako1_0060_0000_kb10_0,ACTOR,Centinela
+$ev_mako1_0060_0001_ev1_0,,
+$ev_mako1_0060_0001_ev1_0,ACTOR,
+$ev_mako1_0060_0010_big_0,,Como estaba planeado.
+$ev_mako1_0060_0010_big_0,ACTOR,Biggs
+$ev_mako1_0060_0020_wed_0,,"Como siempre, señor."
+$ev_mako1_0060_0020_wed_0,ACTOR,Wedge
+$ev_mako1_0070_0005_wed_0,,
+$ev_mako1_0070_0005_wed_0,ACTOR,
+$ev_mako1_0070_0010_jec_0,,¿Y qué? ¿Un SOLDIER se va a unir a nosotros?
+$ev_mako1_0070_0010_jec_0,ACTOR,Jessie
+$ev_mako1_0070_0010_jec_1,,Ese hombre está renunciando a su carrera.
+$ev_mako1_0070_0010_jec_1,ACTOR,Jessie
+$ev_mako1_0070_0010_jec_2,,Eh... ¿cómo se llamaba?
+$ev_mako1_0070_0010_jec_2,ACTOR,Jessie
+$ev_mako1_0070_0020_big_0,,"Dice que es un ""ex"" SOLDIER."
+$ev_mako1_0070_0020_big_0,ACTOR,Biggs
+$ev_mako1_0070_0020_big_1,,"Si vamos a apostar por las armas,<br>necesitamos a un profesional."
+$ev_mako1_0070_0020_big_1,ACTOR,Biggs
+$ev_mako1_0070_0020_big_2,,Yo le doy la bienvenida.
+$ev_mako1_0070_0020_big_2,ACTOR,Biggs
+$ev_mako1_0070_0020_big_3,,Su nombre es Cloud Strife.
+$ev_mako1_0070_0020_big_3,ACTOR,Biggs
+$ev_mako1_0070_0021_jec_0,,
+$ev_mako1_0070_0021_jec_0,ACTOR,Jessie
+$ev_mako1_0070_0030_wed_0,,
+$ev_mako1_0070_0030_wed_0,ACTOR,
+$ev_mako1_0070_0040_cld_0,,No me metas en el grupo sin preguntar.
+$ev_mako1_0070_0040_cld_0,ACTOR,Cloud
+$ev_mako1_0070_0040_cld_1,,"Cuando acabe el trabajo, soy un desconocido."
+$ev_mako1_0070_0040_cld_1,ACTOR,Cloud
+$ev_mako1_0070_0045_wed_0,,
+$ev_mako1_0070_0045_wed_0,ACTOR,
+$ev_mako1_0070_0050_ev1_0,,
+$ev_mako1_0070_0050_ev1_0,ACTOR,
+$ev_mako1_0090_0010_blt_0,,
+$ev_mako1_0090_0010_blt_0,ACTOR,
+$ev_mako1_0090_0020_cld_0,,
+$ev_mako1_0090_0020_cld_0,ACTOR,
+$ev_mako1_0090_0030_wed_0,,"Si solo fuera por dinero,<br>no habría llegado hasta aquí, ¿verdad?"
+$ev_mako1_0090_0030_wed_0,ACTOR,Wedge
+$ev_mako1_0090_0030_wed_1,,Seguro que a Cloud también le importa<br>el futuro del planeta tanto como a nosotros.
+$ev_mako1_0090_0030_wed_1,ACTOR,Wedge
+$ev_mako1_0090_0031_blt_0,,
+$ev_mako1_0090_0031_blt_0,ACTOR,
+$ev_mako1_0090_0040_cld_0,,No me interesa.
+$ev_mako1_0090_0040_cld_0,ACTOR,Cloud
+$ev_mako1_0090_0050_wed_0,,
+$ev_mako1_0090_0050_wed_0,ACTOR,
+$ev_mako1_0090_0060_ev1_0,,
+$ev_mako1_0090_0060_ev1_0,ACTOR,
+$ev_mako1_0090_0070_blt_0,,Wedge.
+$ev_mako1_0090_0070_blt_0,ACTOR,Barret
+$ev_mako1_0090_0080_wed_0,,
+$ev_mako1_0090_0080_wed_0,ACTOR,
+$ev_mako1_0090_0090_blt_0,,Te pagamos bien.<br>No nos decepciones.
+$ev_mako1_0090_0090_blt_0,ACTOR,Barret
+$ev_mako1_0090_0100_cld_0,,
+$ev_mako1_0090_0100_cld_0,ACTOR,
+$ev_mako1_0132_0049_big_0,,
+$ev_mako1_0132_0049_big_0,ACTOR,
+$ev_mako1_0132_0050_big_0,,Ahí están. Ahí están. Encárgate.
+$ev_mako1_0132_0050_big_0,ACTOR,Biggs
+$ev_mako1_0132_0060_cld_0,,
+$ev_mako1_0132_0060_cld_0,ACTOR,
+$ev_mako1_0132_0070_cld_0,,
+$ev_mako1_0132_0070_cld_0,ACTOR,
+$ev_mako1_0160_0010_blt_0,,Capaces de romperle el brazo a un niño.<br>Los SOLDIER son los perros guardianes de Shinra.
+$ev_mako1_0160_0010_blt_0,ACTOR,Barret
+$ev_mako1_0160_0010_blt_1,,"No es tu primer reactor de mako, ¿verdad?"
+$ev_mako1_0160_0010_blt_1,ACTOR,Barret
+$ev_mako1_0160_0030_blt_0,,Llévame hasta la pasarela del depósito de mako.
+$ev_mako1_0160_0030_blt_0,ACTOR,Barret
+$ev_mako1_0160_0031_cld_0,,
+$ev_mako1_0160_0031_cld_0,ACTOR,
+$ev_mako1_0160_0040_blt_0,,¿Que no quieres decírmelo?
+$ev_mako1_0160_0040_blt_0,ACTOR,Barret
+$ev_mako1_0160_0040_blt_1,,Negarte no sirve de nada.<br>El plan ya estaba hecho sin ti.
+$ev_mako1_0160_0040_blt_1,ACTOR,Barret
+$ev_mako1_0160_0040_blt_2,,"Vaya, todavía le tienes cariño a Shinra."
+$ev_mako1_0160_0040_blt_2,ACTOR,Barret
+$ev_mako1_0160_0040_blt_3,,¿El perrito fiel de Stamp?
+$ev_mako1_0160_0040_blt_3,ACTOR,Barret
+$ev_mako1_0160_0050_cld_0,,
+$ev_mako1_0160_0050_cld_0,ACTOR,
+$ev_mako1_0160_0060_cld_0,,La estructura de los reactores de mako cambia<br>según cuándo se construyeron.
+$ev_mako1_0160_0060_cld_0,ACTOR,Cloud
+$ev_mako1_0160_0060_cld_1,,"Es la primera vez que veo este modelo,<br>pero nos las arreglaremos."
+$ev_mako1_0160_0060_cld_1,ACTOR,Cloud
+$ev_mako1_0180_0000_kb30_0,,¿Quién anda ahí?
+$ev_mako1_0180_0000_kb30_0,ACTOR,Centinela
+$ev_mako1_0180_0010_kb30_0,,¡Ciérrala!
+$ev_mako1_0180_0010_kb30_0,ACTOR,Centinela
+$ev_mako1_0180_0011_blt_0,,
+$ev_mako1_0180_0011_blt_0,ACTOR,Barret
+$ev_mako1_0180_0012_cld_0,,
+$ev_mako1_0180_0012_cld_0,ACTOR,
+$ev_mako1_0180_0020_kb31_0,,Ríndete.
+$ev_mako1_0180_0020_kb31_0,ACTOR,Centinela
+$ev_mako1_0180_0030_cld_0,,Eso mismo te digo.
+$ev_mako1_0180_0030_cld_0,ACTOR,Cloud
+$ev_mako1_0200_0010_jec_0,,Un camarada de la facción consiguió<br>la información del código de acceso.
+$ev_mako1_0200_0010_jec_0,ACTOR,Jessie
+$ev_mako1_0200_0010_jec_1,,La facción está por aquí.<br>Tuvimos discrepancias sobre cómo actuar.
+$ev_mako1_0200_0010_jec_1,ACTOR,Jessie
+$ev_mako1_0200_0010_jec_2,,"Listo, desbloqueado."
+$ev_mako1_0200_0010_jec_2,ACTOR,Jessie
+$ev_mako1_0200_0020_jec_0,,
+$ev_mako1_0200_0020_jec_0,ACTOR,
+$ev_mako1_0200_0030_big_0,,¡Ánimo!
+$ev_mako1_0200_0030_big_0,ACTOR,Biggs
+$ev_mako1_0200_0045_jec_0,,
+$ev_mako1_0200_0045_jec_0,ACTOR,
+$ev_mako1_0210_0010_jec_0,,
+$ev_mako1_0210_0010_jec_0,ACTOR,
+$ev_mako1_0210_0020_jec_0,,"Eres amigo de Tifa, ¿no?"
+$ev_mako1_0210_0020_jec_0,ACTOR,Jessie
+$ev_mako1_0210_0020_jec_1,,Te lo pregunto con toda la curiosidad del mundo:<br>¿de qué la conoces?
+$ev_mako1_0210_0020_jec_1,ACTOR,Jessie
+$ev_mako1_0210_0030_cld_0,,
+$ev_mako1_0210_0030_cld_0,ACTOR,
+$ev_mako1_0220_0005_tif_0,,
+$ev_mako1_0220_0005_tif_0,ACTOR,
+$ev_mako1_0220_0010_tif_0,,¡Cloud!
+$ev_mako1_0220_0010_tif_0,ACTOR,Tifa
+$ev_mako1_0220_0020_tif_0,,Otra vez me has ignorado.
+$ev_mako1_0220_0020_tif_0,ACTOR,Tifa
+$ev_mako1_0220_0030_tif_0,,
+$ev_mako1_0220_0030_tif_0,ACTOR,
+$ev_mako1_0230_0010_cld_0,,Nosotros...
+$ev_mako1_0230_0010_cld_0,ACTOR,Cloud
+$ev_mako1_0230_0020_jec_0,,
+$ev_mako1_0230_0020_jec_0,ACTOR,
+$ev_mako1_0230_0030_jec_0,,
+$ev_mako1_0230_0030_jec_0,ACTOR,
+$ev_mako1_0230_0040_cld_0,,
+$ev_mako1_0230_0040_cld_0,ACTOR,
+$ev_mako1_0230_0050_blt_0,,
+$ev_mako1_0230_0050_blt_0,ACTOR,
+$ev_mako1_0240_0010_hyd_0,,"Estas ratas se hacen llamar<br>""Avalancha"", señor."
+$ev_mako1_0240_0010_hyd_0,ACTOR,Heidegger
+$ev_mako1_0240_0010_hyd_1,,"Sin embargo, se desconoce su relación con aquella Avalancha<br>que atentó contra la vida del presidente."
+$ev_mako1_0240_0010_hyd_1,ACTOR,Heidegger
+$ev_mako1_0240_0010_hyd_2,,"La investigación sigue en curso,<br>así que le ruego un poco más de tiempo."
+$ev_mako1_0240_0010_hyd_2,ACTOR,Heidegger
+$ev_mako1_0240_0020_pre_0,,
+$ev_mako1_0240_0020_pre_0,ACTOR,
+$ev_mako1_0250_0010_blt_0,,Mientras comes<br>o mientras duermes.
+$ev_mako1_0250_0010_blt_0,ACTOR,Barret
+$ev_mako1_0250_0010_blt_1,,Sin descanso y sin piedad.
+$ev_mako1_0250_0010_blt_1,ACTOR,Barret
+$ev_mako1_0250_0010_blt_2,,"El mako es la ""sangre"" de este planeta."
+$ev_mako1_0250_0010_blt_2,ACTOR,Barret
+$ev_mako1_0250_0010_blt_3,,"Entonces,<br>¿qué pasa si sigue absorbiéndolo?"
+$ev_mako1_0250_0010_blt_3,ACTOR,Barret
+$ev_mako1_0250_0010_blt_4,,Esta bomba gigantesca<br>absorbe el mako sin parar.
+$ev_mako1_0250_0010_blt_4,ACTOR,Barret
+$ev_mako1_0250_0010_blt_5,,¿Sabes qué es realmente el mako?
+$ev_mako1_0250_0010_blt_5,ACTOR,Barret
+$ev_mako1_0250_0010_blt_6,,Lo mismo que la sangre roja<br>que corre por nuestras venas.
+$ev_mako1_0250_0010_blt_6,ACTOR,Barret
+$ev_mako1_0250_0011_cld_0,,
+$ev_mako1_0250_0011_cld_0,ACTOR,
+$ev_mako1_0250_0020_jec_0,,
+$ev_mako1_0250_0020_jec_0,ACTOR,
+$ev_mako1_0250_0030_blt_0,,¿No oyes los gritos del planeta?
+$ev_mako1_0250_0030_blt_0,ACTOR,Barret
+$ev_mako1_0250_0030_blt_1,,¡Cloud!
+$ev_mako1_0250_0030_blt_1,ACTOR,Barret
+$ev_mako1_0250_0040_cld_0,,¿Tú los oyes?
+$ev_mako1_0250_0040_cld_0,ACTOR,Cloud
+$ev_mako1_0250_0050_blt_0,,Pues claro.
+$ev_mako1_0250_0050_blt_0,ACTOR,Barret
+$ev_mako1_0250_0060_cld_0,,Ve al médico.
+$ev_mako1_0250_0060_cld_0,ACTOR,Cloud
+$ev_mako1_0250_0061_jec_0,,
+$ev_mako1_0250_0061_jec_0,ACTOR,
+$ev_mako1_0250_0070_blt_0,,
+$ev_mako1_0250_0070_blt_0,ACTOR,
+$ev_mako1_0250_0080_blt_0,,¡Tú!
+$ev_mako1_0250_0080_blt_0,ACTOR,Barret
+$ev_mako1_0250_0081_blt_0,,
+$ev_mako1_0250_0081_blt_0,ACTOR,
+$ev_mako1_0250_0090_cld_0,,Preocúpate menos por el futuro del planeta<br>y más por los próximos cinco segundos.
+$ev_mako1_0250_0090_cld_0,ACTOR,Cloud
+$ev_mako1_0250_0090_cld_1,,Me encantaría oírte gritar.
+$ev_mako1_0250_0090_cld_1,ACTOR,Cloud
+$ev_mako1_0250_0100_jec_0,,
+$ev_mako1_0250_0100_jec_0,ACTOR,
+$ev_mako1_0250_0110_blt_0,,
+$ev_mako1_0250_0110_blt_0,ACTOR,
+$ev_mako1_0260_0000_blt_0,,"A partir de aquí, con cuidado."
+$ev_mako1_0260_0000_blt_0,ACTOR,Barret
+$ev_mako1_0260_0005_blt_0,,Si haces un solo movimiento raro...
+$ev_mako1_0260_0005_blt_0,ACTOR,Barret
+$ev_mako1_0260_0010_blt_0,,No tendré piedad.
+$ev_mako1_0260_0010_blt_0,ACTOR,Barret
+$ev_mako1_0260_0020_jec_0,,Un arma de seguridad de repetición a media distancia.
+$ev_mako1_0260_0020_jec_0,ACTOR,Jessie
+$ev_mako1_0260_0025_jec_0,,"Con la espada de Cloud, la lucha será dura."
+$ev_mako1_0260_0025_jec_0,ACTOR,Jessie
+$ev_mako1_0260_0029_jec_0,,
+$ev_mako1_0260_0029_jec_0,ACTOR,
+$ev_mako1_0260_0030_jec_0,,"Aunque sea molesto, aguanta."
+$ev_mako1_0260_0030_jec_0,ACTOR,Jessie
+$ev_mako1_0260_0031_cld_0,,
+$ev_mako1_0260_0031_cld_0,ACTOR,
+$ev_mako1_0260_0040_blt_0,,
+$ev_mako1_0260_0040_blt_0,ACTOR,
+$ev_mako1_0260_0050_cld_0,,No me decepciones.
+$ev_mako1_0260_0050_cld_0,ACTOR,Cloud
+$ev_mako1_0260_0053_jec_0,,
+$ev_mako1_0260_0053_jec_0,ACTOR,
+$ev_mako1_0260_0060_blt_0,,
+$ev_mako1_0260_0060_blt_0,ACTOR,
+$ev_mako1_0260_0070_cld_0,,
+$ev_mako1_0260_0070_cld_0,ACTOR,
+$ev_mako1_0260_0080_cld_0,,
+$ev_mako1_0260_0080_cld_0,ACTOR,
+$ev_mako1_0310_0020_jec_0,,Este es el corazón del reactor de mako.
+$ev_mako1_0310_0020_jec_0,ACTOR,Jessie
+$ev_mako1_0310_0020_jec_1,,Hay que colocar la bomba ahí.
+$ev_mako1_0310_0020_jec_1,ACTOR,Jessie
+$ev_mako1_0340_0010_cld_0,,
+$ev_mako1_0340_0010_cld_0,ACTOR,
+$ev_mako1_0340_0011_blt_0,,
+$ev_mako1_0340_0011_blt_0,ACTOR,
+$ev_mako1_0340_0020_blt_0,,"Bien, demuestra que no eres<br>el perro que Shinra envió."
+$ev_mako1_0340_0020_blt_0,ACTOR,Barret
+$ev_mako1_0340_0030_cld_0,,
+$ev_mako1_0340_0030_cld_0,ACTOR,
+$ev_mako1_0340_0040_blt_0,,Tú pones la bomba.
+$ev_mako1_0340_0040_blt_0,ACTOR,Barret
+$ev_mako1_0340_0040_blt_1,,Si quieres ser de los nuestros...
+$ev_mako1_0340_0040_blt_1,ACTOR,Barret
+$ev_mako1_0340_0040_blt_2,,Que seas amigo de Tifa no basta para confiar en ti.
+$ev_mako1_0340_0040_blt_2,ACTOR,Barret
+$ev_mako1_0340_0050_cld_0,,No me lo repitas.<br>Solo me han contratado.
+$ev_mako1_0340_0050_cld_0,ACTOR,Cloud
+$ev_mako1_0340_0060_blt_0,,Entonces hazlo y cállate.
+$ev_mako1_0340_0060_blt_0,ACTOR,Barret
+$ev_mako1_0340_0070_cld_0,,
+$ev_mako1_0340_0070_cld_0,ACTOR,
+$ev_mako1_0340_0080_blt_0,,
+$ev_mako1_0340_0080_blt_0,ACTOR,
+$ev_mako1_0340_0090_cld_0,,
+$ev_mako1_0340_0090_cld_0,ACTOR,
+$ev_mako1_0340_0100_cld_0,,
+$ev_mako1_0340_0100_cld_0,ACTOR,
+$ev_mako1_0340_0110_blt_0,,¿Qué pasa?
+$ev_mako1_0340_0110_blt_0,ACTOR,Barret
+$ev_mako1_0340_0120_cld_0,,
+$ev_mako1_0340_0120_cld_0,ACTOR,
+$ev_mako1_0340_0140_cld_0,,
+$ev_mako1_0340_0140_cld_0,ACTOR,
+$ev_mako1_0340_0141_blt_0,,
+$ev_mako1_0340_0141_blt_0,ACTOR,
+$ev_mako1_0340_0150_cld_0,,No hay problema.
+$ev_mako1_0340_0150_cld_0,ACTOR,Cloud
+$ev_mako1_0340_0160_cld_0,,¿Qué hacemos con el temporizador?
+$ev_mako1_0340_0160_cld_0,ACTOR,Cloud
+$ev_mako1_0340_0180_blt_0,,Tú decides.
+$ev_mako1_0340_0180_blt_0,ACTOR,Barret
+$ev_mako1_0340_0200_blt_0,,"Estás muy seguro, ¿eh?"
+$ev_mako1_0340_0200_blt_0,ACTOR,Barret
+$ev_mako1_0340_0220_blt_0,,Qué miedica.
+$ev_mako1_0340_0220_blt_0,ACTOR,Barret
+$ev_mako1_0340_9000_cut0_0,,¿Cuántos minutos pongo?
+$ev_mako1_0340_9000_cut0_0,ACTOR,
+$ev_mako1_0340_9001_cut1_0,,20 minutos.
+$ev_mako1_0340_9001_cut1_0,ACTOR,
+$ev_mako1_0340_9002_cut2_0,,30 minutos.
+$ev_mako1_0340_9002_cut2_0,ACTOR,
+$ev_mako1_0350_0000_cld_0,,
+$ev_mako1_0350_0000_cld_0,ACTOR,
+$ev_mako1_0350_0001_blt_0,,
+$ev_mako1_0350_0001_blt_0,ACTOR,
+$ev_mako1_0350_0010_blt_0,,Me has engañado.
+$ev_mako1_0350_0010_blt_0,ACTOR,Barret
+$ev_mako1_0350_0011_cld_0,,
+$ev_mako1_0350_0011_cld_0,ACTOR,
+$ev_mako1_0350_0100_cld_0,,Ahí viene.
+$ev_mako1_0350_0100_cld_0,ACTOR,Cloud
+$ev_mako1_0350_0101_blt_0,,
+$ev_mako1_0350_0101_blt_0,ACTOR,Barret
+$ev_mako1_0357_0010_blt_0,,
+$ev_mako1_0357_0010_blt_0,ACTOR,
+$ev_mako1_0357_0020_cld_0,,
+$ev_mako1_0357_0020_cld_0,ACTOR,
+$ev_mako1_0360_0010_cld_0,,
+$ev_mako1_0360_0010_cld_0,ACTOR,
+$ev_mako1_0360_0020_blt_0,,
+$ev_mako1_0360_0020_blt_0,ACTOR,
+$ev_mako1_0360_0021_cld_0,,
+$ev_mako1_0360_0021_cld_0,ACTOR,
+$ev_mako1_0360_0030_blt_0,,
+$ev_mako1_0360_0030_blt_0,ACTOR,
+$ev_mako1_0360_0031_cld_0,,
+$ev_mako1_0360_0031_cld_0,ACTOR,
+$ev_mako1_0360_0032_blt_0,,
+$ev_mako1_0360_0032_blt_0,ACTOR,
+$ev_mako1_0360_0033_cld_0,,
+$ev_mako1_0360_0033_cld_0,ACTOR,
+$ev_mako1_0360_0040_cld_0,,"¡Rápido, salgamos!"
+$ev_mako1_0360_0040_cld_0,ACTOR,Cloud
+$ev_mako1_0360_0059_blt_0,,
+$ev_mako1_0360_0059_blt_0,ACTOR,
+$ev_mako1_0360_0060_blt_0,,¡Joder! No puedo acercarme.
+$ev_mako1_0360_0060_blt_0,ACTOR,Barret
+$ev_mako1_0360_0070_ana_0,,Faltan 20 minutos para la detonación.
+$ev_mako1_0360_0070_ana_0,ACTOR,Voz digital
+$ev_mako1_0360_0080_ana_0,,Faltan 30 minutos para la detonación.
+$ev_mako1_0360_0080_ana_0,ACTOR,Voz digital
+$ev_mako1_0360_0098_blt_0,,
+$ev_mako1_0360_0098_blt_0,ACTOR,
+$ev_mako1_0360_0100_blt_0,,Esto está bien.
+$ev_mako1_0360_0100_blt_0,ACTOR,Barret
+$ev_mako1_0360_0100_blt_1,,El premio al mérito se lo doy a ese escorpión.
+$ev_mako1_0360_0100_blt_1,ACTOR,Barret
+$ev_mako1_0370_0000_cld_0,,
+$ev_mako1_0370_0000_cld_0,ACTOR,
+$ev_mako1_0370_0000_cld_1,,
+$ev_mako1_0370_0000_cld_1,ACTOR,
+$ev_mako1_0370_0002_jec_0,,
+$ev_mako1_0370_0002_jec_0,ACTOR,
+$ev_mako1_0370_0002_jec_1,,
+$ev_mako1_0370_0002_jec_1,ACTOR,
+$ev_mako1_0390_0020_jec_0,,¡Qué despiste! Se me ha quedado la pierna atrapada.
+$ev_mako1_0390_0020_jec_0,ACTOR,Jessie
+$ev_mako1_0390_0030_cld_0,,
+$ev_mako1_0390_0030_cld_0,ACTOR,
+$ev_mako1_0390_0040_jec_0,,
+$ev_mako1_0390_0040_jec_0,ACTOR,
+$ev_mako1_0390_0050_jec_0,,Gracias.
+$ev_mako1_0390_0050_jec_0,ACTOR,Jessie
+$ev_mako1_0390_0060_blt_0,,"Eh, nos reunimos allí.<br>Cuida de Jessie."
+$ev_mako1_0390_0060_blt_0,ACTOR,Barret
+$ev_mako1_0390_0070_jec_0,,"¡Por aquí, por aquí!"
+$ev_mako1_0390_0070_jec_0,ACTOR,Jessie
+$ev_mako1_0405_0010_jec_0,,¡Barret!
+$ev_mako1_0405_0010_jec_0,ACTOR,Jessie
+$ev_mako1_0405_0020_blt_0,,"Ve delante, Jessie."
+$ev_mako1_0405_0020_blt_0,ACTOR,Barret
+$ev_mako1_0405_0020_blt_1,,Lo primero es abrir la puerta.
+$ev_mako1_0405_0020_blt_1,ACTOR,Barret
+$ev_mako1_0405_0030_jec_0,,Pero...
+$ev_mako1_0405_0030_jec_0,ACTOR,Jessie
+$ev_mako1_0405_0040_blt_0,,Aquí no hay problema.
+$ev_mako1_0405_0040_blt_0,ACTOR,Barret
+$ev_mako1_0405_0040_blt_1,,El señorito SOLDIER está conmigo.
+$ev_mako1_0405_0040_blt_1,ACTOR,Barret
+$ev_mako1_0405_0041_jec_0,,
+$ev_mako1_0405_0041_jec_0,ACTOR,
+$ev_mako1_0405_0050_cld_0,,Ex-SOLDIER.
+$ev_mako1_0405_0050_cld_0,ACTOR,Cloud
+$ev_mako1_0430_0010_hyd_0,,
+$ev_mako1_0430_0010_hyd_0,ACTOR,Heidegger
+$ev_mako1_0450_0002_blt_0,,
+$ev_mako1_0450_0002_blt_0,ACTOR,
+$ev_mako1_0450_0010_blt_0,,"¡Corre, corre, corre, corre!"
+$ev_mako1_0450_0010_blt_0,ACTOR,Barret
+$ev_mako1_0450_0011_cld_0,,
+$ev_mako1_0450_0011_cld_0,ACTOR,
+$ev_mako1_0450_0012_blt_0,,
+$ev_mako1_0450_0012_blt_0,ACTOR,
+$ev_mako1_0450_0020_blt_0,,
+$ev_mako1_0450_0020_blt_0,ACTOR,
+$ev_mako1_0450_0030_blt_0,,
+$ev_mako1_0450_0030_blt_0,ACTOR,
+$ev_mako1_0450_0040_cld_0,,
+$ev_mako1_0450_0040_cld_0,ACTOR,
+$ev_mako1_0510_0000_cld_0,,
+$ev_mako1_0510_0000_cld_0,ACTOR,
+$ev_mako1_0510_0020_cld_0,,¿Puedes levantarte?
+$ev_mako1_0510_0020_cld_0,ACTOR,Cloud
+$ev_mako1_0510_0029_jec_0,,
+$ev_mako1_0510_0029_jec_0,ACTOR,
+$ev_mako1_0510_0030_jec_0,,He fingido caerme<br>para que me ayudaras.
+$ev_mako1_0510_0030_jec_0,ACTOR,Jessie
+$ev_mako1_0510_0031_jec_0,,
+$ev_mako1_0510_0031_jec_0,ACTOR,
+$ev_mako1_0510_0040_cld_0,,Tu actuación era convincente.
+$ev_mako1_0510_0040_cld_0,ACTOR,Cloud
+$ev_mako1_0510_0041_cld_0,,
+$ev_mako1_0510_0041_cld_0,ACTOR,
+$ev_mako1_0510_0042_jec_0,,
+$ev_mako1_0510_0042_jec_0,ACTOR,
+$ev_mako1_0510_0043_jec_0,,
+$ev_mako1_0510_0043_jec_0,ACTOR,
+$ev_mako1_0510_0050_cld_0,,
+$ev_mako1_0510_0050_cld_0,ACTOR,
+$ev_mako1_0510_0060_jec_0,,
+$ev_mako1_0510_0060_jec_0,ACTOR,
+$ev_mako1_0510_0070_jec_0,,¡Cloud!
+$ev_mako1_0510_0070_jec_0,ACTOR,Jessie
+$ev_mako1_0510_0080_cld_0,,
+$ev_mako1_0510_0080_cld_0,ACTOR,
+$ev_mako1_0510_0090_cld_0,,
+$ev_mako1_0510_0090_cld_0,ACTOR,
+$ev_mako1_0510_0100_cld_0,,
+$ev_mako1_0510_0100_cld_0,ACTOR,
+$ev_mako1_0510_0110_cld_0,,
+$ev_mako1_0510_0110_cld_0,ACTOR,
+$ev_mako1_0510_0120_jec_0,,Impresionante.
+$ev_mako1_0510_0120_jec_0,ACTOR,Jessie
+$ev_mako1_0510_0130_cld_0,,
+$ev_mako1_0510_0130_cld_0,ACTOR,
+$ev_mako1_0510_0140_jec_0,,
+$ev_mako1_0510_0140_jec_0,ACTOR,
+$ev_mako1_0510_0150_jec_0,,"Vamos, ¡a correr!"
+$ev_mako1_0510_0150_jec_0,ACTOR,Jessie
+$ev_mako1_0510_0160_cld_0,,
+$ev_mako1_0510_0160_cld_0,ACTOR,
+$lv_mako1_0130_0010_big_0,,
+$lv_mako1_0130_0010_big_0,ACTOR,
+$lv_mako1_0130_0020_jec_0,,
+$lv_mako1_0130_0020_jec_0,ACTOR,
+$lv_mako1_0130_0021_blt_0,,
+$lv_mako1_0130_0021_blt_0,ACTOR,
+$lv_mako1_0130_0030_wed_0,,
+$lv_mako1_0130_0030_wed_0,ACTOR,
+$lv_mako1_0130_0040_big_0,,¡Por aquí!
+$lv_mako1_0130_0040_big_0,ACTOR,Biggs
+$lv_mako1_0500_0010_jec_0,,
+$lv_mako1_0500_0010_jec_0,ACTOR,
+$pv_mako1_0080_0030_big_0,,Puede que sea un poco pesado.
+$pv_mako1_0080_0030_big_0,ACTOR,Biggs
+$pv_mako1_0080_0040_jec_0,,"Como es guapo, se le perdona."
+$pv_mako1_0080_0040_jec_0,ACTOR,Jessie
+$pv_mako1_0080_0050_big_0,,Ya empieza.
+$pv_mako1_0080_0050_big_0,ACTOR,Biggs
+$pv_mako1_0080_0060_jec_0,,"Primero la cara. Es lo básico, ¿no?"
+$pv_mako1_0080_0060_jec_0,ACTOR,Jessie
+$pv_mako1_0080_0070_big_0,,"Total, yo no soy nada básico."
+$pv_mako1_0080_0070_big_0,ACTOR,Biggs
+$pv_mako1_0080_0080_jec_0,,Más bien competimos en categorías distintas.
+$pv_mako1_0080_0080_jec_0,ACTOR,Jessie
+$pv_mako1_0080_0090_big_0,,Ya está. No digas más.
+$pv_mako1_0080_0090_big_0,ACTOR,Biggs
+$pv_mako1_0080_0100_jec_0,,Si tuviera que compararlo...
+$pv_mako1_0080_0100_jec_0,ACTOR,Jessie
+$pv_mako1_0080_0110_big_0,,No lo compares.
+$pv_mako1_0080_0110_big_0,ACTOR,Biggs
+$pv_mako1_0125_0010_wed_0,,"Cloud, el ascensor está arriba.<br>Te esperamos."
+$pv_mako1_0125_0010_wed_0,ACTOR,Wedge
+$pv_mako1_0140_0010_kb25_0,,¡Ahí está!
+$pv_mako1_0140_0010_kb25_0,ACTOR,Centinela
+$pv_mako1_0140_0020_kb26_0,,¡Atrapadlo!
+$pv_mako1_0140_0020_kb26_0,ACTOR,Centinela
+$pv_mako1_0150_0060_blt_0,,¡A vuestros puestos!
+$pv_mako1_0150_0060_blt_0,ACTOR,Barret
+$pv_mako1_0150_0070_wed_0,,Yo voy por allí.
+$pv_mako1_0150_0070_wed_0,ACTOR,Wedge
+$pv_mako1_0150_0075_jec_0,,"Cloud, por aquí."
+$pv_mako1_0150_0075_jec_0,ACTOR,Jessie
+$pv_mako1_0150_0080_blt_0,,"¡Corre, corre!"
+$pv_mako1_0150_0080_blt_0,ACTOR,Barret
+$pv_mako1_0170_0010_big_0,,No me metas prisa.
+$pv_mako1_0170_0010_big_0,ACTOR,Biggs
+$pv_mako1_0170_0020_big_0,,"¡Listo, desbloqueado!"
+$pv_mako1_0170_0020_big_0,ACTOR,Biggs
+$pv_mako1_0191_0010_jec_0,,Perdona la espera.
+$pv_mako1_0191_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0191_0020_cld_0,,Vamos de una vez.
+$pv_mako1_0191_0020_cld_0,ACTOR,Cloud
+$pv_mako1_0191_0030_jec_0,,¡Cómo resuena esa voz!
+$pv_mako1_0191_0030_jec_0,ACTOR,Jessie
+$pv_mako1_0191_0040_blt_0,,Concéntrate.
+$pv_mako1_0191_0040_blt_0,ACTOR,Barret
+$pv_mako1_0280_0010_jec_0,,"Cloud, mira ahí."
+$pv_mako1_0280_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0280_0020_cld_0,,El sistema de seguridad está activo.
+$pv_mako1_0280_0020_cld_0,ACTOR,Cloud
+$pv_mako1_0280_0030_jec_0,,"¿No te parece una mirada apasionada?<br>Si te ve, no te vas a librar de un buen quemazo."
+$pv_mako1_0280_0030_jec_0,ACTOR,Jessie
+$pv_mako1_0280_0040_jec_0,,"Sabes cómo avanzar, ¿no?"
+$pv_mako1_0280_0040_jec_0,ACTOR,Jessie
+$pv_mako1_0280_0050_cld_0,,Los láseres parpadean a intervalos regulares.
+$pv_mako1_0280_0050_cld_0,ACTOR,Cloud
+$pv_mako1_0280_0060_cld_0,,Avanza aprovechando cuando se apagan.
+$pv_mako1_0280_0060_cld_0,ACTOR,Cloud
+$pv_mako1_0280_0070_jec_0,,¡Eso es!
+$pv_mako1_0280_0070_jec_0,ACTOR,Jessie
+$pv_mako1_0280_0080_jec_0,,Entonces voy yo primero.<br>Me encanta la adrenalina.
+$pv_mako1_0280_0080_jec_0,ACTOR,Jessie
+$pv_mako1_0280_0090_cld_0,,Eh.
+$pv_mako1_0280_0090_cld_0,ACTOR,Cloud
+$pv_mako1_0280_0100_jec_0,,Grábatelo bien<br>en esos bonitos ojos.
+$pv_mako1_0280_0100_jec_0,ACTOR,Jessie
+$pv_mako1_0290_0010_jec_0,,"A eso lo llaman ""barredor"".<br>Si la pifias, puede que te barran."
+$pv_mako1_0290_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0290_0020_cld_0,,"Antes de eso, lo convierto en chatarra."
+$pv_mako1_0290_0020_cld_0,ACTOR,Cloud
+$pv_mako1_0290_0050_jec_0,,Mira.
+$pv_mako1_0290_0050_jec_0,ACTOR,Jessie
+$pv_mako1_0300_0010_jec_0,,¡Ya está!
+$pv_mako1_0300_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0300_0020_blt_0,,Ya casi estamos.<br>El mako me ahoga.
+$pv_mako1_0300_0020_blt_0,ACTOR,Barret
+$pv_mako1_0320_0010_jec_0,,Bajamos por aquí.
+$pv_mako1_0320_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0330_0010_jec_0,,"Cuando bajemos aquí, empieza lo bueno."
+$pv_mako1_0330_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0330_0015_jec_0,,Mi escolta termina aquí.<br>Me he pasado de la raya.
+$pv_mako1_0330_0015_jec_0,ACTOR,Jessie
+$pv_mako1_0330_0020_jec_0,,"Barret, Cloud, os dejo el resto."
+$pv_mako1_0330_0020_jec_0,ACTOR,Jessie
+$pv_mako1_0460_0010_jec_0,,Desbloqueado.
+$pv_mako1_0460_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0470_0010_big_0,,"Pim, pam, pum, ¡desbloqueado!"
+$pv_mako1_0470_0010_big_0,ACTOR,Biggs
+$pv_mako1_0480_0010_jec_0,,"Vamos, rápido.<br>¡A escapar!"
+$pv_mako1_0480_0010_jec_0,ACTOR,Jessie
+$pv_mako1_0490_0010_wed_0,,"¡Por aquí, por aquí!"
+$pv_mako1_0490_0010_wed_0,ACTOR,Wedge
+$pv_mako1_0992_0060_sys_0,,
+$pv_mako1_0992_0060_sys_0,ACTOR,
+$pv_mako1_0993_0060_sys_0,,
+$pv_mako1_0993_0060_sys_0,ACTOR,
+$pv_mako1_8010_0010_jec_0,,"Eso, eso. Así."
+$pv_mako1_8010_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8011_0010_jec_0,,Tienes margen.
+$pv_mako1_8011_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8012_0010_jec_0,,Como era de esperar de un ex-SOLDIER.
+$pv_mako1_8012_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8013_0010_jec_0,,¿Demasiado fácil?
+$pv_mako1_8013_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8014_0010_jec_0,,"¡Cloud, bien!"
+$pv_mako1_8014_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8015_0010_jec_0,,"Bueno, es pan comido."
+$pv_mako1_8015_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8021_0010_jec_0,,¿Estás bien?
+$pv_mako1_8021_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8022_0010_jec_0,,Mira el momento.
+$pv_mako1_8022_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8023_0010_jec_0,,Tranquilo.
+$pv_mako1_8023_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8024_0010_jec_0,,No te precipites.
+$pv_mako1_8024_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8025_0010_jec_0,,"Perdona, me ha dado la risa."
+$pv_mako1_8025_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8026_0010_jec_0,,Los SOLDIER sois muy resistentes.
+$pv_mako1_8026_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8026_0020_jec_0,,¿Preocuparme no sirve de nada?
+$pv_mako1_8026_0020_jec_0,ACTOR,Jessie
+$pv_mako1_8031_0010_jec_0,,"Lo has hecho a propósito, ¿verdad?"
+$pv_mako1_8031_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8032_0010_jec_0,,"Eras ex-SOLDIER, ¿no?"
+$pv_mako1_8032_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8033_0010_jec_0,,"Cloud, tienes tu punto adorable."
+$pv_mako1_8033_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8034_0010_jec_0,,¿Es que le has cogido el gustillo?
+$pv_mako1_8034_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8035_0010_jec_0,,¿Vale?<br>Ser valiente y ser tonto es casi lo mismo.
+$pv_mako1_8035_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8035_0020_jec_0,,¿Tú qué eres?
+$pv_mako1_8035_0020_jec_0,ACTOR,Jessie
+$pv_mako1_8040_0010_jec_0,,"Perfecto, sigamos así."
+$pv_mako1_8040_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8050_0010_jec_0,,Lo básico es igual que antes.<br>Vamos.
+$pv_mako1_8050_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8060_0010_jec_0,,Perfecto.
+$pv_mako1_8060_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8060_0020_jec_0,,El punto de detonación está cerca.
+$pv_mako1_8060_0020_jec_0,ACTOR,Jessie
+$pv_mako1_8070_0010_jec_0,,Hemos conseguido llegar hasta aquí.
+$pv_mako1_8070_0010_jec_0,ACTOR,Jessie
+$pv_mako1_8070_0020_jec_0,,El punto de detonación está cerca.
+$pv_mako1_8070_0020_jec_0,ACTOR,Jessie
+$tk_mako1_1100_0010_wed_0,,"Cloud,<br>podemos contar contigo, ¿verdad?"
+$tk_mako1_1100_0010_wed_0,ACTOR,Wedge
+$tk_mako1_1111_0010_wed_0,,Enseguida se abre.
+$tk_mako1_1111_0010_wed_0,ACTOR,Wedge
+$tk_mako1_1112_0010_wed_0,,"Cuando se abra la puerta, empieza la misión.<br>Me duele la barriga..."
+$tk_mako1_1112_0010_wed_0,ACTOR,Wedge
+$tk_mako1_1200_0010_kb18_0,,¡Os he encontrado!
+$tk_mako1_1200_0010_kb18_0,ACTOR,Centinela
+$tk_mako1_1310_0010_wed_0,,Voy a asegurar la ruta de escape.
+$tk_mako1_1310_0010_wed_0,ACTOR,Wedge
+$tk_mako1_1310_0020_wed_0,,"Cloud,<br>ve detrás de los demás."
+$tk_mako1_1310_0020_wed_0,ACTOR,Wedge
+$tk_mako1_1320_0010_wed_0,,Cuida de Biggs y los demás.
+$tk_mako1_1320_0010_wed_0,ACTOR,Wedge
+$tk_mako1_1330_0010_wed_0,,Yo protejo esta zona.
+$tk_mako1_1330_0010_wed_0,ACTOR,Wedge
+$tk_mako1_1410_0010_big_0,,Deja la retaguardia en mis manos.
+$tk_mako1_1410_0010_big_0,ACTOR,Biggs
+$tk_mako1_1420_0010_big_0,,"Eh, no hagas esperar a Jessie."
+$tk_mako1_1420_0010_big_0,ACTOR,Biggs
+$tk_mako1_1450_0010_jec_0,,El ascensor se ha ido abajo.
+$tk_mako1_1450_0010_jec_0,ACTOR,Jessie
+$tk_mako1_1450_0015_jec_0,,Pulsa ese botón.
+$tk_mako1_1450_0015_jec_0,ACTOR,Jessie
+$tk_mako1_1460_0010_jec_0,,"Espera,<br>Biggs va a abrir la puerta ahora."
+$tk_mako1_1460_0010_jec_0,ACTOR,Jessie
+$tk_mako1_1470_0010_blt_0,,Guíame bien.
+$tk_mako1_1470_0010_blt_0,ACTOR,Barret
+$tk_mako1_1480_0010_blt_0,,Espera sin moverte.
+$tk_mako1_1480_0010_blt_0,ACTOR,Barret
+$tk_mako1_1490_0010_blt_0,,A partir de aquí la vigilancia es más estricta.<br>No la pifíes.
+$tk_mako1_1490_0010_blt_0,ACTOR,Barret
+$tk_mako1_4010_0005_blt_0,,
+$tk_mako1_4010_0005_blt_0,ACTOR,
+$tk_mako1_4010_0010_blt_0,,Me estoy poniendo a temblar.
+$tk_mako1_4010_0010_blt_0,ACTOR,Barret
+$tk_mako1_4010_0020_cld_0,,¿Tienes miedo?
+$tk_mako1_4010_0020_cld_0,ACTOR,Cloud
+$tk_mako1_4010_0030_blt_0,,Qué va.<br>Es la alegría de cumplir un sueño de años.
+$tk_mako1_4010_0030_blt_0,ACTOR,Barret
+$tk_mako1_5010_0010_blt_0,,"No se ve el fondo.<br>Si caes, ¿acabas en el corazón del planeta...?"
+$tk_mako1_5010_0010_blt_0,ACTOR,Barret
+$tk_mako1_5010_0020_cld_0,,El reactor te absorbería enseguida.
+$tk_mako1_5010_0020_cld_0,ACTOR,Cloud
+$tk_mako1_5010_0030_blt_0,,No tiene gracia.
+$tk_mako1_5010_0030_blt_0,ACTOR,Barret
+$tk_mako1_5020_0010_jec_0,,"Odio a los pesados.<br>Cloud, corta ese ojo en pedazos."
+$tk_mako1_5020_0010_jec_0,ACTOR,Jessie
+$tk_mako1_5030_0010_jec_0,,Por ahí no. Baja por la escalera.
+$tk_mako1_5030_0010_jec_0,ACTOR,Jessie
+$tk_mako1_5052_0010_jec_0,,¿Es que quieres quedarte conmigo?<br>Pero el reactor te está esperando.
+$tk_mako1_5052_0010_jec_0,ACTOR,Jessie
+$tk_mako1_5054_0010_jec_0,,"Vamos, ve."
+$tk_mako1_5054_0010_jec_0,ACTOR,Jessie
+$tk_mako1_6110_0010_blt_0,,¿Cuántos años tienes?
+$tk_mako1_6110_0010_blt_0,ACTOR,Barret
+$tk_mako1_6110_0020_cld_0,,Primera clase.
+$tk_mako1_6110_0020_cld_0,ACTOR,Cloud
+$tk_mako1_6110_0030_blt_0,,
+$tk_mako1_6110_0030_blt_0,ACTOR,Barret
+$tk_mako1_6110_0040_cld_0,,Los SOLDIER tienen un rango aparte<br>del escalafón militar...
+$tk_mako1_6110_0040_cld_0,ACTOR,Cloud
+$tk_mako1_6110_0050_blt_0,,"Cuando pregunto la edad,<br>lo normal es que sea la edad."
+$tk_mako1_6110_0050_blt_0,ACTOR,Barret
+$tk_mako1_6110_0060_cld_0,,
+$tk_mako1_6110_0060_cld_0,ACTOR,Cloud
+$tk_mako1_6110_0070_blt_0,,"Vaya, disculpa.<br>El señorito SOLDIER no puede ser normal."
+$tk_mako1_6110_0070_blt_0,ACTOR,Barret
+$tk_mako1_6110_0080_blt_0,,"Sí, sí, primera clase.<br>¿Entonces tienes un año?"
+$tk_mako1_6110_0080_blt_0,ACTOR,Barret
+$tk_mako1_6110_0090_blt_0,,Me lo apunto.
+$tk_mako1_6110_0090_blt_0,ACTOR,Barret
+$tk_mako1_6120_0010_blt_0,,"Ya era hora, ya era hora."
+$tk_mako1_6120_0010_blt_0,ACTOR,Barret
+$tk_mako1_7110_0010_blt_0,,Wedge está asegurando la ruta de escape.
+$tk_mako1_7110_0010_blt_0,ACTOR,Barret
+$tk_mako1_7110_0020_blt_0,,¡Vuelve a toda velocidad!
+$tk_mako1_7110_0020_blt_0,ACTOR,Barret
+$tk_mako1_7120_0020_jec_0,,"Si vamos por aquí,<br>deberíamos reunirnos con Barret."
+$tk_mako1_7120_0020_jec_0,ACTOR,Jessie
+$tk_mako1_7121_0010_jec_0,,La salida es por aquí. ¡Rápido!
+$tk_mako1_7121_0010_jec_0,ACTOR,Jessie
+$tk_mako1_7122_0010_jec_0,,"Cloud, ¿qué haces?<br>¡Ven rápido!"
+$tk_mako1_7122_0010_jec_0,ACTOR,Jessie
+$tk_mako1_7123_0005_jec_0,,
+$tk_mako1_7123_0005_jec_0,ACTOR,
+$tk_mako1_7123_0010_cld_0,,¿Estás bien?
+$tk_mako1_7123_0010_cld_0,ACTOR,Cloud
+$tk_mako1_7130_0010_jec_0,,"¡Date prisa, date prisa!"
+$tk_mako1_7130_0010_jec_0,ACTOR,Jessie
+$tk_mako1_7130_0020_cld_0,,Cállate y corre. Es más fácil.
+$tk_mako1_7130_0020_cld_0,ACTOR,Cloud
+$tk_mako1_7130_0021_cld_0,,Cállate y sube. Es más fácil.
+$tk_mako1_7130_0021_cld_0,ACTOR,Cloud
+$tk_mako1_7130_0030_jec_0,,Ya.
+$tk_mako1_7130_0030_jec_0,ACTOR,Jessie
+$tk_mako1_7130_0040_jec_0,,"Es que no puedo.<br>Si no hablo, me agobio."
+$tk_mako1_7130_0040_jec_0,ACTOR,Jessie
+$tk_mako1_7130_0050_cld_0,,Haz lo que quieras.
+$tk_mako1_7130_0050_cld_0,ACTOR,Cloud
+$tk_mako1_7150_0010_blt_0,,"¡Rápido, vamos a reunirnos con los demás!"
+$tk_mako1_7150_0010_blt_0,ACTOR,Barret
+$tk_mako1_7150_0020_blt_0,,Tenemos que salir de aquí cuanto antes.
+$tk_mako1_7150_0020_blt_0,ACTOR,Barret
+$tk_mako1_7160_0010_blt_0,,Se ha liado parda.
+$tk_mako1_7160_0010_blt_0,ACTOR,Barret
+$tk_mako1_7160_0020_cld_0,,Solo hay que volver a dormirlo.
+$tk_mako1_7160_0020_cld_0,ACTOR,Cloud
+$tk_mako1_7170_0010_blt_0,,Está lleno de enemigos. ¡Cuidado!
+$tk_mako1_7170_0010_blt_0,ACTOR,Barret
+$tk_mako1_7170_0020_cld_0,,Lo sé.
+$tk_mako1_7170_0020_cld_0,ACTOR,Cloud
+$tk_mako1_7171_0010_blt_0,,"Qué susto, joder."
+$tk_mako1_7171_0010_blt_0,ACTOR,Barret
+$tk_mako1_7171_0020_cld_0,,Parece la primera batalla de un novato.
+$tk_mako1_7171_0020_cld_0,ACTOR,Cloud
+$tk_mako1_9070_0010_cld_0,,A afinar los sentidos.
+$tk_mako1_9070_0010_cld_0,ACTOR,Cloud
+$tk_mako1_9090_0010_blt_0,,Se tambalea.
+$tk_mako1_9090_0010_blt_0,ACTOR,Barret
+$tk_mako1_9090_0020_cld_0,,Así lo inmovilizamos.<br>¡Remátalo!
+$tk_mako1_9090_0020_cld_0,ACTOR,Cloud
+$tk_mako1_9092_0010_blt_0,,Sí que estás hecho polvo.<br>¿Estás bien?
+$tk_mako1_9092_0010_blt_0,ACTOR,Barret
+$tk_mako1_9093_0010_cld_0,,¡Ahora! ¡Atacamos!
+$tk_mako1_9093_0010_cld_0,ACTOR,Cloud
+$tk_mako1_9093_0020_blt_0,,No hace falta que me lo digas. Lo aplasto con todas mis fuerzas.
+$tk_mako1_9093_0020_blt_0,ACTOR,Barret
+$tk_mako1_9094_0010_cld_0,,"Eh, vigila también tu resistencia."
+$tk_mako1_9094_0010_cld_0,ACTOR,Cloud
+$tk_mako1_9095_0010_blt_0,,¿También se rinde el señorito SOLDIER?
+$tk_mako1_9095_0010_blt_0,ACTOR,Barret
+$tk_mako1_9095_0020_cld_0,,
+$tk_mako1_9095_0020_cld_0,ACTOR,
+$tk_mako1_9095_0030_blt_0,,¿Quieres que te ayude?
+$tk_mako1_9095_0030_blt_0,ACTOR,Barret
+$tk_mako1_9096_0010_blt_0,,"¡Aparta, joder!"
+$tk_mako1_9096_0010_blt_0,ACTOR,Barret
+$tk_mako1_9096_0020_cld_0,,
+$tk_mako1_9096_0020_cld_0,ACTOR,
+$tk_mako1_9096_0030_blt_0,,"¡Eh, deja de mirar y haz algo!"
+$tk_mako1_9096_0030_blt_0,ACTOR,Barret

@@ -1,0 +1,65 @@
+FINAL FANTASY VII REMAKE - Traducción ES (España) desde japonés
+================================================================
+
+Paquete: pakchunk99_ES_JP_P.pak
+Versión: 1.0 - 13/11/2026
+Contenido: 21 recursos de texto (42 archivos .uasset/.uexp) + modroot.txt
+Texto: 35.574 entradas de texto
+Filas con origen japonés revisadas: 29.702
+Archivos de texto: 000-COMON, 010-MAKO1, 020-TOWN8, 030-SLUM7, 040-TOWN7,
+050-TNNL4, 060-PLAT4, 070-MAKO5, 080-SLU5B, 090-UNDG6, 100-GRAV7, 120-UNDG7,
+130-PLAT7, 140-SBIL0, 210-PSLM7, 220-PSBL0, 950-LVTS1, 951-LVTS2, 953-LVTS4,
+991-LVTST y Resident.
+
+Comprobaciones realizadas
+-------------------------
+- 0 líneas vacías en textos con origen japonés.
+- 0 caracteres kana/kanji en la traducción. Solo se conservan signos de
+  puntuación y espaciado japoneses en textos de interfaz y estilo oficial
+  (【】, ・, ＞ y el espacio ideográfico U+3000), igual que en el locale ES.
+- Etiquetas alineadas con el original japonés una vez normalizadas las
+  etiquetas funcionales de objeto del locale ES (<object>, <n-objects> y
+  <an-object>). Quedan 34 diferencias intencionadas de <count>: el español
+  omite el contador cuando el número va implícito en la frase.
+- Los saltos de línea se guardan como CRLF nativos del juego; se ha comprobado
+  que no queda ningún literal <br> en los .uexp empaquetados. Las diferencias
+  de corte de línea respecto al japonés son intencionadas: adaptan los
+  subtítulos al ancho de la caja en español.
+- Resident contiene 1.506 filas ARTICLE/PLURAL/SINGULAR/ARTICLE2 y 165 filas
+  ACTOR. Son subentradas gramaticales del .uexp (no filas independientes del
+  menú): 1.671 subentradas en total. Se conservan y se escriben en el .uexp;
+  su texto coincide exactamente con el del locale ES oficial.
+- Se ha verificado que los 21 .uexp extraídos del pak coinciden byte a byte
+  con los archivos preparados antes de empaquetar y que su texto vuelve a
+  leerse idéntico tras la conversión.
+
+Contenido de esta versión (1.0)
+-------------------------------
+- Traducción completa de historia, diálogos de PNJ, misiones secundarias,
+  menús, tutoriales, objetos y textos de INTERmission desde el japonés.
+- Nombres propios unificados con el locale ES oficial: Mireia, Escarlata,
+  Jénova, Madame M y Presidente Shinra. Se mantiene «Jénova Beat» porque el
+  original japonés es ジェノバＢｅａｔ.
+- Etiquetas de confirmación de la interfaz unificadas como «Confirmar».
+- Subentradas gramaticales de los objetos conservadas: los avisos de compra,
+  tesoros y entrega muestran el nombre completo del objeto.
+- En el capítulo 17, Cloud, poseído, dice «Ma... a...», en coherencia con
+  «Ma... dre...». La línea es $tk_sbil0_50_2750_0020_cld_0, en 140-SBIL0.
+- Revisadas las líneas con inglés: se mantienen las interjecciones de Jay y
+  Roche («Okay, come on!», «You are perfect body!», «Oh, my friend!») y los
+  títulos ingleses de las pistas de la gramola, porque forman parte del
+  original o son títulos oficiales.
+
+Limitaciones conocidas
+----------------------
+- 664 líneas tienen el japonés vacío pero texto en el español oficial
+  (interjecciones, voces sin subtítulo y algunas líneas de Sefirot). Se dejan
+  vacías porque no hay texto japonés del que partir.
+- Solo texto: el audio y los vídeos no se modifican.
+- No compatible con otros mods que sustituyan los mismos 21 recursos.
+
+SHA-256 del pak
+---------------
+0865C739666D8A7679793CFDC0950AD6A0C28B1E7B09A9EF6C5491096B18986A
+
+Tamaño del pak: 905.449 bytes.

@@ -1,0 +1,1412 @@
+id,sub_id,text
+language,,ES
+$ba_mako5_0030_0010_0010_tif_0,,¡Mirad!
+$ba_mako5_0030_0010_0010_tif_0,ACTOR,Tifa
+$ba_mako5_0030_0010_0020_blt_0,,¿Ya salen?
+$ba_mako5_0030_0010_0020_blt_0,ACTOR,Barret
+$ba_mako5_0030_0010_0030_cld_0,,También hay arriba.
+$ba_mako5_0030_0010_0030_cld_0,ACTOR,Cloud
+$ba_mako5_0030_0010_0040_blt_0,,De esos me encargo yo.
+$ba_mako5_0030_0010_0040_blt_0,ACTOR,Barret
+$ba_mako5_0080_0010_0010_ts02_0,,Os hemos estado esperando.
+$ba_mako5_0080_0010_0010_ts02_0,ACTOR,Luchador de élite
+$ba_mako5_0131_0010_0010_blt_0,,Mierda. ¿Ya es la hora?
+$ba_mako5_0131_0010_0010_blt_0,ACTOR,Barret
+$ba_mako5_0131_0010_0020_tif_0,,¡Mirad!
+$ba_mako5_0131_0010_0020_tif_0,ACTOR,Tifa
+$ba_mako5_0131_0010_0030_cld_0,,¿Piensan sacarlo sin terminar?
+$ba_mako5_0131_0010_0030_cld_0,ACTOR,Cloud
+$ba_mako5_0131_0020_0010_tj01_0,,Os vamos a sacar a rastras delante del aerodestructor.
+$ba_mako5_0131_0020_0010_tj01_0,ACTOR,Encargado de mantenimiento
+$ba_mako5_5010_1010_0010_tif_0,,"Cloud, ¿estás bien?"
+$ba_mako5_5010_1010_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_1010_0020_cld_0,,No hay problema. ¿Puedes seguir?
+$ba_mako5_5010_1010_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_1010_0030_blt_0,,"Sí, déjamelo a mí."
+$ba_mako5_5010_1010_0030_blt_0,ACTOR,Barret
+$ba_mako5_5010_1140_0010_tif_0,,"Cloud, ¿no puedes moverte?"
+$ba_mako5_5010_1140_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_1140_0020_blt_0,,Vamos a detener a ese cacharro.
+$ba_mako5_5010_1140_0020_blt_0,ACTOR,Barret
+$ba_mako5_5010_1160_0010_tif_0,,Hay que detener el ataque.
+$ba_mako5_5010_1160_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_1160_0020_cld_0,,Atacad por turnos y sacudidlo.
+$ba_mako5_5010_1160_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_1180_0010_blt_0,,"Eh, vamos a detener a este."
+$ba_mako5_5010_1180_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_1180_0020_cld_0,,Atacad por ambos lados.
+$ba_mako5_5010_1180_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_1210_0010_blt_0,,Ya está empezando a prepararlo otra vez.
+$ba_mako5_5010_1210_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_1210_0020_tif_0,,Hay que detenerlo como sea.
+$ba_mako5_5010_1210_0020_tif_0,ACTOR,Tifa
+$ba_mako5_5010_1220_0010_tif_0,,"Otra vez ha empezado. Cloud, ¿puedes moverte?"
+$ba_mako5_5010_1220_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_1220_0020_cld_0,,No hay problema. Vamos a detenerlo.
+$ba_mako5_5010_1220_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_1230_0010_blt_0,,"Eh, ¡está apuntando a Tifa!"
+$ba_mako5_5010_1230_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_1230_0020_cld_0,,Lo detendré sin falta.
+$ba_mako5_5010_1230_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2050_0010_tif_0,,¡Algo viene!
+$ba_mako5_5010_2050_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_2050_0020_cld_0,,El frente es peligroso. ¡Apartaos!
+$ba_mako5_5010_2050_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2050_0030_blt_0,,"¡Rápido, rápido!"
+$ba_mako5_5010_2050_0030_blt_0,ACTOR,Barret
+$ba_mako5_5010_2060_0010_cld_0,,Aquí hay que retirarse.
+$ba_mako5_5010_2060_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2070_0010_blt_0,,Mejor huir y vivir para contarlo.
+$ba_mako5_5010_2070_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_2080_0010_tif_0,,¡Hay que huir antes de que nos dispare!
+$ba_mako5_5010_2080_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_2090_0010_blt_0,,Qué potencia.
+$ba_mako5_5010_2090_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_2090_0020_tif_0,,Ha estado cerca...
+$ba_mako5_5010_2090_0020_tif_0,ACTOR,Tifa
+$ba_mako5_5010_2090_0030_cld_0,,No podemos atacar a lo loco.
+$ba_mako5_5010_2090_0030_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2140_0010_cld_0,,Ya viene otra vez. Retirémonos.
+$ba_mako5_5010_2140_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2150_0010_blt_0,,¿Piensa disparar todo lo que tiene?
+$ba_mako5_5010_2150_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_2160_0010_tif_0,,"Ya viene. ¡Rápido, a un sitio seguro!"
+$ba_mako5_5010_2160_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_2170_0010_tif_0,,¡Qué pesado lo que va volando!
+$ba_mako5_5010_2170_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_2170_0020_cld_0,,Primero acabemos con ellos.
+$ba_mako5_5010_2170_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2310_0010_cld_0,,¿No podemos apuntar al cuerpo principal?
+$ba_mako5_5010_2310_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2330_0010_blt_0,,Qué duro es. Si al menos no estuvieran esos estorbos...
+$ba_mako5_5010_2330_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_2350_0010_tif_0,,Hay que acabar primero con los que podamos derribar.
+$ba_mako5_5010_2350_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_2430_0010_cld_0,,Ya solo queda el cuerpo principal.
+$ba_mako5_5010_2430_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_2440_0010_blt_0,,¡Bien! Ahora podemos apuntar al cuerpo principal.
+$ba_mako5_5010_2440_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_2450_0010_tif_0,,Ahora podemos concentrarnos en el cuerpo principal.
+$ba_mako5_5010_2450_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_3010_0010_cld_0,,"¿Combate aéreo? Confío en ti, Barret."
+$ba_mako5_5010_3010_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_3010_0020_blt_0,,¡Claro! La cobertura os la dejo a vosotros.
+$ba_mako5_5010_3010_0020_blt_0,ACTOR,Barret
+$ba_mako5_5010_3050_0010_cld_0,,¡Ahora! ¡Rematémoslo!
+$ba_mako5_5010_3050_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_3050_0020_tif_0,,Sí. Tengo ganas de pelea.
+$ba_mako5_5010_3050_0020_tif_0,ACTOR,Tifa
+$ba_mako5_5010_3090_0010_blt_0,,¿Otra vez ese rayo?
+$ba_mako5_5010_3090_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_3090_0020_cld_0,,¡Ahí viene! Esquivad.
+$ba_mako5_5010_3090_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_3130_0010_blt_0,,Este es mi momento.
+$ba_mako5_5010_3130_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_3130_0020_cld_0,,"Sí, te lo dejo a ti."
+$ba_mako5_5010_3130_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_3170_0010_cld_0,,¡Ahora!
+$ba_mako5_5010_3170_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_3170_0020_tif_0,,Sí. ¡Vamos a por todas!
+$ba_mako5_5010_3170_0020_tif_0,ACTOR,Tifa
+$ba_mako5_5010_3180_0010_blt_0,,"Mierda, qué pesado."
+$ba_mako5_5010_3180_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_3180_0020_cld_0,,Cálmate. Primero hay que esquivar.
+$ba_mako5_5010_3180_0020_cld_0,ACTOR,Cloud
+$ba_mako5_5010_4010_0010_cld_0,,Ya falta poco. Vamos a unir fuerzas.
+$ba_mako5_5010_4010_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_4010_0020_tif_0,,Estoy lista cuando quieras.
+$ba_mako5_5010_4010_0020_tif_0,ACTOR,Tifa
+$ba_mako5_5010_4010_0030_blt_0,,¡Vamos a darlo todo!
+$ba_mako5_5010_4010_0030_blt_0,ACTOR,Barret
+$ba_mako5_5010_4110_0010_cld_0,,Ahí viene.
+$ba_mako5_5010_4110_0010_cld_0,ACTOR,Cloud
+$ba_mako5_5010_4110_0020_blt_0,,Después de disparar hay una oportunidad.
+$ba_mako5_5010_4110_0020_blt_0,ACTOR,Barret
+$ba_mako5_5010_4130_0010_blt_0,,Quinientos años luz.
+$ba_mako5_5010_4130_0010_blt_0,ACTOR,Barret
+$ba_mako5_5010_4130_0020_tif_0,,Aprovechemos el hueco tras el ataque.
+$ba_mako5_5010_4130_0020_tif_0,ACTOR,Tifa
+$ba_mako5_5010_4150_0010_tif_0,,Ya viene otra vez.
+$ba_mako5_5010_4150_0010_tif_0,ACTOR,Tifa
+$ba_mako5_5010_4150_0020_cld_0,,Aquí se acaba.
+$ba_mako5_5010_4150_0020_cld_0,ACTOR,Cloud
+$ev_mako5_0010_0002_tcr1_0,,
+$ev_mako5_0010_0002_tcr1_0,ACTOR,Cámara
+$ev_mako5_0010_0004_tcr2_0,,
+$ev_mako5_0010_0004_tcr2_0,ACTOR,Realizador
+$ev_mako5_0010_0006_tcr3_0,,
+$ev_mako5_0010_0006_tcr3_0,ACTOR,Técnico de iluminación
+$ev_mako5_0010_0010_hyd_0,,"¡Rápido, rápido!"
+$ev_mako5_0010_0010_hyd_0,ACTOR,Heidegger
+$ev_mako5_0010_0012_tcr4_0,,
+$ev_mako5_0010_0012_tcr4_0,ACTOR,Técnico de sonido
+$ev_mako5_0010_0020_pre_0,,
+$ev_mako5_0010_0020_pre_0,ACTOR,
+$ev_mako5_0020_0005_blt_0,,
+$ev_mako5_0020_0005_blt_0,ACTOR,
+$ev_mako5_0020_0010_blt_0,,"Huele, vaya si huele. Huele a mako."
+$ev_mako5_0020_0010_blt_0,ACTOR,Barret
+$ev_mako5_0020_0020_tif_0,,Por fin.
+$ev_mako5_0020_0020_tif_0,ACTOR,Tifa
+$ev_mako5_0020_0030_blt_0,,¿La estructura es como la del n.º 1?
+$ev_mako5_0020_0030_blt_0,ACTOR,Barret
+$ev_mako5_0020_0040_cld_0,,Sí. El depósito de mako está cerca.
+$ev_mako5_0020_0040_cld_0,ACTOR,Cloud
+$ev_mako5_0020_0050_blt_0,,Vamos.
+$ev_mako5_0020_0050_blt_0,ACTOR,Barret
+$ev_mako5_0060_0010_cld_0,,
+$ev_mako5_0060_0010_cld_0,ACTOR,
+$ev_mako5_0070_0005_tif_0,,
+$ev_mako5_0070_0005_tif_0,ACTOR,
+$ev_mako5_0070_0010_tif_0,,"Sefirot, SOLDIER..."
+$ev_mako5_0070_0010_tif_0,ACTOR,Tifa
+$ev_mako5_0070_0010_tif_1,,"Reactor de mako, Shinra..."
+$ev_mako5_0070_0010_tif_1,ACTOR,Tifa
+$ev_mako5_0070_0010_tif_2,,Todo...
+$ev_mako5_0070_0010_tif_2,ACTOR,Tifa
+$ev_mako5_0070_0020_tif_0,,¡Todo lo odio!
+$ev_mako5_0070_0020_tif_0,ACTOR,Tifa
+$ev_mako5_0070_0030_tif_0,,
+$ev_mako5_0070_0030_tif_0,ACTOR,
+$ev_mako5_0070_0040_tif_0,,
+$ev_mako5_0070_0040_tif_0,ACTOR,
+$ev_mako5_0070_0050_tif_0,,
+$ev_mako5_0070_0050_tif_0,ACTOR,
+$ev_mako5_0080_0010_blt_0,,¡Eh! ¡Espabila!
+$ev_mako5_0080_0010_blt_0,ACTOR,Barret
+$ev_mako5_0080_0015_cld_0,,
+$ev_mako5_0080_0015_cld_0,ACTOR,
+$ev_mako5_0080_0020_cld_0,,Tifa.
+$ev_mako5_0080_0020_cld_0,ACTOR,Cloud
+$ev_mako5_0080_0030_tif_0,,
+$ev_mako5_0080_0030_tif_0,ACTOR,Tifa
+$ev_mako5_0080_0040_cld_0,,
+$ev_mako5_0080_0040_cld_0,ACTOR,
+$ev_mako5_0090_0005_blt_0,,
+$ev_mako5_0090_0005_blt_0,ACTOR,
+$ev_mako5_0090_0010_cld_0,,¿Cuántos minutos tiene el temporizador?
+$ev_mako5_0090_0010_cld_0,ACTOR,Cloud
+$ev_mako5_0090_0020_blt_0,,Los minutos que quieras.
+$ev_mako5_0090_0020_blt_0,ACTOR,Barret
+$ev_mako5_0090_0025_cld_0,,
+$ev_mako5_0090_0025_cld_0,ACTOR,
+$ev_mako5_0090_0030_blt_0,,Esta vez es con detonador remoto.
+$ev_mako5_0090_0030_blt_0,ACTOR,Barret
+$ev_mako5_0090_0040_tif_0,,Lo hizo Jessie.
+$ev_mako5_0090_0040_tif_0,ACTOR,Tifa
+$ev_mako5_0090_0050_blt_0,,"Cuando estemos a distancia segura, pulsamos."
+$ev_mako5_0090_0050_blt_0,ACTOR,Barret
+$ev_mako5_0090_0050_blt_1,,¡Y bum!
+$ev_mako5_0090_0050_blt_1,ACTOR,Barret
+$ev_mako5_0090_0060_cld_0,,¿Distancia segura?
+$ev_mako5_0090_0060_cld_0,ACTOR,Cloud
+$ev_mako5_0090_0070_blt_0,,¿No existe algo así?
+$ev_mako5_0090_0070_blt_0,ACTOR,Barret
+$ev_mako5_0090_0080_cld_0,,
+$ev_mako5_0090_0080_cld_0,ACTOR,
+$ev_mako5_0110_0010_blt_0,,"Espera, ¡espera!"
+$ev_mako5_0110_0010_blt_0,ACTOR,Barret
+$ev_mako5_0110_0015_tif_0,,
+$ev_mako5_0110_0015_tif_0,ACTOR,
+$ev_mako5_0110_0020_cld_0,,El momento es demasiado oportuno.
+$ev_mako5_0110_0020_cld_0,ACTOR,Cloud
+$ev_mako5_0110_0025_blt_0,,
+$ev_mako5_0110_0025_blt_0,ACTOR,
+$ev_mako5_0110_0030_tif_0,,¿Nos estarán vigilando?
+$ev_mako5_0110_0030_tif_0,ACTOR,Tifa
+$ev_mako5_0110_0031_cld_0,,
+$ev_mako5_0110_0031_cld_0,ACTOR,
+$ev_mako5_0110_0032_blt_0,,
+$ev_mako5_0110_0032_blt_0,ACTOR,
+$ev_mako5_0110_0033_tif_0,,
+$ev_mako5_0110_0033_tif_0,ACTOR,
+$ev_mako5_0110_0035_cld_0,,
+$ev_mako5_0110_0035_cld_0,ACTOR,
+$ev_mako5_0110_0035_tif_0,,
+$ev_mako5_0110_0035_tif_0,ACTOR,
+$ev_mako5_0110_0040_hyd_0,,"¡Ja, ja, ja, ja!"
+$ev_mako5_0110_0040_hyd_0,ACTOR,
+$ev_mako5_0110_0040_hyd_1,,"¡Así que habéis venido, ratas inmundas!"
+$ev_mako5_0110_0040_hyd_1,ACTOR,Heidegger
+$ev_mako5_0110_0050_hyd_0,,"Yo, el comandante de la «operación de propaganda para incitar la moral de combate», jefe del Departamento de Seguridad Pública de la Compañía Shinra,"
+$ev_mako5_0110_0050_hyd_0,ACTOR,Heidegger
+$ev_mako5_0110_0060_hyd_0,,Heidegger.
+$ev_mako5_0110_0060_hyd_0,ACTOR,Heidegger
+$ev_mako5_0110_0070_blt_0,,¿El general del ejército?
+$ev_mako5_0110_0070_blt_0,ACTOR,Barret
+$ev_mako5_0110_0080_hyd_0,,Alegraos.
+$ev_mako5_0110_0080_hyd_0,ACTOR,Heidegger
+$ev_mako5_0110_0090_hyd_0,,Vuestras fechorías se están retransmitiendo por todo Midgar.
+$ev_mako5_0110_0090_hyd_0,ACTOR,Heidegger
+$ev_mako5_0110_0095_cld_0,,
+$ev_mako5_0110_0095_cld_0,ACTOR,
+$ev_mako5_0110_0096_blt_0,,
+$ev_mako5_0110_0096_blt_0,ACTOR,
+$ev_mako5_0110_0097_tif_0,,¿Qué es esto?
+$ev_mako5_0110_0097_tif_0,ACTOR,Tifa
+$ev_mako5_0110_0100_fan_0,,Conectamos en directo desde el reactor de mako n.º 5.
+$ev_mako5_0110_0100_fan_0,ACTOR,Presentador del noticiario
+$ev_mako5_0110_0110_fan_0,,La Compañía Shinra ha analizado la amenaza de bomba y ha identificado el reactor n.º 5 como objetivo.
+$ev_mako5_0110_0110_fan_0,ACTOR,Presentador del noticiario
+$ev_mako5_0110_0120_fan_0,,Hemos localizado a los culpables dentro de las instalaciones y ahora estamos persiguiéndolos y buscando los explosivos.
+$ev_mako5_0110_0120_fan_0,ACTOR,Presentador del noticiario
+$ev_mako5_0110_0125_blt_0,,
+$ev_mako5_0110_0125_blt_0,ACTOR,
+$ev_mako5_0110_0126_tif_0,,
+$ev_mako5_0110_0126_tif_0,ACTOR,
+$ev_mako5_0110_0130_fan_0,,"A continuación, las reacciones desde distintos puntos."
+$ev_mako5_0110_0130_fan_0,ACTOR,Presentador del noticiario
+$ev_mako5_0111_0140_rpo_0,,"Sí, aquí en la barriada del sector 5."
+$ev_mako5_0111_0140_rpo_0,ACTOR,Reportera
+$ev_mako5_0111_0150_rpo_0,,"Tras recibir el informe que identifica el objetivo de la bomba,"
+$ev_mako5_0111_0150_rpo_0,ACTOR,Reportera
+$ev_mako5_0111_0151_mbn_0,,
+$ev_mako5_0111_0151_mbn_0,ACTOR,
+$ev_mako5_0111_0160_rpo_0,,el centro de crisis de la Compañía Shinra ha emitido una orden de evacuación.
+$ev_mako5_0111_0160_rpo_0,ACTOR,Reportera
+$ev_mako5_0111_0162_mbn_0,,
+$ev_mako5_0111_0162_mbn_0,ACTOR,
+$ev_mako5_0111_0164_mbn_0,,
+$ev_mako5_0111_0164_mbn_0,ACTOR,
+$ev_mako5_0111_0170_rpo_0,,"Tras el atentado del reactor de mako n.º 1, ante la despiadada acción de los culpables de los atentados consecutivos,"
+$ev_mako5_0111_0170_rpo_0,ACTOR,Reportera
+$ev_mako5_0111_0171_mbn_0,,
+$ev_mako5_0111_0171_mbn_0,ACTOR,Residente
+$ev_mako5_0111_0180_rpo_0,,se alzan voces de condena.
+$ev_mako5_0111_0180_rpo_0,ACTOR,Reportera
+$ev_mako5_0112_0190_fan_0,,El presidente Shinra ha declarado que eliminará con firmeza las amenazas que invaden la vida de los ciudadanos.
+$ev_mako5_0112_0190_fan_0,ACTOR,Presentador del noticiario
+$ev_mako5_0112_0200_hyd_0,,"Vamos, ofrezcamos a los ciudadanos llenos de frustración un entretenimiento de primera."
+$ev_mako5_0112_0200_hyd_0,ACTOR,Heidegger
+$ev_mako5_0112_0210_hyd_0,,El clímax será...
+$ev_mako5_0112_0210_hyd_0,ACTOR,Heidegger
+$ev_mako5_0112_0220_blt_0,,¡¿El cacharro grande?!
+$ev_mako5_0112_0220_blt_0,ACTOR,Barret
+$ev_mako5_0112_0230_hyd_0,,Nuestro orgullo: el más moderno robot de combate de gran tamaño.
+$ev_mako5_0112_0230_hyd_0,ACTOR,Heidegger
+$ev_mako5_0112_0230_hyd_1,,¡El ajusticiamiento público por el aerodestructor!
+$ev_mako5_0112_0230_hyd_1,ACTOR,Heidegger
+$ev_mako5_0112_0233_blt_0,,
+$ev_mako5_0112_0233_blt_0,ACTOR,
+$ev_mako5_0112_0234_tif_0,,
+$ev_mako5_0112_0234_tif_0,ACTOR,
+$ev_mako5_0112_0235_cld_0,,
+$ev_mako5_0112_0235_cld_0,ACTOR,
+$ev_mako5_0112_0236_tif_0,,
+$ev_mako5_0112_0236_tif_0,ACTOR,
+$ev_mako5_0112_0240_hyd_0,,
+$ev_mako5_0112_0240_hyd_0,ACTOR,
+$ev_mako5_0112_0250_kb01_0,,Informe del equipo de mantenimiento.
+$ev_mako5_0112_0250_kb01_0,ACTOR,Subordinado
+$ev_mako5_0112_0250_kb01_1,,El progreso del aerodestructor está ahora al 60 %.
+$ev_mako5_0112_0250_kb01_1,ACTOR,Subordinado
+$ev_mako5_0112_0255_hyd_0,,
+$ev_mako5_0112_0255_hyd_0,ACTOR,
+$ev_mako5_0112_0260_kb01_0,,Hay un retraso mayor de lo previsto.
+$ev_mako5_0112_0260_kb01_0,ACTOR,Subordinado
+$ev_mako5_0112_0270_hyd_0,,¡Estamos grabando!
+$ev_mako5_0112_0270_hyd_0,ACTOR,Heidegger
+$ev_mako5_0112_0275_kb01_0,,
+$ev_mako5_0112_0275_kb01_0,ACTOR,
+$ev_mako5_0112_0280_blt_0,,
+$ev_mako5_0112_0280_blt_0,ACTOR,Barret
+$ev_mako5_0112_0285_blt_0,,
+$ev_mako5_0112_0285_blt_0,ACTOR,
+$ev_mako5_0112_0290_hyd_0,,¡Aviso a los responsables de seguridad del edificio!
+$ev_mako5_0112_0290_hyd_0,ACTOR,Heidegger
+$ev_mako5_0112_0300_hyd_0,,¡Capturad a los intrusos de inmediato y llevadlos al puente!
+$ev_mako5_0112_0300_hyd_0,ACTOR,Heidegger
+$ev_mako5_0112_0305_tif_0,,
+$ev_mako5_0112_0305_tif_0,ACTOR,
+$ev_mako5_0112_0310_ts01_0,,¡No os resistáis!
+$ev_mako5_0112_0310_ts01_0,ACTOR,Luchador
+$ev_mako5_0112_0320_blt_0,,
+$ev_mako5_0112_0320_blt_0,ACTOR,
+$ev_mako5_0112_0330_blt_0,,
+$ev_mako5_0112_0330_blt_0,ACTOR,
+$ev_mako5_0112_0340_tif_0,,
+$ev_mako5_0112_0340_tif_0,ACTOR,
+$ev_mako5_0120_0010_kb01_0,,¡Cargadlo rápido! El director Heidegger está esperando.
+$ev_mako5_0120_0010_kb01_0,ACTOR,Centinela de élite
+$ev_mako5_0120_0020_kb02_0,,Carga completada.
+$ev_mako5_0120_0020_kb02_0,ACTOR,Centinela
+$ev_mako5_0120_0030_kb01_0,,¡Envío iniciado desde la planta B8!
+$ev_mako5_0120_0030_kb01_0,ACTOR,Centinela de élite
+$ev_mako5_0120_0040_tj01_0,,"Entendido, equipo de mantenimiento."
+$ev_mako5_0120_0040_tj01_0,ACTOR,Encargado de mantenimiento
+$ev_mako5_0120_0045_kb01_0,,
+$ev_mako5_0120_0045_kb01_0,ACTOR,
+$ev_mako5_0120_0050_kb01_0,,¡Intrusos!
+$ev_mako5_0120_0050_kb01_0,ACTOR,Centinela
+$ev_mako5_0120_0060_kb02_0,,¡Rodeadlos!
+$ev_mako5_0120_0060_kb02_0,ACTOR,Centinela
+$ev_mako5_0250_0010_tj01_0,,¿Cómo va el mantenimiento?
+$ev_mako5_0250_0010_tj01_0,ACTOR,Encargado de mantenimiento
+$ev_mako5_0250_0020_tj03_0,,Faltan «núcleos de IA». ¡Estamos en ello!
+$ev_mako5_0250_0020_tj03_0,ACTOR,Centinela
+$ev_mako5_0250_0030_tj03_0,,¡Faltan «bombas B»! ¡Estamos en ello!
+$ev_mako5_0250_0030_tj03_0,ACTOR,Centinela
+$ev_mako5_0250_0040_tj03_0,,Faltan «unidades M». ¡Estamos en ello!
+$ev_mako5_0250_0040_tj03_0,ACTOR,Centinela
+$ev_mako5_0250_0050_tj03_0,,¡Ahora mismo estamos con el ajuste final!
+$ev_mako5_0250_0050_tj03_0,ACTOR,Centinela
+$ev_mako5_0250_0060_tj01_0,,¡Date prisa! El director está esperando.
+$ev_mako5_0250_0060_tj01_0,ACTOR,Encargado de mantenimiento
+$ev_mako5_0250_0065_blt_0,,
+$ev_mako5_0250_0065_blt_0,ACTOR,
+$ev_mako5_0250_0070_blt_0,,"Bien, todavía está en mantenimiento."
+$ev_mako5_0250_0070_blt_0,ACTOR,Barret
+$ev_mako5_0250_0080_tj01_0,,¡Intrusos!
+$ev_mako5_0250_0080_tj01_0,ACTOR,Encargado de mantenimiento
+$ev_mako5_0250_0090_tj01_0,,¡Atrapadlos y ganemos tiempo de mantenimiento!
+$ev_mako5_0250_0090_tj01_0,ACTOR,Encargado de mantenimiento
+$ev_mako5_0320_0000_tif_0,,
+$ev_mako5_0320_0000_tif_0,ACTOR,
+$ev_mako5_0320_0005_blt_0,,
+$ev_mako5_0320_0005_blt_0,ACTOR,
+$ev_mako5_0320_0010_blt_0,,"Pase lo que pase, volveremos al Séptimo Cielo."
+$ev_mako5_0320_0010_blt_0,ACTOR,Barret
+$ev_mako5_0320_0010_blt_1,,Sin falta. Seguro.
+$ev_mako5_0320_0010_blt_1,ACTOR,Barret
+$ev_mako5_0320_0020_tif_0,,Sí. Le diremos «ya estamos en casa» a Marlene.
+$ev_mako5_0320_0020_tif_0,ACTOR,Tifa
+$ev_mako5_0320_0020_tif_1,,"Y tú también vienes, Cloud."
+$ev_mako5_0320_0020_tif_1,ACTOR,Tifa
+$ev_mako5_0320_0030_tif_0,,
+$ev_mako5_0320_0030_tif_0,ACTOR,Tifa
+$ev_mako5_0320_0040_blt_0,,"No olvides sonreír, ¿eh?"
+$ev_mako5_0320_0040_blt_0,ACTOR,Barret
+$ev_mako5_0320_0050_cld_0,,Depende de la recompensa.
+$ev_mako5_0320_0050_cld_0,ACTOR,Cloud
+$ev_mako5_0320_0060_tif_0,,
+$ev_mako5_0320_0060_tif_0,ACTOR,
+$ev_mako5_0320_0070_blt_0,,
+$ev_mako5_0320_0070_blt_0,ACTOR,
+$ev_mako5_0320_0080_tif_0,,
+$ev_mako5_0320_0080_tif_0,ACTOR,
+$ev_mako5_8010_0005_tif_0,,
+$ev_mako5_8010_0005_tif_0,ACTOR,
+$ev_mako5_8010_0006_tif_0,,
+$ev_mako5_8010_0006_tif_0,ACTOR,
+$ev_mako5_8010_0010_tif_0,,¡Mirad!
+$ev_mako5_8010_0010_tif_0,ACTOR,Tifa
+$ev_mako5_8010_0015_blt_0,,
+$ev_mako5_8010_0015_blt_0,ACTOR,
+$ev_mako5_8010_0016_tif_0,,
+$ev_mako5_8010_0016_tif_0,ACTOR,
+$ev_mako5_8010_0020_blt_0,,¿El presidente Shinra?
+$ev_mako5_8010_0020_blt_0,ACTOR,Barret
+$ev_mako5_8010_0030_pre_0,,Vaya. Tienes ojos de quien se ha bañado en mako.
+$ev_mako5_8010_0030_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0030_pre_1,,"Eres un SOLDIER, ¿verdad?"
+$ev_mako5_8010_0030_pre_1,ACTOR,Presidente Shinra
+$ev_mako5_8010_0040_cld_0,,Ex-SOLDIER.
+$ev_mako5_8010_0040_cld_0,ACTOR,Cloud
+$ev_mako5_8010_0050_pre_0,,Un SOLDIER lo es hasta la muerte.
+$ev_mako5_8010_0050_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0050_pre_1,,Aunque muchos dejan de ser útiles.
+$ev_mako5_8010_0050_pre_1,ACTOR,Presidente Shinra
+$ev_mako5_8010_0055_cld_0,,
+$ev_mako5_8010_0055_cld_0,ACTOR,
+$ev_mako5_8010_0060_pre_0,,La causa de muerte más común entre los SOLDIER es el derrumbe personal por degradación.
+$ev_mako5_8010_0060_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0070_pre_0,,"Los datos no son públicos, pero todos los SOLDIER lo saben."
+$ev_mako5_8010_0070_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0075_tif_0,,
+$ev_mako5_8010_0075_tif_0,ACTOR,
+$ev_mako5_8010_0080_cld_0,,
+$ev_mako5_8010_0080_cld_0,ACTOR,
+$ev_mako5_8010_0080_cld_1,,Por supuesto.
+$ev_mako5_8010_0080_cld_1,ACTOR,Cloud
+$ev_mako5_8010_0090_blt_0,,¿A nosotros nos ignoras?
+$ev_mako5_8010_0090_blt_0,ACTOR,Barret
+$ev_mako5_8010_0095_blt_0,,
+$ev_mako5_8010_0095_blt_0,ACTOR,
+$ev_mako5_8010_0100_pre_0,,Hum. Tu historia es larga y pesada. Tengo esa sensación.
+$ev_mako5_8010_0100_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0110_blt_0,,"Si contara todas vuestras fechorías, no habría tiempo suficiente."
+$ev_mako5_8010_0110_blt_0,ACTOR,Barret
+$ev_mako5_8010_0120_pre_0,,Quien se lamenta de que no hay tiempo es porque lo desperdicia.
+$ev_mako5_8010_0120_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0125_blt_0,,
+$ev_mako5_8010_0125_blt_0,ACTOR,
+$ev_mako5_8010_0130_blt_0,,"Sí, eso es."
+$ev_mako5_8010_0130_blt_0,ACTOR,Barret
+$ev_mako5_8010_0130_blt_1,,Hablemos de desperdicio.
+$ev_mako5_8010_0130_blt_1,ACTOR,Barret
+$ev_mako5_8010_0140_blt_0,,La verdadera naturaleza del mako es la corriente vital.
+$ev_mako5_8010_0140_blt_0,ACTOR,Barret
+$ev_mako5_8010_0140_blt_1,,¡La corriente vital es la sangre que fluye por el planeta!
+$ev_mako5_8010_0140_blt_1,ACTOR,Barret
+$ev_mako5_8010_0150_blt_0,,Shinra absorbe esa sangre y la desperdicia.
+$ev_mako5_8010_0150_blt_0,ACTOR,Barret
+$ev_mako5_8010_0150_blt_1,,"Si seguís así, ¿qué será del planeta?"
+$ev_mako5_8010_0150_blt_1,ACTOR,Barret
+$ev_mako5_8010_0160_blt_0,,
+$ev_mako5_8010_0160_blt_0,ACTOR,Barret
+$ev_mako5_8010_0170_pre_0,,
+$ev_mako5_8010_0170_pre_0,ACTOR,
+$ev_mako5_8010_0170_pre_1,,Pero ¿quién lo desperdicia?
+$ev_mako5_8010_0170_pre_1,ACTOR,Presidente Shinra
+$ev_mako5_8010_0170_pre_2,,Es cierto que somos nosotros quienes lo absorbemos.
+$ev_mako5_8010_0170_pre_2,ACTOR,Presidente Shinra
+$ev_mako5_8010_0175_blt_0,,
+$ev_mako5_8010_0175_blt_0,ACTOR,
+$ev_mako5_8010_0180_pre_0,,"Todo el mundo conoce la naturaleza del mako, y aun así hace la vista gorda."
+$ev_mako5_8010_0180_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0185_blt_0,,
+$ev_mako5_8010_0185_blt_0,ACTOR,
+$ev_mako5_8010_0190_pre_0,,¿Nunca lo has pensado?
+$ev_mako5_8010_0190_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0200_blt_0,,¡Claro que no!
+$ev_mako5_8010_0200_blt_0,ACTOR,Barret
+$ev_mako5_8010_0200_blt_1,,"Aunque así fuera,"
+$ev_mako5_8010_0200_blt_1,ACTOR,Barret
+$ev_mako5_8010_0210_blt_0,,es por vuestro lavado de cerebro.
+$ev_mako5_8010_0210_blt_0,ACTOR,Barret
+$ev_mako5_8010_0220_pre_0,,No uso esa clase de magia.
+$ev_mako5_8010_0220_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0220_pre_1,,"Bien, bufones de la barriada."
+$ev_mako5_8010_0220_pre_1,ACTOR,Presidente Shinra
+$ev_mako5_8010_0230_pre_0,,"A partir de ahora, seréis agentes del país enemigo, Wutai."
+$ev_mako5_8010_0230_pre_0,ACTOR,Presidente Shinra
+$ev_mako5_8010_0230_pre_1,,Encended con fuerza la voluntad de lucha de los ciudadanos.
+$ev_mako5_8010_0230_pre_1,ACTOR,Presidente Shinra
+$ev_mako5_8010_0235_tif_0,,
+$ev_mako5_8010_0235_tif_0,ACTOR,
+$ev_mako5_8010_0240_blt_0,,¿Wutai? ¡¿Qué demonios?!
+$ev_mako5_8010_0240_blt_0,ACTOR,Barret
+$ev_mako5_8010_0250_hyd_0,,
+$ev_mako5_8010_0250_hyd_0,ACTOR,
+$ev_mako5_8010_0250_hyd_1,,Las ratas no lo entenderíais.
+$ev_mako5_8010_0250_hyd_1,ACTOR,Heidegger
+$ev_mako5_8010_0260_blt_0,,¿Qué estáis haciendo?
+$ev_mako5_8010_0260_blt_0,ACTOR,Barret
+$ev_mako5_8010_0270_hyd_0,,Escuchad. Esta no es vuestra operación.
+$ev_mako5_8010_0270_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0280_hyd_0,,Es la «operación de propaganda para incitar la moral de combate» que hemos planeado meticulosamente.
+$ev_mako5_8010_0280_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0290_hyd_0,,"Por tanto, el momento de la explosión"
+$ev_mako5_8010_0290_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0295_tif_0,,
+$ev_mako5_8010_0295_tif_0,ACTOR,
+$ev_mako5_8010_0300_hyd_0,,también lo decide Shinra.
+$ev_mako5_8010_0300_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0305_tif_0,,
+$ev_mako5_8010_0305_tif_0,ACTOR,
+$ev_mako5_8010_0310_blt_0,,Hijo de puta...
+$ev_mako5_8010_0310_blt_0,ACTOR,Barret
+$ev_mako5_8010_0320_hyd_0,,"Vamos, que empiece el espectáculo."
+$ev_mako5_8010_0320_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0321_blt_0,,
+$ev_mako5_8010_0321_blt_0,ACTOR,
+$ev_mako5_8010_0322_tif_0,,
+$ev_mako5_8010_0322_tif_0,ACTOR,
+$ev_mako5_8010_0325_blt_0,,
+$ev_mako5_8010_0325_blt_0,ACTOR,
+$ev_mako5_8010_0326_tif_0,,
+$ev_mako5_8010_0326_tif_0,ACTOR,
+$ev_mako5_8010_0330_hyd_0,,"Avalancha, enemigo de todos los ciudadanos de Midgar."
+$ev_mako5_8010_0330_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0330_hyd_1,,Los cargos por conspirar con Wutai son evidentes.
+$ev_mako5_8010_0330_hyd_1,ACTOR,Heidegger
+$ev_mako5_8010_0340_hyd_0,,¡Os purgaremos de inmediato!
+$ev_mako5_8010_0340_hyd_0,ACTOR,Heidegger
+$ev_mako5_8010_0343_tif_0,,
+$ev_mako5_8010_0343_tif_0,ACTOR,
+$ev_mako5_8010_0345_hyd_0,,
+$ev_mako5_8010_0345_hyd_0,ACTOR,
+$ev_mako5_8010_0350_tif_0,,
+$ev_mako5_8010_0350_tif_0,ACTOR,
+$ev_mako5_8010_0350_tif_1,,No os lo perdonaré.
+$ev_mako5_8010_0350_tif_1,ACTOR,Tifa
+$ev_mako5_8010_0350_tif_2,,
+$ev_mako5_8010_0350_tif_2,ACTOR,
+$ev_mako5_8010_0360_tif_0,,¡Todo lo odio!
+$ev_mako5_8010_0360_tif_0,ACTOR,Tifa
+$ev_mako5_8011_0370_cld_0,,En aquel momento...
+$ev_mako5_8011_0370_cld_0,ACTOR,
+$ev_mako5_8012_0370_cld_1,,no pude protegerte.
+$ev_mako5_8012_0370_cld_1,ACTOR,
+$ev_mako5_8012_0380_blt_0,,"Cloud, no te quedes mirando al vacío."
+$ev_mako5_8012_0380_blt_0,ACTOR,Barret
+$ev_mako5_8012_0390_blt_0,,Confío en ti.
+$ev_mako5_8012_0390_blt_0,ACTOR,Barret
+$ev_mako5_8020_0005_hyd_0,,El aerodestructor pasa a la fase final.
+$ev_mako5_8020_0005_hyd_0,ACTOR,Heidegger
+$ev_mako5_8020_0010_tif_0,,
+$ev_mako5_8020_0010_tif_0,ACTOR,
+$ev_mako5_8020_0020_cld_0,,
+$ev_mako5_8020_0020_cld_0,ACTOR,
+$ev_mako5_8020_0030_blt_0,,
+$ev_mako5_8020_0030_blt_0,ACTOR,
+$ev_mako5_8020_0040_cld_0,,
+$ev_mako5_8020_0040_cld_0,ACTOR,
+$ev_mako5_8020_0050_tif_0,,
+$ev_mako5_8020_0050_tif_0,ACTOR,
+$ev_mako5_8020_0060_blt_0,,
+$ev_mako5_8020_0060_blt_0,ACTOR,
+$ev_mako5_8020_0070_hyd_0,,"¡Vamos, es la hora de la ejecución!"
+$ev_mako5_8020_0070_hyd_0,ACTOR,Heidegger
+$ev_mako5_8030_0002_blt_0,,
+$ev_mako5_8030_0002_blt_0,ACTOR,
+$ev_mako5_8030_0003_tif_0,,
+$ev_mako5_8030_0003_tif_0,ACTOR,
+$ev_mako5_8030_0004_blt_0,,
+$ev_mako5_8030_0004_blt_0,ACTOR,
+$ev_mako5_8030_0005_tif_0,,
+$ev_mako5_8030_0005_tif_0,ACTOR,
+$ev_mako5_8030_0010_blt_0,,Va a explotar enseguida.
+$ev_mako5_8030_0010_blt_0,ACTOR,Barret
+$ev_mako5_8030_0020_cld_0,,"Yo estoy bien, saca a Tifa."
+$ev_mako5_8030_0020_cld_0,ACTOR,Cloud
+$ev_mako5_8030_0030_blt_0,,Perdona por todo.
+$ev_mako5_8030_0030_blt_0,ACTOR,Barret
+$ev_mako5_8030_0040_cld_0,,No hables como si esto fuera el final.
+$ev_mako5_8030_0040_cld_0,ACTOR,Cloud
+$ev_mako5_8030_0050_tif_0,,¡Cloud!
+$ev_mako5_8030_0050_tif_0,ACTOR,Tifa
+$ev_mako5_8030_0055_blt_0,,
+$ev_mako5_8030_0055_blt_0,ACTOR,
+$ev_mako5_8030_0065_tif_0,,
+$ev_mako5_8030_0065_tif_0,ACTOR,
+$ev_mako5_8030_0066_blt_0,,Vamos.
+$ev_mako5_8030_0066_blt_0,ACTOR,Barret
+$ev_mako5_8030_0067_blt_0,,
+$ev_mako5_8030_0067_blt_0,ACTOR,
+$ev_mako5_8030_0070_cld_0,,
+$ev_mako5_8030_0070_cld_0,ACTOR,
+$ev_mako5_8030_0080_cld_0,,
+$ev_mako5_8030_0080_cld_0,ACTOR,
+$ev_mako5_8030_0090_cld_0,,
+$ev_mako5_8030_0090_cld_0,ACTOR,
+$ev_mako5_8030_0100_cld_0,,
+$ev_mako5_8030_0100_cld_0,ACTOR,
+$ev_mako5_8030_0110_cld_0,,
+$ev_mako5_8030_0110_cld_0,ACTOR,
+$lv_mako5_0300_0010_blt_0,,¡Ah...! ¡Eso ha sido peligroso!
+$lv_mako5_0300_0010_blt_0,ACTOR,Barret
+$pv_mako5_0030_0010_blt_0,,¿Por dónde bajamos?
+$pv_mako5_0030_0010_blt_0,ACTOR,Barret
+$pv_mako5_0040_0010_blt_0,,"Eh, ¡mirad!"
+$pv_mako5_0040_0010_blt_0,ACTOR,Barret
+$pv_mako5_0040_0020_blt_0,,"Si sale un cacharro de ese tamaño, no aguantaremos ni un asalto."
+$pv_mako5_0040_0020_blt_0,ACTOR,Barret
+$pv_mako5_0040_0030_cld_0,,Este tipo de robot está pensado para monstruos gigantes. Será lo último en tecnología.
+$pv_mako5_0040_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0040_0035_cld_0,,"Si aparece delante de nosotros, mejor huir."
+$pv_mako5_0040_0035_cld_0,ACTOR,Cloud
+$pv_mako5_0040_0040_blt_0,,Menos mal que es la hora de dormir.
+$pv_mako5_0040_0040_blt_0,ACTOR,Barret
+$pv_mako5_0050_0010_tif_0,,Ya queda poco.
+$pv_mako5_0050_0010_tif_0,ACTOR,Tifa
+$pv_mako5_0055_0010_tif_0,,Este olor me trae recuerdos.
+$pv_mako5_0055_0010_tif_0,ACTOR,Tifa
+$pv_mako5_0115_0030_blt_0,,¡Cállate!
+$pv_mako5_0115_0030_blt_0,ACTOR,Barret
+$pv_mako5_0115_0040_tif_0,,"Así que esto es lo que quería Shinra, ¿no?"
+$pv_mako5_0115_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0115_0050_blt_0,,Sí. Seguro que están manipulando las noticias a su antojo.
+$pv_mako5_0115_0050_blt_0,ACTOR,Barret
+$pv_mako5_0115_0060_tif_0,,Qué rabia.
+$pv_mako5_0115_0060_tif_0,ACTOR,Tifa
+$pv_mako5_0115_0070_blt_0,,No nos vamos a quedar de brazos cruzados.
+$pv_mako5_0115_0070_blt_0,ACTOR,Barret
+$pv_mako5_0115_0080_blt_0,,"Si quieren un ajusticiamiento público, destruyamos ese cacharro"
+$pv_mako5_0115_0080_blt_0,ACTOR,Barret
+$pv_mako5_0115_0085_blt_0,,y dejemos a Shinra en ridículo ante todos.
+$pv_mako5_0115_0085_blt_0,ACTOR,Barret
+$pv_mako5_0115_0090_cld_0,,Sí. No es mala idea.
+$pv_mako5_0115_0090_cld_0,ACTOR,Cloud
+$pv_mako5_0123_0010_tif_0,,Barret. Cloud. Mirad esto.
+$pv_mako5_0123_0010_tif_0,ACTOR,Tifa
+$pv_mako5_0130_0030_tif_0,,Parece que llevan las piezas de ese robot en el ascensor.
+$pv_mako5_0130_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0130_0040_blt_0,,Vamos a estorbarlos.
+$pv_mako5_0130_0040_blt_0,ACTOR,Barret
+$pv_mako5_0130_0050_cld_0,,Podemos provocar un fallo de mantenimiento.
+$pv_mako5_0130_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0130_0060_tif_0,,¿Tenemos posibilidades?
+$pv_mako5_0130_0060_tif_0,ACTOR,Tifa
+$pv_mako5_0130_0070_cld_0,,Vamos a comprobar el panel de control.
+$pv_mako5_0130_0070_cld_0,ACTOR,Cloud
+$pv_mako5_0130_0090_blt_0,,¿Ese es el panel de control?
+$pv_mako5_0130_0090_blt_0,ACTOR,Barret
+$pv_mako5_0140_0060_blt_0,,¿Se puede mover el ascensor?
+$pv_mako5_0140_0060_blt_0,ACTOR,Barret
+$pv_mako5_0140_0070_cld_0,,Hace falta una tarjeta.
+$pv_mako5_0140_0070_cld_0,ACTOR,Cloud
+$pv_mako5_0140_0100_blt_0,,"¡Buscad, buscad!"
+$pv_mako5_0140_0100_blt_0,ACTOR,Barret
+$pv_mako5_0141_0020_blt_0,,Es el turno de recoger cosas.
+$pv_mako5_0141_0020_blt_0,ACTOR,Barret
+$pv_mako5_0143_0060_tif_0,,Pone «unidad M». ¿Será una pieza?
+$pv_mako5_0143_0060_tif_0,ACTOR,Tifa
+$pv_mako5_0143_0070_cld_0,,Sí. Es una pieza de refuerzo que usa solución de materia.
+$pv_mako5_0143_0070_cld_0,ACTOR,Cloud
+$pv_mako5_0143_0080_blt_0,,¿Podemos estorbarlos?
+$pv_mako5_0143_0080_blt_0,ACTOR,Barret
+$pv_mako5_0143_0090_cld_0,,Cambiamos el destino del ascensor a desechos.
+$pv_mako5_0143_0090_cld_0,ACTOR,Cloud
+$pv_mako5_0145_0010_tif_0,,¿No os pareció que alguien andaba revolviendo por aquí?
+$pv_mako5_0145_0010_tif_0,ACTOR,Tifa
+$pv_mako5_0155_0030_tif_0,,"Nos están viendo ahora mismo, ¿verdad?"
+$pv_mako5_0155_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0155_0040_cld_0,,Sí. Seguro que nos están grabando.
+$pv_mako5_0155_0040_cld_0,ACTOR,Cloud
+$pv_mako5_0155_0050_blt_0,,A estas alturas ya da igual. Pongamos buena cara.
+$pv_mako5_0155_0050_blt_0,ACTOR,Barret
+$pv_mako5_0160_0030_tj02_0,,Envío iniciado desde la planta B7.
+$pv_mako5_0160_0030_tj02_0,ACTOR,Centinela
+$pv_mako5_0160_0060_tj01_0,,Entendido.
+$pv_mako5_0160_0060_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0160_0065_tj01_0,,No llegan los suministros de la planta B8 y no hay comunicación. Confirmadlo con urgencia.
+$pv_mako5_0160_0065_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0160_0100_kb03_0,,¡Intrusos! ¡Atrapadlos!
+$pv_mako5_0160_0100_kb03_0,ACTOR,Centinela
+$pv_mako5_0162_0020_tif_0,,La carga de aquí es un núcleo de IA.
+$pv_mako5_0162_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0162_0030_cld_0,,"Es un potenciador del programa de control de movimiento. Es decir, hará que se mueva más rápido."
+$pv_mako5_0162_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0162_0040_tif_0,,¿Un robot rápido? Eso da miedo. Piensa bien qué tirar.
+$pv_mako5_0162_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0163_0020_blt_0,,El ascensor de aquí lleva bombas grandes.
+$pv_mako5_0163_0020_blt_0,ACTOR,Barret
+$pv_mako5_0163_0030_cld_0,,Su nombre oficial es Big Bang. Son bombas muy potentes.
+$pv_mako5_0163_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0163_0040_blt_0,,"Si las tiramos, reduciremos su número de disparos. Decide qué tirar."
+$pv_mako5_0163_0040_blt_0,ACTOR,Barret
+$pv_mako5_0164_0020_tif_0,,Este parece el ascensor de los núcleos de IA. ¿Qué hacemos? ¿Qué tiramos?
+$pv_mako5_0164_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0165_0020_blt_0,,El ascensor de aquí lleva bombas grandes.
+$pv_mako5_0165_0020_blt_0,ACTOR,Barret
+$pv_mako5_0165_0030_blt_0,,Decide rápido qué tiramos y destrozaremos los planes de Shinra.
+$pv_mako5_0165_0030_blt_0,ACTOR,Barret
+$pv_mako5_0166_0020_blt_0,,¿Qué hay aquí?
+$pv_mako5_0166_0020_blt_0,ACTOR,Barret
+$pv_mako5_0166_0030_cld_0,,Una unidad M. Una pieza de refuerzo para los robots.
+$pv_mako5_0166_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0166_0040_blt_0,,Te dejo decidir qué tiramos.
+$pv_mako5_0166_0040_blt_0,ACTOR,Barret
+$pv_mako5_0167_0020_tif_0,,Aquí hay un núcleo de IA. Habrá que comprobar los demás y decidir.
+$pv_mako5_0167_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0168_0020_blt_0,,Bombas grandes. Tira lo que parezca que los debilita.
+$pv_mako5_0168_0020_blt_0,ACTOR,Barret
+$pv_mako5_0169_0020_blt_0,,¿Ahí hay una unidad M?
+$pv_mako5_0169_0020_blt_0,ACTOR,Barret
+$pv_mako5_0169_0030_cld_0,,Sí.
+$pv_mako5_0169_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0169_0040_blt_0,,Es la oportunidad de avergonzar a Shinra. Elige bien qué tirar.
+$pv_mako5_0169_0040_blt_0,ACTOR,Barret
+$pv_mako5_0170_0020_tj02_0,,"Atención, planta B7. Hemos entrado en combate con los intrusos."
+$pv_mako5_0170_0020_tj02_0,ACTOR,Centinela
+$pv_mako5_0170_0030_tj01_0,,El mantenimiento aún tardará. Haced todo lo posible por detenerlos.
+$pv_mako5_0170_0030_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0170_0040_tj02_0,,¡Entendido!
+$pv_mako5_0170_0040_tj02_0,ACTOR,Centinela
+$pv_mako5_0171_0020_tif_0,,Aquí hay núcleos de IA que aumentan la velocidad. ¿Has decidido qué tirar?
+$pv_mako5_0171_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0172_0020_blt_0,,"La carga de aquí son bombas potentes, las bombas grandes. ¿Ya has decidido qué tirar?"
+$pv_mako5_0172_0020_blt_0,ACTOR,Barret
+$pv_mako5_0173_0020_blt_0,,"Ahí hay una unidad M, una pieza de refuerzo, ¿no? Piensa bien qué tirar."
+$pv_mako5_0173_0020_blt_0,ACTOR,Barret
+$pv_mako5_0184_0030_tif_0,,
+$pv_mako5_0184_0030_tif_0,ACTOR,
+$pv_mako5_0184_0040_tif_0,,
+$pv_mako5_0184_0040_tif_0,ACTOR,
+$pv_mako5_0184_0050_tif_0,,
+$pv_mako5_0184_0050_tif_0,ACTOR,
+$pv_mako5_0184_0060_tif_0,,
+$pv_mako5_0184_0060_tif_0,ACTOR,
+$pv_mako5_0184_0070_tif_0,,
+$pv_mako5_0184_0070_tif_0,ACTOR,
+$pv_mako5_0184_0080_tif_0,,
+$pv_mako5_0184_0080_tif_0,ACTOR,
+$pv_mako5_0184_0090_tif_0,,
+$pv_mako5_0184_0090_tif_0,ACTOR,
+$pv_mako5_0184_0100_tif_0,,
+$pv_mako5_0184_0100_tif_0,ACTOR,
+$pv_mako5_0184_0110_tif_0,,
+$pv_mako5_0184_0110_tif_0,ACTOR,
+$pv_mako5_0184_0510_tif_0,,¿Adónde van las piezas desechadas?
+$pv_mako5_0184_0510_tif_0,ACTOR,Tifa
+$pv_mako5_0184_0520_cld_0,,Probablemente hay una sala donde se recogen los desechos.
+$pv_mako5_0184_0520_cld_0,ACTOR,Cloud
+$pv_mako5_0184_0530_blt_0,,"Bombas grandes, núcleos de IA... Seguro que hay un buen tesoro."
+$pv_mako5_0184_0530_blt_0,ACTOR,Barret
+$pv_mako5_0184_0540_cld_0,,Puede.
+$pv_mako5_0184_0540_cld_0,ACTOR,Cloud
+$pv_mako5_0184_0550_blt_0,,¿Nos lo llevamos?
+$pv_mako5_0184_0550_blt_0,ACTOR,Barret
+$pv_mako5_0184_0560_cld_0,,Si encontramos la sala.
+$pv_mako5_0184_0560_cld_0,ACTOR,Cloud
+$pv_mako5_0188_0025_blt_0,,
+$pv_mako5_0188_0025_blt_0,ACTOR,
+$pv_mako5_0188_0030_blt_0,,
+$pv_mako5_0188_0030_blt_0,ACTOR,
+$pv_mako5_0188_0035_blt_0,,"Bien, escuchad todos."
+$pv_mako5_0188_0035_blt_0,ACTOR,Barret
+$pv_mako5_0188_0040_blt_0,,Todo lo que dice Shinra es mentira. El mako es la vida del planeta.
+$pv_mako5_0188_0040_blt_0,ACTOR,Barret
+$pv_mako5_0188_0045_blt_0,,Shinra se está comiendo el planeta. Por eso...
+$pv_mako5_0188_0045_blt_0,ACTOR,Barret
+$pv_mako5_0188_0050_tif_0,,"Barret, ¿a qué viene esto de repente?"
+$pv_mako5_0188_0050_tif_0,ACTOR,Tifa
+$pv_mako5_0188_0060_blt_0,,"Si me van a retransmitir, quiero decir lo que pienso."
+$pv_mako5_0188_0060_blt_0,ACTOR,Barret
+$pv_mako5_0188_0070_cld_0,,Seguro que cortan el audio.
+$pv_mako5_0188_0070_cld_0,ACTOR,Cloud
+$pv_mako5_0192_0020_ks02_0,,¿Está cargado?
+$pv_mako5_0192_0020_ks02_0,ACTOR,Centinela de élite
+$pv_mako5_0192_0030_kb04_0,,¡Listo!
+$pv_mako5_0192_0030_kb04_0,ACTOR,Centinela
+$pv_mako5_0196_0020_ks02_0,,¡Vienen intrusos!
+$pv_mako5_0196_0020_ks02_0,ACTOR,Centinela de élite
+$pv_mako5_0196_0030_kb04_0,,¡Atrapadlos!
+$pv_mako5_0196_0030_kb04_0,ACTOR,Centinela
+$pv_mako5_0196_0040_ks02_0,,Los intrusos han llegado a la planta B6. Entramos en combate.
+$pv_mako5_0196_0040_ks02_0,ACTOR,Centinela de élite
+$pv_mako5_0196_0050_tj01_0,,Maldita sea. No se admiten más retrasos. Entrega el material como sea.
+$pv_mako5_0196_0050_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0196_0060_ks02_0,,Entendido. Nosotros ganaremos tiempo.
+$pv_mako5_0196_0060_ks02_0,ACTOR,Centinela de élite
+$pv_mako5_0197_0040_trm_0,,Para manejar el ascensor hace falta una tarjeta.
+$pv_mako5_0197_0040_trm_0,ACTOR,Voz digital
+$pv_mako5_0198_0110_blt_0,,"Heidegger, toma ya."
+$pv_mako5_0198_0110_blt_0,ACTOR,Barret
+$pv_mako5_0198_0120_blt_0,,Bien merecido.
+$pv_mako5_0198_0120_blt_0,ACTOR,Barret
+$pv_mako5_0198_0130_blt_0,,Me imagino sus caras de rabia.
+$pv_mako5_0198_0130_blt_0,ACTOR,Barret
+$pv_mako5_0198_0220_tif_0,,"Con esto se retrasará el mantenimiento, ¿verdad?"
+$pv_mako5_0198_0220_tif_0,ACTOR,Tifa
+$pv_mako5_0198_0230_tif_0,,Heidegger se va a morir de rabia.
+$pv_mako5_0198_0230_tif_0,ACTOR,Tifa
+$pv_mako5_0198_0240_tif_0,,Yo estaba pensando lo mismo.
+$pv_mako5_0198_0240_tif_0,ACTOR,Tifa
+$pv_mako5_0198_0250_tif_0,,Sí. Me parece bien.
+$pv_mako5_0198_0250_tif_0,ACTOR,Tifa
+$pv_mako5_0199_0110_blt_0,,¿Qué pasa? ¿No vas a estorbarlos?
+$pv_mako5_0199_0110_blt_0,ACTOR,Barret
+$pv_mako5_0199_0120_blt_0,,"Venga, tíralo ya."
+$pv_mako5_0199_0120_blt_0,ACTOR,Barret
+$pv_mako5_0199_0130_blt_0,,Decídete de una vez.
+$pv_mako5_0199_0130_blt_0,ACTOR,Barret
+$pv_mako5_0199_0140_blt_0,,¿A qué viene tanta duda?
+$pv_mako5_0199_0140_blt_0,ACTOR,Barret
+$pv_mako5_0199_0210_tif_0,,"Si no nos damos prisa, no habrá tiempo."
+$pv_mako5_0199_0210_tif_0,ACTOR,Tifa
+$pv_mako5_0210_0030_blt_0,,"Bueno, ¿quién será el ajusticiado?"
+$pv_mako5_0210_0030_blt_0,ACTOR,Barret
+$pv_mako5_0210_0040_tif_0,,Parece divertido.
+$pv_mako5_0210_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0210_0050_blt_0,,La imagen de Shinra siendo derrotado se retransmitirá por todo Midgar.
+$pv_mako5_0210_0050_blt_0,ACTOR,Barret
+$pv_mako5_0210_0053_blt_0,,
+$pv_mako5_0210_0053_blt_0,ACTOR,
+$pv_mako5_0210_0057_blt_0,,No puedo parar de reír.
+$pv_mako5_0210_0057_blt_0,ACTOR,Barret
+$pv_mako5_0210_0060_tif_0,,"No te pongas a bailar, ¿eh?"
+$pv_mako5_0210_0060_tif_0,ACTOR,Tifa
+$pv_mako5_0210_0070_blt_0,,"¿Bailamos juntos? ¿Y tú, Cloud?"
+$pv_mako5_0210_0070_blt_0,ACTOR,Barret
+$pv_mako5_0210_0080_cld_0,,Lo dejo pasar.
+$pv_mako5_0210_0080_cld_0,ACTOR,Cloud
+$pv_mako5_0211_0042_sys_0,,¿Deseas desechar la pieza de control «núcleo de IA»? (Consume 1 tarjeta)
+$pv_mako5_0211_0042_sys_0,ACTOR,
+$pv_mako5_0211_0052_sys_0,,¿Deseas desechar la pieza explosiva «bomba grande»? (Consume 1 tarjeta)
+$pv_mako5_0211_0052_sys_0,ACTOR,
+$pv_mako5_0211_0062_sys_0,,¿Deseas desechar la pieza de refuerzo «unidad M»? (Consume 1 tarjeta)
+$pv_mako5_0211_0062_sys_0,ACTOR,
+$pv_mako5_0220_0030_tj01_0,,"Faltan suministros por culpa de los intrusos. Planta B5, enviadlo con urgencia."
+$pv_mako5_0220_0030_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0220_0040_ks03_0,,Entendido.
+$pv_mako5_0220_0040_ks03_0,ACTOR,Centinela de élite
+$pv_mako5_0220_0080_tj03_0,,¡Intrusos!
+$pv_mako5_0220_0080_tj03_0,ACTOR,Centinela
+$pv_mako5_0225_0020_ks03_0,,¡Reducidlos!
+$pv_mako5_0225_0020_ks03_0,ACTOR,Centinela
+$pv_mako5_0227_0040_trm_0,,«Núcleo de IA» desechado.
+$pv_mako5_0227_0040_trm_0,ACTOR,Voz digital
+$pv_mako5_0227_0042_trm_0,,«Bomba grande» desechada.
+$pv_mako5_0227_0042_trm_0,ACTOR,Voz digital
+$pv_mako5_0227_0044_trm_0,,«Unidad M» desechada.
+$pv_mako5_0227_0044_trm_0,ACTOR,Voz digital
+$pv_mako5_0240_0030_blt_0,,"Ya casi está la salida. Tifa, ¿el interruptor de la bomba?"
+$pv_mako5_0240_0030_blt_0,ACTOR,Barret
+$pv_mako5_0240_0040_tif_0,,Está preparado.
+$pv_mako5_0240_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0240_0050_blt_0,,"Cuando destruyamos el cacharro, pulsamos."
+$pv_mako5_0240_0050_blt_0,ACTOR,Barret
+$pv_mako5_0240_0060_tif_0,,Vale.
+$pv_mako5_0240_0060_tif_0,ACTOR,Tifa
+$pv_mako5_0241_0050_trm_0,,«Núcleo de IA» en transporte a la sala de desechos.
+$pv_mako5_0241_0050_trm_0,ACTOR,Voz digital
+$pv_mako5_0242_0010_trm_0,,«Bomba grande» en transporte a la sala de desechos.
+$pv_mako5_0242_0010_trm_0,ACTOR,Voz digital
+$pv_mako5_0243_0010_trm_0,,«Unidad M» en transporte a la sala de desechos.
+$pv_mako5_0243_0010_trm_0,ACTOR,Voz digital
+$pv_mako5_0246_0010_blt_0,,"Oye, aún quedan tarjetas, ¿no? Estorbemos un poco más el mantenimiento."
+$pv_mako5_0246_0010_blt_0,ACTOR,Barret
+$pv_mako5_0246_0030_sys_0,,¿Quieres seguir sin usar todas las tarjetas?
+$pv_mako5_0246_0030_sys_0,ACTOR,
+$pv_mako5_0249_0020_blt_0,,"Hemos hecho todo lo que podíamos. A partir de aquí, a lo que salga."
+$pv_mako5_0249_0020_blt_0,ACTOR,Barret
+$pv_mako5_0260_0020_hyd_0,,Soy yo. Informad del estado del mantenimiento.
+$pv_mako5_0260_0020_hyd_0,ACTOR,Heidegger
+$pv_mako5_0260_0030_tj01_0,,"Director, deme un poco más de tiempo."
+$pv_mako5_0260_0030_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0260_0035_tj01_0,,Hemos entrado en combate con los intrusos. El ajuste final se está retrasando.
+$pv_mako5_0260_0035_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0260_0040_hyd_0,,Dentro de lo previsto. ¡Sacadlo ya!
+$pv_mako5_0260_0040_hyd_0,ACTOR,Heidegger
+$pv_mako5_0260_0050_tj01_0,,Pero aún falta ajustar...
+$pv_mako5_0260_0050_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0260_0060_hyd_0,,No importa. Hazlo.
+$pv_mako5_0260_0060_hyd_0,ACTOR,Heidegger
+$pv_mako5_0260_0770_tj01_0,,¡Preparativos de salida del aerodestructor!
+$pv_mako5_0260_0770_tj01_0,ACTOR,Encargado de mantenimiento
+$pv_mako5_0280_0010_blt_0,,Nos mira desde arriba.
+$pv_mako5_0280_0010_blt_0,ACTOR,Barret
+$pv_mako5_0280_0020_tif_0,,¡Mirad!
+$pv_mako5_0280_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0290_0020_tif_0,,"Esto es el rendimiento de ese robot, ¿verdad?"
+$pv_mako5_0290_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0291_0010_tif_0,,Su reacción se vuelve más lenta. Podremos combatir con margen.
+$pv_mako5_0291_0010_tif_0,ACTOR,Tifa
+$pv_mako5_0292_0010_cld_0,,"Cuando luchemos de verdad, veremos sus puntos débiles. Si actuamos con calma, ganaremos."
+$pv_mako5_0292_0010_cld_0,ACTOR,Cloud
+$pv_mako5_0293_0010_cld_0,,"Hemos limitado bastante sus mejoras. Si no puede dar el máximo, podremos con él."
+$pv_mako5_0293_0010_cld_0,ACTOR,Cloud
+$pv_mako5_0294_0020_blt_0,,¿Pensamos una pose de victoria? La hacemos todos juntos.
+$pv_mako5_0294_0020_blt_0,ACTOR,Barret
+$pv_mako5_0294_0025_blt_0,,"Si la retransmiten, se hará popular."
+$pv_mako5_0294_0025_blt_0,ACTOR,Barret
+$pv_mako5_0294_0030_cld_0,,Paso.
+$pv_mako5_0294_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0296_0010_blt_0,,¿Es un callejón sin salida?
+$pv_mako5_0296_0010_blt_0,ACTOR,Barret
+$pv_mako5_0297_0010_tif_0,,No se puede subir por la tubería.
+$pv_mako5_0297_0010_tif_0,ACTOR,Tifa
+$pv_mako5_0297_0020_cld_0,,Busquemos otro sitio.
+$pv_mako5_0297_0020_cld_0,ACTOR,Cloud
+$pv_mako5_0298_0010_ev1_0,,
+$pv_mako5_0298_0010_ev1_0,ACTOR,
+$pv_mako5_0298_0020_tif_0,,¡Hay algo ahí!
+$pv_mako5_0298_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0300_0010_blt_0,,
+$pv_mako5_0300_0010_blt_0,ACTOR,
+$pv_mako5_0300_0020_blt_0,,¡Eso ha sido peligroso!
+$pv_mako5_0300_0020_blt_0,ACTOR,Barret
+$pv_mako5_0310_0010_blt_0,,Vamos a destrozarlo delante de las cámaras. Que se prepare.
+$pv_mako5_0310_0010_blt_0,ACTOR,Barret
+$pv_mako5_0310_0020_tif_0,,Solo queda luchar a tope.
+$pv_mako5_0310_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0330_0020_blt_0,,¿Qué pasa? ¡Ábrela ya!
+$pv_mako5_0330_0020_blt_0,ACTOR,Barret
+$pv_mako5_0330_0030_cld_0,,Es el modo de bloqueo de emergencia.
+$pv_mako5_0330_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0330_0040_tif_0,,¿Eso significa que estamos encerrados?
+$pv_mako5_0330_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0330_0050_cld_0,,Se puede abrir desde esa sala.
+$pv_mako5_0330_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0330_0060_cld_0,,
+$pv_mako5_0330_0060_cld_0,ACTOR,
+$pv_mako5_0340_0020_tif_0,,¿Cómo se abre?
+$pv_mako5_0340_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0340_0030_cld_0,,El mecanismo es sencillo.
+$pv_mako5_0340_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0340_0040_cld_0,,Hay que mover las palancas a la vez.
+$pv_mako5_0340_0040_cld_0,ACTOR,Cloud
+$pv_mako5_0340_0050_tif_0,,Aquí déjamelo a mí.
+$pv_mako5_0340_0050_tif_0,ACTOR,Tifa
+$pv_mako5_0340_0060_blt_0,,"Yo me encargo de esta. Tú, de la que queda."
+$pv_mako5_0340_0060_blt_0,ACTOR,Barret
+$pv_mako5_0350_0020_trm_0,,El modo de bloqueo de emergencia está activo.
+$pv_mako5_0350_0020_trm_0,ACTOR,Megafonía
+$pv_mako5_0350_0030_tif_0,,"Hay que mover las palancas a la vez, ¿verdad?"
+$pv_mako5_0350_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0350_0040_blt_0,,Entonces yo marco el ritmo.
+$pv_mako5_0350_0040_blt_0,ACTOR,Barret
+$pv_mako5_0350_0050_cld_0,,"No, Tifa."
+$pv_mako5_0350_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0350_0060_blt_0,,"Ah, tienes razón. Maldita sea."
+$pv_mako5_0350_0060_blt_0,ACTOR,Barret
+$pv_mako5_0350_0070_tif_0,,Mirad bien los dos.
+$pv_mako5_0350_0070_tif_0,ACTOR,Tifa
+$pv_mako5_0350_0080_tif_0,,¡Vamos! ¡A la de tres!
+$pv_mako5_0350_0080_tif_0,ACTOR,Tifa
+$pv_mako5_0351_0130_tif_0,,Cuadrad bien la dirección.
+$pv_mako5_0351_0130_tif_0,ACTOR,Tifa
+$pv_mako5_0351_0160_tif_0,,Cuidado con la dirección en que la movemos.
+$pv_mako5_0351_0160_tif_0,ACTOR,Tifa
+$pv_mako5_0351_0190_blt_0,,"Oye, ¿qué haces?"
+$pv_mako5_0351_0190_blt_0,ACTOR,Barret
+$pv_mako5_0351_0191_blt_0,,¡La hemos liado!
+$pv_mako5_0351_0191_blt_0,ACTOR,Barret
+$pv_mako5_0351_0210_blt_0,,"Sabes cuál es, ¿no?"
+$pv_mako5_0351_0210_blt_0,ACTOR,Barret
+$pv_mako5_0351_0211_tif_0,,Hay que moverla al mismo tiempo que yo.
+$pv_mako5_0351_0211_tif_0,ACTOR,Tifa
+$pv_mako5_0351_0430_tif_0,,No te pongas nervioso.
+$pv_mako5_0351_0430_tif_0,ACTOR,Tifa
+$pv_mako5_0351_0460_tif_0,,Coordinemos la respiración.
+$pv_mako5_0351_0460_tif_0,ACTOR,Tifa
+$pv_mako5_0351_0490_blt_0,,¿No aprietas demasiado?
+$pv_mako5_0351_0490_blt_0,ACTOR,Barret
+$pv_mako5_0351_0491_blt_0,,¡Perdón!
+$pv_mako5_0351_0491_blt_0,ACTOR,Barret
+$pv_mako5_0351_0510_blt_0,,Piensa en la velocidad.
+$pv_mako5_0351_0510_blt_0,ACTOR,Barret
+$pv_mako5_0351_0511_blt_0,,Todavía estamos calentando.
+$pv_mako5_0351_0511_blt_0,ACTOR,Barret
+$pv_mako5_0352_0120_tif_0,,¡Concéntrate! ¡A la de tres!
+$pv_mako5_0352_0120_tif_0,ACTOR,Tifa
+$pv_mako5_0352_0220_tif_0,,¡Sin desanimarse! ¡A la de tres!
+$pv_mako5_0352_0220_tif_0,ACTOR,Tifa
+$pv_mako5_0352_0320_tif_0,,¡Vamos a intentarlo! ¡A la de tres!
+$pv_mako5_0352_0320_tif_0,ACTOR,Tifa
+$pv_mako5_0352_5120_blt_0,,Coordinad mejor. ¡A-va-lan-cha!
+$pv_mako5_0352_5120_blt_0,ACTOR,Barret
+$pv_mako5_0352_5130_tif_0,,Ya me estás desconcentrando.
+$pv_mako5_0352_5130_tif_0,ACTOR,Tifa
+$pv_mako5_0352_5140_tif_0,,¡Nosotros podemos! ¡A la de tres!
+$pv_mako5_0352_5140_tif_0,ACTOR,Tifa
+$pv_mako5_0352_5220_blt_0,,"Oye, mejor hacedme caso a mí. ¡Uno, dos, tres, cuatro!"
+$pv_mako5_0352_5220_blt_0,ACTOR,Barret
+$pv_mako5_0352_5230_cld_0,,Así menos.
+$pv_mako5_0352_5230_cld_0,ACTOR,Cloud
+$pv_mako5_0352_5240_tif_0,,"¡Aunque sea difícil, no queda otra! ¡A la de tres!"
+$pv_mako5_0352_5240_tif_0,ACTOR,Tifa
+$pv_mako5_0352_5320_blt_0,,Yo marco el ritmo. Séptimo...
+$pv_mako5_0352_5320_blt_0,ACTOR,Barret
+$pv_mako5_0352_5330_cld_0,,No bromees.
+$pv_mako5_0352_5330_cld_0,ACTOR,Cloud
+$pv_mako5_0352_5340_blt_0,,¿Así está bien? ¡Séptimo Cielo!
+$pv_mako5_0352_5340_blt_0,ACTOR,Barret
+$pv_mako5_0352_5350_tif_0,,¡Ahora lo hacemos en serio! ¡A la de tres!
+$pv_mako5_0352_5350_tif_0,ACTOR,Tifa
+$pv_mako5_0356_0010_trm_0,,Modo de bloqueo de emergencia desactivado.
+$pv_mako5_0356_0010_trm_0,ACTOR,Megafonía
+$pv_mako5_0357_0030_blt_0,,¡Toma!
+$pv_mako5_0357_0030_blt_0,ACTOR,Barret
+$pv_mako5_0357_0040_tif_0,,Lo logramos.
+$pv_mako5_0357_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0357_0050_tif_0,,Increíble. Estábamos perfectamente sincronizados.
+$pv_mako5_0357_0050_tif_0,ACTOR,Tifa
+$pv_mako5_0357_0060_cld_0,,Eso parece.
+$pv_mako5_0357_0060_cld_0,ACTOR,Cloud
+$pv_mako5_0358_0030_blt_0,,¡Bien!
+$pv_mako5_0358_0030_blt_0,ACTOR,Barret
+$pv_mako5_0358_0040_tif_0,,Puede que hayamos empezado a coordinarnos.
+$pv_mako5_0358_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0358_0050_cld_0,,Ojalá.
+$pv_mako5_0358_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0359_0030_tif_0,,Menos mal.
+$pv_mako5_0359_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0359_0040_blt_0,,Vaya. No sabía que hubiera alguien tan lento.
+$pv_mako5_0359_0040_blt_0,ACTOR,Barret
+$pv_mako5_0359_0050_cld_0,,Qué bien nos entendemos. Estaba pensando lo mismo de ti.
+$pv_mako5_0359_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0359_0060_blt_0,,¿¡Qué has dicho!?
+$pv_mako5_0359_0060_blt_0,ACTOR,Barret
+$pv_mako5_0359_0070_tif_0,,"Vale, vale. Vamos rápido."
+$pv_mako5_0359_0070_tif_0,ACTOR,Tifa
+$pv_mako5_0360_0020_blt_0,,¿Esta es la sala del tesoro?
+$pv_mako5_0360_0020_blt_0,ACTOR,Barret
+$pv_mako5_0360_0030_cld_0,,Está abierta.
+$pv_mako5_0360_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0360_0040_tif_0,,¿No se abre?
+$pv_mako5_0360_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0360_0050_cld_0,,Es el modo de bloqueo de seguridad de máximo nivel.
+$pv_mako5_0360_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0360_0060_blt_0,,¿Es distinto del de antes?
+$pv_mako5_0360_0060_blt_0,ACTOR,Barret
+$pv_mako5_0360_0070_cld_0,,"Igual, pero aquí hay que repetirlo varias veces."
+$pv_mako5_0360_0070_cld_0,ACTOR,Cloud
+$pv_mako5_0361_0020_blt_0,,Pan comido.
+$pv_mako5_0361_0020_blt_0,ACTOR,Barret
+$pv_mako5_0361_0030_tif_0,,"Sí, probemos."
+$pv_mako5_0361_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0362_0020_blt_0,,Qué gente tan codiciosa. Vamos a reventarlo.
+$pv_mako5_0362_0020_blt_0,ACTOR,Barret
+$pv_mako5_0362_0030_tif_0,,"Sí, no podemos dejarlo así."
+$pv_mako5_0362_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0363_0020_blt_0,,Qué pereza.
+$pv_mako5_0363_0020_blt_0,ACTOR,Barret
+$pv_mako5_0363_0030_cld_0,,¿Lo dejamos?
+$pv_mako5_0363_0030_cld_0,ACTOR,Cloud
+$pv_mako5_0363_0040_blt_0,,"No, lo hacemos. No queda otra."
+$pv_mako5_0363_0040_blt_0,ACTOR,Barret
+$pv_mako5_0363_0050_tif_0,,"Sí, vamos a intentarlo."
+$pv_mako5_0363_0050_tif_0,ACTOR,Tifa
+$pv_mako5_0364_0020_blt_0,,"Vaya, así que también hay que hacerlo aquí."
+$pv_mako5_0364_0020_blt_0,ACTOR,Barret
+$pv_mako5_0366_0010_blt_0,,"Es de máximo nivel, ¿eh? ¿Empezamos por aquí?"
+$pv_mako5_0366_0010_blt_0,ACTOR,Barret
+$pv_mako5_0367_0010_sys_0,,¿Desactivar la seguridad de máximo nivel?
+$pv_mako5_0367_0010_sys_0,ACTOR,
+$pv_mako5_0370_0020_trm_0,,El modo de seguridad de máximo nivel está activo.
+$pv_mako5_0370_0020_trm_0,ACTOR,Megafonía
+$pv_mako5_0370_0030_tif_0,,"Los dos, hacedlo al mismo tiempo que yo."
+$pv_mako5_0370_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0370_0040_blt_0,,"Entonces, vamos."
+$pv_mako5_0370_0040_blt_0,ACTOR,Barret
+$pv_mako5_0370_0050_cld_0,,Hay que hacerlo al mismo tiempo que Tifa.
+$pv_mako5_0370_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0370_0060_blt_0,,"¡Ya lo sé! Venga, Tifa, tú mandas."
+$pv_mako5_0370_0060_blt_0,ACTOR,Barret
+$pv_mako5_0370_0070_tif_0,,Primera entrada. ¡Vamos! ¡A la de tres!
+$pv_mako5_0370_0070_tif_0,ACTOR,Tifa
+$pv_mako5_0373_0010_trm_0,,Nivel de seguridad 1 desactivado.
+$pv_mako5_0373_0010_trm_0,ACTOR,Megafonía
+$pv_mako5_0373_0020_tif_0,,Los dos lo habéis hecho perfecto. Sigamos así.
+$pv_mako5_0373_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0373_0030_tif_0,,Ahora la siguiente. ¡A la de tres!
+$pv_mako5_0373_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0374_0010_trm_0,,Nivel de seguridad 2 desactivado.
+$pv_mako5_0374_0010_trm_0,ACTOR,Megafonía
+$pv_mako5_0374_0020_tif_0,,¡Bien! ¿Le has cogido el truco?
+$pv_mako5_0374_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0374_0030_blt_0,,"Claro, que venga lo que sea. Abriré todas las cerraduras de Shinra."
+$pv_mako5_0374_0030_blt_0,ACTOR,Barret
+$pv_mako5_0374_0040_tif_0,,Hemos pasado la mitad. Un último esfuerzo. ¡A la de tres!
+$pv_mako5_0374_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0375_0010_trm_0,,Nivel de seguridad 3 desactivado.
+$pv_mako5_0375_0010_trm_0,ACTOR,Megafonía
+$pv_mako5_0375_0020_tif_0,,¡Gran éxito! No hay nada que temer.
+$pv_mako5_0375_0020_tif_0,ACTOR,Tifa
+$pv_mako5_0375_0030_tif_0,,Esta es la última. No os relajéis. ¡A la de tres!
+$pv_mako5_0375_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0376_0010_trm_0,,Nivel de seguridad 4 desactivado. Desbloqueando la sala de desechos.
+$pv_mako5_0376_0010_trm_0,ACTOR,Megafonía
+$pv_mako5_0377_0030_blt_0,,"¡Toma! Shinra, toma ya."
+$pv_mako5_0377_0030_blt_0,ACTOR,Barret
+$pv_mako5_0377_0040_tif_0,,Perfecto.
+$pv_mako5_0377_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0377_0050_tif_0,,"Increíble, estábamos sincronizados. ¿Es que los SOLDIER podéis leer la mente?"
+$pv_mako5_0377_0050_tif_0,ACTOR,Tifa
+$pv_mako5_0377_0060_cld_0,,Todavía no llego a eso.
+$pv_mako5_0377_0060_cld_0,ACTOR,Cloud
+$pv_mako5_0377_0070_tif_0,,Me quedo más tranquila.
+$pv_mako5_0377_0070_tif_0,ACTOR,Tifa
+$pv_mako5_0377_0080_blt_0,,"Oye, vamos a ver qué hay dentro."
+$pv_mako5_0377_0080_blt_0,ACTOR,Barret
+$pv_mako5_0378_0030_blt_0,,"¡Toma! Shinra, qué difícil lo ponéis."
+$pv_mako5_0378_0030_blt_0,ACTOR,Barret
+$pv_mako5_0378_0040_tif_0,,"Ha sido más rápido de lo que pensaba. Buen trabajo, los dos."
+$pv_mako5_0378_0040_tif_0,ACTOR,Tifa
+$pv_mako5_0378_0050_cld_0,,"Tú también, Tifa. Era fácil seguirte."
+$pv_mako5_0378_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0378_0060_tif_0,,Es que le he puesto corazón a las cuentas.
+$pv_mako5_0378_0060_tif_0,ACTOR,Tifa
+$pv_mako5_0379_0030_tif_0,,Menos mal. Pensé que no acabaría nunca.
+$pv_mako5_0379_0030_tif_0,ACTOR,Tifa
+$pv_mako5_0379_0040_blt_0,,"Oye, oye, señor Cloud. ¿De verdad eras un SOLDIER?"
+$pv_mako5_0379_0040_blt_0,ACTOR,Barret
+$pv_mako5_0379_0050_cld_0,,Esto no es lo mío.
+$pv_mako5_0379_0050_cld_0,ACTOR,Cloud
+$pv_mako5_0379_0060_blt_0,,"Pues venga, hazlo todo tú, el hombre para todo."
+$pv_mako5_0379_0060_blt_0,ACTOR,Barret
+$pv_mako5_0379_0070_tif_0,,"Vale, vale, hasta aquí. Vamos a ver qué hay dentro."
+$pv_mako5_0379_0070_tif_0,ACTOR,Tifa
+$pv_mako5_0390_0010_blt_0,,"Bien, la salida."
+$pv_mako5_0390_0010_blt_0,ACTOR,Barret
+$pv_mako5_1170_1010_tj02_0,,Aquí os terminamos.
+$pv_mako5_1170_1010_tj02_0,ACTOR,Centinela
+$pv_mako5_1225_1010_ks03_0,,"Maldita sea, nos estorbáis."
+$pv_mako5_1225_1010_ks03_0,ACTOR,Centinela
+$tk_mako5_1015_0010_tif_0,,¿Aquí?
+$tk_mako5_1015_0010_tif_0,ACTOR,Tifa
+$tk_mako5_1015_0020_blt_0,,Esto está bien.
+$tk_mako5_1015_0020_blt_0,ACTOR,Barret
+$tk_mako5_1023_0010_tif_0,,
+$tk_mako5_1023_0010_tif_0,ACTOR,
+$tk_mako5_1023_0020_tif_0,,
+$tk_mako5_1023_0020_tif_0,ACTOR,
+$tk_mako5_1030_0010_blt_0,,Voy delante.
+$tk_mako5_1030_0010_blt_0,ACTOR,Barret
+$tk_mako5_1050_0010_blt_0,,
+$tk_mako5_1050_0010_blt_0,ACTOR,
+$tk_mako5_1050_0020_blt_0,,
+$tk_mako5_1050_0020_blt_0,ACTOR,
+$tk_mako5_1075_0020_cld_0,,
+$tk_mako5_1075_0020_cld_0,ACTOR,
+$tk_mako5_1076_0010_cld_0,,
+$tk_mako5_1076_0010_cld_0,ACTOR,
+$tk_mako5_1077_0010_cld_0,,
+$tk_mako5_1077_0010_cld_0,ACTOR,
+$tk_mako5_10_1010_0010_hyd_0,,Primero os enseñaremos la capacidad técnica de Shinra.
+$tk_mako5_10_1010_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1020_0010_hyd_0,,Campo electromagnético desplegado. No es fácil acercarse al aerodestructor.
+$tk_mako5_10_1020_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1200_0010_hyd_0,,Saboread la potencia de fuego de las bombas grandes.
+$tk_mako5_10_1200_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1240_0010_hyd_0,,¡Inicio de carga de las bombas grandes! Esta vez os darán de lleno.
+$tk_mako5_10_1240_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1280_0010_hyd_0,,Miserables. Disfrutad bien.
+$tk_mako5_10_1280_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1370_0010_hyd_0,,Esta vez os hundiré.
+$tk_mako5_10_1370_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1390_0010_hyd_0,,¿Qué osas hacer?
+$tk_mako5_10_1390_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_1410_0010_hyd_0,,¿Han conseguido detenerlo?
+$tk_mako5_10_1410_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_2130_0010_hyd_0,,"Inicio de carga. ¡Vamos, entrad en pánico!"
+$tk_mako5_10_2130_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_2240_0010_hyd_0,,La defensa del aerodestructor es perfecta. Morid sin poder hacer nada.
+$tk_mako5_10_2240_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_2250_0010_hyd_0,,Unas ratas no pueden hacer nada.
+$tk_mako5_10_2250_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_2260_0010_hyd_0,,Vuestros ataques carecen de sentido. Postraos ante la tecnología de Shinra.
+$tk_mako5_10_2260_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_2420_0010_hyd_0,,No me sirve que os dejéis vencer tan fácil. Necesito enemigos a los que merezca la pena derrotar.
+$tk_mako5_10_2420_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_2470_0010_hyd_0,,¿Habéis vencido por la fuerza? Pero ¿cuánto podréis aguantar así?
+$tk_mako5_10_2470_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_3200_0010_hyd_0,,Habéis picado. Este es el golpe final.
+$tk_mako5_10_3200_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_3220_0010_hyd_0,,Os haré oír los gritos de vuestros compañeros.
+$tk_mako5_10_3220_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_3240_0010_hyd_0,,Necios. Esto os pasa por oponeros a Shinra.
+$tk_mako5_10_3240_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5280_0010_hyd_0,,"Ante la perfecta IA del aerodestructor, ¡caed sin remedio!"
+$tk_mako5_10_5280_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5290_0010_hyd_0,,¿Un fallo en el núcleo de IA? / Está dentro del margen de error. ¡Acabemos rápido!
+$tk_mako5_10_5290_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5300_0010_hyd_0,,"El procesamiento es lento... ¿Un fallo de la IA? Entonces, ¡os acorralaré con calma!"
+$tk_mako5_10_5300_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5310_0010_hyd_0,,"Mmm, ¿un fallo en el núcleo de IA...? / Bueno, da igual. Así os acorralaré con calma."
+$tk_mako5_10_5310_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5320_0010_hyd_0,,"¿Fallo en el núcleo de IA? Equipo de mantenimiento, habéis sido negligentes... / Tardaremos, pero no hay remedio. ¡Os torturaré a gusto!"
+$tk_mako5_10_5320_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5322_0010_hyd_0,,"¿¡Los núcleos de IA no funcionan!? Equipo de mantenimiento, me las pagaréis... / Hay tiempo de sobra. ¡Aplastaremos con potencia de fuego!"
+$tk_mako5_10_5322_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_5324_0010_hyd_0,,"Avalancha, agentes de Wutai, mostraréis al público vuestra patética figura."
+$tk_mako5_10_5324_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8000_0010_hyd_0,,"Vamos, retorceos de dolor."
+$tk_mako5_10_8000_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8010_0010_hyd_0,,El arranque ha sido inmejorable.
+$tk_mako5_10_8010_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8020_0010_hyd_0,,Potencia destructiva tal como se esperaba.
+$tk_mako5_10_8020_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8030_0010_hyd_0,,"Para incitar al pueblo, hay que hacerlo con esta espectacularidad."
+$tk_mako5_10_8030_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8040_0010_hyd_0,,"Si caéis en el campo electromagnético, solo queda aplastaros."
+$tk_mako5_10_8040_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8050_0010_hyd_0,,"Todo va bien, todo va bien. El efecto es inmediato."
+$tk_mako5_10_8050_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8060_0010_hyd_0,,¿Qué se siente al no poder moverse?
+$tk_mako5_10_8060_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8070_0010_hyd_0,,El estímulo del rayo de dedos debe de ser irresistible.
+$tk_mako5_10_8070_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8080_0010_hyd_0,,El programa de combate de nuestra empresa no falla.
+$tk_mako5_10_8080_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8090_0010_hyd_0,,El ciclo de disparo parece óptimo.
+$tk_mako5_10_8090_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8110_0010_hyd_0,,Pasamos a la segunda fase de combate. Aquí empieza la verdadera capacidad del aerodestructor.
+$tk_mako5_10_8110_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8120_0010_hyd_0,,Es inútil. Os perseguiremos y dispararemos estéis donde estéis.
+$tk_mako5_10_8120_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8122_0010_hyd_0,,Es una vista realmente buena.
+$tk_mako5_10_8122_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8130_0010_hyd_0,,¿Qué se siente al ser prisionero?
+$tk_mako5_10_8130_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8140_0010_hyd_0,,¿Qué? ¿No podéis escapar?
+$tk_mako5_10_8140_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8150_0010_hyd_0,,"Bien, así. Sigue así."
+$tk_mako5_10_8150_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8150_0020_hyd_0,,Hacedles saber a quienes se enfrentan a Shinra cuál es su final.
+$tk_mako5_10_8150_0020_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8160_0010_hyd_0,,¿Qué tal el sabor del arma más moderna de Shinra?
+$tk_mako5_10_8160_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8170_0010_hyd_0,,"Retorceos, retorceos. No tiene gracia que os muráis tan fácil."
+$tk_mako5_10_8170_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8180_0010_hyd_0,,El aerodestructor pasa a la fase final.
+$tk_mako5_10_8180_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8190_0010_hyd_0,,"Vamos, es la hora de la ejecución."
+$tk_mako5_10_8190_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8200_0010_hyd_0,,Por fin el clímax. Inicio de carga del cañón del aerodestructor.
+$tk_mako5_10_8200_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8210_0010_hyd_0,,Ya no me contendré. Os aplastaré por completo.
+$tk_mako5_10_8210_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8220_0010_hyd_0,,En el momento crucial se atasca. Qué dejadez por parte del departamento de desarrollo de armas.
+$tk_mako5_10_8220_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8230_0010_hyd_0,,Estamos grabando un buen registro.
+$tk_mako5_10_8230_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8240_0010_hyd_0,,El clímax está a la vuelta de la esquina. Desapareced junto con el reactor de mako.
+$tk_mako5_10_8240_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8250_0010_hyd_0,,"Avalancha, siento que esto se acabe, pero es hora de despedirse."
+$tk_mako5_10_8250_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_8250_0020_hyd_0,,Esta imagen la aprovecharemos mucho para elevar la moral de combate.
+$tk_mako5_10_8250_0020_hyd_0,ACTOR,Heidegger
+$tk_mako5_10_9010_0010_hyd_0,,※Prueba de Heidegger. Normalmente «hum».
+$tk_mako5_10_9010_0010_hyd_0,ACTOR,
+$tk_mako5_10_9020_0010_hyd_0,,Probad el campo electromagnético. No penséis que podéis acercaros fácilmente al aerodestructor.
+$tk_mako5_10_9020_0010_hyd_0,ACTOR,
+$tk_mako5_10_9030_0010_hyd_0,,Entramos en una nueva fase de combate. Aquí empieza la verdadera capacidad del robot.
+$tk_mako5_10_9030_0010_hyd_0,ACTOR,
+$tk_mako5_10_9040_0010_hyd_0,,El aerodestructor pasa a la fase final. A ver cómo os las apañáis.
+$tk_mako5_10_9040_0010_hyd_0,ACTOR,
+$tk_mako5_10_9050_0010_hyd_0,,"Avalancha, lo siento, pero es la hora de la despedida. Los datos de combate que hemos obtenido de vosotros serán muy útiles para el futuro desarrollo de armas. ¡Ja, ja, ja, ja!"
+$tk_mako5_10_9050_0010_hyd_0,ACTOR,
+$tk_mako5_1100_0010_tif_0,,"Da más miedo de lo que pensaba, ¿eh?"
+$tk_mako5_1100_0010_tif_0,ACTOR,Tifa
+$tk_mako5_1100_0020_cld_0,,Es porque lo piensas.
+$tk_mako5_1100_0020_cld_0,ACTOR,Cloud
+$tk_mako5_1100_0025_tif_0,,
+$tk_mako5_1100_0025_tif_0,ACTOR,
+$tk_mako5_1300_0010_tif_0,,¿No hay demasiado silencio?
+$tk_mako5_1300_0010_tif_0,ACTOR,Tifa
+$tk_mako5_1300_0020_blt_0,,Será Shinra. Habrán huido asustados.
+$tk_mako5_1300_0020_blt_0,ACTOR,Barret
+$tk_mako5_1400_0010_tif_0,,¿La otra vez también fue así?
+$tk_mako5_1400_0010_tif_0,ACTOR,Tifa
+$tk_mako5_1400_0020_blt_0,,Fue un poco más animado.
+$tk_mako5_1400_0020_blt_0,ACTOR,Barret
+$tk_mako5_1400_0030_cld_0,,Sí.
+$tk_mako5_1400_0030_cld_0,ACTOR,Cloud
+$tk_mako5_1500_0010_blt_0,,El punto de salida es la entrada principal. Volvemos por donde hemos venido.
+$tk_mako5_1500_0010_blt_0,ACTOR,Barret
+$tk_mako5_1600_0010_hyd_0,,Repito: aviso a los responsables de seguridad.
+$tk_mako5_1600_0010_hyd_0,ACTOR,Heidegger
+$tk_mako5_1600_0015_hyd_0,,Capturad a los intrusos de inmediato y llevadlos al puente.
+$tk_mako5_1600_0015_hyd_0,ACTOR,Heidegger
+$tk_mako5_1600_0020_hyd_0,,"Equipo de mantenimiento, terminad el aerodestructor cuanto antes."
+$tk_mako5_1600_0020_hyd_0,ACTOR,Heidegger
+$tk_mako5_1600_0025_hyd_0,,¿Un 60 % de progreso? No me hagas reír.
+$tk_mako5_1600_0025_hyd_0,ACTOR,Heidegger
+$tk_mako5_1600_0030_hyd_0,,"Escuchad: si falláis, considerad que no hay lugar para vosotros en Midgar."
+$tk_mako5_1600_0030_hyd_0,ACTOR,Heidegger
+$tk_mako5_1600_0035_hyd_0,,¡Atacad con todas vuestras fuerzas!
+$tk_mako5_1600_0035_hyd_0,ACTOR,Heidegger
+$tk_mako5_1700_0010_kb01_0,,
+$tk_mako5_1700_0010_kb01_0,ACTOR,Subordinado
+$tk_mako5_1750_0010_kb01_0,,
+$tk_mako5_1750_0010_kb01_0,ACTOR,Subordinado
+$tk_mako5_1750_0030_kb01_0,,
+$tk_mako5_1750_0030_kb01_0,ACTOR,Subordinado
+$tk_mako5_2025_0010_blt_0,,¡Bien! Vamos a averiguar qué estaban haciendo.
+$tk_mako5_2025_0010_blt_0,ACTOR,Barret
+$tk_mako5_2045_0010_blt_0,,Espera. ¿No vamos a estorbar el mantenimiento?
+$tk_mako5_2045_0010_blt_0,ACTOR,Barret
+$tk_mako5_2046_0010_blt_0,,Ese es el terminal que abre la puerta de salida.
+$tk_mako5_2046_0010_blt_0,ACTOR,Barret
+$tk_mako5_2048_0010_tif_0,,Busquemos un poco más por esta zona.
+$tk_mako5_2048_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2049_0010_tif_0,,"Cloud, espera un momento."
+$tk_mako5_2049_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2050_0010_blt_0,,"Oye, no te adelantes."
+$tk_mako5_2050_0010_blt_0,ACTOR,Barret
+$tk_mako5_2051_0010_tif_0,,"Cloud, ¿quieres ir primero?"
+$tk_mako5_2051_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2055_0010_blt_0,,"Oye, Cloud, por aquí."
+$tk_mako5_2055_0010_blt_0,ACTOR,Barret
+$tk_mako5_2056_0010_tif_0,,"Cloud, ven aquí."
+$tk_mako5_2056_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2057_0010_tif_0,,"Cloud, mira esto."
+$tk_mako5_2057_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2063_0010_blt_0,,¿Qué has encontrado?
+$tk_mako5_2063_0010_blt_0,ACTOR,Barret
+$tk_mako5_2063_0020_cld_0,,Una tarjeta. Puede que sirva.
+$tk_mako5_2063_0020_cld_0,ACTOR,Cloud
+$tk_mako5_2063_0030_blt_0,,"Guárdala, guárdala."
+$tk_mako5_2063_0030_blt_0,ACTOR,Barret
+$tk_mako5_2064_0010_tif_0,,¿La has encontrado?
+$tk_mako5_2064_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2064_0020_cld_0,,Sí.
+$tk_mako5_2064_0020_cld_0,ACTOR,Cloud
+$tk_mako5_2064_0030_blt_0,,¡Bien! Vamos a tocar el panel de control.
+$tk_mako5_2064_0030_blt_0,ACTOR,Barret
+$tk_mako5_2100_0010_tif_0,,Ha salido bien.
+$tk_mako5_2100_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2100_0020_blt_0,,"Bien, vamos a por lo siguiente."
+$tk_mako5_2100_0020_blt_0,ACTOR,Barret
+$tk_mako5_2200_0010_tif_0,,Hay dos ascensores y dos paneles.
+$tk_mako5_2200_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2200_0020_blt_0,,Podemos estorbarlos todo lo que queramos.
+$tk_mako5_2200_0020_blt_0,ACTOR,Barret
+$tk_mako5_2200_0030_cld_0,,Primero busquemos las tarjetas.
+$tk_mako5_2200_0030_cld_0,ACTOR,Cloud
+$tk_mako5_2226_0010_tif_0,,¿Has encontrado una tarjeta?
+$tk_mako5_2226_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2227_0010_tif_0,,"El panel de Barret, ¿será para otra carga?"
+$tk_mako5_2227_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2228_0010_tif_0,,Este dice que es el ascensor de los núcleos de IA.
+$tk_mako5_2228_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2251_0010_blt_0,,Buscad la tarjeta.
+$tk_mako5_2251_0010_blt_0,ACTOR,Barret
+$tk_mako5_2252_0010_blt_0,,Sin tarjeta no podemos estorbar.
+$tk_mako5_2252_0010_blt_0,ACTOR,Barret
+$tk_mako5_2253_0010_blt_0,,El de aquí lleva bombas grandes.
+$tk_mako5_2253_0010_blt_0,ACTOR,Barret
+$tk_mako5_2275_0010_tif_0,,¿Las has encontrado?
+$tk_mako5_2275_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2275_0020_cld_0,,Solo una.
+$tk_mako5_2275_0020_cld_0,ACTOR,Cloud
+$tk_mako5_2275_0030_tif_0,,Solo se puede una vez. Y hay dos ascensores.
+$tk_mako5_2275_0030_tif_0,ACTOR,Tifa
+$tk_mako5_2275_0040_tif_0,,"Cloud, decide."
+$tk_mako5_2275_0040_tif_0,ACTOR,Tifa
+$tk_mako5_2400_0010_blt_0,,Está chupado.
+$tk_mako5_2400_0010_blt_0,ACTOR,Barret
+$tk_mako5_2500_0010_tif_0,,¿Has encontrado la tarjeta?
+$tk_mako5_2500_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2500_0040_cld_0,,Solo una. Pero hay tres ascensores.
+$tk_mako5_2500_0040_cld_0,ACTOR,Cloud
+$tk_mako5_2500_0050_tif_0,,No queda otra que elegir.
+$tk_mako5_2500_0050_tif_0,ACTOR,Tifa
+$tk_mako5_2501_0010_cld_0,,Solo una.
+$tk_mako5_2501_0010_cld_0,ACTOR,Cloud
+$tk_mako5_2501_0020_tif_0,,Hay que pensar bien dónde usarla.
+$tk_mako5_2501_0020_tif_0,ACTOR,Tifa
+$tk_mako5_2600_0010_blt_0,,"Pan comido. A ver, ¿qué están enviando aquí?"
+$tk_mako5_2600_0010_blt_0,ACTOR,Barret
+$tk_mako5_2700_0010_cld_0,,Hay cuatro ascensores. Necesitamos más tarjetas.
+$tk_mako5_2700_0010_cld_0,ACTOR,Cloud
+$tk_mako5_2800_0010_tif_0,,¿Habrá quedado débil el robot?
+$tk_mako5_2800_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2800_0020_cld_0,,Hemos hecho todo lo que podíamos.
+$tk_mako5_2800_0020_cld_0,ACTOR,Cloud
+$tk_mako5_2800_0030_blt_0,,Claro. Ya solo queda rematarlo.
+$tk_mako5_2800_0030_blt_0,ACTOR,Barret
+$tk_mako5_2910_0010_tif_0,,Por ahí no.
+$tk_mako5_2910_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2920_0010_tif_0,,"Si bajas, vuelves."
+$tk_mako5_2920_0010_tif_0,ACTOR,Tifa
+$tk_mako5_2930_0010_blt_0,,No vamos a retroceder.
+$tk_mako5_2930_0010_blt_0,ACTOR,Barret
+$tk_mako5_2940_0010_blt_0,,La salida no está por ahí.
+$tk_mako5_2940_0010_blt_0,ACTOR,Barret
+$tk_mako5_3050_0010_blt_0,,Parece que podemos avanzar por aquí.
+$tk_mako5_3050_0010_blt_0,ACTOR,Barret
+$tk_mako5_3050_0020_cld_0,,Es una guía descarada.
+$tk_mako5_3050_0020_cld_0,ACTOR,Cloud
+$tk_mako5_3050_0030_blt_0,,Lo importante es ganar al final.
+$tk_mako5_3050_0030_blt_0,ACTOR,Barret
+$tk_mako5_3200_0010_blt_0,,"¿Volvemos abajo? Si tienes algo que hacer, no te detengo."
+$tk_mako5_3200_0010_blt_0,ACTOR,Barret
+$tk_mako5_3210_0020_blt_0,,"Volver está bien, pero ¿qué piensas hacer?"
+$tk_mako5_3210_0020_blt_0,ACTOR,Barret
+$tk_mako5_3400_0010_trm_0,,Modo de bloqueo de emergencia activado.
+$tk_mako5_3400_0010_trm_0,ACTOR,Megafonía
+$tk_mako5_3500_0010_blt_0,,Qué cosa tan pesada.
+$tk_mako5_3500_0010_blt_0,ACTOR,Barret
+$tk_mako5_3500_0020_cld_0,,Más adelante también está la sala donde se recogen los desechos.
+$tk_mako5_3500_0020_cld_0,ACTOR,Cloud
+$tk_mako5_3500_0030_tif_0,,¿Están reunidos los objetos con los que estorbamos el mantenimiento?
+$tk_mako5_3500_0030_tif_0,ACTOR,Tifa
+$tk_mako5_3500_0040_blt_0,,"¿La sala del tesoro? ¡Bien, vamos rápido!"
+$tk_mako5_3500_0040_blt_0,ACTOR,Barret
+$tk_mako5_4000_0010_blt_0,,Vamos a echar un vistazo también a la sala del tesoro.
+$tk_mako5_4000_0010_blt_0,ACTOR,Barret
+$tk_mako5_4030_0010_blt_0,,¿Qué pasa? ¿Primero por ahí?
+$tk_mako5_4030_0010_blt_0,ACTOR,Barret
+$tk_mako5_4070_0010_trm_0,,Modo de seguridad de máximo nivel activado.
+$tk_mako5_4070_0010_trm_0,ACTOR,Megafonía
+$tk_mako5_4100_0010_tif_0,,Ahí está. Como decía Cloud.
+$tk_mako5_4100_0010_tif_0,ACTOR,Tifa
+$tk_mako5_4100_0020_cld_0,,
+$tk_mako5_4100_0020_cld_0,ACTOR,
+$tk_mako5_4100_0030_blt_0,,Ha merecido la pena el esfuerzo. Nos lo llevamos todo.
+$tk_mako5_4100_0030_blt_0,ACTOR,Barret

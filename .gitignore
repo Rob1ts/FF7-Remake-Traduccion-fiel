@@ -1,0 +1,11 @@
+# Artefactos de compilación
+build/
+dist/
+*.pak
+*.uexp
+*.uasset
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

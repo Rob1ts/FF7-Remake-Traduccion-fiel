@@ -1,0 +1,2456 @@
+id,sub_id,text
+language,,ES
+$ba_town7_2303_01_en11_0,,Hemos detectado más intrusos. Enviad refuerzos.
+$ba_town7_2303_01_en11_0,ACTOR,Centinela
+$ba_town7_2303_02_en12_0,,Acabemos con ellos antes de que nos disparen.
+$ba_town7_2303_02_en12_0,ACTOR,Centinela
+$ba_town7_2303_en10_0,,También hay arriba.
+$ba_town7_2303_en10_0,ACTOR,Centinela
+$ba_town7_2307_01_02_en11_0,,¿Qué hacen los demás?
+$ba_town7_2307_01_02_en11_0,ACTOR,Centinela
+$ba_town7_2307_01_en10_0,,¡Vienen hacia aquí!
+$ba_town7_2307_01_en10_0,ACTOR,Centinela
+$ba_town7_2307_02_02_en05_0,,¿Dónde están los refuerzos?
+$ba_town7_2307_02_02_en05_0,ACTOR,Centinela
+$ba_town7_2307_02_en04_0,,"Cambio de objetivo. Rápido, que nos van a flanquear."
+$ba_town7_2307_02_en04_0,ACTOR,Centinela
+$ba_town7_2310_en01_0,,¡¿Qué estáis haciendo?!
+$ba_town7_2310_en01_0,ACTOR,Centinela
+$ba_town7_2312_01_en20_0,,¡No rompáis la formación!
+$ba_town7_2312_01_en20_0,ACTOR,Centinela
+$ba_town7_2312_en19_0,,¡Derribadlos uno a uno!
+$ba_town7_2312_en19_0,ACTOR,Centinela
+$ba_town7_2313_01_02_en20_0,,¿Qué está pasando?
+$ba_town7_2313_01_02_en20_0,ACTOR,Centinela
+$ba_town7_2313_01_en19_0,,"Mierda, no damos abasto."
+$ba_town7_2313_01_en19_0,ACTOR,Centinela
+$ba_town7_2313_02_02_en23_0,,Es fuerte... ¿Quién es?
+$ba_town7_2313_02_02_en23_0,ACTOR,Centinela
+$ba_town7_2313_02_en22_0,,¡Este!
+$ba_town7_2313_02_en22_0,ACTOR,Centinela
+$ba_town7_2315_01_02_big_0,,¡Bien! ¡Acaba con ellos!
+$ba_town7_2315_01_02_big_0,ACTOR,Biggs
+$ba_town7_2315_01_wed_0,,¡Ha sido instantáneo!
+$ba_town7_2315_01_wed_0,ACTOR,Wedge
+$ba_town7_2345_01_en27_0,,Qué tipo tan persistente.
+$ba_town7_2345_01_en27_0,ACTOR,Antidisturbios
+$ba_town7_2345_02_en29_0,,¡Rodeadlos! ¡Rodeadlos!
+$ba_town7_2345_02_en29_0,ACTOR,Luchador
+$ba_town7_2365_01_wed_0,,¡También hay aperitivos ricos!
+$ba_town7_2365_01_wed_0,ACTOR,Wedge
+$ba_town7_2365_02_wed_0,,¡Pero a mí no me comáis!
+$ba_town7_2365_02_wed_0,ACTOR,Wedge
+$ba_town7_2365_03_wed_0,,¡Poder especial de Midgar!
+$ba_town7_2365_03_wed_0,ACTOR,Wedge
+$ba_town7_2365_04_wed_0,,¡Todavía puedo seguir!
+$ba_town7_2365_04_wed_0,ACTOR,Wedge
+$ba_town7_2365_05_wed_0,,"Cloud, ¿cuánto falta...?"
+$ba_town7_2365_05_wed_0,ACTOR,Wedge
+$ba_town7_7200_01_wed_0,,"Llévalos hacia las minas, Cloud."
+$ba_town7_7200_01_wed_0,ACTOR,Wedge
+$ba_town7_7200_02_wed_0,,¡Colocadas! ¡Por aquí!
+$ba_town7_7200_02_wed_0,ACTOR,Wedge
+$ba_town7_7200_03_wed_0,,Aprovecha bien las minas.
+$ba_town7_7200_03_wed_0,ACTOR,Wedge
+$ba_town7_7200_04_wed_0,,"Cloud, comprueba dónde están las minas."
+$ba_town7_7200_04_wed_0,ACTOR,Wedge
+$ba_town7_7200_05_wed_0,,He colocado minas.
+$ba_town7_7200_05_wed_0,ACTOR,Wedge
+$ba_town7_7200_06_wed_0,,¡Rápido! Lleva a los barrenderos hacia las minas.
+$ba_town7_7200_06_wed_0,ACTOR,Wedge
+$ba_town7_7200_07_wed_0,,"¡Cloud, las minas están por allí!"
+$ba_town7_7200_07_wed_0,ACTOR,Wedge
+$ba_town7_7200_08_wed_0,,Aún quedan minas. ¡Te dejo la misión de atraerlos!
+$ba_town7_7200_08_wed_0,ACTOR,Wedge
+$ba_town7_8150_rch_0,,"¡Venga, luchemos limpio, amigo mío!"
+$ba_town7_8150_rch_0,ACTOR,Roche
+$ev_town7_0010_0000_jec_0,,
+$ev_town7_0010_0000_jec_0,ACTOR,
+$ev_town7_0010_0010_big_0,,Hoy ya no hay tren. Han adelantado el último.
+$ev_town7_0010_0010_big_0,ACTOR,Biggs
+$ev_town7_0010_0010_big_1,,Así que he conseguido unas motos. Subamos con ellas.
+$ev_town7_0010_0010_big_1,ACTOR,Biggs
+$ev_town7_0010_0020_jec_0,,¿Cómo lo sabías?
+$ev_town7_0010_0020_jec_0,ACTOR,Jessie
+$ev_town7_0010_0030_wed_0,,"Jessie, estabas rara."
+$ev_town7_0010_0030_wed_0,ACTOR,Wedge
+$ev_town7_0010_0030_wed_1,,Como si hablaras con nosotros sin estar del todo aquí.
+$ev_town7_0010_0030_wed_1,ACTOR,Wedge
+$ev_town7_0010_0040_big_0,,"Y luego, de repente, muy animada."
+$ev_town7_0010_0040_big_0,ACTOR,Biggs
+$ev_town7_0010_0050_jec_0,,"Aun así, ¿cómo sabíais que quería subir?"
+$ev_town7_0010_0050_jec_0,ACTOR,Jessie
+$ev_town7_0010_0050_jec_1,,¿Qué? ¿He hablado en sueños despierta?
+$ev_town7_0010_0050_jec_1,ACTOR,Jessie
+$ev_town7_0010_0060_wed_0,,Pensamos que querrías ver a tus padres.
+$ev_town7_0010_0060_wed_0,ACTOR,Wedge
+$ev_town7_0010_0070_big_0,,"He dado en el clavo, ¿eh?"
+$ev_town7_0010_0070_big_0,ACTOR,Biggs
+$ev_town7_0010_0080_jec_0,,"Ay, ay, ay..."
+$ev_town7_0010_0080_jec_0,ACTOR,Jessie
+$ev_town7_0010_0090_big_0,,"Y, sé que es mucho pedir, pero..."
+$ev_town7_0010_0090_big_0,ACTOR,Biggs
+$ev_town7_0010_0090_big_1,,¿nos dejas compartir un poco de esa sensación de ser buen hijo? Nosotros no tenemos padres.
+$ev_town7_0010_0090_big_1,ACTOR,Biggs
+$ev_town7_0010_0100_jec_0,,
+$ev_town7_0010_0100_jec_0,ACTOR,
+$ev_town7_0010_0100_jec_1,,"Cloud, ¿y tus padres?"
+$ev_town7_0010_0100_jec_1,ACTOR,Jessie
+$ev_town7_0010_0110_cld_0,,
+$ev_town7_0010_0110_cld_0,ACTOR,
+$ev_town7_0010_0110_cld_1,,No los tengo.
+$ev_town7_0010_0110_cld_1,ACTOR,Cloud
+$ev_town7_0010_0120_ev1_0,,
+$ev_town7_0010_0120_ev1_0,ACTOR,
+$ev_town7_0010_0140_jec_0,,
+$ev_town7_0010_0140_jec_0,ACTOR,
+$ev_town7_0010_0150_jec_0,,"Entonces, ¡vamos todos!"
+$ev_town7_0010_0150_jec_0,ACTOR,Jessie
+$ev_town7_0010_0150_jec_1,,Compartamos el dolor de ser malos hijos.
+$ev_town7_0010_0150_jec_1,ACTOR,Jessie
+$ev_town7_0010_0151_big_0,,
+$ev_town7_0010_0151_big_0,ACTOR,Biggs y Wedge
+$ev_town7_0010_0152_wed_0,,
+$ev_town7_0010_0152_wed_0,ACTOR,Biggs y Wedge
+$ev_town7_0010_0153_jec_0,,
+$ev_town7_0010_0153_jec_0,ACTOR,
+$ev_town7_0010_0160_jec_0,,"Todos lleváis los carnés nuevos, ¿verdad?"
+$ev_town7_0010_0160_jec_0,ACTOR,Jessie
+$ev_town7_0010_0170_ev1_0,,"¡Sí, jefa!"
+$ev_town7_0010_0170_ev1_0,ACTOR,Biggs y Wedge
+$ev_town7_0010_0180_jec_0,,"¡Vamos, chicos!"
+$ev_town7_0010_0180_jec_0,ACTOR,Jessie
+$ev_town7_0010_0190_big_0,,"¡Bien, dale caña!"
+$ev_town7_0010_0190_big_0,ACTOR,Biggs
+$ev_town7_0010_0200_wed_0,,¡Entendido!
+$ev_town7_0010_0200_wed_0,ACTOR,Wedge
+$ev_town7_0020_0010_jec_0,,¿Me oyes?
+$ev_town7_0020_0010_jec_0,ACTOR,Jessie
+$ev_town7_0020_0020_cld_0,,Sí.
+$ev_town7_0020_0020_cld_0,ACTOR,Cloud
+$ev_town7_0020_0030_jec_0,,La razón por la que subo no es la que Biggs y los demás imaginan.
+$ev_town7_0020_0030_jec_0,ACTOR,Jessie
+$ev_town7_0020_0030_jec_1,,"Ya sabes, la explosión del reactor n.º 1. Fue terrible, ¿no?"
+$ev_town7_0020_0030_jec_1,ACTOR,Jessie
+$ev_town7_0020_0040_cld_0,,El mako provocó una reacción en cadena. ¿No dijiste eso?
+$ev_town7_0020_0040_cld_0,ACTOR,Cloud
+$ev_town7_0020_0050_jec_0,,Sí... Pero eso era lo que deseaba creer.
+$ev_town7_0020_0050_jec_0,ACTOR,Jessie
+$ev_town7_0020_0050_jec_1,,"Al final, la culpa fue mía."
+$ev_town7_0020_0050_jec_1,ACTOR,Jessie
+$ev_town7_0020_0055_jec_0,,Usé una carga explosiva más potente de la que indicaba el plano.
+$ev_town7_0020_0055_jec_0,ACTOR,Jessie
+$ev_town7_0020_0055_jec_1,,"Pensándolo bien, la causa fue esa."
+$ev_town7_0020_0055_jec_1,ACTOR,Jessie
+$ev_town7_0020_0060_cld_0,,
+$ev_town7_0020_0060_cld_0,ACTOR,
+$ev_town7_0020_0060_cld_1,,¿Y qué piensas hacer?
+$ev_town7_0020_0060_cld_1,ACTOR,Cloud
+$ev_town7_0020_0070_jec_0,,Voy a sustituir la carga de la próxima bomba.
+$ev_town7_0020_0070_jec_0,ACTOR,Jessie
+$ev_town7_0020_0070_jec_1,,"Pero no consigo contactar con el vendedor, así que he pensado en cogerla de un almacén de Shinra."
+$ev_town7_0020_0070_jec_1,ACTOR,Jessie
+$ev_town7_0020_0080_cld_0,,¿De Shinra?
+$ev_town7_0020_0080_cld_0,ACTOR,Cloud
+$ev_town7_0020_0080_cld_1,,Eso es imposible.
+$ev_town7_0020_0080_cld_1,ACTOR,Cloud
+$ev_town7_0020_0090_jec_0,,"Y ahí entras tú, Cloud."
+$ev_town7_0020_0090_jec_0,ACTOR,Jessie
+$ev_town7_0020_0095_cld_0,,
+$ev_town7_0020_0095_cld_0,ACTOR,
+$ev_town7_0020_0096_cld_0,,
+$ev_town7_0020_0096_cld_0,ACTOR,
+$ev_town7_0020_0110_jec_0,,Escaneo de identidad.
+$ev_town7_0020_0110_jec_0,ACTOR,Jessie
+$ev_town7_0020_0110_jec_1,,¡Ahí viene!
+$ev_town7_0020_0110_jec_1,ACTOR,Jessie
+$ev_town7_1060_0010_ks01_0,,Intrusos confirmados. Iniciamos la intercepción.
+$ev_town7_1060_0010_ks01_0,ACTOR,Guarda motorizado
+$ev_town7_1060_0020_jec_0,,
+$ev_town7_1060_0020_jec_0,ACTOR,
+$ev_town7_1080_0010_rch_0,,
+$ev_town7_1080_0010_rch_0,ACTOR,
+$ev_town7_1080_0020_rch_0,,
+$ev_town7_1080_0020_rch_0,ACTOR,
+$ev_town7_1110_0005_jec_0,,
+$ev_town7_1110_0005_jec_0,ACTOR,
+$ev_town7_1110_0010_wed_0,,¡Ya era hora!
+$ev_town7_1110_0010_wed_0,ACTOR,Wedge
+$ev_town7_1110_0020_big_0,,¡Vamos allá!
+$ev_town7_1110_0020_big_0,ACTOR,Biggs
+$ev_town7_1170_0001_rch_0,,
+$ev_town7_1170_0001_rch_0,ACTOR,
+$ev_town7_1170_0003_rch_0,,
+$ev_town7_1170_0003_rch_0,ACTOR,
+$ev_town7_1170_0005_rch_0,,
+$ev_town7_1170_0005_rch_0,ACTOR,
+$ev_town7_1170_0007_rch_0,,
+$ev_town7_1170_0007_rch_0,ACTOR,
+$ev_town7_1170_0010_jec_0,,¡¿Qué es eso?!
+$ev_town7_1170_0010_jec_0,ACTOR,Jessie
+$ev_town7_1170_0017_cld_0,,
+$ev_town7_1170_0017_cld_0,ACTOR,
+$ev_town7_1170_0020_cld_0,,Un SOLDIER.
+$ev_town7_1170_0020_cld_0,ACTOR,Cloud
+$ev_town7_1170_0021_rch_0,,
+$ev_town7_1170_0021_rch_0,ACTOR,
+$ev_town7_1170_0022_rch_0,,
+$ev_town7_1170_0022_rch_0,ACTOR,
+$ev_town7_1170_0024_rch_0,,
+$ev_town7_1170_0024_rch_0,ACTOR,
+$ev_town7_1170_0030_cld_0,,
+$ev_town7_1170_0030_cld_0,ACTOR,
+$ev_town7_1210_0010_cld_0,,¿Te retiras?
+$ev_town7_1210_0010_cld_0,ACTOR,Cloud
+$ev_town7_1210_0020_rch_0,,Tranquilo.
+$ev_town7_1210_0020_rch_0,ACTOR,Roche
+$ev_town7_1210_0020_rch_1,,"No voy a bajarme de una carrera tan divertida, ¿no crees?"
+$ev_town7_1210_0020_rch_1,ACTOR,Roche
+$ev_town7_1210_0025_jec_0,,
+$ev_town7_1210_0025_jec_0,ACTOR,
+$ev_town7_1210_0027_rch_0,,
+$ev_town7_1210_0027_rch_0,ACTOR,Roche
+$ev_town7_1210_0030_rch_0,,Te acompañaré hasta el final. Hasta que uno de los dos se consuma.
+$ev_town7_1210_0030_rch_0,ACTOR,Roche
+$ev_town7_1210_0030_rch_1,,
+$ev_town7_1210_0030_rch_1,ACTOR,Roche
+$ev_town7_1210_0031_cld_0,,
+$ev_town7_1210_0031_cld_0,ACTOR,
+$ev_town7_1210_0032_jec_0,,
+$ev_town7_1210_0032_jec_0,ACTOR,
+$ev_town7_1210_0033_cld_0,,
+$ev_town7_1210_0033_cld_0,ACTOR,
+$ev_town7_1210_0034_jec_0,,
+$ev_town7_1210_0034_jec_0,ACTOR,
+$ev_town7_1210_0034_rch_0,,
+$ev_town7_1210_0034_rch_0,ACTOR,
+$ev_town7_1210_0035_cld_0,,
+$ev_town7_1210_0035_cld_0,ACTOR,
+$ev_town7_1210_0036_cld_0,,
+$ev_town7_1210_0036_cld_0,ACTOR,
+$ev_town7_1210_0037_cld_0,,
+$ev_town7_1210_0037_cld_0,ACTOR,
+$ev_town7_1210_0037_rch_0,,
+$ev_town7_1210_0037_rch_0,ACTOR,
+$ev_town7_1210_0038_cld_0,,
+$ev_town7_1210_0038_cld_0,ACTOR,
+$ev_town7_1210_0038_rch_0,,
+$ev_town7_1210_0038_rch_0,ACTOR,
+$ev_town7_1210_0039_cld_0,,
+$ev_town7_1210_0039_cld_0,ACTOR,
+$ev_town7_1210_0040_rch_0,,¡Vamos al clímax!
+$ev_town7_1210_0040_rch_0,ACTOR,Roche
+$ev_town7_1210_0050_cld_0,,"Jessie, toma el manillar."
+$ev_town7_1210_0050_cld_0,ACTOR,Cloud
+$ev_town7_1210_0060_jec_0,,
+$ev_town7_1210_0060_jec_0,ACTOR,Jessie
+$ev_town7_1210_0061_cld_0,,
+$ev_town7_1210_0061_cld_0,ACTOR,
+$ev_town7_1210_0062_jec_0,,
+$ev_town7_1210_0062_jec_0,ACTOR,
+$ev_town7_1210_0063_cld_0,,
+$ev_town7_1210_0063_cld_0,ACTOR,
+$ev_town7_1210_0065_cld_0,,
+$ev_town7_1210_0065_cld_0,ACTOR,
+$ev_town7_1210_0065_rch_0,,
+$ev_town7_1210_0065_rch_0,ACTOR,
+$ev_town7_1210_0066_cld_0,,
+$ev_town7_1210_0066_cld_0,ACTOR,
+$ev_town7_1210_0066_rch_0,,
+$ev_town7_1210_0066_rch_0,ACTOR,
+$ev_town7_1210_0067_cld_0,,
+$ev_town7_1210_0067_cld_0,ACTOR,
+$ev_town7_1210_0068_jec_0,,
+$ev_town7_1210_0068_jec_0,ACTOR,
+$ev_town7_1210_0069_rch_0,,
+$ev_town7_1210_0069_rch_0,ACTOR,
+$ev_town7_1210_0070_rch_0,,"Vaya, hasta aquí hemos llegado. Qué pena."
+$ev_town7_1210_0070_rch_0,ACTOR,Roche
+$ev_town7_1210_0080_rch_0,,"La próxima vez, luchemos solo nosotros dos."
+$ev_town7_1210_0080_rch_0,ACTOR,Roche
+$ev_town7_1210_0090_cld_0,,Ya veremos.
+$ev_town7_1210_0090_cld_0,ACTOR,Cloud
+$ev_town7_1210_0100_rch_0,,Prometido.
+$ev_town7_1210_0100_rch_0,ACTOR,Roche
+$ev_town7_1210_0110_big_0,,¡Lo logramos!
+$ev_town7_1210_0110_big_0,ACTOR,Biggs
+$ev_town7_1210_0120_wed_0,,¡Bien!
+$ev_town7_1210_0120_wed_0,ACTOR,Wedge
+$ev_town7_1210_0130_jec_0,,No cantemos victoria. Escondámonos antes de que lleguen refuerzos.
+$ev_town7_1210_0130_jec_0,ACTOR,Jessie
+$ev_town7_1230_0010_jec_0,,¡Aprobado!
+$ev_town7_1230_0010_jec_0,ACTOR,Jessie
+$ev_town7_1230_0020_cld_0,,¿De qué hablas?
+$ev_town7_1230_0020_cld_0,ACTOR,Cloud
+$ev_town7_1230_0030_jec_0,,De conducir.
+$ev_town7_1230_0030_jec_0,ACTOR,Jessie
+$ev_town7_1230_0035_cld_0,,No me pongas nota.
+$ev_town7_1230_0035_cld_0,ACTOR,Cloud
+$ev_town7_1230_0040_jec_0,,¿Quieres una recompensa?
+$ev_town7_1230_0040_jec_0,ACTOR,Jessie
+$ev_town7_1230_0050_cld_0,,No.
+$ev_town7_1230_0050_cld_0,ACTOR,Cloud
+$ev_town7_1230_0055_jec_0,,
+$ev_town7_1230_0055_jec_0,ACTOR,
+$ev_town7_1230_0060_cld_0,,
+$ev_town7_1230_0060_cld_0,ACTOR,
+$ev_town7_1230_0065_cld_0,,
+$ev_town7_1230_0065_cld_0,ACTOR,
+$ev_town7_1230_0070_jec_0,,"Como esperaba, te has callado."
+$ev_town7_1230_0070_jec_0,ACTOR,Jessie
+$ev_town7_1230_0080_cld_0,,
+$ev_town7_1230_0080_cld_0,ACTOR,
+$ev_town7_1230_0085_jec_0,,
+$ev_town7_1230_0085_jec_0,ACTOR,
+$ev_town7_1230_0090_jec_0,,"Soy una buena profesora, ¿eh?"
+$ev_town7_1230_0090_jec_0,ACTOR,Jessie
+$ev_town7_1230_0100_cld_0,,
+$ev_town7_1230_0100_cld_0,ACTOR,
+$ev_town7_1230_0110_jec_0,,Otra vez callado.
+$ev_town7_1230_0110_jec_0,ACTOR,Jessie
+$ev_town7_1230_0120_jec_0,,
+$ev_town7_1230_0120_jec_0,ACTOR,
+$ev_town7_1230_0130_jec_0,,"Mira, ya se ve. Vamos por allí."
+$ev_town7_1230_0130_jec_0,ACTOR,Jessie
+$ev_town7_1240_0010_jec_0,,¡Aprobado!
+$ev_town7_1240_0010_jec_0,ACTOR,Jessie
+$ev_town7_1240_0020_cld_0,,¿De qué hablas?
+$ev_town7_1240_0020_cld_0,ACTOR,Cloud
+$ev_town7_1240_0030_jec_0,,De conducir.
+$ev_town7_1240_0030_jec_0,ACTOR,Jessie
+$ev_town7_1240_0035_cld_0,,No me pongas nota.
+$ev_town7_1240_0035_cld_0,ACTOR,Cloud
+$ev_town7_1240_0040_jec_0,,"Bueno, aprobado, pero por los pelos."
+$ev_town7_1240_0040_jec_0,ACTOR,Jessie
+$ev_town7_1240_0050_cld_0,,Me da igual.
+$ev_town7_1240_0050_cld_0,ACTOR,Cloud
+$ev_town7_1240_0060_jec_0,,Podrías haber ido más rápido.
+$ev_town7_1240_0060_jec_0,ACTOR,Jessie
+$ev_town7_1240_0070_cld_0,,Te caerías.
+$ev_town7_1240_0070_cld_0,ACTOR,Cloud
+$ev_town7_1240_0080_jec_0,,¿Tan frágil parezco?
+$ev_town7_1240_0080_jec_0,ACTOR,Jessie
+$ev_town7_1240_0080_jec_1,,
+$ev_town7_1240_0080_jec_1,ACTOR,Jessie
+$ev_town7_1240_0090_cld_0,,Agárrate bien.
+$ev_town7_1240_0090_cld_0,ACTOR,Cloud
+$ev_town7_1240_0100_jec_0,,
+$ev_town7_1240_0100_jec_0,ACTOR,
+$ev_town7_1240_0110_cld_0,,¿Qué?
+$ev_town7_1240_0110_cld_0,ACTOR,Cloud
+$ev_town7_1240_0120_jec_0,,Creo que se me ha escapado algo.
+$ev_town7_1240_0120_jec_0,ACTOR,Jessie
+$ev_town7_1240_0130_cld_0,,
+$ev_town7_1240_0130_cld_0,ACTOR,
+$ev_town7_1240_0140_jec_0,,Es broma.
+$ev_town7_1240_0140_jec_0,ACTOR,Jessie
+$ev_town7_1240_0150_cld_0,,
+$ev_town7_1240_0150_cld_0,ACTOR,
+$ev_town7_1240_0160_jec_0,,
+$ev_town7_1240_0160_jec_0,ACTOR,
+$ev_town7_1240_0170_jec_0,,"Mira, ya se ve. Vamos por allí."
+$ev_town7_1240_0170_jec_0,ACTOR,Jessie
+$ev_town7_1250_0010_jec_0,,¡Qué pena!
+$ev_town7_1250_0010_jec_0,ACTOR,Jessie
+$ev_town7_1250_0020_cld_0,,¿De qué hablas?
+$ev_town7_1250_0020_cld_0,ACTOR,Cloud
+$ev_town7_1250_0030_jec_0,,De conducir.
+$ev_town7_1250_0030_jec_0,ACTOR,Jessie
+$ev_town7_1250_0035_cld_0,,No me pongas nota.
+$ev_town7_1250_0035_cld_0,ACTOR,Cloud
+$ev_town7_1250_0040_jec_0,,Pensaba que Cloud conducía mejor.
+$ev_town7_1250_0040_jec_0,ACTOR,Jessie
+$ev_town7_1250_0050_cld_0,,No estoy acostumbrado a llevar a nadie.
+$ev_town7_1250_0050_cld_0,ACTOR,Cloud
+$ev_town7_1250_0060_jec_0,,"La próxima vez, tú detrás."
+$ev_town7_1250_0060_jec_0,ACTOR,Jessie
+$ev_town7_1250_0070_cld_0,,No.
+$ev_town7_1250_0070_cld_0,ACTOR,Cloud
+$ev_town7_1250_0075_jec_0,,
+$ev_town7_1250_0075_jec_0,ACTOR,
+$ev_town7_1250_0080_jec_0,,Entonces la próxima también voy yo detrás.
+$ev_town7_1250_0080_jec_0,ACTOR,Jessie
+$ev_town7_1250_0090_cld_0,,
+$ev_town7_1250_0090_cld_0,ACTOR,
+$ev_town7_1250_0100_jec_0,,
+$ev_town7_1250_0100_jec_0,ACTOR,
+$ev_town7_1250_0110_jec_0,,"Mira, ya se ve. Vamos por allí."
+$ev_town7_1250_0110_jec_0,ACTOR,Jessie
+$ev_town7_2010_0000_cld_0,,
+$ev_town7_2010_0000_cld_0,ACTOR,
+$ev_town7_2010_0001_jec_0,,
+$ev_town7_2010_0001_jec_0,ACTOR,
+$ev_town7_2010_0010_jec_0,,"A partir de aquí, andando."
+$ev_town7_2010_0010_jec_0,ACTOR,Jessie
+$ev_town7_2010_0010_jec_1,,Es tarde y ya estamos en la zona urbana.
+$ev_town7_2010_0010_jec_1,ACTOR,Jessie
+$ev_town7_2010_0020_wed_0,,Me aprieta y me duele.
+$ev_town7_2010_0020_wed_0,ACTOR,Wedge
+$ev_town7_2010_0030_big_0,,Pareces un jamón.
+$ev_town7_2010_0030_big_0,ACTOR,Biggs
+$ev_town7_2010_0040_wed_0,,Un jamón vacío por dentro.
+$ev_town7_2010_0040_wed_0,ACTOR,Wedge
+$ev_town7_2010_0050_jec_0,,"Sí, sí. Ya tienes hambre."
+$ev_town7_2010_0050_jec_0,ACTOR,Jessie
+$ev_town7_2010_0050_jec_1,,Vamos.
+$ev_town7_2010_0050_jec_1,ACTOR,Jessie
+$ev_town7_2010_0060_big_0,,
+$ev_town7_2010_0060_big_0,ACTOR,
+$ev_town7_2020_0000_jec_0,,
+$ev_town7_2020_0000_jec_0,ACTOR,
+$ev_town7_2020_0010_jec_0,,Esta es la zona de viviendas del sector 7. Mis padres trabajan en Shinra.
+$ev_town7_2020_0010_jec_0,ACTOR,Jessie
+$ev_town7_2020_0020_jec_0,,Gracias a los reactores de mako crecí.
+$ev_town7_2020_0020_jec_0,ACTOR,Jessie
+$ev_town7_2020_0030_big_0,,
+$ev_town7_2020_0030_big_0,ACTOR,
+$ev_town7_2080_0010_jec_0,,"Y ahí entras tú, Cloud."
+$ev_town7_2080_0010_jec_0,ACTOR,Jessie
+$ev_town7_2080_0020_jec_0,,"Si eres un hombre para todo, harás cualquier cosa, ¿no?"
+$ev_town7_2080_0020_jec_0,ACTOR,Jessie
+$ev_town7_2080_0020_jec_1,,Necesito que te cueles en mi casa y hagas de «gran ladrón».
+$ev_town7_2080_0020_jec_1,ACTOR,Jessie
+$ev_town7_2080_0025_cld_0,,
+$ev_town7_2080_0025_cld_0,ACTOR,
+$ev_town7_2080_0030_jec_0,,En un rato abriré la puerta trasera. La señal será...
+$ev_town7_2080_0030_jec_0,ACTOR,Jessie
+$ev_town7_2080_0040_cld_0,,"Cuando se encienda la luz, esa es la señal."
+$ev_town7_2080_0040_cld_0,ACTOR,Cloud
+$ev_town7_2080_0050_cld_0,,Vamos.
+$ev_town7_2080_0050_cld_0,ACTOR,Cloud
+$ev_town7_2090_0010_jec_0,,"Cuando abras la puerta trasera, hay un pasillo."
+$ev_town7_2090_0010_jec_0,ACTOR,Jessie
+$ev_town7_2090_0020_jec_0,,No abras la puerta de enfrente. La habitación de la derecha es la que busco.
+$ev_town7_2090_0020_jec_0,ACTOR,Jessie
+$ev_town7_2110_0020_jec_0,,Haré mucho ruido con Biggs y los demás para distraer a mamá.
+$ev_town7_2110_0020_jec_0,ACTOR,Jessie
+$ev_town7_2110_0020_jec_1,,"Está papá, pero no te preocupes."
+$ev_town7_2110_0020_jec_1,ACTOR,Jessie
+$ev_town7_2110_0020_jec_2,,Puedes hacer ruido.
+$ev_town7_2110_0020_jec_2,ACTOR,Jessie
+$ev_town7_2110_0025_cld_0,,
+$ev_town7_2110_0025_cld_0,ACTOR,
+$ev_town7_2110_0030_jec_0,,Quiero que busques el carné de papá. Debe de estar en alguna parte de la habitación.
+$ev_town7_2110_0030_jec_0,ACTOR,Jessie
+$ev_town7_2110_0030_jec_1,,No creo que yo pudiera hacerlo.
+$ev_town7_2110_0030_jec_1,ACTOR,Jessie
+$ev_town7_2110_0030_jec_2,,"Por favor, Cloud."
+$ev_town7_2110_0030_jec_2,ACTOR,Jessie
+$ev_town7_2150_0010_cld_0,,
+$ev_town7_2150_0010_cld_0,ACTOR,
+$ev_town7_2170_0010_jem_0,,"Ahora no estás en los escenarios, ¿no? ¿Aun así quieres quedarte en Gold Saucer?"
+$ev_town7_2170_0010_jem_0,ACTOR,Madre de Jessie
+$ev_town7_2170_0015_jec_0,,
+$ev_town7_2170_0015_jec_0,ACTOR,
+$ev_town7_2170_0020_wed_0,,Jessie es muy valorada.
+$ev_town7_2170_0020_wed_0,ACTOR,Wedge
+$ev_town7_2170_0030_jem_0,,"Pero estás entre bastidores, ¿no? Vuelve ya a casa."
+$ev_town7_2170_0030_jem_0,ACTOR,Madre de Jessie
+$ev_town7_2170_0040_jem_0,,¿Qué tal apuntar al teatro del sector 8?
+$ev_town7_2170_0040_jem_0,ACTOR,Madre de Jessie
+$ev_town7_2170_0050_jec_0,,"Ah, puede que sí."
+$ev_town7_2170_0050_jec_0,ACTOR,Jessie
+$ev_town7_2170_0050_jec_1,,"Mamá, tenemos que irnos."
+$ev_town7_2170_0050_jec_1,ACTOR,Jessie
+$ev_town7_2170_0060_jem_0,,¿Ya?
+$ev_town7_2170_0060_jem_0,ACTOR,Madre de Jessie
+$ev_town7_2170_0080_jec_0,,La verdad es que no pensábamos pasarnos.
+$ev_town7_2170_0080_jec_0,ACTOR,Jessie
+$ev_town7_2170_0080_jec_1,,Pero Wedge quería comer pizza.
+$ev_town7_2170_0080_jec_1,ACTOR,Jessie
+$ev_town7_2170_0089_wed_0,,
+$ev_town7_2170_0089_wed_0,ACTOR,
+$ev_town7_2170_0090_wed_0,,¡Gracias por la comida!
+$ev_town7_2170_0090_wed_0,ACTOR,Wedge
+$ev_town7_2170_0100_jem_0,,"Wedge, ¿te has quedado lleno?"
+$ev_town7_2170_0100_jem_0,ACTOR,Madre de Jessie
+$ev_town7_2170_0110_wed_0,,Puedo con dos trozos más.
+$ev_town7_2170_0110_wed_0,ACTOR,Wedge
+$ev_town7_2170_0120_ev1_0,,¡Wedge!
+$ev_town7_2170_0120_ev1_0,ACTOR,Biggs y Jessie
+$ev_town7_2170_0140_wed_0,,La pizza forma parte de la misión.
+$ev_town7_2170_0140_wed_0,ACTOR,Wedge
+$ev_town7_2170_0140_wed_1,,"Con el estómago vacío, no hay ánimo que valga."
+$ev_town7_2170_0140_wed_1,ACTOR,Wedge
+$ev_town7_2180_0010_jec_0,,Voy a sustituir la carga de la próxima bomba.
+$ev_town7_2180_0010_jec_0,ACTOR,Jessie
+$ev_town7_2180_0020_jec_0,,"Como no hay forma de contactar con el vendedor, he pensado en cogerla del almacén de Shinra."
+$ev_town7_2180_0020_jec_0,ACTOR,Jessie
+$ev_town7_2180_0030_jec_0,,Perdón por la espera.
+$ev_town7_2180_0030_jec_0,ACTOR,Jessie
+$ev_town7_2180_0040_cld_0,,¿Esto sirve?
+$ev_town7_2180_0040_cld_0,ACTOR,Cloud
+$ev_town7_2180_0045_jec_0,,
+$ev_town7_2180_0045_jec_0,ACTOR,
+$ev_town7_2180_0050_jec_0,,Ahora empieza lo de verdad.
+$ev_town7_2180_0050_jec_0,ACTOR,Jessie
+$ev_town7_2180_0060_jec_0,,Con esto podré entrar en el almacén de la sección 76.
+$ev_town7_2180_0060_jec_0,ACTOR,Jessie
+$ev_town7_2180_0069_big_0,,
+$ev_town7_2180_0069_big_0,ACTOR,
+$ev_town7_2180_0070_big_0,,"Bueno, vamos."
+$ev_town7_2180_0070_big_0,ACTOR,Biggs
+$ev_town7_2180_0080_jec_0,,Voy yo sola.
+$ev_town7_2180_0080_jec_0,ACTOR,Jessie
+$ev_town7_2180_0080_jec_1,,Soy la única que sabe qué hay que sacar y de dónde.
+$ev_town7_2180_0080_jec_1,ACTOR,Jessie
+$ev_town7_2180_0090_big_0,,¿Entonces solo hemos venido a comer pizza?
+$ev_town7_2180_0090_big_0,ACTOR,Biggs
+$ev_town7_2180_0100_jec_0,,¿Creías que iba a ser gratis?
+$ev_town7_2180_0100_jec_0,ACTOR,Jessie
+$ev_town7_2180_0100_jec_1,,Ayudad a Cloud para bajar la comida.
+$ev_town7_2180_0100_jec_1,ACTOR,Jessie
+$ev_town7_2180_0110_jec_0,,"Venga, antes hemos llamado la atención de mamá, ¿no?"
+$ev_town7_2180_0110_jec_0,ACTOR,Jessie
+$ev_town7_2180_0110_jec_1,,¿Cómo se dice? Eso de... ya sabes...
+$ev_town7_2180_0110_jec_1,ACTOR,Jessie
+$ev_town7_2180_0120_cld_0,,Una distracción.
+$ev_town7_2180_0120_cld_0,ACTOR,Cloud
+$ev_town7_2180_0130_jec_0,,"¡Eso, eso! ¡Como buen SOLDIER!"
+$ev_town7_2180_0130_jec_0,ACTOR,Jessie
+$ev_town7_2180_0140_wed_0,,Eh... ¿entonces esta vez comemos pizza con los de Shinra?
+$ev_town7_2180_0140_wed_0,ACTOR,Wedge
+$ev_town7_2180_0150_big_0,,Que te muevas según lo que has comido.
+$ev_town7_2180_0150_big_0,ACTOR,Biggs
+$ev_town7_2180_0155_wed_0,,
+$ev_town7_2180_0155_wed_0,ACTOR,
+$ev_town7_2180_0160_big_0,,"Mientras estás dentro, atraemos la atención de los guardias, ¿no?"
+$ev_town7_2180_0160_big_0,ACTOR,Biggs
+$ev_town7_2180_0170_jec_0,,"Eso, eso. Como siempre, Biggs."
+$ev_town7_2180_0170_jec_0,ACTOR,Jessie
+$ev_town7_2180_0180_jec_0,,"Cuando lance la bengala, entrad de frente en la plaza frente al almacén."
+$ev_town7_2180_0180_jec_0,ACTOR,Jessie
+$ev_town7_2180_0180_jec_1,,Armad todo el jaleo que podáis y ganad tiempo.
+$ev_town7_2180_0180_jec_1,ACTOR,Jessie
+$ev_town7_2180_0190_big_0,,Confiar en el SOLDIER es jugársela a la fuerza bruta.
+$ev_town7_2180_0190_big_0,ACTOR,Biggs
+$ev_town7_2180_0200_cld_0,,¿Cuánto tiempo necesitas?
+$ev_town7_2180_0200_cld_0,ACTOR,Cloud
+$ev_town7_2180_0210_jec_0,,No creo que mucho.
+$ev_town7_2180_0210_jec_0,ACTOR,Jessie
+$ev_town7_2180_0220_jec_0,,"Cuando termine, lanzaré otra bengala. Nos vemos en el descampado de más adelante."
+$ev_town7_2180_0220_jec_0,ACTOR,Jessie
+$ev_town7_2180_0230_big_0,,"Espera, ¿cómo volvemos a la barriada? ¿Nos mezclamos con el primer tren?"
+$ev_town7_2180_0230_big_0,ACTOR,Biggs
+$ev_town7_2180_0240_jec_0,,No. Tenemos que volver esta noche.
+$ev_town7_2180_0240_jec_0,ACTOR,Jessie
+$ev_town7_2180_0250_jec_0,,Ya tengo un plan. Tranquilo.
+$ev_town7_2180_0250_jec_0,ACTOR,Jessie
+$ev_town7_2180_0250_jec_1,,Hasta luego.
+$ev_town7_2180_0250_jec_1,ACTOR,Jessie
+$ev_town7_2180_0251_jec_0,,
+$ev_town7_2180_0251_jec_0,ACTOR,
+$ev_town7_2180_0260_big_0,,"Vamos, equipo de distracción."
+$ev_town7_2180_0260_big_0,ACTOR,Biggs
+$ev_town7_2210_0010_big_0,,La plaza debe de estar más adelante.
+$ev_town7_2210_0010_big_0,ACTOR,Biggs
+$ev_town7_2210_0020_cld_0,,Esperad.
+$ev_town7_2210_0020_cld_0,ACTOR,Cloud
+$ev_town7_2210_0020_cld_1,,No hay ni un guardia.
+$ev_town7_2210_0020_cld_1,ACTOR,Cloud
+$ev_town7_2210_0021_wed_0,,
+$ev_town7_2210_0021_wed_0,ACTOR,
+$ev_town7_2210_0022_big_0,,
+$ev_town7_2210_0022_big_0,ACTOR,
+$ev_town7_2210_0025_big_0,,
+$ev_town7_2210_0025_big_0,ACTOR,
+$ev_town7_2210_0026_wed_0,,
+$ev_town7_2210_0026_wed_0,ACTOR,
+$ev_town7_2210_0030_wed_0,,
+$ev_town7_2210_0030_wed_0,ACTOR,
+$ev_town7_2210_0035_big_0,,
+$ev_town7_2210_0035_big_0,ACTOR,
+$ev_town7_2210_0040_big_0,,Parece que hay alguien antes que nosotros.
+$ev_town7_2210_0040_big_0,ACTOR,Biggs
+$ev_town7_2210_0050_wed_0,,"Esto no es cosa de Jessie, ¿verdad?"
+$ev_town7_2210_0050_wed_0,ACTOR,Wedge
+$ev_town7_2210_0060_big_0,,Espero que no sea un problema.
+$ev_town7_2210_0060_big_0,ACTOR,Biggs
+$ev_town7_2210_0065_wed_0,,
+$ev_town7_2210_0065_wed_0,ACTOR,
+$ev_town7_2210_0070_cld_0,,Vamos a comprobarlo.
+$ev_town7_2210_0070_cld_0,ACTOR,Cloud
+$ev_town7_2210_0080_big_0,,
+$ev_town7_2210_0080_big_0,ACTOR,
+$ev_town7_2210_0090_wed_0,,
+$ev_town7_2210_0090_wed_0,ACTOR,
+$ev_town7_2240_0005_big_0,,
+$ev_town7_2240_0005_big_0,ACTOR,
+$ev_town7_2240_0010_big_0,,"Cloud, monta un buen escándalo en mitad de la plaza."
+$ev_town7_2240_0010_big_0,ACTOR,Biggs
+$ev_town7_2240_0015_cld_0,,
+$ev_town7_2240_0015_cld_0,ACTOR,
+$ev_town7_2240_0020_wed_0,,¿Y nosotros?
+$ev_town7_2240_0020_wed_0,ACTOR,Wedge
+$ev_town7_2240_0030_big_0,,Cubrimos a Cloud.
+$ev_town7_2240_0030_big_0,ACTOR,Biggs
+$ev_town7_2240_0030_big_1,,Primero subimos a un sitio desde donde se vea todo y luego...
+$ev_town7_2240_0030_big_1,ACTOR,Biggs
+$ev_town7_2240_0040_cld_0,,
+$ev_town7_2240_0040_cld_0,ACTOR,
+$ev_town7_2240_0050_cld_0,,
+$ev_town7_2240_0050_cld_0,ACTOR,
+$ev_town7_2250_0010_tif_0,,Perdón por la espera.
+$ev_town7_2250_0010_tif_0,ACTOR,Tifa
+$ev_town7_2250_0011_cld_0,,
+$ev_town7_2250_0011_cld_0,ACTOR,
+$ev_town7_2250_0013_tif_0,,
+$ev_town7_2250_0013_tif_0,ACTOR,
+$ev_town7_2250_0017_tif_0,,
+$ev_town7_2250_0017_tif_0,ACTOR,
+$ev_town7_2250_0020_tif_0,,¿Qué pasa? Dijiste que querías hablar.
+$ev_town7_2250_0020_tif_0,ACTOR,Tifa
+$ev_town7_2250_0025_cld_0,,
+$ev_town7_2250_0025_cld_0,ACTOR,Cloud
+$ev_town7_2250_0030_cld_0,,Me voy del pueblo en primavera. A Midgar.
+$ev_town7_2250_0030_cld_0,ACTOR,Cloud
+$ev_town7_2250_0035_tif_0,,
+$ev_town7_2250_0035_tif_0,ACTOR,
+$ev_town7_2250_0040_tif_0,,"Todos los chicos se van del pueblo, ¿eh?"
+$ev_town7_2250_0040_tif_0,ACTOR,Tifa
+$ev_town7_2250_0050_cld_0,,Yo no soy como los demás. No voy solo a buscar trabajo.
+$ev_town7_2250_0050_cld_0,ACTOR,Cloud
+$ev_town7_2250_0050_cld_1,,Quiero ser SOLDIER.
+$ev_town7_2250_0050_cld_1,ACTOR,Cloud
+$ev_town7_2250_0050_cld_2,,"Un SOLDIER de primera, como Sefirot."
+$ev_town7_2250_0050_cld_2,ACTOR,Cloud
+$ev_town7_2250_0060_tif_0,,"«El héroe Sefirot», ¿eh?"
+$ev_town7_2250_0060_tif_0,ACTOR,Tifa
+$ev_town7_2250_0060_tif_1,,"Hacerse SOLDIER es difícil, ¿no?"
+$ev_town7_2250_0060_tif_1,ACTOR,Tifa
+$ev_town7_2250_0070_cld_0,,No podré volver al pueblo en una temporada.
+$ev_town7_2250_0070_cld_0,ACTOR,Cloud
+$ev_town7_2250_0080_tif_0,,¿Saldrás en el periódico por tus hazañas?
+$ev_town7_2250_0080_tif_0,ACTOR,Tifa
+$ev_town7_2250_0090_cld_0,,Lo intentaré.
+$ev_town7_2250_0090_cld_0,ACTOR,Cloud
+$ev_town7_2250_0100_tif_0,,"Oye, ¿me prometes una cosa?"
+$ev_town7_2250_0100_tif_0,ACTOR,Tifa
+$ev_town7_2250_0100_tif_1,,Cuando seas famoso y yo esté en apuros...
+$ev_town7_2250_0100_tif_1,ACTOR,Tifa
+$ev_town7_2250_0100_tif_2,,"Cloud, ven a ayudarme."
+$ev_town7_2250_0100_tif_2,ACTOR,Tifa
+$ev_town7_2250_0110_cld_0,,
+$ev_town7_2250_0110_cld_0,ACTOR,Cloud
+$ev_town7_2250_0120_tif_0,,"En los apuros, un héroe viene al rescate."
+$ev_town7_2250_0120_tif_0,ACTOR,Tifa
+$ev_town7_2250_0120_tif_1,,¿No quieres vivirlo al menos una vez?
+$ev_town7_2250_0120_tif_1,ACTOR,Tifa
+$ev_town7_2250_0130_cld_0,,
+$ev_town7_2250_0130_cld_0,ACTOR,Cloud
+$ev_town7_2250_0140_tif_0,,¡Prométemelo!
+$ev_town7_2250_0140_tif_0,ACTOR,Tifa
+$ev_town7_2250_0145_cld_0,,
+$ev_town7_2250_0145_cld_0,ACTOR,
+$ev_town7_2250_0150_cld_0,,Vale. Te lo prometo.
+$ev_town7_2250_0150_cld_0,ACTOR,Cloud
+$ev_town7_2250_0160_tif_0,,
+$ev_town7_2250_0160_tif_0,ACTOR,
+$ev_town7_2260_0010_cld_0,,
+$ev_town7_2260_0010_cld_0,ACTOR,Cloud
+$ev_town7_2270_0060_cld_0,,Parece que no te convence el plan.
+$ev_town7_2270_0060_cld_0,ACTOR,Cloud
+$ev_town7_2270_0070_tif_0,,Sé que haciendo lo mismo de siempre no cambiaremos nada.
+$ev_town7_2270_0070_tif_0,ACTOR,Tifa
+$ev_town7_2270_0080_tif_0,,Pero...
+$ev_town7_2270_0080_tif_0,ACTOR,Tifa
+$ev_town7_2270_0090_tif_0,,Estoy en un aprieto.
+$ev_town7_2270_0090_tif_0,ACTOR,Tifa
+$ev_town7_2275_0010_cld_0,,
+$ev_town7_2275_0010_cld_0,ACTOR,
+$ev_town7_2300_0005_kb03_0,,
+$ev_town7_2300_0005_kb03_0,ACTOR,
+$ev_town7_2300_0010_kb01_0,,No hay ningún intruso.
+$ev_town7_2300_0010_kb01_0,ACTOR,Centinela
+$ev_town7_2300_0020_kb02_0,,¿Se habrán escondido?
+$ev_town7_2300_0020_kb02_0,ACTOR,Centinela
+$ev_town7_2300_0030_kb01_0,,"¡Eh, allí!"
+$ev_town7_2300_0030_kb01_0,ACTOR,Centinela
+$ev_town7_2300_0032_kb02_0,,
+$ev_town7_2300_0032_kb02_0,ACTOR,
+$ev_town7_2300_0034_kb03_0,,
+$ev_town7_2300_0034_kb03_0,ACTOR,
+$ev_town7_2300_0040_kb01_0,,¡Intruso a la vista!
+$ev_town7_2300_0040_kb01_0,ACTOR,Centinela
+$ev_town7_2300_0042_kb02_0,,
+$ev_town7_2300_0042_kb02_0,ACTOR,
+$ev_town7_2300_0044_kb03_0,,
+$ev_town7_2300_0044_kb03_0,ACTOR,
+$ev_town7_2300_0050_kb02_0,,¡Disparad!
+$ev_town7_2300_0050_kb02_0,ACTOR,Centinela
+$ev_town7_2300_0052_kb03_0,,
+$ev_town7_2300_0052_kb03_0,ACTOR,
+$ev_town7_2300_0055_cld_0,,
+$ev_town7_2300_0055_cld_0,ACTOR,
+$ev_town7_2300_0056_cld_0,,
+$ev_town7_2300_0056_cld_0,ACTOR,
+$ev_town7_2300_0057_kb02_0,,
+$ev_town7_2300_0057_kb02_0,ACTOR,
+$ev_town7_2300_0058_kb03_0,,
+$ev_town7_2300_0058_kb03_0,ACTOR,
+$ev_town7_2300_0060_kb03_0,,
+$ev_town7_2300_0060_kb03_0,ACTOR,
+$ev_town7_2300_0070_kb02_0,,
+$ev_town7_2300_0070_kb02_0,ACTOR,
+$ev_town7_2300_0072_kb04_0,,
+$ev_town7_2300_0072_kb04_0,ACTOR,
+$ev_town7_2300_0075_cld_0,,
+$ev_town7_2300_0075_cld_0,ACTOR,
+$ev_town7_2300_0080_kb01_0,,
+$ev_town7_2300_0080_kb01_0,ACTOR,
+$ev_town7_2300_0082_kb02_0,,
+$ev_town7_2300_0082_kb02_0,ACTOR,
+$ev_town7_2300_0084_kb04_0,,
+$ev_town7_2300_0084_kb04_0,ACTOR,
+$ev_town7_2300_0090_cld_0,,¿Ya está?
+$ev_town7_2300_0090_cld_0,ACTOR,Cloud
+$ev_town7_2300_0100_kb02_0,,¡Eliminadlo!
+$ev_town7_2300_0100_kb02_0,ACTOR,Centinela
+$ev_town7_2330_0000_cld_0,,
+$ev_town7_2330_0000_cld_0,ACTOR,
+$ev_town7_2330_0010_big_0,,¿También tienen de eso?
+$ev_town7_2330_0010_big_0,ACTOR,Biggs
+$ev_town7_2330_0015_cld_0,,
+$ev_town7_2330_0015_cld_0,ACTOR,
+$ev_town7_2330_0016_cld_0,,
+$ev_town7_2330_0016_cld_0,ACTOR,
+$ev_town7_2330_0020_big_0,,
+$ev_town7_2330_0020_big_0,ACTOR,
+$ev_town7_2330_0020_big_1,,Aguanta un poco.
+$ev_town7_2330_0020_big_1,ACTOR,Biggs
+$ev_town7_2330_0030_en30_0,,¡Ríndete!
+$ev_town7_2330_0030_en30_0,ACTOR,Centinela de élite
+$ev_town7_2330_0035_kb01_0,,
+$ev_town7_2330_0035_kb01_0,ACTOR,
+$ev_town7_2330_0040_cld_0,,
+$ev_town7_2330_0040_cld_0,ACTOR,
+$ev_town7_2330_0042_en30_0,,
+$ev_town7_2330_0042_en30_0,ACTOR,
+$ev_town7_2330_0044_kb01_0,,
+$ev_town7_2330_0044_kb01_0,ACTOR,
+$ev_town7_2360_0010_cld_0,,
+$ev_town7_2360_0010_cld_0,ACTOR,
+$ev_town7_2360_0011_cld_0,,
+$ev_town7_2360_0011_cld_0,ACTOR,
+$ev_town7_2360_0012_cld_0,,
+$ev_town7_2360_0012_cld_0,ACTOR,
+$ev_town7_2360_0013_cld_0,,
+$ev_town7_2360_0013_cld_0,ACTOR,
+$ev_town7_2360_0014_cld_0,,
+$ev_town7_2360_0014_cld_0,ACTOR,
+$ev_town7_2360_0020_wed_0,,¡Ahora me toca a mí!
+$ev_town7_2360_0020_wed_0,ACTOR,Wedge
+$ev_town7_2360_0030_wed_0,,
+$ev_town7_2360_0030_wed_0,ACTOR,
+$ev_town7_2360_0030_wed_1,,¡Por aquí!
+$ev_town7_2360_0030_wed_1,ACTOR,Wedge
+$ev_town7_2360_0040_wed_0,,
+$ev_town7_2360_0040_wed_0,ACTOR,
+$ev_town7_2360_0050_cld_0,,
+$ev_town7_2360_0050_cld_0,ACTOR,
+$ev_town7_2370_0010_wed_0,,
+$ev_town7_2370_0010_wed_0,ACTOR,
+$ev_town7_2370_0010_wed_1,,Seguro que he adelgazado...
+$ev_town7_2370_0010_wed_1,ACTOR,Wedge
+$ev_town7_2370_0020_big_0,,
+$ev_town7_2370_0020_big_0,ACTOR,
+$ev_town7_2370_0020_big_1,,"¡Qué grande, tío! ¡Les has gustado mucho!"
+$ev_town7_2370_0020_big_1,ACTOR,Biggs
+$ev_town7_2370_0030_wed_0,,Soy un rompecorazones.
+$ev_town7_2370_0030_wed_0,ACTOR,Wedge
+$ev_town7_2370_0040_cld_0,,
+$ev_town7_2370_0040_cld_0,ACTOR,
+$ev_town7_2370_0045_wed_0,,
+$ev_town7_2370_0045_wed_0,ACTOR,
+$ev_town7_2370_0050_big_0,,"Vaya, un almacén de armas."
+$ev_town7_2370_0050_big_0,ACTOR,Biggs
+$ev_town7_2370_0060_cld_0,,¿Podéis?
+$ev_town7_2370_0060_cld_0,ACTOR,Cloud
+$ev_town7_2370_0070_big_0,,¡Claro!
+$ev_town7_2370_0070_big_0,ACTOR,Biggs
+$ev_town7_2370_0080_wed_0,,¡Deja que nosotros!
+$ev_town7_2370_0080_wed_0,ACTOR,Wedge
+$ev_town7_2370_0090_wed_0,,Mira lo que he encontrado. ¡Esto va a hacer boom!
+$ev_town7_2370_0090_wed_0,ACTOR,Wedge
+$ev_town7_2370_0100_cld_0,,
+$ev_town7_2370_0100_cld_0,ACTOR,
+$ev_town7_2380_0000_cld_0,,
+$ev_town7_2380_0000_cld_0,ACTOR,
+$ev_town7_2380_0001_cld_0,,
+$ev_town7_2380_0001_cld_0,ACTOR,
+$ev_town7_2380_0002_cld_0,,
+$ev_town7_2380_0002_cld_0,ACTOR,
+$ev_town7_2380_0003_cld_0,,
+$ev_town7_2380_0003_cld_0,ACTOR,
+$ev_town7_2380_0004_cld_0,,
+$ev_town7_2380_0004_cld_0,ACTOR,
+$ev_town7_2380_0005_big_0,,
+$ev_town7_2380_0005_big_0,ACTOR,
+$ev_town7_2380_0006_wed_0,,
+$ev_town7_2380_0006_wed_0,ACTOR,
+$ev_town7_2380_0010_cld_0,,¡Retirada!
+$ev_town7_2380_0010_cld_0,ACTOR,Cloud
+$ev_town7_2380_0011_big_0,,
+$ev_town7_2380_0011_big_0,ACTOR,Biggs
+$ev_town7_2380_0015_big_0,,
+$ev_town7_2380_0015_big_0,ACTOR,
+$ev_town7_2380_0016_wed_0,,
+$ev_town7_2380_0016_wed_0,ACTOR,
+$ev_town7_2380_0020_cld_0,,
+$ev_town7_2380_0020_cld_0,ACTOR,
+$ev_town7_2380_0023_cld_0,,
+$ev_town7_2380_0023_cld_0,ACTOR,
+$ev_town7_2380_0024_cld_0,,
+$ev_town7_2380_0024_cld_0,ACTOR,
+$ev_town7_2380_0025_big_0,,
+$ev_town7_2380_0025_big_0,ACTOR,
+$ev_town7_2380_0030_wed_0,,
+$ev_town7_2380_0030_wed_0,ACTOR,
+$ev_town7_2380_0030_wed_1,,"Cloud, ¡ahora!"
+$ev_town7_2380_0030_wed_1,ACTOR,Wedge
+$ev_town7_2380_0040_cld_0,,¡Wedge!
+$ev_town7_2380_0040_cld_0,ACTOR,Cloud
+$ev_town7_2380_0051_cld_0,,
+$ev_town7_2380_0051_cld_0,ACTOR,
+$ev_town7_2380_0052_big_0,,
+$ev_town7_2380_0052_big_0,ACTOR,
+$ev_town7_2380_0053_big_0,,
+$ev_town7_2380_0053_big_0,ACTOR,
+$ev_town7_2380_0054_wed_0,,
+$ev_town7_2380_0054_wed_0,ACTOR,
+$ev_town7_2380_0055_big_0,,
+$ev_town7_2380_0055_big_0,ACTOR,
+$ev_town7_2380_0056_cld_0,,
+$ev_town7_2380_0056_cld_0,ACTOR,
+$ev_town7_2380_0057_wed_0,,
+$ev_town7_2380_0057_wed_0,ACTOR,
+$ev_town7_2380_0058_ev1_0,,
+$ev_town7_2380_0058_ev1_0,ACTOR,
+$ev_town7_2380_0059_av99_0,,Bajad las armas. No somos enemigos.
+$ev_town7_2380_0059_av99_0,ACTOR,Agente secreto
+$ev_town7_2380_0070_av01_0,,¿Qué hace la facción disidente?
+$ev_town7_2380_0070_av01_0,ACTOR,Agente secreto
+$ev_town7_2380_0080_wed_0,,Eso mismo digo.
+$ev_town7_2380_0080_wed_0,ACTOR,Wedge
+$ev_town7_2380_0083_cld_0,,
+$ev_town7_2380_0083_cld_0,ACTOR,
+$ev_town7_2380_0084_big_0,,¡Venid!
+$ev_town7_2380_0084_big_0,ACTOR,Biggs
+$ev_town7_2380_0085_cld_0,,
+$ev_town7_2380_0085_cld_0,ACTOR,
+$ev_town7_2380_0086_wed_0,,
+$ev_town7_2380_0086_wed_0,ACTOR,
+$ev_town7_2380_0087_av01_0,,
+$ev_town7_2380_0087_av01_0,ACTOR,
+$ev_town7_2380_0090_big_0,,
+$ev_town7_2380_0090_big_0,ACTOR,
+$ev_town7_2380_0090_big_1,,"Ahora mismo, que te encuentren sería más problemático."
+$ev_town7_2380_0090_big_1,ACTOR,Biggs
+$ev_town7_2380_0090_big_2,,Wedge no corre peligro.
+$ev_town7_2380_0090_big_2,ACTOR,Biggs
+$ev_town7_2380_0100_cld_0,,¿Quiénes son?
+$ev_town7_2380_0100_cld_0,ACTOR,Cloud
+$ev_town7_2380_0110_big_0,,"«Los que se nos adelantaron»... También son Avalancha, en teoría."
+$ev_town7_2380_0110_big_0,ACTOR,Biggs
+$ev_town7_2380_0115_ev1_0,,
+$ev_town7_2380_0115_ev1_0,ACTOR,
+$ev_town7_2380_0120_big_0,,"Los tradicionales, por así decirlo. La corriente principal."
+$ev_town7_2380_0120_big_0,ACTOR,Biggs
+$ev_town7_2380_0120_big_1,,"Para nosotros ahora son un estorbo, un grano en el culo."
+$ev_town7_2380_0120_big_1,ACTOR,Biggs
+$ev_town7_2380_0120_big_2,,Perdón.
+$ev_town7_2380_0120_big_2,ACTOR,Biggs
+$ev_town7_2380_0130_cld_0,,
+$ev_town7_2380_0130_cld_0,ACTOR,
+$ev_town7_2380_0130_cld_1,,¿Qué hacéis aquí?
+$ev_town7_2380_0130_cld_1,ACTOR,Cloud
+$ev_town7_2380_0135_ev1_0,,
+$ev_town7_2380_0135_ev1_0,ACTOR,
+$ev_town7_2380_0150_big_0,,Ni idea. Nos trataron de radicales y nos expulsaron.
+$ev_town7_2380_0150_big_0,ACTOR,Biggs
+$ev_town7_2380_0150_big_1,,"Dicen que, nada menos, se han aliado con Wutai."
+$ev_town7_2380_0150_big_1,ACTOR,Biggs
+$ev_town7_2380_0150_big_2,,¿Y qué sentido tiene eso?
+$ev_town7_2380_0150_big_2,ACTOR,Biggs
+$ev_town7_2380_0150_big_3,,"Ellos también iban bien equipados, ¿no?"
+$ev_town7_2380_0150_big_3,ACTOR,Biggs
+$ev_town7_2380_0150_big_4,,Al parecer pretenden llevarse todas las materias de Midgar.
+$ev_town7_2380_0150_big_4,ACTOR,Biggs
+$ev_town7_2380_0160_cld_0,,Ni idea.
+$ev_town7_2380_0160_cld_0,ACTOR,Cloud
+$ev_town7_2380_0170_big_0,,Puede que seamos los únicos que pensamos que la guerra ha terminado.
+$ev_town7_2380_0170_big_0,ACTOR,Biggs
+$ev_town7_2380_0180_cld_0,,
+$ev_town7_2380_0180_cld_0,ACTOR,
+$ev_town7_2380_0181_big_0,,
+$ev_town7_2380_0181_big_0,ACTOR,
+$ev_town7_2380_0190_big_0,,"Bien, misión cumplida."
+$ev_town7_2380_0190_big_0,ACTOR,Biggs
+$ev_town7_2380_0200_big_0,,Volvamos al descampado.
+$ev_town7_2380_0200_big_0,ACTOR,Biggs
+$ev_town7_2380_0210_cld_0,,Sí.
+$ev_town7_2380_0210_cld_0,ACTOR,Cloud
+$ev_town7_2400_0000_jec_0,,"¡Buen trabajo! Por aquí, por aquí."
+$ev_town7_2400_0000_jec_0,ACTOR,Jessie
+$ev_town7_2400_0001_jec_0,,
+$ev_town7_2400_0001_jec_0,ACTOR,
+$ev_town7_2400_0002_cld_0,,
+$ev_town7_2400_0002_cld_0,ACTOR,
+$ev_town7_2400_0003_big_0,,
+$ev_town7_2400_0003_big_0,ACTOR,
+$ev_town7_2400_0004_cp06_0,,
+$ev_town7_2400_0004_cp06_0,ACTOR,Centinela de élite
+$ev_town7_2400_0005_ev1_0,,
+$ev_town7_2400_0005_ev1_0,ACTOR,Centinelas
+$ev_town7_2400_0006_ev1_0,,
+$ev_town7_2400_0006_ev1_0,ACTOR,
+$ev_town7_2400_0008_cld_0,,
+$ev_town7_2400_0008_cld_0,ACTOR,
+$ev_town7_2400_0009_jec_0,,
+$ev_town7_2400_0009_jec_0,ACTOR,
+$ev_town7_2400_0010_jec_0,,"¿No os habéis pasado un poco? Bueno, gracias a eso yo estoy bien..."
+$ev_town7_2400_0010_jec_0,ACTOR,Jessie
+$ev_town7_2400_0010_jec_1,,"Eh, ¿y Wedge?"
+$ev_town7_2400_0010_jec_1,ACTOR,Jessie
+$ev_town7_2400_0011_big_0,,
+$ev_town7_2400_0011_big_0,ACTOR,
+$ev_town7_2400_0012_wed_0,,
+$ev_town7_2400_0012_wed_0,ACTOR,
+$ev_town7_2400_0013_jec_0,,
+$ev_town7_2400_0013_jec_0,ACTOR,
+$ev_town7_2400_0014_cld_0,,
+$ev_town7_2400_0014_cld_0,ACTOR,
+$ev_town7_2400_0015_big_0,,
+$ev_town7_2400_0015_big_0,ACTOR,
+$ev_town7_2400_0020_jec_0,,¡Wedge!
+$ev_town7_2400_0020_jec_0,ACTOR,Jessie
+$ev_town7_2400_0030_jec_0,,
+$ev_town7_2400_0030_jec_0,ACTOR,
+$ev_town7_2400_0030_jec_1,,¡Ah... cuidado!
+$ev_town7_2400_0030_jec_1,ACTOR,Jessie
+$ev_town7_2400_0040_cld_0,,Vamos nosotros.
+$ev_town7_2400_0040_cld_0,ACTOR,Cloud
+$ev_town7_2400_0041_big_0,,
+$ev_town7_2400_0041_big_0,ACTOR,
+$ev_town7_2400_0042_jec_0,,
+$ev_town7_2400_0042_jec_0,ACTOR,
+$ev_town7_2400_0043_big_0,,"Eh, Wedge. ¿Estás bien?"
+$ev_town7_2400_0043_big_0,ACTOR,Biggs
+$ev_town7_2400_0044_wed_0,,
+$ev_town7_2400_0044_wed_0,ACTOR,
+$ev_town7_2400_0045_cld_0,,
+$ev_town7_2400_0045_cld_0,ACTOR,
+$ev_town7_2400_0046_big_0,,
+$ev_town7_2400_0046_big_0,ACTOR,
+$ev_town7_2400_0047_big_0,,
+$ev_town7_2400_0047_big_0,ACTOR,Biggs
+$ev_town7_2400_0048_cld_0,,
+$ev_town7_2400_0048_cld_0,ACTOR,
+$ev_town7_2400_0049_jec_0,,
+$ev_town7_2400_0049_jec_0,ACTOR,
+$ev_town7_2400_0050_wed_0,,Qué vergüenza.
+$ev_town7_2400_0050_wed_0,ACTOR,Wedge
+$ev_town7_2400_0060_big_0,,
+$ev_town7_2400_0060_big_0,ACTOR,
+$ev_town7_2400_0060_big_1,,¿Te han disparado?
+$ev_town7_2400_0060_big_1,ACTOR,Biggs
+$ev_town7_2400_0070_wed_0,,"Una bala perdida, creo."
+$ev_town7_2400_0070_wed_0,ACTOR,Wedge
+$ev_town7_2400_0070_wed_1,,¡Duele!
+$ev_town7_2400_0070_wed_1,ACTOR,Wedge
+$ev_town7_2400_0070_wed_2,,
+$ev_town7_2400_0070_wed_2,ACTOR,
+$ev_town7_2400_0075_big_0,,A ver...
+$ev_town7_2400_0075_big_0,ACTOR,Biggs
+$ev_town7_2400_0076_wed_0,,
+$ev_town7_2400_0076_wed_0,ACTOR,
+$ev_town7_2400_0080_jec_0,,"Oye, ¿qué haces?"
+$ev_town7_2400_0080_jec_0,ACTOR,Jessie
+$ev_town7_2400_0080_jec_1,,"Uf, menudo bulto."
+$ev_town7_2400_0080_jec_1,ACTOR,Jessie
+$ev_town7_2400_0090_wed_0,,Qué humillación.
+$ev_town7_2400_0090_wed_0,ACTOR,Wedge
+$ev_town7_2400_0099_jec_0,,
+$ev_town7_2400_0099_jec_0,ACTOR,
+$ev_town7_2400_0100_jec_0,,"No te ha dado, esto."
+$ev_town7_2400_0100_jec_0,ACTOR,Jessie
+$ev_town7_2400_0100_jec_1,,Es una quemadura. ¡Y leve!
+$ev_town7_2400_0100_jec_1,ACTOR,Jessie
+$ev_town7_2400_0100_jec_2,,La bala pasó cerca y te quemó los calzoncillos.
+$ev_town7_2400_0100_jec_2,ACTOR,Jessie
+$ev_town7_2400_0101_wed_0,,
+$ev_town7_2400_0101_wed_0,ACTOR,
+$ev_town7_2400_0109_wed_0,,
+$ev_town7_2400_0109_wed_0,ACTOR,
+$ev_town7_2400_0110_wed_0,,Tengo hambre.
+$ev_town7_2400_0110_wed_0,ACTOR,Wedge
+$ev_town7_2400_0115_big_0,,
+$ev_town7_2400_0115_big_0,ACTOR,
+$ev_town7_2400_0120_cld_0,,
+$ev_town7_2400_0120_cld_0,ACTOR,
+$ev_town7_2400_0130_jec_0,,¡Buena cara!
+$ev_town7_2400_0130_jec_0,ACTOR,Jessie
+$ev_town7_2400_0135_big_0,,
+$ev_town7_2400_0135_big_0,ACTOR,
+$ev_town7_2400_0136_cld_0,,
+$ev_town7_2400_0136_cld_0,ACTOR,
+$ev_town7_2400_0140_jec_0,,
+$ev_town7_2400_0140_jec_0,ACTOR,
+$ev_town7_2400_0145_cld_0,,
+$ev_town7_2400_0145_cld_0,ACTOR,
+$ev_town7_2400_0150_cld_0,,"Vamos. Volvemos, ¿no?"
+$ev_town7_2400_0150_cld_0,ACTOR,Cloud
+$ev_town7_2400_0155_ev1_0,,
+$ev_town7_2400_0155_ev1_0,ACTOR,
+$ev_town7_2400_0160_ev1_0,,¡Claro!
+$ev_town7_2400_0160_ev1_0,ACTOR,"Biggs, Jessie y Wedge"
+$ev_town7_2410_0010_jec_0,,Deberían estar por aquí.
+$ev_town7_2410_0010_jec_0,ACTOR,Jessie
+$ev_town7_2410_0010_jec_1,,¡Aquí están!
+$ev_town7_2410_0010_jec_1,ACTOR,Jessie
+$ev_town7_2410_0015_wed_0,,
+$ev_town7_2410_0015_wed_0,ACTOR,
+$ev_town7_2410_0020_jec_0,,"Cuando me lo contó papá, no me lo creía. ¡Qué suerte que estén!"
+$ev_town7_2410_0020_jec_0,ACTOR,Jessie
+$ev_town7_2410_0030_big_0,,¿Paracaídas?
+$ev_town7_2410_0030_big_0,ACTOR,Biggs
+$ev_town7_2410_0035_jec_0,,
+$ev_town7_2410_0035_jec_0,ACTOR,
+$ev_town7_2410_0040_wed_0,,¿Apostaste a que era mentira?
+$ev_town7_2410_0040_wed_0,ACTOR,Wedge
+$ev_town7_2410_0050_jec_0,,"Con un cincuenta por ciento, uno apuesta. Es lo normal."
+$ev_town7_2410_0050_jec_0,ACTOR,Jessie
+$ev_town7_2410_0055_cld_0,,
+$ev_town7_2410_0055_cld_0,ACTOR,
+$ev_town7_2410_0060_jec_0,,¡Qué ganas!
+$ev_town7_2410_0060_jec_0,ACTOR,Jessie
+$ev_town7_2410_0070_big_0,,
+$ev_town7_2410_0070_big_0,ACTOR,Biggs
+$ev_town7_2410_0080_wed_0,,
+$ev_town7_2410_0080_wed_0,ACTOR,
+$ev_town7_2410_0090_big_0,,
+$ev_town7_2410_0090_big_0,ACTOR,
+$ev_town7_2420_0000_wed_0,,
+$ev_town7_2420_0000_wed_0,ACTOR,
+$ev_town7_2420_0010_jec_0,,Gracias a todos. Gracias por acompañarme.
+$ev_town7_2420_0010_jec_0,ACTOR,Jessie
+$ev_town7_2420_0010_jec_1,,"Y hasta que termine la misión de mañana, no se lo digáis a Barret ni a Tifa."
+$ev_town7_2420_0010_jec_1,ACTOR,Jessie
+$ev_town7_2420_0010_jec_2,,No quiero preocuparles.
+$ev_town7_2420_0010_jec_2,ACTOR,Jessie
+$ev_town7_2420_0015_big_0,,
+$ev_town7_2420_0015_big_0,ACTOR,Biggs
+$ev_town7_2420_0020_big_0,,"¡Bien, a volar!"
+$ev_town7_2420_0020_big_0,ACTOR,Biggs
+$ev_town7_2420_0030_jec_0,,¡Qué emoción!
+$ev_town7_2420_0030_jec_0,ACTOR,Jessie
+$ev_town7_2420_0040_big_0,,"Cloud, lleva a Wedge."
+$ev_town7_2420_0040_big_0,ACTOR,Biggs
+$ev_town7_2420_0050_cld_0,,Sí.
+$ev_town7_2420_0050_cld_0,ACTOR,Cloud
+$ev_town7_2420_0060_jec_0,,¡Ah! Casi se me olvida.
+$ev_town7_2420_0060_jec_0,ACTOR,Jessie
+$ev_town7_2420_0070_big_0,,
+$ev_town7_2420_0070_big_0,ACTOR,
+$ev_town7_2420_0070_big_1,,¡Cuidado! ¿Qué te pasa?
+$ev_town7_2420_0070_big_1,ACTOR,Biggs
+$ev_town7_2420_0075_wed_0,,
+$ev_town7_2420_0075_wed_0,ACTOR,
+$ev_town7_2420_0076_jec_0,,
+$ev_town7_2420_0076_jec_0,ACTOR,
+$ev_town7_2420_0077_cld_0,,
+$ev_town7_2420_0077_cld_0,ACTOR,
+$ev_town7_2420_0080_big_0,,
+$ev_town7_2420_0080_big_0,ACTOR,
+$ev_town7_2420_0090_jec_0,,"Oye, ¿qué haces?"
+$ev_town7_2420_0090_jec_0,ACTOR,Jessie
+$ev_town7_2420_0100_big_0,,Eso digo yo.
+$ev_town7_2420_0100_big_0,ACTOR,Biggs
+$ev_town7_2420_0105_jec_0,,
+$ev_town7_2420_0105_jec_0,ACTOR,
+$ev_town7_2420_0110_jec_0,,"El resto del pago: cuando bajemos, pásate por mi casa."
+$ev_town7_2420_0110_jec_0,ACTOR,Jessie
+$ev_town7_2420_0115_jec_0,,
+$ev_town7_2420_0115_jec_0,ACTOR,
+$ev_town7_2420_0116_cld_0,,
+$ev_town7_2420_0116_cld_0,ACTOR,
+$ev_town7_2420_0117_jec_0,,
+$ev_town7_2420_0117_jec_0,ACTOR,
+$ev_town7_2420_0120_big_0,,¿Eh? ¿Ahora?
+$ev_town7_2420_0120_big_0,ACTOR,Biggs
+$ev_town7_2420_0130_jec_0,,
+$ev_town7_2420_0130_jec_0,ACTOR,
+$ev_town7_2420_0135_big_0,,
+$ev_town7_2420_0135_big_0,ACTOR,
+$ev_town7_2420_0159_cld_0,,
+$ev_town7_2420_0159_cld_0,ACTOR,
+$ev_town7_2420_0160_wed_0,,¡Espera un momentito!
+$ev_town7_2420_0160_wed_0,ACTOR,Wedge
+$ev_town7_2420_0170_cld_0,,No.
+$ev_town7_2420_0170_cld_0,ACTOR,Cloud
+$ev_town7_2420_0180_wed_0,,"Qué duro eres, hermano."
+$ev_town7_2420_0180_wed_0,ACTOR,Wedge
+$ev_town7_2420_0190_cld_0,,¿Quién es tu hermano?
+$ev_town7_2420_0190_cld_0,ACTOR,Cloud
+$ev_town7_2420_0200_wed_0,,
+$ev_town7_2420_0200_wed_0,ACTOR,
+$ev_town7_2430_0000_wed_0,,
+$ev_town7_2430_0000_wed_0,ACTOR,
+$ev_town7_2430_0001_big_0,,
+$ev_town7_2430_0001_big_0,ACTOR,
+$ev_town7_2430_0002_jec_0,,
+$ev_town7_2430_0002_jec_0,ACTOR,
+$ev_town7_2430_0007_cld_0,,
+$ev_town7_2430_0007_cld_0,ACTOR,
+$ev_town7_2430_0010_wed_0,,
+$ev_town7_2430_0010_wed_0,ACTOR,
+$ev_town7_2430_0020_wed_0,,
+$ev_town7_2430_0020_wed_0,ACTOR,
+$ev_town7_2430_0030_wed_0,,
+$ev_town7_2430_0030_wed_0,ACTOR,
+$ev_town7_2430_0030_wed_1,,Quiero ser más útil.
+$ev_town7_2430_0030_wed_1,ACTOR,Wedge
+$ev_town7_2430_0040_cld_0,,Ya es suficiente.
+$ev_town7_2430_0040_cld_0,ACTOR,Cloud
+$ev_town7_2430_0050_wed_0,,Solo he metido la pata.
+$ev_town7_2430_0050_wed_0,ACTOR,Wedge
+$ev_town7_2430_0060_cld_0,,"Las heridas son por los compañeros, ¿no?"
+$ev_town7_2430_0060_cld_0,ACTOR,Cloud
+$ev_town7_2430_0060_cld_1,,Ve con la cabeza bien alta.
+$ev_town7_2430_0060_cld_1,ACTOR,Cloud
+$ev_town7_2430_0070_wed_0,,
+$ev_town7_2430_0070_wed_0,ACTOR,Wedge
+$ev_town7_2430_0080_wed_0,,
+$ev_town7_2430_0080_wed_0,ACTOR,Wedge
+$ev_town7_2430_0090_big_0,,¿No vamos lanzados?
+$ev_town7_2430_0090_big_0,ACTOR,Biggs
+$ev_town7_2430_0100_jec_0,,"Últimamente, sobre todo."
+$ev_town7_2430_0100_jec_0,ACTOR,Jessie
+$ev_town7_2430_0110_big_0,,Es gracias a él.
+$ev_town7_2430_0110_big_0,ACTOR,Biggs
+$ev_town7_2430_0120_jec_0,,Sí. ¡Juntos podemos con todo!
+$ev_town7_2430_0120_jec_0,ACTOR,Jessie
+$ev_town7_8010_0010_wed_0,,¡Victoria de la unidad!
+$ev_town7_8010_0010_wed_0,ACTOR,Wedge
+$ev_town7_8010_0011_big_0,,
+$ev_town7_8010_0011_big_0,ACTOR,
+$ev_town7_8010_0013_cp04_0,,¡Rodeadlos!
+$ev_town7_8010_0013_cp04_0,ACTOR,Centinela
+$ev_town7_8010_0015_wed_0,,
+$ev_town7_8010_0015_wed_0,ACTOR,
+$ev_town7_8010_0016_wed_0,,
+$ev_town7_8010_0016_wed_0,ACTOR,
+$ev_town7_8010_0018_ev1_0,,
+$ev_town7_8010_0018_ev1_0,ACTOR,
+$ev_town7_8010_0020_big_0,,Vaya.
+$ev_town7_8010_0020_big_0,ACTOR,Biggs
+$ev_town7_8010_0023_ev1_0,,
+$ev_town7_8010_0023_ev1_0,ACTOR,
+$ev_town7_8010_0030_cp02_0,,¡Vosotros! ¿Qué pretendéis?
+$ev_town7_8010_0030_cp02_0,ACTOR,Centinela
+$ev_town7_8010_0040_ev1_0,,
+$ev_town7_8010_0040_ev1_0,ACTOR,
+$ev_town7_8010_0042_cp02_0,,
+$ev_town7_8010_0042_cp02_0,ACTOR,
+$ev_town7_8010_0050_rch_0,,
+$ev_town7_8010_0050_rch_0,ACTOR,
+$ev_town7_8010_0053_ev1_0,,
+$ev_town7_8010_0053_ev1_0,ACTOR,
+$ev_town7_8010_0055_wed_0,,
+$ev_town7_8010_0055_wed_0,ACTOR,
+$ev_town7_8010_0060_rch_0,,"¡Vaya montón de jaleo, amigo mío!"
+$ev_town7_8010_0060_rch_0,ACTOR,Roche
+$ev_town7_8010_0080_cp03_0,,
+$ev_town7_8010_0080_cp03_0,ACTOR,
+$ev_town7_8010_0083_ev1_0,,
+$ev_town7_8010_0083_ev1_0,ACTOR,
+$ev_town7_8010_0086_rch_0,,
+$ev_town7_8010_0086_rch_0,ACTOR,
+$ev_town7_8010_0090_rch_0,,"Lo prometimos, ¿no?"
+$ev_town7_8010_0090_rch_0,ACTOR,Roche
+$ev_town7_8010_0090_rch_1,,Que la próxima vez lucharíamos solos nosotros dos.
+$ev_town7_8010_0090_rch_1,ACTOR,Roche
+$ev_town7_8010_0100_rch_0,,Tú has dado la chispa.
+$ev_town7_8010_0100_rch_0,ACTOR,Roche
+$ev_town7_8010_0110_rch_0,,"Mi motor ahora tiembla con fuerza, deseando arrancar."
+$ev_town7_8010_0110_rch_0,ACTOR,Roche
+$ev_town7_8010_0120_cld_0,,Apartaos.
+$ev_town7_8010_0120_cld_0,ACTOR,Cloud
+$ev_town7_8010_0125_wed_0,,
+$ev_town7_8010_0125_wed_0,ACTOR,
+$ev_town7_8010_0130_big_0,,Entendido.
+$ev_town7_8010_0130_big_0,ACTOR,Biggs
+$ev_town7_8010_0133_big_0,,¡Vamos!
+$ev_town7_8010_0133_big_0,ACTOR,Biggs
+$ev_town7_8010_0134_wed_0,,
+$ev_town7_8010_0134_wed_0,ACTOR,
+$ev_town7_8010_0140_rch_0,,¿Cuántos años llevo sin bajarme de la moto?
+$ev_town7_8010_0140_rch_0,ACTOR,Roche
+$ev_town7_8010_0140_rch_1,,Pero mi velocidad...
+$ev_town7_8010_0140_rch_1,ACTOR,Roche
+$ev_town7_8010_0145_rch_0,,
+$ev_town7_8010_0145_rch_0,ACTOR,
+$ev_town7_8010_0150_cld_0,,
+$ev_town7_8010_0150_cld_0,ACTOR,
+$ev_town7_8010_0160_rch_0,,no cambia esté donde esté.
+$ev_town7_8010_0160_rch_0,ACTOR,Roche
+$ev_town7_8020_0001_rch_0,,
+$ev_town7_8020_0001_rch_0,ACTOR,
+$ev_town7_8020_0005_rch_0,,
+$ev_town7_8020_0005_rch_0,ACTOR,
+$ev_town7_8020_0020_rch_0,,¡Vamos a llevarla hasta la zona roja!
+$ev_town7_8020_0020_rch_0,ACTOR,Roche
+$ev_town7_8030_0010_rch_0,,
+$ev_town7_8030_0010_rch_0,ACTOR,
+$ev_town7_8030_0020_cld_0,,
+$ev_town7_8030_0020_cld_0,ACTOR,
+$ev_town7_8030_0020_cld_1,,¿Estás satisfecho?
+$ev_town7_8030_0020_cld_1,ACTOR,Cloud
+$ev_town7_8030_0030_rch_0,,
+$ev_town7_8030_0030_rch_0,ACTOR,
+$ev_town7_8030_0030_rch_1,,El tiempo agradable pasa volando.
+$ev_town7_8030_0030_rch_1,ACTOR,Roche
+$ev_town7_8030_0035_rch_0,,
+$ev_town7_8030_0035_rch_0,ACTOR,
+$ev_town7_8030_0040_rch_0,,
+$ev_town7_8030_0040_rch_0,ACTOR,
+$ev_town7_8030_0040_rch_1,,Todavía parece que puedo aspirar más alto.
+$ev_town7_8030_0040_rch_1,ACTOR,Roche
+$ev_town7_8030_0042_cld_0,,
+$ev_town7_8030_0042_cld_0,ACTOR,
+$ev_town7_8030_0043_cld_0,,
+$ev_town7_8030_0043_cld_0,ACTOR,
+$ev_town7_8030_0044_big_0,,
+$ev_town7_8030_0044_big_0,ACTOR,
+$ev_town7_8030_0045_wed_0,,
+$ev_town7_8030_0045_wed_0,ACTOR,
+$ev_town7_8030_0045_wed_1,,
+$ev_town7_8030_0045_wed_1,ACTOR,
+$ev_town7_8030_0046_cld_0,,
+$ev_town7_8030_0046_cld_0,ACTOR,
+$ev_town7_8030_0047_big_0,,
+$ev_town7_8030_0047_big_0,ACTOR,
+$ev_town7_8030_0048_wed_0,,
+$ev_town7_8030_0048_wed_0,ACTOR,
+$ev_town7_8030_0050_cp02_0,,¡Salid todos!
+$ev_town7_8030_0050_cp02_0,ACTOR,Centinela
+$ev_town7_8030_0050_cp02_1,,Es capaz de derrotar a un SOLDIER. ¡Atacad con todas vuestras fuerzas!
+$ev_town7_8030_0050_cp02_1,ACTOR,Centinela
+$ev_town7_8030_0060_cld_0,,
+$ev_town7_8030_0060_cld_0,ACTOR,
+$ev_town7_8030_0062_rch_0,,
+$ev_town7_8030_0062_rch_0,ACTOR,
+$ev_town7_8030_0065_cld_0,,
+$ev_town7_8030_0065_cld_0,ACTOR,
+$ev_town7_8030_0067_wed_0,,
+$ev_town7_8030_0067_wed_0,ACTOR,
+$ev_town7_8030_0070_cld_0,,
+$ev_town7_8030_0070_cld_0,ACTOR,
+$ev_town7_8030_0088_rch_0,,
+$ev_town7_8030_0088_rch_0,ACTOR,
+$ev_town7_8030_0090_rch_0,,Volveremos a encontrarnos.
+$ev_town7_8030_0090_rch_0,ACTOR,Roche
+$ev_town7_8030_0090_rch_1,,"Hasta entonces, sigue vivo."
+$ev_town7_8030_0090_rch_1,ACTOR,Roche
+$ev_town7_8030_0090_rch_2,,¡Amigo mío!
+$ev_town7_8030_0090_rch_2,ACTOR,Roche
+$ev_town7_8030_0095_cld_0,,
+$ev_town7_8030_0095_cld_0,ACTOR,
+$ev_town7_8030_0100_rch_0,,"¡Ja, ja, ja, ja, ja!"
+$ev_town7_8030_0100_rch_0,ACTOR,
+$ev_town7_8030_0103_big_0,,
+$ev_town7_8030_0103_big_0,ACTOR,
+$ev_town7_8030_0104_wed_0,,
+$ev_town7_8030_0104_wed_0,ACTOR,
+$ev_town7_8030_0105_cld_0,,
+$ev_town7_8030_0105_cld_0,ACTOR,
+$ev_town7_8030_0106_big_0,,
+$ev_town7_8030_0106_big_0,ACTOR,
+$ev_town7_8030_0107_cld_0,,
+$ev_town7_8030_0107_cld_0,ACTOR,
+$ev_town7_8030_0108_wed_0,,
+$ev_town7_8030_0108_wed_0,ACTOR,
+$ev_town7_8030_0110_cld_0,,Esto pinta mal.
+$ev_town7_8030_0110_cld_0,ACTOR,Cloud
+$level_town7_sys_putback,,Dejarlo donde estaba.
+$level_town7_sys_putback,ACTOR,
+$level_town7_sys_read,,Leer la carta.
+$level_town7_sys_read,ACTOR,
+$level_town7_sys_trainingreward,,Has obtenido una recompensa de entrenamiento.
+$level_town7_sys_trainingreward,ACTOR,
+$lv_town7_2340_0040_big_0,,¡Toma ya!
+$lv_town7_2340_0040_big_0,ACTOR,Biggs
+$lv_town7_2340_0050_big_0,,Listo.
+$lv_town7_2340_0050_big_0,ACTOR,Biggs
+$pv_town7_0062_0010_wed_0,,Ven aquí...
+$pv_town7_0062_0010_wed_0,ACTOR,Wedge
+$pv_town7_0063_0010_wed_0,,Se ha ido. Qué difícil es.
+$pv_town7_0063_0010_wed_0,ACTOR,Wedge
+$pv_town7_0064_0010_big_0,,Seguro que cobra varias veces más que yo.
+$pv_town7_0064_0010_big_0,ACTOR,Biggs
+$pv_town7_0070_0010_jec_0,,"Mira, siempre deja la luz encendida para su hija, que casi nunca vuelve."
+$pv_town7_0070_0010_jec_0,ACTOR,Jessie
+$pv_town7_0070_0011_jec_0,,Mamá es una midgalesa típica.
+$pv_town7_0070_0011_jec_0,ACTOR,Jessie
+$pv_town7_0070_0020_wed_0,,¿Habrá pizza? La especial de Midgar.
+$pv_town7_0070_0020_wed_0,ACTOR,Wedge
+$pv_town7_0070_0030_big_0,,La madre de Jessie.
+$pv_town7_0070_0030_big_0,ACTOR,Biggs
+$pv_town7_0070_0031_big_0,,"A cualquier hora de la noche que vayas, te cocina algo buenísimo."
+$pv_town7_0070_0031_big_0,ACTOR,Biggs
+$pv_town7_0070_0040_jec_0,,Le encanta la gente que come bien y las visitas.
+$pv_town7_0070_0040_jec_0,ACTOR,Jessie
+$pv_town7_0071_0020_jec_0,,"Bueno, vamos. Cloud, lo de siempre, por favor."
+$pv_town7_0071_0020_jec_0,ACTOR,Jessie
+$pv_town7_0071_0030_jec_0,,"De momento, espera detrás de la casa."
+$pv_town7_0071_0030_jec_0,ACTOR,Jessie
+$pv_town7_0071_0040_cld_0,,"Ah, vale."
+$pv_town7_0071_0040_cld_0,ACTOR,Cloud
+$pv_town7_0071_0050_wed_0,,Me hubiera gustado que Cloud probara la especial de Midgar.
+$pv_town7_0071_0050_wed_0,ACTOR,Wedge
+$pv_town7_0105_0010_cld_0,,Tengo que buscar el carné.
+$pv_town7_0105_0010_cld_0,ACTOR,Cloud
+$pv_town7_0105_0020_cld_0,,Aún no he terminado el trabajo.
+$pv_town7_0105_0020_cld_0,ACTOR,Cloud
+$pv_town7_0105_0030_cld_0,,Acabemos rápido.
+$pv_town7_0105_0030_cld_0,ACTOR,Cloud
+$pv_town7_0110_0001_jec_0,,Mi padre era el encargado del mantenimiento del reactor.
+$pv_town7_0110_0001_jec_0,ACTOR,Jessie
+$pv_town7_0110_0010_cld_0,,
+$pv_town7_0110_0010_cld_0,ACTOR,
+$pv_town7_0110_0015_cld_0,,Me lo llevo.
+$pv_town7_0110_0015_cld_0,ACTOR,Cloud
+$pv_town7_0120_0010_cld_0,,¿Una carta...?
+$pv_town7_0120_0010_cld_0,ACTOR,Cloud
+$pv_town7_0120_0015_cld_0,,¿Leer la carta?
+$pv_town7_0120_0015_cld_0,ACTOR,Cloud
+$pv_town7_0120_0110_jec_0,,"<i>Papá, mamá: siento no haber dado señales de vida hasta ahora.</i>"
+$pv_town7_0120_0110_jec_0,ACTOR,Jessie
+$pv_town7_0120_0120_jec_0,,<i>Ahora estoy en Gold Saucer. Por fin he cumplido mi sueño de ser actriz.</i>
+$pv_town7_0120_0120_jec_0,ACTOR,Jessie
+$pv_town7_0120_0130_jec_0,,"<i>Sé que os he causado muchos problemas, pero...</i>"
+$pv_town7_0120_0130_jec_0,ACTOR,Jessie
+$pv_town7_0120_0131_jec_0,,<i>Por fin puedo invitaros con la cabeza bien alta.</i>
+$pv_town7_0120_0131_jec_0,ACTOR,Jessie
+$pv_town7_0120_0140_cld_0,,Protagonizada por Jessie... ¿protagonizada?
+$pv_town7_0120_0140_cld_0,ACTOR,Cloud
+$pv_town7_0120_0200_cld_0,,Mejor lo dejo.
+$pv_town7_0120_0200_cld_0,ACTOR,Cloud
+$pv_town7_0130_0050_cld_0,,¿Jessie?
+$pv_town7_0130_0050_cld_0,ACTOR,Cloud
+$pv_town7_0132_0010_cld_0,,Aquí no está.
+$pv_town7_0132_0010_cld_0,ACTOR,Cloud
+$pv_town7_0134_0010_cld_0,,Fallo.
+$pv_town7_0134_0010_cld_0,ACTOR,Cloud
+$pv_town7_0136_0010_cld_0,,Ya no necesito nada más.
+$pv_town7_0136_0010_cld_0,ACTOR,Cloud
+$pv_town7_0136_0020_cld_0,,Salgamos rápido.
+$pv_town7_0136_0020_cld_0,ACTOR,Cloud
+$pv_town7_0136_0030_cld_0,,No es momento para esto.
+$pv_town7_0136_0030_cld_0,ACTOR,Cloud
+$pv_town7_0145_0010_cld_0,,Misión cumplida.
+$pv_town7_0145_0010_cld_0,ACTOR,Cloud
+$pv_town7_0170_0010_big_0,,"El padre de Jessie estaba allí, ¿verdad?"
+$pv_town7_0170_0010_big_0,ACTOR,Biggs
+$pv_town7_0170_0020_cld_0,,Sí.
+$pv_town7_0170_0020_cld_0,ACTOR,Cloud
+$pv_town7_0170_0030_big_0,,Tiene intoxicación por mako. Fue cuando Jessie actuaba en Gold Saucer...
+$pv_town7_0170_0030_big_0,ACTOR,Biggs
+$pv_town7_0170_0031_big_0,,¿No te interesa esta historia?
+$pv_town7_0170_0031_big_0,ACTOR,Biggs
+$pv_town7_0170_0040_cld_0,,"No, cuéntamela."
+$pv_town7_0170_0040_cld_0,ACTOR,Cloud
+$pv_town7_0170_0050_big_0,,Jessie siempre quiso ser actriz.
+$pv_town7_0170_0050_big_0,ACTOR,Biggs
+$pv_town7_0170_0051_big_0,,Se esforzó muchísimo y consiguió el papel principal. Sus padres estaban encantados.
+$pv_town7_0170_0051_big_0,ACTOR,Biggs
+$pv_town7_0170_0052_big_0,,Pero justo antes del estreno...
+$pv_town7_0170_0052_big_0,ACTOR,Biggs
+$pv_town7_0170_0060_wed_0,,Su padre se desplomó.
+$pv_town7_0170_0060_wed_0,ACTOR,Wedge
+$pv_town7_0170_0070_big_0,,Fue por exceso de trabajo. Y se desplomó en el peor sitio.
+$pv_town7_0170_0070_big_0,ACTOR,Biggs
+$pv_town7_0170_0071_big_0,,Estuvo más de medio día tirado en un pasillo cerca de un charco de mako.
+$pv_town7_0170_0071_big_0,ACTOR,Biggs
+$pv_town7_0170_0072_big_0,,Por eso está así desde que lo encontraron.
+$pv_town7_0170_0072_big_0,ACTOR,Biggs
+$pv_town7_0170_0080_big_0,,Entonces conoció la astrobiología y a la Avalancha original.
+$pv_town7_0170_0080_big_0,ACTOR,Biggs
+$pv_town7_0170_0081_big_0,,Y así hasta hoy.
+$pv_town7_0170_0081_big_0,ACTOR,Biggs
+$pv_town7_0171_0010_wed_0,,Jessie cree...
+$pv_town7_0171_0010_wed_0,ACTOR,Wedge
+$pv_town7_0171_0011_wed_0,,que la vida de su padre va y viene entre este mundo y el corazón del planeta.
+$pv_town7_0171_0011_wed_0,ACTOR,Wedge
+$pv_town7_0171_0012_wed_0,,Por eso hay que parar los reactores pronto.
+$pv_town7_0171_0012_wed_0,ACTOR,Wedge
+$pv_town7_0171_0020_big_0,,O la vida de su padre se apagará.
+$pv_town7_0171_0020_big_0,ACTOR,Biggs
+$pv_town7_0171_0040_cld_0,,
+$pv_town7_0171_0040_cld_0,ACTOR,
+$pv_town7_0171_0050_big_0,,¿Te ha hecho gracia?
+$pv_town7_0171_0050_big_0,ACTOR,Biggs
+$pv_town7_0171_0060_cld_0,,Eso lo entiendo mucho mejor que lo de la vida del planeta.
+$pv_town7_0171_0060_cld_0,ACTOR,Cloud
+$pv_town7_0171_0070_big_0,,"Ah, por eso."
+$pv_town7_0171_0070_big_0,ACTOR,Biggs
+$pv_town7_0180_0010_big_0,,En el mako fluyen muchos deseos y sentimientos.
+$pv_town7_0180_0010_big_0,ACTOR,Biggs
+$pv_town7_0180_0020_big_0,,Seguro que no es algo que debamos usar a nuestro antojo.
+$pv_town7_0180_0020_big_0,ACTOR,Biggs
+$pv_town7_0180_0030_cld_0,,
+$pv_town7_0180_0030_cld_0,ACTOR,
+$pv_town7_0180_0070_big_0,,"No se lo cuentes a Jessie, ¿eh? Cuando se enfada, no hay quien la pare."
+$pv_town7_0180_0070_big_0,ACTOR,Biggs
+$pv_town7_0180_0080_cld_0,,Eso ya veremos.
+$pv_town7_0180_0080_cld_0,ACTOR,Cloud
+$pv_town7_0180_0090_wed_0,,Puede que nos pegue.
+$pv_town7_0180_0090_wed_0,ACTOR,Wedge
+$pv_town7_0180_0100_cld_0,,No me interesa.
+$pv_town7_0180_0100_cld_0,ACTOR,Cloud
+$pv_town7_0180_0110_big_0,,¡Este!
+$pv_town7_0180_0110_big_0,ACTOR,Biggs
+$pv_town7_0181_0010_big_0,,"Hasta la señal, con cuidado."
+$pv_town7_0181_0010_big_0,ACTOR,Biggs
+$pv_town7_0181_0020_wed_0,,Qué silencio.
+$pv_town7_0181_0020_wed_0,ACTOR,Wedge
+$pv_town7_0210_0010_big_0,,No hay nadie. ¿Qué demonios pasa?
+$pv_town7_0210_0010_big_0,ACTOR,Biggs
+$pv_town7_0210_0020_wed_0,,"La plaza está allí; el almacén, al fondo."
+$pv_town7_0210_0020_wed_0,ACTOR,Wedge
+$pv_town7_0210_0021_wed_0,,Se supone que Jessie entra por detrás.
+$pv_town7_0210_0021_wed_0,ACTOR,Wedge
+$pv_town7_0211_0010_big_0,,"Primero observemos. Mientras, repasemos el plan..."
+$pv_town7_0211_0010_big_0,ACTOR,Biggs
+$pv_town7_0211_0020_cld_0,,Puedo hacerlo yo solo.
+$pv_town7_0211_0020_cld_0,ACTOR,Cloud
+$pv_town7_0211_0030_big_0,,¿Quieres decir que estorbamos? No digas eso.
+$pv_town7_0211_0030_big_0,ACTOR,Biggs
+$pv_town7_0211_0040_wed_0,,Somos compañeros.
+$pv_town7_0211_0040_wed_0,ACTOR,Wedge
+$pv_town7_0211_0050_cld_0,,No voy a cuidar de vosotros.
+$pv_town7_0211_0050_cld_0,ACTOR,Cloud
+$pv_town7_0211_0060_big_0,,"Si tienes que prepararte, hazlo ahora. Avísame cuando acabes."
+$pv_town7_0211_0060_big_0,ACTOR,Biggs
+$pv_town7_0211_0070_wed_0,,"Si te falta algo, hay una máquina expendedora allí."
+$pv_town7_0211_0070_wed_0,ACTOR,Wedge
+$pv_town7_0211_0100_big_0,,"Parece que hay una zona de entrenamiento. Si quieres pelear, pásate."
+$pv_town7_0211_0100_big_0,ACTOR,Biggs
+$pv_town7_0212_0110_big_0,,"Por cierto, creo que tenías una materia de invocación."
+$pv_town7_0212_0110_big_0,ACTOR,Biggs
+$pv_town7_0212_0111_big_0,,Vamos a armar jaleo en pleno territorio enemigo. No está de más ir preparado.
+$pv_town7_0212_0111_big_0,ACTOR,Biggs
+$pv_town7_0212_0115_cld_0,,¿Estás listo?
+$pv_town7_0212_0115_cld_0,ACTOR,Cloud
+$pv_town7_0212_0210_big_0,,"Bueno, ¿estás listo?"
+$pv_town7_0212_0210_big_0,ACTOR,Biggs
+$pv_town7_0212_0215_cld_0,,¿Estás listo?
+$pv_town7_0212_0215_cld_0,ACTOR,Cloud
+$pv_town7_0212_0510_big_0,,Espero no haberme dejado nada.
+$pv_town7_0212_0510_big_0,ACTOR,Biggs
+$pv_town7_0212_0511_big_0,,"Pistola, lista. Munición, lista. El resto del equipo..."
+$pv_town7_0212_0511_big_0,ACTOR,Biggs
+$pv_town7_0212_0520_big_0,,Te entiendo. En estos momentos siempre parece que se te olvida algo.
+$pv_town7_0212_0520_big_0,ACTOR,Biggs
+$pv_town7_0212_0530_big_0,,¿Qué? ¿Todavía no?
+$pv_town7_0212_0530_big_0,ACTOR,Biggs
+$pv_town7_0212_0630_big_0,,"Bien, repasemos las posiciones."
+$pv_town7_0212_0630_big_0,ACTOR,Biggs
+$pv_town7_0280_0010_wed_0,,Es la señal de Jessie.
+$pv_town7_0280_0010_wed_0,ACTOR,Wedge
+$pv_town7_0280_0020_big_0,,¿Habrá podido entrar?
+$pv_town7_0280_0020_big_0,ACTOR,Biggs
+$pv_town7_0280_0030_cld_0,,¡Vamos!
+$pv_town7_0280_0030_cld_0,ACTOR,Cloud
+$pv_town7_0281_0010_big_0,,
+$pv_town7_0281_0010_big_0,ACTOR,Biggs
+$pv_town7_0281_0020_wed_0,,
+$pv_town7_0281_0020_wed_0,ACTOR,Wedge
+$pv_town7_0301_0010_en14_0,,¿Qué haces?
+$pv_town7_0301_0010_en14_0,ACTOR,Centinela
+$pv_town7_0350_0010_wed_0,,Buenas noches.
+$pv_town7_0350_0010_wed_0,ACTOR,Wedge
+$pv_town7_0350_0020_big_0,,"Para ser aficionados, no lo hemos hecho mal."
+$pv_town7_0350_0020_big_0,ACTOR,Biggs
+$pv_town7_9020_0100_sys_0,,¿Iniciar entrenamiento de combate?
+$pv_town7_9020_0100_sys_0,ACTOR,
+$pv_town7_bike0b0000_0010_cld_0,,¿Seguimos a la estación?
+$pv_town7_bike0b0000_0010_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0000_0020_jec_0,,"No, al garaje. Se acabó nuestro paseo en moto."
+$pv_town7_bike0b0000_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0000_0030_big_0,,"Nosotros también estamos, ¿eh?"
+$pv_town7_bike0b0000_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b0000_0040_jec_0,,No oigo nada.
+$pv_town7_bike0b0000_0040_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0000_0050_big_0,,¡Sí que me oyes!
+$pv_town7_bike0b0000_0050_big_0,ACTOR,Biggs
+$pv_town7_bike0b0010_0010_big_0,,¡Pasamos sin problema!
+$pv_town7_bike0b0010_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b0010_0020_jec_0,,A partir de aquí se pone difícil.
+$pv_town7_bike0b0010_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0010_0030_big_0,,¿Qué quieres decir?
+$pv_town7_bike0b0010_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b0010_0040_jec_0,,"Con los carnés falsos no descubrirán nuestra identidad, pero si hacen un escaneo a estas horas..."
+$pv_town7_bike0b0010_0040_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0010_0050_cld_0,,Se movilizará la seguridad.
+$pv_town7_bike0b0010_0050_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0010_0060_jec_0,,Eso mismo.
+$pv_town7_bike0b0010_0060_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0010_0070_big_0,,"Vaya, vaya."
+$pv_town7_bike0b0010_0070_big_0,ACTOR,Biggs
+$pv_town7_bike0b0010_0080_wed_0,,¿En serio?
+$pv_town7_bike0b0010_0080_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0010_0090_jec_0,,"Pero está Cloud. No hay problema, ¿no?"
+$pv_town7_bike0b0010_0090_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0020_0010_jec_0,,¡Ya vienen!
+$pv_town7_bike0b0020_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0020_0020_cld_0,,Parece que te diviertes.
+$pv_town7_bike0b0020_0020_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0020_0030_jec_0,,¡Pues claro! Un hombre y una mujer que superan juntos un peligro...
+$pv_town7_bike0b0020_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0020_0040_cld_0,,Te bajo.
+$pv_town7_bike0b0020_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0030_0010_jec_0,,"Oye, sabes conducir motos, ¿no?"
+$pv_town7_bike0b0030_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0030_0020_cld_0,,Los SOLDIER hacemos muchas misiones en moto.
+$pv_town7_bike0b0030_0020_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0030_0030_jec_0,,¡Como esperaba! ¿Me vas a deslumbrar con una conducción elegante?
+$pv_town7_bike0b0030_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0030_0040_cld_0,,"Si miras a lo lejos, no te mareas."
+$pv_town7_bike0b0030_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0030_0050_jec_0,,"Ja, ja, ja..."
+$pv_town7_bike0b0030_0050_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0040_0010_jec_0,,"¡Uf, qué bien!"
+$pv_town7_bike0b0040_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0040_0020_cld_0,,
+$pv_town7_bike0b0040_0020_cld_0,ACTOR,
+$pv_town7_bike0b0050_0010_big_0,,¿Sin preguntar?
+$pv_town7_bike0b0050_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b0050_0020_jec_0,,"¿Si te lo advierten, te detienes dócilmente?"
+$pv_town7_bike0b0050_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0050_0030_big_0,,"Bueno, no."
+$pv_town7_bike0b0050_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b0050_0040_jec_0,,¿Ves? ¡Pues a la fuerza!
+$pv_town7_bike0b0050_0040_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0051_0010_jec_0,,
+$pv_town7_bike0b0051_0010_jec_0,ACTOR,
+$pv_town7_bike0b0052_0020_jec_0,,"Cloud, defiéndete también."
+$pv_town7_bike0b0052_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0053_0030_jec_0,,Así no vamos a aguantar.
+$pv_town7_bike0b0053_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0060_0010_jec_0,,¿Por casualidad me has protegido?
+$pv_town7_bike0b0060_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0060_0020_cld_0,,Ha salido así.
+$pv_town7_bike0b0060_0020_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0060_0030_jec_0,,Gracias. Pero... ¿no has bajado un poco la velocidad?
+$pv_town7_bike0b0060_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0060_0040_cld_0,,No te preocupes.
+$pv_town7_bike0b0060_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0070_0010_big_0,,¡Ha ido hacia allí!
+$pv_town7_bike0b0070_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b0070_0020_jec_0,,"Esto es bastante grave, ¿no? ¿Qué hacemos? ¿Qué hacemos?"
+$pv_town7_bike0b0070_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0070_0030_cld_0,,No me sacudas.
+$pv_town7_bike0b0070_0030_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0080_0010_jec_0,,"Eso de ahora era un ataque definitivo, ¿no?"
+$pv_town7_bike0b0080_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0080_0020_cld_0,,
+$pv_town7_bike0b0080_0020_cld_0,ACTOR,
+$pv_town7_bike0b0080_0030_jec_0,,¿No le has puesto nombre?
+$pv_town7_bike0b0080_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0080_0040_cld_0,,No es un juego.
+$pv_town7_bike0b0080_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0090_0010_wed_0,,¡¿Eh?!
+$pv_town7_bike0b0090_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0090_0020_big_0,,¡Aaah!
+$pv_town7_bike0b0090_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0090_0030_wed_0,,"¡Ay, ay! ¡Ayuda!"
+$pv_town7_bike0b0090_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0090_0040_big_0,,¡Mierda! ¡Espera un poco!
+$pv_town7_bike0b0090_0040_big_0,ACTOR,Biggs
+$pv_town7_bike0b0090_0050_wed_0,,Puede que no pueda.
+$pv_town7_bike0b0090_0050_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0090_0060_jec_0,,"¡Cloud, ayúdalos!"
+$pv_town7_bike0b0090_0060_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0090_0070_cld_0,,¡Voy a acelerar!
+$pv_town7_bike0b0090_0070_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0100_0010_wed_0,,"¡Cloud, tengo miedo!"
+$pv_town7_bike0b0100_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0100_0020_cld_0,,¡No te muevas!
+$pv_town7_bike0b0100_0020_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0101_0010_big_0,,¡Cabrón!
+$pv_town7_bike0b0101_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b0101_0020_wed_0,,¡Aaah!
+$pv_town7_bike0b0101_0020_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0101_0040_big_0,,¿Estás bien?
+$pv_town7_bike0b0101_0040_big_0,ACTOR,Biggs
+$pv_town7_bike0b0101_0050_wed_0,,Uf... de alguna forma me he salvado.
+$pv_town7_bike0b0101_0050_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0101_0060_big_0,,Dale las gracias a Cloud también.
+$pv_town7_bike0b0101_0060_big_0,ACTOR,Biggs
+$pv_town7_bike0b0101_0070_jec_0,,¿A que es un crack nuestro Cloud?
+$pv_town7_bike0b0101_0070_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0101_0080_big_0,,¿Y ahora eres su madre?
+$pv_town7_bike0b0101_0080_big_0,ACTOR,Biggs
+$pv_town7_bike0b0105_0010_wed_0,,
+$pv_town7_bike0b0105_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0105_0020_jec_0,,¿Qué tal? ¿Cómo está nuestro Cloud?
+$pv_town7_bike0b0105_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0105_0030_wed_0,,Me he quedado de piedra.
+$pv_town7_bike0b0105_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0105_0040_jec_0,,¿A que sí?
+$pv_town7_bike0b0105_0040_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0105_0050_big_0,,¿Y tú qué eres de Cloud?
+$pv_town7_bike0b0105_0050_big_0,ACTOR,Biggs
+$pv_town7_bike0b0110_0010_jec_0,,"Vaya, parece que os está costando."
+$pv_town7_bike0b0110_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0120_0010_big_0,,¿Todavía vienen más?
+$pv_town7_bike0b0120_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b0120_0020_cld_0,,Es un escuadrón de élite.
+$pv_town7_bike0b0120_0020_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0120_0030_jec_0,,"Uf, qué mal suena."
+$pv_town7_bike0b0120_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0120_0040_wed_0,,Creo que vamos a perder.
+$pv_town7_bike0b0120_0040_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0130_0010_jec_0,,"Cloud, todavía puedes, ¿verdad?"
+$pv_town7_bike0b0130_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0140_0010_ks08_0,,¡Qué gente! ¡Solicitamos refuerzos urgentes! ¡Hay veteranos!
+$pv_town7_bike0b0140_0010_ks08_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0150_0010_jec_0,,"Cloud, ¿estás bien?"
+$pv_town7_bike0b0150_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0160_0010_jec_0,,Ha llegado algo problemático.
+$pv_town7_bike0b0160_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0160_0020_big_0,,"Uno tras otro... ¡Wedge, acelera!"
+$pv_town7_bike0b0160_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0160_0030_wed_0,,¡Estoy al límite!
+$pv_town7_bike0b0160_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0160_0040_cld_0,,Estamos bien.
+$pv_town7_bike0b0160_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0160_0050_big_0,,¿En qué parte de esta situación?
+$pv_town7_bike0b0160_0050_big_0,ACTOR,Biggs
+$pv_town7_bike0b0160_0060_cld_0,,Estoy yo.
+$pv_town7_bike0b0160_0060_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0160_0070_big_0,,Eso es hablar. Pues confío en ti.
+$pv_town7_bike0b0160_0070_big_0,ACTOR,Biggs
+$pv_town7_bike0b0170_0010_kb01_0,,Mensaje del SOLDIER: iniciaremos la persecución.
+$pv_town7_bike0b0170_0010_kb01_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0170_0020_ks04_0,,Entendido.
+$pv_town7_bike0b0170_0020_ks04_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0170_0030_kb02_0,,¿Viene él?
+$pv_town7_bike0b0170_0030_kb02_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0170_0040_ks04_0,,Seguro. Acabemos antes de que llegue. No quiero verme envuelto.
+$pv_town7_bike0b0170_0040_ks04_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0180_0010_wed_0,,No... puede... ser.
+$pv_town7_bike0b0180_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0180_0030_big_0,,¡Uoh! ¡Cabrón!
+$pv_town7_bike0b0180_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b0180_0050_wed_0,,¡Biggs!
+$pv_town7_bike0b0180_0050_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0180_0070_wed_0,,¡¿Qué está pasando?!
+$pv_town7_bike0b0180_0070_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0180_0080_big_0,,¡Mira delante!
+$pv_town7_bike0b0180_0080_big_0,ACTOR,Biggs
+$pv_town7_bike0b0180_0100_jec_0,,"¡Cloud, ayúdalos!"
+$pv_town7_bike0b0180_0100_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0190_0010_big_0,,Como era de esperar de un ex-SOLDIER. A tu lado somos unos aficionados.
+$pv_town7_bike0b0190_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b0190_0020_jec_0,,¡Pues claro!
+$pv_town7_bike0b0190_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0190_0030_big_0,,¡Tú también estás de este lado!
+$pv_town7_bike0b0190_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b0191_0010_wed_0,,"Biggs, agárrate bien."
+$pv_town7_bike0b0191_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0191_0020_big_0,,"¿Ah, sí?"
+$pv_town7_bike0b0191_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0191_0040_ks06_0,,¡Eh!
+$pv_town7_bike0b0191_0040_ks06_0,ACTOR,
+$pv_town7_bike0b0191_0050_big_0,,¡Uohhh!
+$pv_town7_bike0b0191_0050_big_0,ACTOR,Biggs
+$pv_town7_bike0b0191_0060_jec_0,,"¡Wedge, eres increíble!"
+$pv_town7_bike0b0191_0060_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0191_0070_wed_0,,S-s-salió bien.
+$pv_town7_bike0b0191_0070_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0200_0010_jec_0,,"Cloud, ¿no estarás cansado?"
+$pv_town7_bike0b0200_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0210_0010_wed_0,,
+$pv_town7_bike0b0210_0010_wed_0,ACTOR,
+$pv_town7_bike0b0210_0020_big_0,,¡Ni lo sueñes!
+$pv_town7_bike0b0210_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0210_0040_big_0,,"Cloud, te toca."
+$pv_town7_bike0b0210_0040_big_0,ACTOR,Biggs
+$pv_town7_bike0b0220_0010_jec_0,,"Cloud, un último esfuerzo."
+$pv_town7_bike0b0220_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0230_0010_wed_0,,Uf... qué susto.
+$pv_town7_bike0b0230_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0230_0020_big_0,,"Cloud, nos has salvado."
+$pv_town7_bike0b0230_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0230_0030_wed_0,,¡Como esperaba!
+$pv_town7_bike0b0230_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0230_0040_jec_0,,¿Eso es todo?
+$pv_town7_bike0b0230_0040_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0230_0050_wed_0,,¡Qué guapo!
+$pv_town7_bike0b0230_0050_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0230_0060_jec_0,,Un poco más.
+$pv_town7_bike0b0230_0060_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0230_0070_wed_0,,¡Me he enamorado!
+$pv_town7_bike0b0230_0070_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0230_0080_jec_0,,"Bien, bien."
+$pv_town7_bike0b0230_0080_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0230_0090_big_0,,¿Qué hacéis?
+$pv_town7_bike0b0230_0090_big_0,ACTOR,Biggs
+$pv_town7_bike0b0231_0010_wed_0,,"Ay, ay..."
+$pv_town7_bike0b0231_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0231_0020_big_0,,"Esa ha estado cerca. Cloud, nos has salvado."
+$pv_town7_bike0b0231_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0231_0030_wed_0,,¡Como esperaba!
+$pv_town7_bike0b0231_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0231_0040_jec_0,,Pues sí.
+$pv_town7_bike0b0231_0040_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0231_0050_big_0,,"¿Y por qué respondes tú, Jessie?"
+$pv_town7_bike0b0231_0050_big_0,ACTOR,Biggs
+$pv_town7_bike0b0231_0060_jec_0,,"Vaya, ¿celos?"
+$pv_town7_bike0b0231_0060_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0231_0070_big_0,,Más bien lástima.
+$pv_town7_bike0b0231_0070_big_0,ACTOR,Biggs
+$pv_town7_bike0b0232_0010_jec_0,,"Bien, bien."
+$pv_town7_bike0b0232_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0232_0020_big_0,,¿Y tú qué eres de Cloud?
+$pv_town7_bike0b0232_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0232_0030_jec_0,,¿Que qué soy? No me digas que tienes celos.
+$pv_town7_bike0b0232_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0232_0040_big_0,,No tengo nada.
+$pv_town7_bike0b0232_0040_big_0,ACTOR,Biggs
+$pv_town7_bike0b0233_0010_wed_0,,Uf... creo que ya no puedo más.
+$pv_town7_bike0b0233_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0233_0020_big_0,,No te quejes.
+$pv_town7_bike0b0233_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0233_0030_wed_0,,Pero...
+$pv_town7_bike0b0233_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0234_0010_jec_0,,¿Victoria del trabajo en equipo?
+$pv_town7_bike0b0234_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0234_0020_big_0,,Salió bien.
+$pv_town7_bike0b0234_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0234_0030_wed_0,,Pura suerte.
+$pv_town7_bike0b0234_0030_wed_0,ACTOR,Wedge
+$pv_town7_bike0b0234_0040_cld_0,,Lo único que importa es ganar.
+$pv_town7_bike0b0234_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0234_0050_big_0,,La suerte también es una habilidad.
+$pv_town7_bike0b0234_0050_big_0,ACTOR,Biggs
+$pv_town7_bike0b0234_0060_wed_0,,
+$pv_town7_bike0b0234_0060_wed_0,ACTOR,
+$pv_town7_bike0b0240_0010_ks08_0,,Se acabó el tiempo. Retirada antes de que nos veamos envueltos.
+$pv_town7_bike0b0240_0010_ks08_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0240_0020_ks09_0,,Entendido.
+$pv_town7_bike0b0240_0020_ks09_0,ACTOR,Guarda motorizado
+$pv_town7_bike0b0240_0030_jec_0,,¿Qué le pasa?
+$pv_town7_bike0b0240_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0250_0010_rch_0,,"¡Uy, uy, uy!"
+$pv_town7_bike0b0250_0010_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0020_big_0,,¿Qué es eso?
+$pv_town7_bike0b0250_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0250_0030_rch_0,,"Si te descuidas, te adelanto en un suspiro."
+$pv_town7_bike0b0250_0030_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0050_rch_0,,Hola. ¿De paseo con la dama?
+$pv_town7_bike0b0250_0050_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0060_cld_0,,
+$pv_town7_bike0b0250_0060_cld_0,ACTOR,
+$pv_town7_bike0b0250_0070_rch_0,,Qué bien. Dejadme unirme.
+$pv_town7_bike0b0250_0070_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0080_cld_0,,
+$pv_town7_bike0b0250_0080_cld_0,ACTOR,
+$pv_town7_bike0b0250_0090_rch_0,,"Qué fría. Bueno, ¡da igual! Entonces, echemos una carrera. Una carrera."
+$pv_town7_bike0b0250_0090_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0100_cld_0,,¿Me hablas a mí?
+$pv_town7_bike0b0250_0100_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0250_0110_rch_0,,¿A quién si no?
+$pv_town7_bike0b0250_0110_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0120_cld_0,,Rechazo.
+$pv_town7_bike0b0250_0120_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0250_0130_rch_0,,"No te oigo, no te oigo. Vas tan lento que no llega a mis oídos."
+$pv_town7_bike0b0250_0130_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0140_jec_0,,¿Qué le pasa a este?
+$pv_town7_bike0b0250_0140_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0250_0150_rch_0,,"Buena pregunta, señorita."
+$pv_town7_bike0b0250_0150_rch_0,ACTOR,¿?
+$pv_town7_bike0b0250_0155_rch_0,,Soy Roche. Y me llaman el adicto a la velocidad.
+$pv_town7_bike0b0250_0155_rch_0,ACTOR,Roche
+$pv_town7_bike0b0250_0160_jec_0,,Sí te oigo.
+$pv_town7_bike0b0250_0160_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0250_0170_rch_0,,La voz de una dama es especial.
+$pv_town7_bike0b0250_0170_rch_0,ACTOR,Roche
+$pv_town7_bike0b0250_0180_jec_0,,Este tío no me gusta.
+$pv_town7_bike0b0250_0180_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0250_0190_rch_0,,¡Bien! ¡Esto se pone divertido!
+$pv_town7_bike0b0250_0190_rch_0,ACTOR,Roche
+$pv_town7_bike0b0260_0020_rch_0,,Ya veo.
+$pv_town7_bike0b0260_0020_rch_0,ACTOR,Roche
+$pv_town7_bike0b0260_0030_jec_0,,¿Qué hace ese?
+$pv_town7_bike0b0260_0030_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0260_0040_cld_0,,Déjalo. Se viene arriba.
+$pv_town7_bike0b0260_0040_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0260_0050_rch_0,,"No está mal. Tienes potencial, y amor por la moto de sobra... ¡Pero!"
+$pv_town7_bike0b0260_0050_rch_0,ACTOR,Roche
+$pv_town7_bike0b0260_0060_rch_0,,Aún no haces más que montarte en ella.
+$pv_town7_bike0b0260_0060_rch_0,ACTOR,Roche
+$pv_town7_bike0b0270_0010_rch_0,,Escucha: ¡una moto no se monta! ¡Se convierte en parte de uno mismo! ¡Así!
+$pv_town7_bike0b0270_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b0270_0020_rch_0,,
+$pv_town7_bike0b0270_0020_rch_0,ACTOR,
+$pv_town7_bike0b0275_0010_jec_0,,"Cloud, usa bien los frenos."
+$pv_town7_bike0b0275_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b0280_0010_jec_0,,
+$pv_town7_bike0b0280_0010_jec_0,ACTOR,
+$pv_town7_bike0b0280_0020_big_0,,¿Estáis bien?
+$pv_town7_bike0b0280_0020_big_0,ACTOR,Biggs
+$pv_town7_bike0b0280_0030_rch_0,,Bien. Parece que aún podemos divertirnos.
+$pv_town7_bike0b0280_0030_rch_0,ACTOR,Roche
+$pv_town7_bike0b0290_0010_rch_0,,¡Bien! Hacía tiempo que no me acaloraba así.
+$pv_town7_bike0b0290_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b0290_0020_rch_0,,¿Qué dices? ¿Corremos juntos hasta el fin del mundo?
+$pv_town7_bike0b0290_0020_rch_0,ACTOR,Roche
+$pv_town7_bike0b0290_0030_cld_0,,No.
+$pv_town7_bike0b0290_0030_cld_0,ACTOR,Cloud
+$pv_town7_bike0b0290_0040_rch_0,,Me has rechazado.
+$pv_town7_bike0b0290_0040_rch_0,ACTOR,Roche
+$pv_town7_bike0b0300_0010_cld_0,,¿Te retiras?
+$pv_town7_bike0b0300_0010_cld_0,ACTOR,
+$pv_town7_bike0b0300_0020_rch_0,,Tranquilo. ¿Cómo voy a bajarme de una carrera tan divertida? Te acompañaré hasta el final... ¡hasta que uno de los dos se consuma!
+$pv_town7_bike0b0300_0020_rch_0,ACTOR,
+$pv_town7_bike0b0310_0010_big_0,,PV_BIKE0_B0290(167m)<br>【PlanEv(Talk)】«¡Lo hemos conseguido!»
+$pv_town7_bike0b0310_0010_big_0,ACTOR,
+$pv_town7_bike0b0310_0020_wed_0,,«¡Lo logramos!»
+$pv_town7_bike0b0310_0020_wed_0,ACTOR,
+$pv_town7_bike0b0310_0030_jec_0,,«No cantemos victoria. Escondámonos antes de que lleguen refuerzos.»
+$pv_town7_bike0b0310_0030_jec_0,ACTOR,
+$pv_town7_bike0b1010_0010_jec_0,,"Oye, sabes conducir motos, ¿no?"
+$pv_town7_bike0b1010_0010_jec_0,ACTOR,
+$pv_town7_bike0b1010_0020_cld_0,,Los SOLDIER hacemos muchas misiones en moto.
+$pv_town7_bike0b1010_0020_cld_0,ACTOR,
+$pv_town7_bike0b1010_0030_jec_0,,"¡Como esperaba! Entonces, ¿me vas a deslumbrar con una conducción elegante?"
+$pv_town7_bike0b1010_0030_jec_0,ACTOR,
+$pv_town7_bike0b1010_0040_cld_0,,"Si miras a lo lejos, no te mareas."
+$pv_town7_bike0b1010_0040_cld_0,ACTOR,
+$pv_town7_bike0b1010_0050_jec_0,,"Ja, ja, ja..."
+$pv_town7_bike0b1010_0050_jec_0,ACTOR,
+$pv_town7_bike0b1020_0010_big_0,,
+$pv_town7_bike0b1020_0010_big_0,ACTOR,
+$pv_town7_bike0b1030_0010_jec_0,,
+$pv_town7_bike0b1030_0010_jec_0,ACTOR,
+$pv_town7_bike0b1040_0010_wed_0,,
+$pv_town7_bike0b1040_0010_wed_0,ACTOR,
+$pv_town7_bike0b1050_0010_big_0,,
+$pv_town7_bike0b1050_0010_big_0,ACTOR,
+$pv_town7_bike0b1060_0010_jec_0,,
+$pv_town7_bike0b1060_0010_jec_0,ACTOR,
+$pv_town7_bike0b1070_0010_wed_0,,
+$pv_town7_bike0b1070_0010_wed_0,ACTOR,
+$pv_town7_bike0b1080_0010_jec_0,,
+$pv_town7_bike0b1080_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1090_0010_jec_0,,
+$pv_town7_bike0b1090_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1100_0010_jec_0,,
+$pv_town7_bike0b1100_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1110_0010_jec_0,,
+$pv_town7_bike0b1110_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1120_0010_jec_0,,
+$pv_town7_bike0b1120_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1130_0010_jec_0,,
+$pv_town7_bike0b1130_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1140_0010_jec_0,,
+$pv_town7_bike0b1140_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1150_0010_jec_0,,
+$pv_town7_bike0b1150_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1160_0010_jec_0,,
+$pv_town7_bike0b1160_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1170_0010_big_0,,
+$pv_town7_bike0b1170_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1180_0010_big_0,,
+$pv_town7_bike0b1180_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1190_0010_big_0,,
+$pv_town7_bike0b1190_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1200_0010_big_0,,
+$pv_town7_bike0b1200_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1210_0010_big_0,,
+$pv_town7_bike0b1210_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1220_0010_big_0,,
+$pv_town7_bike0b1220_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1230_0010_big_0,,
+$pv_town7_bike0b1230_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1240_0010_big_0,,
+$pv_town7_bike0b1240_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1250_0010_big_0,,
+$pv_town7_bike0b1250_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1260_0010_wed_0,,
+$pv_town7_bike0b1260_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1270_0010_wed_0,,
+$pv_town7_bike0b1270_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1280_0010_wed_0,,
+$pv_town7_bike0b1280_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1290_0010_wed_0,,
+$pv_town7_bike0b1290_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1300_0010_wed_0,,
+$pv_town7_bike0b1300_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1310_0010_wed_0,,
+$pv_town7_bike0b1310_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1320_0010_wed_0,,
+$pv_town7_bike0b1320_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1330_0010_wed_0,,
+$pv_town7_bike0b1330_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1340_0010_wed_0,,
+$pv_town7_bike0b1340_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1350_0010_jec_0,,
+$pv_town7_bike0b1350_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1360_0010_jec_0,,
+$pv_town7_bike0b1360_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1370_0010_jec_0,,
+$pv_town7_bike0b1370_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1380_0010_jec_0,,
+$pv_town7_bike0b1380_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1390_0010_jec_0,,
+$pv_town7_bike0b1390_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1400_0010_jec_0,,
+$pv_town7_bike0b1400_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1410_0010_jec_0,,
+$pv_town7_bike0b1410_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1420_0010_jec_0,,
+$pv_town7_bike0b1420_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1430_0010_jec_0,,
+$pv_town7_bike0b1430_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1440_0010_big_0,,Qué suerte tener a Cloud.
+$pv_town7_bike0b1440_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1440_0020_wed_0,,¿Qué habrá comido para hacerse tan fuerte?
+$pv_town7_bike0b1440_0020_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1440_0030_big_0,,Creo que la comida no tiene nada que ver.
+$pv_town7_bike0b1440_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b1440_0040_wed_0,,Solo de pensar qué habría pasado sin Cloud...
+$pv_town7_bike0b1440_0040_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1440_0050_jec_0,,"Ahora estaríais tirados en la carretera, ¿no?"
+$pv_town7_bike0b1440_0050_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1440_0060_big_0,,Tú también.
+$pv_town7_bike0b1440_0060_big_0,ACTOR,Biggs
+$pv_town7_bike0b1450_0010_big_0,,
+$pv_town7_bike0b1450_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1460_0010_big_0,,
+$pv_town7_bike0b1460_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1470_0010_big_0,,
+$pv_town7_bike0b1470_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1480_0010_big_0,,
+$pv_town7_bike0b1480_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1490_0010_wed_0,,
+$pv_town7_bike0b1490_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1500_0010_wed_0,,
+$pv_town7_bike0b1500_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1510_0010_wed_0,,
+$pv_town7_bike0b1510_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1520_0010_wed_0,,
+$pv_town7_bike0b1520_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1530_0010_jec_0,,
+$pv_town7_bike0b1530_0010_jec_0,ACTOR,
+$pv_town7_bike0b1540_0010_jec_0,,
+$pv_town7_bike0b1540_0010_jec_0,ACTOR,
+$pv_town7_bike0b1550_0010_jec_0,,
+$pv_town7_bike0b1550_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1560_0010_jec_0,,
+$pv_town7_bike0b1560_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1570_0010_jec_0,,
+$pv_town7_bike0b1570_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1580_0010_big_0,,
+$pv_town7_bike0b1580_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1590_0010_big_0,,
+$pv_town7_bike0b1590_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1600_0010_big_0,,
+$pv_town7_bike0b1600_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1610_0010_big_0,,
+$pv_town7_bike0b1610_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1620_0010_big_0,,
+$pv_town7_bike0b1620_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1630_0010_wed_0,,
+$pv_town7_bike0b1630_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1640_0010_wed_0,,
+$pv_town7_bike0b1640_0010_wed_0,ACTOR,
+$pv_town7_bike0b1650_0010_wed_0,,Ya no puedo más...
+$pv_town7_bike0b1650_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1660_0010_wed_0,,
+$pv_town7_bike0b1660_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1670_0010_jec_0,,
+$pv_town7_bike0b1670_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1680_0010_jec_0,,¡Biggs! ¡Wedge!
+$pv_town7_bike0b1680_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1690_0010_jec_0,,
+$pv_town7_bike0b1690_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1700_0010_jec_0,,
+$pv_town7_bike0b1700_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1710_0010_big_0,,"Cada uno tiene que protegerse solo, ¿eh?"
+$pv_town7_bike0b1710_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1710_0020_jec_0,,"Eso, eso. Cloud está muy ocupado protegiéndome."
+$pv_town7_bike0b1710_0020_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1710_0030_big_0,,"Sí, sí."
+$pv_town7_bike0b1710_0030_big_0,ACTOR,Biggs
+$pv_town7_bike0b1710_0040_big_0,,¿Y si somos fuertes?
+$pv_town7_bike0b1710_0040_big_0,ACTOR,Biggs
+$pv_town7_bike0b1710_0050_wed_0,,¿Quizá tanto como Cloud?
+$pv_town7_bike0b1710_0050_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1710_0060_jec_0,,Qué va.
+$pv_town7_bike0b1710_0060_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1710_0070_big_0,,"Pero al menos no somos un estorbo, ¿no?"
+$pv_town7_bike0b1710_0070_big_0,ACTOR,Biggs
+$pv_town7_bike0b1710_0080_cld_0,,Sí.
+$pv_town7_bike0b1710_0080_cld_0,ACTOR,Cloud
+$pv_town7_bike0b1710_0090_big_0,,¡Bien!
+$pv_town7_bike0b1710_0090_big_0,ACTOR,Biggs
+$pv_town7_bike0b1720_0010_rch_0,,"No me decepciones, ¿eh?"
+$pv_town7_bike0b1720_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1730_0010_rch_0,,
+$pv_town7_bike0b1730_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1740_0010_rch_0,,
+$pv_town7_bike0b1740_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1750_0010_rch_0,,
+$pv_town7_bike0b1750_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1760_0010_rch_0,,
+$pv_town7_bike0b1760_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1770_0010_rch_0,,
+$pv_town7_bike0b1770_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1780_0010_rch_0,,
+$pv_town7_bike0b1780_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1790_0010_rch_0,,"No irás a retirarte, ¿verdad?"
+$pv_town7_bike0b1790_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1800_0010_rch_0,,
+$pv_town7_bike0b1800_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b1810_0010_cld_0,,¿Vamos así a la estación?
+$pv_town7_bike0b1810_0010_cld_0,ACTOR,
+$pv_town7_bike0b1810_0020_jec_0,,No. Al garaje. Así que nuestro paseo en moto ha terminado...
+$pv_town7_bike0b1810_0020_jec_0,ACTOR,
+$pv_town7_bike0b1810_0030_big_0,,"Nosotros también estamos, ¿eh?"
+$pv_town7_bike0b1810_0030_big_0,ACTOR,
+$pv_town7_bike0b1810_0040_jec_0,,No te oigo.
+$pv_town7_bike0b1810_0040_jec_0,ACTOR,
+$pv_town7_bike0b1810_0050_big_0,,¡Sí que me oyes!
+$pv_town7_bike0b1810_0050_big_0,ACTOR,
+$pv_town7_bike0b1820_0010_big_0,,
+$pv_town7_bike0b1820_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1830_0010_big_0,,
+$pv_town7_bike0b1830_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b1840_0010_wed_0,,
+$pv_town7_bike0b1840_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1850_0010_wed_0,,
+$pv_town7_bike0b1850_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b1860_0010_jec_0,,
+$pv_town7_bike0b1860_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1870_0010_jec_0,,
+$pv_town7_bike0b1870_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1880_0010_jec_0,,
+$pv_town7_bike0b1880_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1890_0010_jec_0,,
+$pv_town7_bike0b1890_0010_jec_0,ACTOR,
+$pv_town7_bike0b1900_0010_jec_0,,
+$pv_town7_bike0b1900_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1910_0010_jec_0,,
+$pv_town7_bike0b1910_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1920_0010_jec_0,,
+$pv_town7_bike0b1920_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1930_0010_jec_0,,
+$pv_town7_bike0b1930_0010_jec_0,ACTOR,
+$pv_town7_bike0b1940_0010_jec_0,,
+$pv_town7_bike0b1940_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1950_0010_jec_0,,
+$pv_town7_bike0b1950_0010_jec_0,ACTOR,
+$pv_town7_bike0b1960_0010_jec_0,,
+$pv_town7_bike0b1960_0010_jec_0,ACTOR,
+$pv_town7_bike0b1970_0010_jec_0,,
+$pv_town7_bike0b1970_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b1980_0010_big_0,,
+$pv_town7_bike0b1980_0010_big_0,ACTOR,
+$pv_town7_bike0b1990_0010_big_0,,
+$pv_town7_bike0b1990_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b2000_0010_big_0,,
+$pv_town7_bike0b2000_0010_big_0,ACTOR,Biggs
+$pv_town7_bike0b2010_0010_wed_0,,
+$pv_town7_bike0b2010_0010_wed_0,ACTOR,
+$pv_town7_bike0b2020_0010_wed_0,,
+$pv_town7_bike0b2020_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b2030_0010_wed_0,,
+$pv_town7_bike0b2030_0010_wed_0,ACTOR,Wedge
+$pv_town7_bike0b2040_0010_jec_0,,
+$pv_town7_bike0b2040_0010_jec_0,ACTOR,Jessie
+$pv_town7_bike0b2050_0010_rch_0,,
+$pv_town7_bike0b2050_0010_rch_0,ACTOR,
+$pv_town7_bike0b2060_0010_rch_0,,
+$pv_town7_bike0b2060_0010_rch_0,ACTOR,
+$pv_town7_bike0b2070_0010_rch_0,,
+$pv_town7_bike0b2070_0010_rch_0,ACTOR,
+$pv_town7_bike0b2080_0010_rch_0,,
+$pv_town7_bike0b2080_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2090_0010_rch_0,,
+$pv_town7_bike0b2090_0010_rch_0,ACTOR,
+$pv_town7_bike0b2100_0010_rch_0,,
+$pv_town7_bike0b2100_0010_rch_0,ACTOR,
+$pv_town7_bike0b2110_0010_rch_0,,
+$pv_town7_bike0b2110_0010_rch_0,ACTOR,
+$pv_town7_bike0b2120_0010_rch_0,,
+$pv_town7_bike0b2120_0010_rch_0,ACTOR,
+$pv_town7_bike0b2130_0010_rch_0,,
+$pv_town7_bike0b2130_0010_rch_0,ACTOR,
+$pv_town7_bike0b2140_0010_rch_0,,
+$pv_town7_bike0b2140_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2150_0010_rch_0,,
+$pv_town7_bike0b2150_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2160_0010_rch_0,,
+$pv_town7_bike0b2160_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2170_0010_rch_0,,
+$pv_town7_bike0b2170_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2180_0010_rch_0,,
+$pv_town7_bike0b2180_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2190_0010_rch_0,,
+$pv_town7_bike0b2190_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2200_0010_rch_0,,
+$pv_town7_bike0b2200_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2210_0010_rch_0,,
+$pv_town7_bike0b2210_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2220_0010_rch_0,,
+$pv_town7_bike0b2220_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2230_0010_rch_0,,
+$pv_town7_bike0b2230_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2240_0010_rch_0,,
+$pv_town7_bike0b2240_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2250_0010_rch_0,,
+$pv_town7_bike0b2250_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2260_0010_rch_0,,
+$pv_town7_bike0b2260_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2270_0010_rch_0,,
+$pv_town7_bike0b2270_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2280_0010_rch_0,,
+$pv_town7_bike0b2280_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2290_0010_rch_0,,
+$pv_town7_bike0b2290_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2300_0010_rch_0,,
+$pv_town7_bike0b2300_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2310_0010_rch_0,,
+$pv_town7_bike0b2310_0010_rch_0,ACTOR,Roche
+$pv_town7_bike0b2320_0010_rch_0,,
+$pv_town7_bike0b2320_0010_rch_0,ACTOR,Roche
+$pv_town7_bikedebug_0001_sys_0,,DEBUG: ¿adónde teletransportar?
+$pv_town7_bikedebug_0001_sys_0,ACTOR,
+$tk_town7_0031_0010_jec_0,,"Cloud, sígueme."
+$tk_town7_0031_0010_jec_0,ACTOR,Jessie
+$tk_town7_0031_0020_jec_0,,"Oye, no te separes, ¿vale?"
+$tk_town7_0031_0020_jec_0,ACTOR,Jessie
+$tk_town7_0031_0030_jec_0,,¡Que vayas por aquí!
+$tk_town7_0031_0030_jec_0,ACTOR,Jessie
+$tk_town7_0032_0010_jec_0,,Más adelante está el centro. Para abrirla hay que pillarle el truco.
+$tk_town7_0032_0010_jec_0,ACTOR,Jessie
+$tk_town7_0032_0020_cld_0,,
+$tk_town7_0032_0020_cld_0,ACTOR,
+$tk_town7_0033_0010_jec_0,,¡Como esperaba!
+$tk_town7_0033_0010_jec_0,ACTOR,Jessie
+$tk_town7_0034_0020_wed_0,,"Cloud, por aquí, por aquí."
+$tk_town7_0034_0020_wed_0,ACTOR,Wedge
+$tk_town7_0034_0030_wed_0,,¡Cloud!
+$tk_town7_0034_0030_wed_0,ACTOR,Wedge
+$tk_town7_0065_0010_jec_0,,"Mi casa está cerca, ¿eh?"
+$tk_town7_0065_0010_jec_0,ACTOR,Jessie
+$tk_town7_0065_0020_wed_0,,"Si te separas, te perderás."
+$tk_town7_0065_0020_wed_0,ACTOR,Wedge
+$tk_town7_0065_0030_jec_0,,No andes por ahí.
+$tk_town7_0065_0030_jec_0,ACTOR,Jessie
+$tk_town7_0073_0030_wed_0,,¿Adónde vas?
+$tk_town7_0073_0030_wed_0,ACTOR,Wedge
+$tk_town7_0075_0010_cld_0,,Por aquí no.
+$tk_town7_0075_0010_cld_0,ACTOR,Cloud
+$tk_town7_0075_0020_cld_0,,Tengo que darme prisa.
+$tk_town7_0075_0020_cld_0,ACTOR,Cloud
+$tk_town7_0075_0030_cld_0,,"Era la parte de atrás de la casa, ¿no?"
+$tk_town7_0075_0030_cld_0,ACTOR,Cloud
+$tk_town7_0082_0010_cld_0,,No es momento de jugar.
+$tk_town7_0082_0010_cld_0,ACTOR,Cloud
+$tk_town7_0082_0020_cld_0,,Voy a ir yendo.
+$tk_town7_0082_0020_cld_0,ACTOR,Cloud
+$tk_town7_0082_0030_cld_0,,¿Qué estoy haciendo?
+$tk_town7_0082_0030_cld_0,ACTOR,Cloud
+$tk_town7_0085_0010_cld_0,,
+$tk_town7_0085_0010_cld_0,ACTOR,
+$tk_town7_0091_0110_jec_0,,"Perdona, mamá, por venir a estas horas."
+$tk_town7_0091_0110_jec_0,ACTOR,Jessie
+$tk_town7_0091_0120_jem_0,,"Es tu casa, hija. ¿Qué tal los ensayos?"
+$tk_town7_0091_0120_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0091_0130_jec_0,,Bueno...
+$tk_town7_0091_0130_jec_0,ACTOR,Jessie
+$tk_town7_0091_0210_jem_0,,Es que esta niña se centra tanto que pierde de vista lo demás.
+$tk_town7_0091_0210_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0091_0211_jem_0,,"Con Biggs a tu lado, me quedo mucho más tranquila."
+$tk_town7_0091_0211_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0091_0220_jec_0,,Tampoco es para tanto.
+$tk_town7_0091_0220_jec_0,ACTOR,Jessie
+$tk_town7_0091_0230_big_0,,Oye.
+$tk_town7_0091_0230_big_0,ACTOR,Biggs
+$tk_town7_0091_0240_jem_0,,A los hombres hay que educarlos con elogios.
+$tk_town7_0091_0240_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0091_0250_big_0,,Usted también...
+$tk_town7_0091_0250_big_0,ACTOR,Biggs
+$tk_town7_0091_0310_wed_0,,¡Especial de Midgar! Hoy también está deliciosa.
+$tk_town7_0091_0310_wed_0,ACTOR,Wedge
+$tk_town7_0091_0320_jem_0,,"Tengo preparada mucha cantidad para cuando vengas, Wedge."
+$tk_town7_0091_0320_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0091_0330_wed_0,,¡Voy a hacerme hijo de esta casa!
+$tk_town7_0091_0330_wed_0,ACTOR,Wedge
+$tk_town7_0091_0340_big_0,,Y cada vez te pondrás más grande.
+$tk_town7_0091_0340_big_0,ACTOR,Biggs
+$tk_town7_0092_0110_big_0,,Qué bueno está esto.
+$tk_town7_0092_0110_big_0,ACTOR,Biggs
+$tk_town7_0092_0120_big_0,,Esto también está de rechupete.
+$tk_town7_0092_0120_big_0,ACTOR,Biggs
+$tk_town7_0092_0130_big_0,,¡Gracias por la comida!
+$tk_town7_0092_0130_big_0,ACTOR,Biggs
+$tk_town7_0092_0140_big_0,,"Wedge, ¿aún comes más?"
+$tk_town7_0092_0140_big_0,ACTOR,Biggs
+$tk_town7_0092_0150_big_0,,Jessie es una afortunada.
+$tk_town7_0092_0150_big_0,ACTOR,Biggs
+$tk_town7_0092_0210_wed_0,,¡Repetiré pizza!
+$tk_town7_0092_0210_wed_0,ACTOR,Wedge
+$tk_town7_0092_0220_wed_0,,¡Otra ración!
+$tk_town7_0092_0220_wed_0,ACTOR,Wedge
+$tk_town7_0092_0230_wed_0,,¡Puedo con más!
+$tk_town7_0092_0230_wed_0,ACTOR,Wedge
+$tk_town7_0092_0240_wed_0,,Qué delicia.
+$tk_town7_0092_0240_wed_0,ACTOR,Wedge
+$tk_town7_0092_0250_wed_0,,Está muy bueno.
+$tk_town7_0092_0250_wed_0,ACTOR,Wedge
+$tk_town7_0092_0260_wed_0,,Aún puedo con más.
+$tk_town7_0092_0260_wed_0,ACTOR,Wedge
+$tk_town7_0092_0310_jec_0,,"Wedge, estás comiendo demasiado."
+$tk_town7_0092_0310_jec_0,ACTOR,Jessie
+$tk_town7_0092_0320_jec_0,,¡Aquí llega la especial de Midgar!
+$tk_town7_0092_0320_jec_0,ACTOR,Jessie
+$tk_town7_0092_0330_jec_0,,"Esto, esto, mi favorito."
+$tk_town7_0092_0330_jec_0,ACTOR,Jessie
+$tk_town7_0092_0340_jec_0,,"Mamá, has mejorado aún más."
+$tk_town7_0092_0340_jec_0,ACTOR,Jessie
+$tk_town7_0092_0410_jem_0,,"Ya está, perdón por la espera."
+$tk_town7_0092_0410_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0092_0420_jem_0,,Comed mucho.
+$tk_town7_0092_0420_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0092_0430_jem_0,,"Repetid, por favor."
+$tk_town7_0092_0430_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0092_0440_jem_0,,No hace falta ser tímidos.
+$tk_town7_0092_0440_jem_0,ACTOR,Madre de Jessie
+$tk_town7_0165_0010_big_0,,"Eh, ¿adónde crees que vas?"
+$tk_town7_0165_0010_big_0,ACTOR,Biggs
+$tk_town7_0165_0030_big_0,,He dicho que nos sigas bien.
+$tk_town7_0165_0030_big_0,ACTOR,Biggs
+$tk_town7_0190_0020_wed_0,,"¡Cloud, por aquí!"
+$tk_town7_0190_0020_wed_0,ACTOR,Wedge
+$tk_town7_0190_0030_big_0,,¿Para qué volvemos?
+$tk_town7_0190_0030_big_0,ACTOR,Biggs
+$tk_town7_0192_0010_big_0,,"Oye, ¿adónde vas?"
+$tk_town7_0192_0010_big_0,ACTOR,Biggs
+$tk_town7_0192_0030_big_0,,"No te metas por ahí, ¿eh?"
+$tk_town7_0192_0030_big_0,ACTOR,Biggs
+$tk_town7_0195_0010_wed_0,,Por ahí es peligroso.
+$tk_town7_0195_0010_wed_0,ACTOR,Wedge
+$tk_town7_0195_0015_wed_0,,Hay que dar la vuelta por detrás.
+$tk_town7_0195_0015_wed_0,ACTOR,Wedge
+$tk_town7_0195_0030_wed_0,,"¡Cloud, por aquí!"
+$tk_town7_0195_0030_wed_0,ACTOR,Wedge
+$tk_town7_0211_0010_wed_0,,Estoy tan nervioso que me rugen las tripas.
+$tk_town7_0211_0010_wed_0,ACTOR,Wedge
+$tk_town7_0211_0020_wed_0,,"Si tienes hambre o se te olvida algo, con una máquina expendedora estás salvado."
+$tk_town7_0211_0020_wed_0,ACTOR,Wedge
+$tk_town7_0211_0030_wed_0,,"Cloud, ¿estás listo?"
+$tk_town7_0211_0030_wed_0,ACTOR,Wedge
+$tk_town7_0215_0010_wed_0,,"Cloud, ¿hasta dónde vas a ir?"
+$tk_town7_0215_0010_wed_0,ACTOR,Wedge
+$tk_town7_0215_0030_big_0,,No te alejes mucho.
+$tk_town7_0215_0030_big_0,ACTOR,Biggs
+$tk_town7_0246_0020_big_0,,"Oye, si has terminado de prepararte, avísame."
+$tk_town7_0246_0020_big_0,ACTOR,Biggs
+$tk_town7_0385_0010_cld_0,,¿No deberíamos esperar a Wedge?
+$tk_town7_0385_0010_cld_0,ACTOR,Cloud
+$tk_town7_0385_0020_big_0,,"Si lo esperamos o volvemos a por él, se enfadará."
+$tk_town7_0385_0020_big_0,ACTOR,Biggs
+$tk_town7_0385_0030_cld_0,,No lo entiendo.
+$tk_town7_0385_0030_cld_0,ACTOR,Cloud
+$tk_town7_0385_0040_big_0,,Supongo que un SOLDIER no lo entiende.
+$tk_town7_0385_0040_big_0,ACTOR,Biggs
+$tk_town7_0385_0041_big_0,,Pero le diré que te has preocupado por él. Con eso creo que se alegrará.
+$tk_town7_0385_0041_big_0,ACTOR,Biggs
+$tk_town7_0390_0010_big_0,,No podemos abrirnos paso de frente. Daremos un rodeo por detrás.
+$tk_town7_0390_0010_big_0,ACTOR,Biggs
+$tk_town7_0395_0010_cp99_0,,"Con la alarma de medianoche, los vecinos han empezado a alborotarse."
+$tk_town7_0395_0010_cp99_0,ACTOR,Sargento
+$tk_town7_0395_0011_cp99_0,,El grupo A vigilará aquí a los fugitivos de las instalaciones.
+$tk_town7_0395_0011_cp99_0,ACTOR,Sargento
+$tk_town7_0395_0012_cp99_0,,El grupo B establecerá el control de acceso y se hará cargo de la situación.
+$tk_town7_0395_0012_cp99_0,ACTOR,Sargento
+$tk_town7_0395_0020_cp99_0,,"¡Sí, señor!"
+$tk_town7_0395_0020_cp99_0,ACTOR,Centinelas
+$tk_town7_0395_0030_cp99_0,,"Si se hace público el ataque, no solo habrá confusión: será una vergüenza para Shinra."
+$tk_town7_0395_0030_cp99_0,ACTOR,Sargento
+$tk_town7_0395_0031_cp99_0,,"Sobre la alarma anterior, ¡que se difunda que fue una falsa alarma!"
+$tk_town7_0395_0031_cp99_0,ACTOR,Sargento
+$tk_town7_0395_0040_cp99_0,,"...¡Sí, señor!"
+$tk_town7_0395_0040_cp99_0,ACTOR,Centinelas
+$tk_town7_0400_0010_big_0,,Vaya jaleo.
+$tk_town7_0400_0010_big_0,ACTOR,Biggs
+$tk_town7_0400_0020_cld_0,,También hay refuerzos de Shinra.
+$tk_town7_0400_0020_cld_0,ACTOR,Cloud
+$tk_town7_0400_0030_big_0,,Me duele el estómago...
+$tk_town7_0400_0030_big_0,ACTOR,Biggs
+$tk_town7_0407_0010_big_0,,"¿Quieres más pelea? Te entiendo, pero otro día."
+$tk_town7_0407_0010_big_0,ACTOR,Biggs
+$tk_town7_0407_0020_wed_0,,"Si nos ven, será un problema."
+$tk_town7_0407_0020_wed_0,ACTOR,Wedge
+$tk_town7_0408_0010_big_0,,"Aun así, encontrarnos con la operación de los originales..."
+$tk_town7_0408_0010_big_0,ACTOR,Biggs
+$tk_town7_0408_0020_cld_0,,¿Será casualidad?
+$tk_town7_0408_0020_cld_0,ACTOR,Cloud
+$tk_town7_0408_0030_big_0,,"Vaya. Si los originales se han puesto en marcha, es un problema."
+$tk_town7_0408_0030_big_0,ACTOR,Biggs
+$tk_town7_0408_0031_big_0,,Encima que ya teníamos mil cosas en qué pensar.
+$tk_town7_0408_0031_big_0,ACTOR,Biggs
+$tk_town7_0415_0010_wed_0,,¿Cómo volvemos a la barriada?
+$tk_town7_0415_0010_wed_0,ACTOR,Wedge
+$tk_town7_0415_0020_jec_0,,"Je, je, je."
+$tk_town7_0415_0020_jec_0,ACTOR,
+$tk_town7_0415_0021_jec_0,,Llevo tiempo queriendo probar una cosa.
+$tk_town7_0415_0021_jec_0,ACTOR,Jessie
+$tk_town7_0420_0010_jec_0,,"Venga, por aquí, por aquí. Hasta aquí estamos a salvo."
+$tk_town7_0420_0010_jec_0,ACTOR,Jessie
+$tk_town7_0420_0030_wed_0,,¿Adónde vamos?
+$tk_town7_0420_0030_wed_0,ACTOR,Wedge
+$tk_town7_0420_0040_jec_0,,Es una sorpresa para cuando lleguemos.
+$tk_town7_0420_0040_jec_0,ACTOR,Jessie
+$tk_town7_0422_0110_jec_0,,"Cloud, ¿vienes bien?"
+$tk_town7_0422_0110_jec_0,ACTOR,Jessie
+$tk_town7_0422_0120_wed_0,,"Cloud, parece que es por aquí."
+$tk_town7_0422_0120_wed_0,ACTOR,Wedge
+$tk_town7_0422_0130_big_0,,Te vas a perder.
+$tk_town7_0422_0130_big_0,ACTOR,Biggs
+$tk_town7_0425_0010_jec_0,,Ya tengo la pólvora sin problemas. ¿Estamos listos para la próxima operación?
+$tk_town7_0425_0010_jec_0,ACTOR,Jessie
+$tk_town7_0425_0020_big_0,,Eso espero.
+$tk_town7_0425_0020_big_0,ACTOR,Biggs
+$tk_town7_0425_0030_cld_0,,Espero que tu padre se recupere pronto...
+$tk_town7_0425_0030_cld_0,ACTOR,Cloud
+$tk_town7_0425_0040_big_0,,"Oye, de ese tema..."
+$tk_town7_0425_0040_big_0,ACTOR,Biggs
+$tk_town7_0425_0050_jec_0,,¿Mmm...?
+$tk_town7_0425_0050_jec_0,ACTOR,Jessie
+$tk_town7_0425_0060_wed_0,,Cloud dice que él también quería probar la pizza.
+$tk_town7_0425_0060_wed_0,ACTOR,Wedge
+$tk_town7_0425_0070_jec_0,,¿Qué? ¿No es un poco raro?
+$tk_town7_0425_0070_jec_0,ACTOR,Jessie
+$tk_town7_0425_0080_big_0,,"Qué va, qué va. Hombre, pizza sí quería comer, ¿no?"
+$tk_town7_0425_0080_big_0,ACTOR,Biggs
+$tk_town7_0425_0090_cld_0,,"Ah... Ah, sí."
+$tk_town7_0425_0090_cld_0,ACTOR,Cloud
+$tk_town7_0425_0100_jec_0,,¿Mmm?
+$tk_town7_0425_0100_jec_0,ACTOR,Jessie
+$tk_town7_0425_0101_jec_0,,"Entonces, la próxima vez quizá me luzca yo cocinando."
+$tk_town7_0425_0101_jec_0,ACTOR,Jessie
+$tk_town7_0425_0110_wed_0,,¡Qué ganas!
+$tk_town7_0425_0110_wed_0,ACTOR,Wedge
+$tk_town7_0425_0120_big_0,,"Qué ganas, qué ganas."
+$tk_town7_0425_0120_big_0,ACTOR,Biggs
+$tk_town7_1700_0010_big_0,,¡Que quedamos en el descampado!
+$tk_town7_1700_0010_big_0,ACTOR,Biggs
+$tk_town7_1700_0020_big_0,,"Oye, si te mueves mal te verán."
+$tk_town7_1700_0020_big_0,ACTOR,Biggs
+$tk_town7_1700_0030_big_0,,"Oye, oye, ¿adónde vas?"
+$tk_town7_1700_0030_big_0,ACTOR,Biggs
+$tk_town7_2200_0010_wed_0,,El descampado que mencionó Jessie.
+$tk_town7_2200_0010_wed_0,ACTOR,Wedge
+$tk_town7_2200_0015_wed_0,,
+$tk_town7_2200_0015_wed_0,ACTOR,
+$tk_town7_2200_0020_wed_0,,"Cuando termine la misión, nos reunimos aquí."
+$tk_town7_2200_0020_wed_0,ACTOR,Wedge
+$tk_town7_3010_0010_cp20_0,,En estos momentos hay una orden de permanecer en casa mientras se confirma la seguridad.
+$tk_town7_3010_0010_cp20_0,ACTOR,Centinela
+$tk_town7_3010_0011_cp20_0,,Regresen a sus hogares de inmediato.
+$tk_town7_3010_0011_cp20_0,ACTOR,Centinela
+$tk_town7_3010_0020_mb68_0,,Antes me ha parecido oír que era un ataque.
+$tk_town7_3010_0020_mb68_0,ACTOR,
+$tk_town7_3010_0030_mb69_0,,"Oye, no será otro atentado, ¿verdad?"
+$tk_town7_3010_0030_mb69_0,ACTOR,
+$tk_town7_3010_0040_cp20_0,,"Lo del ataque ha sido una falsa alarma. No hay problema, así que quédense en casa."
+$tk_town7_3010_0040_cp20_0,ACTOR,Centinela
+$tk_town7_3010_0050_cp20_0,,Lo del ataque ha sido una falsa alarma. Quédense en casa.
+$tk_town7_3010_0050_cp20_0,ACTOR,Centinela
+$tk_town7_3015_0010_mb70_0,,"Oye, no aparques aquí. ¡Que tengo que salir ahora!"
+$tk_town7_3015_0010_mb70_0,ACTOR,
+$tk_town7_3015_0020_cp19_0,,"Es una emergencia y hay orden de quedarse en casa. Lo siento, pero tendrá que resignarse."
+$tk_town7_3015_0020_cp19_0,ACTOR,Centinela
+$tk_town7_3015_0030_cp19_0,,Es una emergencia. Obedezca la orden de quedarse en casa.
+$tk_town7_3015_0030_cp19_0,ACTOR,Centinela
+$tk_town7_3020_0010_mb67_0,,¿Pero qué pasa a estas horas? ¡Has despertado a los niños!
+$tk_town7_3020_0010_mb67_0,ACTOR,
+$tk_town7_3020_0020_cp99_0,,Lo sentimos mucho.
+$tk_town7_3020_0020_cp99_0,ACTOR,Centinela
+$tk_town7_3020_0021_cp99_0,,Estamos haciendo todo lo posible por controlar la situación.
+$tk_town7_3020_0021_cp99_0,ACTOR,Centinela
+$tk_town7_3020_0030_mb65_0,,Vaya. ¡Y mañana tengo que madrugar!
+$tk_town7_3020_0030_mb65_0,ACTOR,
+$tk_town7_3020_0040_cp99_0,,Estamos haciendo todo lo posible por controlar la situación.
+$tk_town7_3020_0040_cp99_0,ACTOR,Centinela
+$tk_town7_3025_0010_mb39_0,,"Abuela, cálmese. Hay orden de quedarse en casa, no puede salir."
+$tk_town7_3025_0010_mb39_0,ACTOR,Centinela
+$tk_town7_3025_0020_mb40_0,,"Han atacado los de Wutai, ¿no? Yo los echo."
+$tk_town7_3025_0020_mb40_0,ACTOR,
+$tk_town7_3025_0021_mb40_0,,En la última guerra sobreviví yo sola con estos brazos.
+$tk_town7_3025_0021_mb40_0,ACTOR,
+$tk_town7_3025_0030_mb39_0,,"Es peligroso. Yo la llevo a casa, ¿vale?"
+$tk_town7_3025_0030_mb39_0,ACTOR,Centinela
+$tk_town7_3025_0040_mb39_0,,"Es peligroso, así que calma, todos."
+$tk_town7_3025_0040_mb39_0,ACTOR,Centinela
+$tk_town7_3030_0010_mb54_0,,"Oye, déjame pasar."
+$tk_town7_3030_0010_mb54_0,ACTOR,
+$tk_town7_3030_0020_mb52_0,,De aquí en adelante está prohibido el paso. Vuelve a casa.
+$tk_town7_3030_0020_mb52_0,ACTOR,Centinela
+$tk_town7_3030_0030_mb54_0,,"Solo voy a llamar a mi hijo, que está justo ahí."
+$tk_town7_3030_0030_mb54_0,ACTOR,
+$tk_town7_3030_0040_mb52_0,,No. No puedo dejarte pasar.
+$tk_town7_3030_0040_mb52_0,ACTOR,Centinela
+$tk_town7_3030_0050_mb54_0,,¿Eh?
+$tk_town7_3030_0050_mb54_0,ACTOR,
+$tk_town7_3030_0060_mb52_0,,De aquí en adelante está prohibido el paso.
+$tk_town7_3030_0060_mb52_0,ACTOR,Centinela
+$tk_town7_3035_0010_mb27_0,,¿Qué pasa con el grupo que está en la plaza?
+$tk_town7_3035_0010_mb27_0,ACTOR,Centinela
+$tk_town7_3035_0020_mb28_0,,No lo sé. Hay un caos enorme por todas partes.
+$tk_town7_3035_0020_mb28_0,ACTOR,Centinela
+$tk_town7_3035_0030_mb27_0,,¿Cuándo podremos volver?
+$tk_town7_3035_0030_mb27_0,ACTOR,Centinela
+$tk_town7_3035_0040_mb28_0,,¿Qué pasa en la plaza?
+$tk_town7_3035_0040_mb28_0,ACTOR,Centinela
+$tk_town7_3510_0010_mb44_0,,¡Eh! Baja ya. Tu padre también está preocupado.
+$tk_town7_3510_0010_mb44_0,ACTOR,
+$tk_town7_3510_0020_mb45_0,,No se ve bien.
+$tk_town7_3510_0020_mb45_0,ACTOR,
+$tk_town7_3520_0010_mb13_0,,¡Es verdad! Una cosa enorme como fuegos artificiales hizo ¡bum!
+$tk_town7_3520_0010_mb13_0,ACTOR,
+$tk_town7_3520_0011_mb13_0,,¡Seguro que nos han atacado!
+$tk_town7_3520_0011_mb13_0,ACTOR,
+$tk_town7_3520_0020_mb15_0,,Los de Shinra dicen que fue un fallo de la máquina.
+$tk_town7_3520_0020_mb15_0,ACTOR,
+$tk_town7_3520_0030_mb14_0,,"Venga, entra en casa de una vez."
+$tk_town7_3520_0030_mb14_0,ACTOR,
+$tk_town7_3520_0040_mb13_0,,Pero...
+$tk_town7_3520_0040_mb13_0,ACTOR,
+$tk_town7_6000_0010_anc_0,,
+$tk_town7_6000_0010_anc_0,ACTOR,Megafonía
+$tk_town7_6000_0020_anc_0,,
+$tk_town7_6000_0020_anc_0,ACTOR,Megafonía
+$tk_town7_6000_0030_anc_0,,
+$tk_town7_6000_0030_anc_0,ACTOR,Megafonía
+$tk_town7_6010_0010_anc_0,,
+$tk_town7_6010_0010_anc_0,ACTOR,Megafonía
+$tk_town7_6010_0020_anc_0,,
+$tk_town7_6010_0020_anc_0,ACTOR,Megafonía
+$tk_town7_6010_0030_anc_0,,
+$tk_town7_6010_0030_anc_0,ACTOR,Megafonía
+$tk_town7_6010_0040_anc_0,,
+$tk_town7_6010_0040_anc_0,ACTOR,Megafonía
+$tk_town7_6020_0010_anc_0,,
+$tk_town7_6020_0010_anc_0,ACTOR,Megafonía
+$tk_town7_6020_0020_anc_0,,
+$tk_town7_6020_0020_anc_0,ACTOR,Megafonía
+$tk_town7_6020_0021_anc_0,,
+$tk_town7_6020_0021_anc_0,ACTOR,Megafonía

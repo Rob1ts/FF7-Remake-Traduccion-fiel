@@ -1,0 +1,742 @@
+id,sub_id,text
+language,,ES
+$ba_grav7_5020_2010_0010_tif_0,,¿No le damos?
+$ba_grav7_5020_2010_0010_tif_0,ACTOR,Tifa
+$ba_grav7_5020_2010_0020_art_0,,Con magia...
+$ba_grav7_5020_2010_0020_art_0,ACTOR,Aeris
+$ba_grav7_5020_2010_0030_cld_0,,No. Lo rebotaría. Primero hay que desactivarla.
+$ba_grav7_5020_2010_0030_cld_0,ACTOR,Cloud
+$ev_grav7_0010_0001_cld_0,,
+$ev_grav7_0010_0001_cld_0,ACTOR,
+$ev_grav7_0010_0004_cld_0,,
+$ev_grav7_0010_0004_cld_0,ACTOR,
+$ev_grav7_0010_0007_cld_0,,
+$ev_grav7_0010_0007_cld_0,ACTOR,
+$ev_grav7_0010_0010_lud_0,,Entendido.
+$ev_grav7_0010_0010_lud_0,ACTOR,Rude
+$ev_grav7_0010_0010_lud_1,,Se ha aprobado el castigo contra Avalancha.
+$ev_grav7_0010_0010_lud_1,ACTOR,Rude
+$ev_grav7_0010_0020_lud_0,,Iniciamos la maniobra de desvío.
+$ev_grav7_0010_0020_lud_0,ACTOR,Rude
+$ev_grav7_0010_0030_ren_0,,¿Qué se les pasará por la cabeza a los de arriba?
+$ev_grav7_0010_0030_ren_0,ACTOR,Reno
+$ev_grav7_0010_0040_lud_0,,A los rebeldes hay que aplastarlos sin piedad. Siempre lo hemos hecho así.
+$ev_grav7_0010_0040_lud_0,ACTOR,Rude
+$ev_grav7_0010_0050_ren_0,,"Y todo se va al carajo, ¿no?"
+$ev_grav7_0010_0050_ren_0,ACTOR,Reno
+$ev_grav7_0010_0060_lud_0,,
+$ev_grav7_0010_0060_lud_0,ACTOR,
+$ev_grav7_0010_0065_ren_0,,
+$ev_grav7_0010_0065_ren_0,ACTOR,
+$ev_grav7_0010_0070_ren_0,,
+$ev_grav7_0010_0070_ren_0,ACTOR,
+$ev_grav7_0010_0070_ren_1,,No te hagas el bueno ahora.
+$ev_grav7_0010_0070_ren_1,ACTOR,Reno
+$ev_grav7_0010_0080_ren_0,,Bueno...
+$ev_grav7_0010_0080_ren_0,ACTOR,Reno
+$ev_grav7_0010_0090_tif_0,,
+$ev_grav7_0010_0090_tif_0,ACTOR,
+$ev_grav7_0010_0100_cld_0,,Será solo una patrulla.
+$ev_grav7_0010_0100_cld_0,ACTOR,Cloud
+$ev_grav7_0010_0110_art_0,,Vamos al sector 7.
+$ev_grav7_0010_0110_art_0,ACTOR,Aeris
+$ev_grav7_0010_0120_tif_0,,
+$ev_grav7_0010_0120_tif_0,ACTOR,
+$ev_grav7_0280_0004_cld_0,,
+$ev_grav7_0280_0004_cld_0,ACTOR,
+$ev_grav7_0280_0005_art_0,,
+$ev_grav7_0280_0005_art_0,ACTOR,
+$ev_grav7_0280_0010_tif_0,,¿Qué?
+$ev_grav7_0280_0010_tif_0,ACTOR,Tifa
+$ev_grav7_0280_0020_cld_0,,
+$ev_grav7_0280_0020_cld_0,ACTOR,
+$ev_grav7_0280_0030_tif_0,,
+$ev_grav7_0280_0030_tif_0,ACTOR,
+$ev_grav7_0280_0040_art_0,,
+$ev_grav7_0280_0040_art_0,ACTOR,
+$ev_grav7_0280_0042_cld_0,,
+$ev_grav7_0280_0042_cld_0,ACTOR,
+$ev_grav7_0280_0045_art_0,,
+$ev_grav7_0280_0045_art_0,ACTOR,
+$ev_grav7_0280_0050_cld_0,,¿Estáis bien?
+$ev_grav7_0280_0050_cld_0,ACTOR,Cloud
+$ev_grav7_0280_0060_art_0,,"Por aquí, más o menos."
+$ev_grav7_0280_0060_art_0,ACTOR,Aeris
+$ev_grav7_0280_0070_tif_0,,"Ay... Sí, estoy bien."
+$ev_grav7_0280_0070_tif_0,ACTOR,Tifa
+$ev_grav7_0280_0080_tif_0,,
+$ev_grav7_0280_0080_tif_0,ACTOR,Tifa
+$ev_grav7_0280_0090_tif_0,,Mirad.
+$ev_grav7_0280_0090_tif_0,ACTOR,Tifa
+$ev_grav7_0280_0092_art_0,,
+$ev_grav7_0280_0092_art_0,ACTOR,
+$ev_grav7_0280_0093_cld_0,,
+$ev_grav7_0280_0093_cld_0,ACTOR,
+$ev_grav7_0280_0100_cld_0,,No te confíes.
+$ev_grav7_0280_0100_cld_0,ACTOR,Cloud
+$ev_grav7_0280_0110_art_0,,«Ven aquí».
+$ev_grav7_0280_0110_art_0,ACTOR,Aeris
+$ev_grav7_0280_0110_art_1,,¿Nos está llamando?
+$ev_grav7_0280_0110_art_1,ACTOR,Aeris
+$ev_grav7_0280_0120_tif_0,,
+$ev_grav7_0280_0120_tif_0,ACTOR,Tifa
+$ev_grav7_0300_0010_tif_0,,¿Y esto?
+$ev_grav7_0300_0010_tif_0,ACTOR,Tifa
+$ev_grav7_0300_0013_cld_0,,
+$ev_grav7_0300_0013_cld_0,ACTOR,
+$ev_grav7_0300_0015_art_0,,
+$ev_grav7_0300_0015_art_0,ACTOR,
+$ev_grav7_0300_0020_art_0,,¿Vamos a ver?
+$ev_grav7_0300_0020_art_0,ACTOR,Aeris
+$ev_grav7_0300_0023_cld_0,,
+$ev_grav7_0300_0023_cld_0,ACTOR,
+$ev_grav7_0300_0026_cld_0,,
+$ev_grav7_0300_0026_cld_0,ACTOR,
+$ev_grav7_0300_0030_tif_0,,Pero...
+$ev_grav7_0300_0030_tif_0,ACTOR,Tifa
+$ev_grav7_0300_0040_art_0,,¡Tranquila! Tenemos un guardaespaldas de primera.
+$ev_grav7_0300_0040_art_0,ACTOR,Aeris
+$ev_grav7_0300_0045_tif_0,,
+$ev_grav7_0300_0045_tif_0,ACTOR,
+$ev_grav7_0300_0050_art_0,,¿A que sí?
+$ev_grav7_0300_0050_art_0,ACTOR,Aeris
+$ev_grav7_0300_0060_cld_0,,Los fantasmas no son lo mío.
+$ev_grav7_0300_0060_cld_0,ACTOR,Cloud
+$ev_grav7_0300_0068_tif_0,,
+$ev_grav7_0300_0068_tif_0,ACTOR,
+$ev_grav7_0300_0069_cld_0,,
+$ev_grav7_0300_0069_cld_0,ACTOR,
+$ev_grav7_0300_0070_tif_0,,No digas eso y haz algo.
+$ev_grav7_0300_0070_tif_0,ACTOR,Tifa
+$ev_grav7_0300_0075_cld_0,,
+$ev_grav7_0300_0075_cld_0,ACTOR,
+$ev_grav7_0300_0080_cld_0,,"Vale, pero suéltame."
+$ev_grav7_0300_0080_cld_0,ACTOR,Cloud
+$ev_grav7_0300_0083_art_0,,
+$ev_grav7_0300_0083_art_0,ACTOR,
+$ev_grav7_0300_0086_tif_0,,
+$ev_grav7_0300_0086_tif_0,ACTOR,
+$ev_grav7_0300_0088_cld_0,,
+$ev_grav7_0300_0088_cld_0,ACTOR,
+$ev_grav7_0300_0090_cld_0,,
+$ev_grav7_0300_0090_cld_0,ACTOR,
+$ev_grav7_0340_0010_art_0,,Te pillé.
+$ev_grav7_0340_0010_art_0,ACTOR,Aeris
+$ev_grav7_0340_0010_art_1,,"Oye, ¿hablamos un poco?"
+$ev_grav7_0340_0010_art_1,ACTOR,Aeris
+$ev_grav7_0340_0013_art_0,,
+$ev_grav7_0340_0013_art_0,ACTOR,
+$ev_grav7_0340_0016_art_0,,
+$ev_grav7_0340_0016_art_0,ACTOR,
+$ev_grav7_0340_0020_tif_0,,
+$ev_grav7_0340_0020_tif_0,ACTOR,
+$ev_grav7_0340_0022_cld_0,,
+$ev_grav7_0340_0022_cld_0,ACTOR,
+$ev_grav7_0340_0025_art_0,,
+$ev_grav7_0340_0025_art_0,ACTOR,
+$ev_grav7_0340_0030_art_0,,
+$ev_grav7_0340_0030_art_0,ACTOR,
+$ev_grav7_0340_0040_cld_0,,Atrás.
+$ev_grav7_0340_0040_cld_0,ACTOR,Cloud
+$ev_grav7_0340_0050_cld_0,,
+$ev_grav7_0340_0050_cld_0,ACTOR,
+$ev_grav7_0360_0005_cld_0,,
+$ev_grav7_0360_0005_cld_0,ACTOR,
+$ev_grav7_0360_0010_art_0,,Espera.
+$ev_grav7_0360_0010_art_0,ACTOR,Aeris
+$ev_grav7_0360_0020_cld_0,,Esto es un monstruo.
+$ev_grav7_0360_0020_cld_0,ACTOR,Cloud
+$ev_grav7_0360_0030_art_0,,"Ya, pero..."
+$ev_grav7_0360_0030_art_0,ACTOR,Aeris
+$ev_grav7_0360_0032_art_0,,
+$ev_grav7_0360_0032_art_0,ACTOR,
+$ev_grav7_0360_0034_cld_0,,
+$ev_grav7_0360_0034_cld_0,ACTOR,
+$ev_grav7_0360_0036_art_0,,
+$ev_grav7_0360_0036_art_0,ACTOR,
+$ev_grav7_0360_0040_tif_0,,¿Qué?
+$ev_grav7_0360_0040_tif_0,ACTOR,Tifa
+$ev_grav7_0360_0045_cld_0,,
+$ev_grav7_0360_0045_cld_0,ACTOR,
+$ev_grav7_0360_0046_art_0,,
+$ev_grav7_0360_0046_art_0,ACTOR,
+$ev_grav7_0360_0050_art_0,,
+$ev_grav7_0360_0050_art_0,ACTOR,
+$ev_grav7_0360_0055_cld_0,,
+$ev_grav7_0360_0055_cld_0,ACTOR,
+$ev_grav7_0360_0060_tif_0,,
+$ev_grav7_0360_0060_tif_0,ACTOR,
+$ev_grav7_0360_0063_art_0,,
+$ev_grav7_0360_0063_art_0,ACTOR,
+$ev_grav7_0360_0065_cld_0,,
+$ev_grav7_0360_0065_cld_0,ACTOR,
+$ev_grav7_0360_0070_cld_0,,¡Huid!
+$ev_grav7_0360_0070_cld_0,ACTOR,Cloud
+$ev_grav7_0360_0072_art_0,,
+$ev_grav7_0360_0072_art_0,ACTOR,
+$ev_grav7_0360_0080_art_0,,
+$ev_grav7_0360_0080_art_0,ACTOR,
+$ev_grav7_0360_0090_tif_0,,
+$ev_grav7_0360_0090_tif_0,ACTOR,
+$ev_grav7_0360_0100_cld_0,,¿Estáis bien?
+$ev_grav7_0360_0100_cld_0,ACTOR,Cloud
+$ev_grav7_0360_0110_tif_0,,
+$ev_grav7_0360_0110_tif_0,ACTOR,Tifa
+$ev_grav7_0360_0120_art_0,,"Gracias, Cloud."
+$ev_grav7_0360_0120_art_0,ACTOR,Aeris
+$ev_grav7_0360_0121_art_0,,
+$ev_grav7_0360_0121_art_0,ACTOR,
+$ev_grav7_0360_0122_cld_0,,
+$ev_grav7_0360_0122_cld_0,ACTOR,
+$ev_grav7_0360_0128_cld_0,,
+$ev_grav7_0360_0128_cld_0,ACTOR,
+$ev_grav7_0360_0130_cld_0,,No queda otra que buscar otra ruta.
+$ev_grav7_0360_0130_cld_0,ACTOR,Cloud
+$ev_grav7_0360_0133_art_0,,
+$ev_grav7_0360_0133_art_0,ACTOR,
+$ev_grav7_0630_0005_art_0,,
+$ev_grav7_0630_0005_art_0,ACTOR,
+$ev_grav7_0630_0010_art_0,,¡Lo logramos!
+$ev_grav7_0630_0010_art_0,ACTOR,Aeris
+$ev_grav7_0630_0020_tif_0,,"Sí, rápido, fuera."
+$ev_grav7_0630_0020_tif_0,ACTOR,Tifa
+$ev_grav7_0630_0025_tif_0,,
+$ev_grav7_0630_0025_tif_0,ACTOR,
+$ev_grav7_0630_0030_tif_0,,Esto...
+$ev_grav7_0630_0030_tif_0,ACTOR,Tifa
+$ev_grav7_0630_0038_art_0,,
+$ev_grav7_0630_0038_art_0,ACTOR,
+$ev_grav7_0630_0040_art_0,,Esa niña...
+$ev_grav7_0630_0040_art_0,ACTOR,Aeris
+$ev_grav7_0630_0045_tif_0,,
+$ev_grav7_0630_0045_tif_0,ACTOR,
+$ev_grav7_0630_0050_tif_0,,¿Marlene?
+$ev_grav7_0630_0050_tif_0,ACTOR,Tifa
+$ev_grav7_0640_0010_mrn_0,,"A los niños que se lleva el viento negro, se pasan la eternidad vagando por el cementerio de trenes."
+$ev_grav7_0640_0010_mrn_0,ACTOR,Marlene
+$ev_grav7_0640_0020_mrn_0,,"Como es peligroso, Tifa tampoco debe acercarse nunca, ¿vale?"
+$ev_grav7_0640_0020_mrn_0,ACTOR,Marlene
+$ev_grav7_0640_0030_tif_0,,"Sí, entendido."
+$ev_grav7_0640_0030_tif_0,ACTOR,Tifa
+$ev_grav7_0640_0035_mrn_0,,
+$ev_grav7_0640_0035_mrn_0,ACTOR,
+$ev_grav7_0640_0040_mrn_0,,"Y luego, a ver, ayer Betty fue con su papá a..."
+$ev_grav7_0640_0040_mrn_0,ACTOR,Marlene
+$ev_grav7_0640_0045_tif_0,,
+$ev_grav7_0640_0045_tif_0,ACTOR,
+$ev_grav7_0640_0050_mrn_0,,"Papá tarda mucho, ¿eh?"
+$ev_grav7_0640_0050_mrn_0,ACTOR,Marlene
+$ev_grav7_0640_0055_tif_0,,
+$ev_grav7_0640_0055_tif_0,ACTOR,
+$ev_grav7_0640_0060_tif_0,,Sí. Puede que hoy no pueda volver.
+$ev_grav7_0640_0060_tif_0,ACTOR,Tifa
+$ev_grav7_0640_0070_mrn_0,,
+$ev_grav7_0640_0070_mrn_0,ACTOR,
+$ev_grav7_0640_0080_tif_0,,
+$ev_grav7_0640_0080_tif_0,ACTOR,
+$ev_grav7_0650_0010_tif_0,,"Marlene, verás..."
+$ev_grav7_0650_0010_tif_0,ACTOR,Tifa
+$ev_grav7_0650_0020_tif_0,,
+$ev_grav7_0650_0020_tif_0,ACTOR,
+$ev_grav7_0650_0030_tif_0,,Tenemos que volver rápido al sector 7.
+$ev_grav7_0650_0030_tif_0,ACTOR,Tifa
+$ev_grav7_0650_0040_cld_0,,
+$ev_grav7_0650_0040_cld_0,ACTOR,
+$ev_grav7_0770_0020_tif_0,,
+$ev_grav7_0770_0020_tif_0,ACTOR,Tifa
+$ev_grav7_0770_0035_cld_0,,
+$ev_grav7_0770_0035_cld_0,ACTOR,
+$ev_grav7_0770_0040_ev1_0,,
+$ev_grav7_0770_0040_ev1_0,ACTOR,
+$ev_grav7_0770_0050_ev1_0,,
+$ev_grav7_0770_0050_ev1_0,ACTOR,
+$ev_grav7_0770_0060_tif_0,,¿Estáis bien?
+$ev_grav7_0770_0060_tif_0,ACTOR,Tifa
+$ev_grav7_0770_0070_cld_0,,Sí.
+$ev_grav7_0770_0070_cld_0,ACTOR,Cloud
+$ev_grav7_0780_0010_art_0,,
+$ev_grav7_0780_0010_art_0,ACTOR,Aeris
+$ev_grav7_0780_0012_cld_0,,
+$ev_grav7_0780_0012_cld_0,ACTOR,
+$ev_grav7_0780_0015_art_0,,¿Y esto?
+$ev_grav7_0780_0015_art_0,ACTOR,Aeris
+$ev_grav7_0780_0020_tsu_0,,El código de emergencia para liberar la plataforma... ¿te lo sabes?
+$ev_grav7_0780_0020_tsu_0,ACTOR,Tseng
+$ev_grav7_0780_0024_cld_0,,
+$ev_grav7_0780_0024_cld_0,ACTOR,
+$ev_grav7_0780_0030_ren_0,,"Sí, sí. Podemos tirarla cuando queramos..."
+$ev_grav7_0780_0030_ren_0,ACTOR,Reno
+$ev_grav7_0780_0030_ren_1,,Pero es que...
+$ev_grav7_0780_0030_ren_1,ACTOR,Reno
+$ev_grav7_0790_0005_lud_0,,
+$ev_grav7_0790_0005_lud_0,ACTOR,
+$ev_grav7_0790_0010_ren_0,,"Eh, no corras tanto."
+$ev_grav7_0790_0010_ren_0,ACTOR,Reno
+$ev_grav7_0790_0010_ren_1,,"Si lo hacemos ahora, lo perdemos todo."
+$ev_grav7_0790_0010_ren_1,ACTOR,Reno
+$ev_grav7_0790_0020_tsu_0,,"Reno, informa de la situación. ¿Pasa algo?"
+$ev_grav7_0790_0020_tsu_0,ACTOR,Tseng
+$ev_grav7_0790_0030_ren_0,,"Al contrario, al contrario. Esos quieren morir con el pilar."
+$ev_grav7_0790_0030_ren_0,ACTOR,Reno
+$ev_grav7_0790_0040_tsu_0,,¿Van de héroes trágicos? Enviaré refuerzos.
+$ev_grav7_0790_0040_tsu_0,ACTOR,Tseng
+$ev_grav7_0790_0050_tsu_1,,"Cuantos más actores, mejor, ¿no?"
+$ev_grav7_0790_0050_tsu_1,ACTOR,Tseng
+$ev_grav7_0790_0060_ren_0,,"¿Actores, dices?"
+$ev_grav7_0790_0060_ren_0,ACTOR,Reno
+$ev_grav7_0790_0070_tsu_0,,No olvides informar cuando termines la misión.
+$ev_grav7_0790_0070_tsu_0,ACTOR,Tseng
+$ev_grav7_0800_0005_art_0,,
+$ev_grav7_0800_0005_art_0,ACTOR,
+$ev_grav7_0800_0007_tif_0,,
+$ev_grav7_0800_0007_tif_0,ACTOR,
+$ev_grav7_0800_0010_cld_0,,Tifa.
+$ev_grav7_0800_0010_cld_0,ACTOR,Cloud
+$ev_grav7_0800_0020_tif_0,,El plan era verdad.
+$ev_grav7_0800_0020_tif_0,ACTOR,Tifa
+$ev_grav7_0800_0030_cld_0,,Barret y los demás no se dejarán vencer tan fácilmente.
+$ev_grav7_0800_0030_cld_0,ACTOR,Cloud
+$ev_grav7_0800_0039_art_0,,
+$ev_grav7_0800_0039_art_0,ACTOR,
+$ev_grav7_0800_0040_art_0,,El sector 7 está cerca. Vamos.
+$ev_grav7_0800_0040_art_0,ACTOR,Aeris
+$ev_grav7_0800_0045_tif_0,,
+$ev_grav7_0800_0045_tif_0,ACTOR,
+$ev_grav7_0800_0050_tif_0,,"Por favor, que lleguemos a tiempo."
+$ev_grav7_0800_0050_tif_0,ACTOR,Tifa
+$ev_grav7_0860_0020_art_0,,Increíble.
+$ev_grav7_0860_0020_art_0,ACTOR,Aeris
+$ev_grav7_0880_0010_cld_0,,
+$ev_grav7_0880_0010_cld_0,ACTOR,Cloud
+$ev_grav7_0880_0020_tif_0,,Gracias.
+$ev_grav7_0880_0020_tif_0,ACTOR,Tifa
+$ev_grav7_0880_0030_cld_0,,Vamos.
+$ev_grav7_0880_0030_cld_0,ACTOR,Cloud
+$ev_grav7_0920_0005_tif_0,,
+$ev_grav7_0920_0005_tif_0,ACTOR,
+$ev_grav7_0920_0010_tif_0,,¡Hemos llegado!
+$ev_grav7_0920_0010_tif_0,ACTOR,Tifa
+$ev_grav7_0920_0011_tif_0,,
+$ev_grav7_0920_0011_tif_0,ACTOR,
+$ev_grav7_0920_0012_tif_0,,
+$ev_grav7_0920_0012_tif_0,ACTOR,
+$ev_grav7_0920_0013_cld_0,,
+$ev_grav7_0920_0013_cld_0,ACTOR,
+$ev_grav7_0920_0014_art_0,,
+$ev_grav7_0920_0014_art_0,ACTOR,
+$ev_grav7_0920_0015_tif_0,,
+$ev_grav7_0920_0015_tif_0,ACTOR,
+$ev_grav7_0920_0016_tif_0,,
+$ev_grav7_0920_0016_tif_0,ACTOR,
+$ev_grav7_0920_0018_art_0,,
+$ev_grav7_0920_0018_art_0,ACTOR,
+$ev_grav7_0920_0020_tif_0,,
+$ev_grav7_0920_0020_tif_0,ACTOR,
+$ev_grav7_0920_0030_tif_0,,
+$ev_grav7_0920_0030_tif_0,ACTOR,
+$ev_grav7_8010_0010_tif_0,,
+$ev_grav7_8010_0010_tif_0,ACTOR,Tifa
+$ev_grav7_8010_0028_art_0,,
+$ev_grav7_8010_0028_art_0,ACTOR,
+$ev_grav7_8010_0031_art_0,,
+$ev_grav7_8010_0031_art_0,ACTOR,
+$ev_grav7_8010_0031_art_1,,¡Tifa!
+$ev_grav7_8010_0031_art_1,ACTOR,Aeris
+$ev_grav7_8010_0033_cld_0,,
+$ev_grav7_8010_0033_cld_0,ACTOR,
+$ev_grav7_8010_0034_art_0,,
+$ev_grav7_8010_0034_art_0,ACTOR,
+$ev_grav7_8010_0036_cld_0,,
+$ev_grav7_8010_0036_cld_0,ACTOR,
+$ev_grav7_8010_0037_art_0,,
+$ev_grav7_8010_0037_art_0,ACTOR,
+$ev_grav7_8010_0039_cld_0,,
+$ev_grav7_8010_0039_cld_0,ACTOR,
+$ev_grav7_8010_0040_tif_0,,
+$ev_grav7_8010_0040_tif_0,ACTOR,
+$ev_grav7_8010_0041_cld_0,,
+$ev_grav7_8010_0041_cld_0,ACTOR,
+$ev_grav7_8010_0042_art_0,,
+$ev_grav7_8010_0042_art_0,ACTOR,
+$ev_grav7_8010_0044_cld_0,,
+$ev_grav7_8010_0044_cld_0,ACTOR,
+$ev_grav7_8010_0045_art_0,,
+$ev_grav7_8010_0045_art_0,ACTOR,
+$ev_grav7_8010_0047_cld_0,,
+$ev_grav7_8010_0047_cld_0,ACTOR,
+$ev_grav7_8010_0049_cld_0,,
+$ev_grav7_8010_0049_cld_0,ACTOR,
+$ev_grav7_8010_0060_art_0,,¿Te pillé?
+$ev_grav7_8010_0060_art_0,ACTOR,Aeris
+$ev_grav7_8010_0060_art_1,,
+$ev_grav7_8010_0060_art_1,ACTOR,
+$ev_grav7_8010_0061_cld_0,,
+$ev_grav7_8010_0061_cld_0,ACTOR,
+$ev_grav7_8010_0063_cld_0,,
+$ev_grav7_8010_0063_cld_0,ACTOR,
+$ev_grav7_8010_0065_cld_0,,
+$ev_grav7_8010_0065_cld_0,ACTOR,
+$ev_grav7_8010_0067_art_0,,
+$ev_grav7_8010_0067_art_0,ACTOR,
+$ev_grav7_8010_0068_cld_0,,
+$ev_grav7_8010_0068_cld_0,ACTOR,
+$ev_grav7_8010_0070_cld_0,,No tengo tiempo para juegos.
+$ev_grav7_8010_0070_cld_0,ACTOR,Cloud
+$ev_grav7_8020_0010_cld_0,,
+$ev_grav7_8020_0010_cld_0,ACTOR,
+$ev_grav7_8020_0020_cld_0,,
+$ev_grav7_8020_0020_cld_0,ACTOR,
+$ev_grav7_8020_0030_tif_0,,
+$ev_grav7_8020_0030_tif_0,ACTOR,
+$ev_grav7_8020_0040_art_0,,
+$ev_grav7_8020_0040_art_0,ACTOR,
+$ev_grav7_8020_0050_cld_0,,
+$ev_grav7_8020_0050_cld_0,ACTOR,
+$ev_grav7_8020_0060_tif_0,,
+$ev_grav7_8020_0060_tif_0,ACTOR,
+$ev_grav7_8020_0070_art_0,,
+$ev_grav7_8020_0070_art_0,ACTOR,
+$ev_grav7_8020_0080_cld_0,,
+$ev_grav7_8020_0080_cld_0,ACTOR,
+$ev_grav7_8020_0090_tif_0,,
+$ev_grav7_8020_0090_tif_0,ACTOR,
+$ev_grav7_8020_0100_art_0,,
+$ev_grav7_8020_0100_art_0,ACTOR,
+$ev_grav7_8030_0010_tif_0,,
+$ev_grav7_8030_0010_tif_0,ACTOR,
+$ev_grav7_8030_0014_cld_0,,
+$ev_grav7_8030_0014_cld_0,ACTOR,
+$ev_grav7_8030_0020_art_0,,El escondite.
+$ev_grav7_8030_0020_art_0,ACTOR,Aeris
+$ev_grav7_8030_0030_art_0,,¿Habrá estado esperando todo este tiempo a que alguien la encontrara?
+$ev_grav7_8030_0030_art_0,ACTOR,Aeris
+$ev_grav7_8030_0038_cld_0,,
+$ev_grav7_8030_0038_cld_0,ACTOR,
+$ev_grav7_8030_0040_cld_0,,¿De qué hablas?
+$ev_grav7_8030_0040_cld_0,ACTOR,Cloud
+$ev_grav7_8030_0042_art_0,,
+$ev_grav7_8030_0042_art_0,ACTOR,
+$ev_grav7_8030_0060_cld_1,,Volvamos y movamos la grúa.
+$ev_grav7_8030_0060_cld_1,ACTOR,Cloud
+$ev_grav7_8110_0010_tif_0,,Está cerca. Demos prisa.
+$ev_grav7_8110_0010_tif_0,ACTOR,Tifa
+$ev_grav7_8110_0020_cld_0,,Sí.
+$ev_grav7_8110_0020_cld_0,ACTOR,Cloud
+$ev_grav7_8110_0030_cld_0,,
+$ev_grav7_8110_0030_cld_0,ACTOR,
+$ev_grav7_8110_0032_art_0,,
+$ev_grav7_8110_0032_art_0,ACTOR,
+$ev_grav7_8110_0034_art_0,,
+$ev_grav7_8110_0034_art_0,ACTOR,
+$ev_grav7_8110_0040_ev1_0,,
+$ev_grav7_8110_0040_ev1_0,ACTOR,
+$ev_grav7_8110_0050_art_0,,¡Cloud!
+$ev_grav7_8110_0050_art_0,ACTOR,Aeris
+$ev_grav7_8110_0052_art_0,,
+$ev_grav7_8110_0052_art_0,ACTOR,
+$ev_grav7_8110_0060_cld_0,,¡Aeris!
+$ev_grav7_8110_0060_cld_0,ACTOR,Cloud
+$ev_grav7_8110_0070_cld_0,,
+$ev_grav7_8110_0070_cld_0,ACTOR,
+$ev_grav7_8110_0080_tif_0,,
+$ev_grav7_8110_0080_tif_0,ACTOR,Tifa
+$ev_grav7_8110_0090_mrn_0,,"A los niños que se lleva el viento negro, se pasan la eternidad vagando por el cementerio de trenes."
+$ev_grav7_8110_0090_mrn_0,ACTOR,Marlene
+$ev_grav7_8120_0003_art_0,,
+$ev_grav7_8120_0003_art_0,ACTOR,
+$ev_grav7_8120_0006_art_0,,
+$ev_grav7_8120_0006_art_0,ACTOR,
+$ev_grav7_8120_0010_art_0,,¿Me has protegido tú?
+$ev_grav7_8120_0010_art_0,ACTOR,Aeris
+$ev_grav7_8120_0012_art_0,,
+$ev_grav7_8120_0012_art_0,ACTOR,
+$ev_grav7_8120_0014_art_0,,
+$ev_grav7_8120_0014_art_0,ACTOR,
+$ev_grav7_8120_0016_art_0,,
+$ev_grav7_8120_0016_art_0,ACTOR,
+$ev_grav7_8120_0018_art_0,,
+$ev_grav7_8120_0018_art_0,ACTOR,
+$ev_grav7_8120_0020_art_0,,Tú... a estos niños...
+$ev_grav7_8120_0020_art_0,ACTOR,Aeris
+$ev_grav7_8130_0010_hs01_0,,¿Ya está?
+$ev_grav7_8130_0010_hs01_0,ACTOR,Niño
+$ev_grav7_8130_0020_hs01_0,,¿Ya está?
+$ev_grav7_8130_0020_hs01_0,ACTOR,Niño
+$ev_grav7_8130_0030_hs02_0,,¡Ya!
+$ev_grav7_8130_0030_hs02_0,ACTOR,Niño
+$ev_grav7_8130_0040_hs03_0,,¡Ya está!
+$ev_grav7_8130_0040_hs03_0,ACTOR,Niña
+$ev_grav7_8130_0050_hs01_0,,¡Te pillé!
+$ev_grav7_8130_0050_hs01_0,ACTOR,Niño
+$ev_grav7_8130_0060_hs03_0,,"Ah, me has encontrado."
+$ev_grav7_8130_0060_hs03_0,ACTOR,Niña
+$ev_grav7_8130_0070_hs01_0,,¡Encontrado!
+$ev_grav7_8130_0070_hs01_0,ACTOR,Niño
+$ev_grav7_8130_0080_hs02_0,,"Ah, me han encontrado."
+$ev_grav7_8130_0080_hs02_0,ACTOR,Niño
+$ev_grav7_8130_0090_hs03_0,,"Oye, ¿y Aeris?"
+$ev_grav7_8130_0090_hs03_0,ACTOR,Niño
+$ev_grav7_8130_0100_art_0,,¡Ya está!
+$ev_grav7_8130_0100_art_0,ACTOR,Aeris
+$ev_grav7_8130_0110_art_0,,¡Ya está!
+$ev_grav7_8130_0110_art_0,ACTOR,Aeris
+$ev_grav7_8130_0115_art_0,,
+$ev_grav7_8130_0115_art_0,ACTOR,
+$ev_grav7_8130_0118_art_0,,
+$ev_grav7_8130_0118_art_0,ACTOR,
+$ev_grav7_8130_0120_art_0,,¡Ya está!
+$ev_grav7_8130_0120_art_0,ACTOR,Aeris
+$ev_grav7_8130_0130_art_0,,¡Ya está!
+$ev_grav7_8130_0130_art_0,ACTOR,Aeris
+$ev_grav7_8130_0135_art_0,,
+$ev_grav7_8130_0135_art_0,ACTOR,
+$ev_grav7_8130_0140_art_0,,Ya... vale...
+$ev_grav7_8130_0140_art_0,ACTOR,Aeris
+$ev_grav7_8130_0150_art_0,,
+$ev_grav7_8130_0150_art_0,ACTOR,
+$ev_grav7_8130_0155_art_0,,
+$ev_grav7_8130_0155_art_0,ACTOR,
+$ev_grav7_8130_0160_art_0,,Mamá...
+$ev_grav7_8130_0160_art_0,ACTOR,Aeris
+$ev_grav7_8130_0162_art_0,,
+$ev_grav7_8130_0162_art_0,ACTOR,
+$ev_grav7_8130_0165_art_0,,
+$ev_grav7_8130_0165_art_0,ACTOR,
+$ev_grav7_8140_0010_cld_0,,¡Aeris!
+$ev_grav7_8140_0010_cld_0,ACTOR,Cloud
+$ev_grav7_8140_0020_art_0,,
+$ev_grav7_8140_0020_art_0,ACTOR,
+$ev_grav7_8140_0022_cld_0,,
+$ev_grav7_8140_0022_cld_0,ACTOR,
+$ev_grav7_8140_0023_art_0,,
+$ev_grav7_8140_0023_art_0,ACTOR,
+$ev_grav7_8140_0025_art_0,,
+$ev_grav7_8140_0025_art_0,ACTOR,
+$ev_grav7_8140_0026_art_0,,
+$ev_grav7_8140_0026_art_0,ACTOR,
+$ev_grav7_8140_0027_cld_0,,
+$ev_grav7_8140_0027_cld_0,ACTOR,
+$ev_grav7_8140_0030_tif_0,,"Te encontré, Aeris."
+$ev_grav7_8140_0030_tif_0,ACTOR,Tifa
+$ev_grav7_8140_0032_tif_0,,
+$ev_grav7_8140_0032_tif_0,ACTOR,
+$ev_grav7_8140_0035_art_0,,
+$ev_grav7_8140_0035_art_0,ACTOR,
+$ev_grav7_8140_0040_art_0,,Me has encontrado.
+$ev_grav7_8140_0040_art_0,ACTOR,Aeris
+$ev_grav7_8140_0042_art_0,,
+$ev_grav7_8140_0042_art_0,ACTOR,
+$ev_grav7_8140_0044_tif_0,,
+$ev_grav7_8140_0044_tif_0,ACTOR,
+$ev_grav7_8140_0050_ev1_0,,
+$ev_grav7_8140_0050_ev1_0,ACTOR,
+$ev_grav7_8140_0054_cld_0,,
+$ev_grav7_8140_0054_cld_0,ACTOR,
+$ev_grav7_8140_0056_tif_0,,
+$ev_grav7_8140_0056_tif_0,ACTOR,
+$ev_grav7_8140_0060_cld_0,,Vamos.
+$ev_grav7_8140_0060_cld_0,ACTOR,Cloud
+$ev_grav7_8140_0065_tif_0,,
+$ev_grav7_8140_0065_tif_0,ACTOR,
+$ev_grav7_8140_0070_art_0,,
+$ev_grav7_8140_0070_art_0,ACTOR,
+$ev_grav7_8150_0010_cld_0,,
+$ev_grav7_8150_0010_cld_0,ACTOR,
+$ev_grav7_8150_0020_tif_0,,
+$ev_grav7_8150_0020_tif_0,ACTOR,
+$ev_grav7_8150_0030_art_0,,
+$ev_grav7_8150_0030_art_0,ACTOR,
+$ev_grav7_8150_0040_cld_0,,
+$ev_grav7_8150_0040_cld_0,ACTOR,
+$ev_grav7_8150_0050_tif_0,,
+$ev_grav7_8150_0050_tif_0,ACTOR,
+$ev_grav7_8150_0060_art_0,,
+$ev_grav7_8150_0060_art_0,ACTOR,
+$ev_grav7_8160_0002_cld_0,,
+$ev_grav7_8160_0002_cld_0,ACTOR,
+$ev_grav7_8160_0004_cld_0,,
+$ev_grav7_8160_0004_cld_0,ACTOR,
+$ev_grav7_8160_0006_cld_0,,
+$ev_grav7_8160_0006_cld_0,ACTOR,
+$ev_grav7_8160_0008_art_0,,
+$ev_grav7_8160_0008_art_0,ACTOR,
+$ev_grav7_8160_0010_art_0,,¡Cloud!
+$ev_grav7_8160_0010_art_0,ACTOR,Aeris
+$ev_grav7_8160_0020_tif_0,,¡Cuidado!
+$ev_grav7_8160_0020_tif_0,ACTOR,Tifa
+$ev_grav7_8160_0030_tif_0,,
+$ev_grav7_8160_0030_tif_0,ACTOR,
+$ev_grav7_8160_0040_art_0,,
+$ev_grav7_8160_0040_art_0,ACTOR,
+$ev_grav7_8170_0005_tif_0,,
+$ev_grav7_8170_0005_tif_0,ACTOR,
+$ev_grav7_8170_0010_tif_0,,"Chicos, ¡ahora voy!"
+$ev_grav7_8170_0010_tif_0,ACTOR,Tifa
+$ev_grav7_8170_0020_tif_0,,¡Aparta de una vez!
+$ev_grav7_8170_0020_tif_0,ACTOR,Tifa
+$ev_grav7_8170_0022_tif_0,,
+$ev_grav7_8170_0022_tif_0,ACTOR,
+$ev_grav7_8170_0024_tif_0,,
+$ev_grav7_8170_0024_tif_0,ACTOR,
+$ev_grav7_8170_0030_tif_0,,Vamos.
+$ev_grav7_8170_0030_tif_0,ACTOR,Tifa
+$ev_grav7_8170_0040_cld_0,,
+$ev_grav7_8170_0040_cld_0,ACTOR,Cloud
+$ev_grav7_8170_0050_art_0,,
+$ev_grav7_8170_0050_art_0,ACTOR,Aeris
+$ev_grav7_8170_0052_tif_0,,
+$ev_grav7_8170_0052_tif_0,ACTOR,
+$ev_grav7_8170_0054_tif_0,,
+$ev_grav7_8170_0054_tif_0,ACTOR,
+$ev_grav7_8170_0060_tif_0,,Esa niña...
+$ev_grav7_8170_0060_tif_0,ACTOR,Tifa
+$ev_grav7_8170_0070_tif_0,,Increíble.
+$ev_grav7_8170_0070_tif_0,ACTOR,Tifa
+$ev_grav7_8170_0080_art_0,,Hasta luego.
+$ev_grav7_8170_0080_art_0,ACTOR,Aeris
+$level_grav7_sys_turnrail,,La plataforma giratoria se ha activado.
+$level_grav7_sys_turnrail,ACTOR,
+$lv_grav7_0430_0050_art_0,,¡Te pillé!
+$lv_grav7_0430_0050_art_0,ACTOR,Aeris
+$lv_grav7_0460_0010_tif_0,,¿Habrá más aquí?
+$lv_grav7_0460_0010_tif_0,ACTOR,Tifa
+$lv_grav7_0460_0020_art_0,,Parece que sí.
+$lv_grav7_0460_0020_art_0,ACTOR,Aeris
+$lv_grav7_0460_0030_art_0,,¡Te pillé!
+$lv_grav7_0460_0030_art_0,ACTOR,Aeris
+$pv_grav7_0030_0010_cld_0,,Parece un laberinto.
+$pv_grav7_0030_0010_cld_0,ACTOR,Cloud
+$pv_grav7_0030_0020_tif_0,,Conocido como el cementerio de trenes. Un tesoro de chatarra.
+$pv_grav7_0030_0020_tif_0,ACTOR,Tifa
+$pv_grav7_0030_0030_tif_0,,Más allá de la cochera de trenes que se ve allí debería estar el sector 7.
+$pv_grav7_0030_0030_tif_0,ACTOR,Tifa
+$pv_grav7_0030_0040_tif_0,,Vamos por los sitios con luz.
+$pv_grav7_0030_0040_tif_0,ACTOR,Tifa
+$pv_grav7_0030_0050_art_0,,"Luz, luz..."
+$pv_grav7_0030_0050_art_0,ACTOR,Aeris
+$pv_grav7_0030_0060_cld_0,,Aquella.
+$pv_grav7_0030_0060_cld_0,ACTOR,Cloud
+$pv_grav7_0050_0010_art_0,,No hay nadie.
+$pv_grav7_0050_0010_art_0,ACTOR,Aeris
+$pv_grav7_0050_0020_tif_0,,Normalmente nadie se acerca.
+$pv_grav7_0050_0020_tif_0,ACTOR,Tifa
+$pv_grav7_0050_0030_tif_0,,Y no solo por los monstruos: también corren rumores que dan miedo.
+$pv_grav7_0050_0030_tif_0,ACTOR,Tifa
+$pv_grav7_0050_0040_art_0,,¿Rumores?
+$pv_grav7_0050_0040_art_0,ACTOR,Aeris
+$pv_grav7_0050_0050_tif_0,,Dicen que en el cementerio de trenes salen fantasmas.
+$pv_grav7_0050_0050_tif_0,ACTOR,Tifa
+$pv_grav7_0050_0060_tif_0,,"Si te pierdes en el cementerio de trenes de noche, jamás vuelves."
+$pv_grav7_0050_0060_tif_0,ACTOR,Tifa
+$pv_grav7_0050_0070_art_0,,
+$pv_grav7_0050_0070_art_0,ACTOR,
+$pv_grav7_0050_0080_cld_0,,¿Fantasmas?
+$pv_grav7_0050_0080_cld_0,ACTOR,Cloud
+$pv_grav7_0050_0090_tif_0,,"Yo también pienso que son cuentos de niños, pero..."
+$pv_grav7_0050_0090_tif_0,ACTOR,Tifa
+$pv_grav7_0050_0100_cld_0,,Salgamos rápido.
+$pv_grav7_0050_0100_cld_0,ACTOR,Cloud
+$pv_grav7_0120_0010_tif_0,,¡Uah! ¿Qué pasa?
+$pv_grav7_0120_0010_tif_0,ACTOR,Tifa
+$pv_grav7_0121_0002_dl02_0,,
+$pv_grav7_0121_0002_dl02_0,ACTOR,
+$pv_grav7_0125_0020_tif_0,,No me asustes.
+$pv_grav7_0125_0020_tif_0,ACTOR,Tifa
+$pv_grav7_0130_0010_tif_0,,"Antes se ha oído la voz de un niño, ¿verdad?"
+$pv_grav7_0130_0010_tif_0,ACTOR,Tifa
+$pv_grav7_0130_0020_cld_0,,No es hora de que haya niños por aquí.
+$pv_grav7_0130_0020_cld_0,ACTOR,Cloud
+$pv_grav7_0130_0030_tif_0,,Entonces...
+$pv_grav7_0130_0030_tif_0,ACTOR,Tifa
+$pv_grav7_0161_0002_dl02_0,,
+$pv_grav7_0161_0002_dl02_0,ACTOR,
+$pv_grav7_0181_0002_dl02_0,,
+$pv_grav7_0181_0002_dl02_0,ACTOR,
+$pv_grav7_0241_0001_dl02_0,,
+$pv_grav7_0241_0001_dl02_0,ACTOR,
+$pv_grav7_0290_0010_cld_0,,Así que esta es la cochera de trenes.
+$pv_grav7_0290_0010_cld_0,ACTOR,Cloud
+$pv_grav7_0320_0010_tif_0,,¿Qué?
+$pv_grav7_0320_0010_tif_0,ACTOR,Tifa
+$pv_grav7_0320_0020_art_0,,¡Ah! Ahí también.
+$pv_grav7_0320_0020_art_0,ACTOR,Aeris
+$pv_grav7_0321_0001_dl02_0,,
+$pv_grav7_0321_0001_dl02_0,ACTOR,
+$pv_grav7_0350_0010_art_0,,Tú eres...
+$pv_grav7_0350_0010_art_0,ACTOR,Aeris
+$pv_grav7_0370_0020_tif_0,,¿Qué hacemos?
+$pv_grav7_0370_0020_tif_0,ACTOR,Tifa
+$pv_grav7_0370_0030_gan_0,,Este tren... vía estación... destino cementerio.
+$pv_grav7_0370_0030_gan_0,ACTOR,¿?
+$pv_grav7_0370_0040_gan_0,,Los pasajeros... deben darse prisa...
+$pv_grav7_0370_0040_gan_0,ACTOR,¿?
+$pv_grav7_0370_0050_gan_0,,
+$pv_grav7_0370_0050_gan_0,ACTOR,
+$pv_grav7_0375_0020_tif_0,,¿Qué hacemos?
+$pv_grav7_0375_0020_tif_0,ACTOR,Tifa
+$pv_grav7_0375_0030_gan_0,,Este tren... vía estación... destino cementerio.
+$pv_grav7_0375_0030_gan_0,ACTOR,¿?
+$pv_grav7_0375_0040_gan_0,,Los pasajeros... deben darse prisa...
+$pv_grav7_0375_0040_gan_0,ACTOR,¿?
+$pv_grav7_0375_0050_gan_0,,
+$pv_grav7_0375_0050_gan_0,ACTOR,
+$pv_grav7_0380_0040_art_0,,Qué malo...
+$pv_grav7_0380_0040_art_0,ACTOR,Aeris
+$pv_grav7_0380_0050_cld_0,,Así que la grúa está arriba.
+$pv_grav7_0380_0050_cld_0,ACTOR,Cloud
+$pv_grav7_0381_0021_dl02_0,,
+$pv_grav7_0381_0021_dl02_0,ACTOR,
+$pv_grav7_0400_0010_cld_0,,No funciona. No hay corriente.
+$pv_grav7_0400_0010_cld_0,ACTOR,Cloud
+$pv_grav7_0400_0020_art_0,,¿Esto también será una travesura? ¿Habrán cortado la corriente en algún sitio?
+$pv_grav7_0400_0020_art_0,ACTOR,Aeris
+$pv_grav7_0401_0011_dl02_0,,
+$pv_grav7_0401_0011_dl02_0,ACTOR,
+$pv_grav7_0411_0001_dl02_0,,
+$pv_grav7_0411_0001_dl02_0,ACTOR,
+$pv_grav7_0621_0010_tif_0,,"Qué bien, se ha movido."
+$pv_grav7_0621_0010_tif_0,ACTOR,Tifa
+$pv_grav7_0621_0020_art_0,,¿Ya podremos pasar?
+$pv_grav7_0621_0020_art_0,ACTOR,Aeris
+$pv_grav7_0621_0030_cld_0,,Vamos a probar.
+$pv_grav7_0621_0030_cld_0,ACTOR,Cloud
+$pv_grav7_0695_0010_art_0,,¡Gira!
+$pv_grav7_0695_0010_art_0,ACTOR,Aeris
+$pv_grav7_0695_0020_tif_0,,¿Podremos ir al otro lado?
+$pv_grav7_0695_0020_tif_0,ACTOR,Tifa
+$pv_grav7_0760_0010_tif_0,,Otra vez el camino bloqueado. Y eso que falta poco.
+$pv_grav7_0760_0010_tif_0,ACTOR,Tifa
+$pv_grav7_0760_0020_art_0,,¿No podríamos mover el tren?
+$pv_grav7_0760_0020_art_0,ACTOR,Aeris
+$pv_grav7_0760_0030_cld_0,,Vamos a investigar.
+$pv_grav7_0760_0030_cld_0,ACTOR,Cloud
+$pv_grav7_0765_0010_cld_0,,He acertado. Parece que aún funciona.
+$pv_grav7_0765_0010_cld_0,ACTOR,Cloud
+$pv_grav7_0765_0030_art_0,,¡Lo logramos!
+$pv_grav7_0765_0030_art_0,ACTOR,Aeris
+$pv_grav7_0830_0010_cld_0,,¿Refuerzos de Shinra?
+$pv_grav7_0830_0010_cld_0,ACTOR,Cloud
+$pv_grav7_0830_cld_0,,
+$pv_grav7_0830_cld_0,ACTOR,
+$tk_grav7_0041_0001_dl02_0,,
+$tk_grav7_0041_0001_dl02_0,ACTOR,
+$tk_grav7_0091_0001_dl02_0,,
+$tk_grav7_0091_0001_dl02_0,ACTOR,
+$tk_grav7_0130_0010_tif_0,,Parece que había una puerta al otro lado. No queda otra que rodear.
+$tk_grav7_0130_0010_tif_0,ACTOR,Tifa
+$tk_grav7_0180_0010_tif_0,,"«Quien se pierde en el cementerio de trenes... jamás vuelve», ¿eh?"
+$tk_grav7_0180_0010_tif_0,ACTOR,Tifa
+$tk_grav7_0180_0020_tif_0,,¿Habría sido peligroso si nos hubieran atrapado?
+$tk_grav7_0180_0020_tif_0,ACTOR,Tifa
+$tk_grav7_0180_0030_art_0,,Puede que los atrapados sean esos niños.
+$tk_grav7_0180_0030_art_0,ACTOR,Aeris
+$tk_grav7_0180_0040_cld_0,,Basta ya de ese tema...
+$tk_grav7_0180_0040_cld_0,ACTOR,Cloud
+$tk_grav7_0180_0050_art_0,,¿Y si esa fuera la razón por la que no pueden volver?
+$tk_grav7_0180_0050_art_0,ACTOR,Aeris
+$tk_grav7_0200_0010_cld_0,,"Tifa, ¿estás bien?"
+$tk_grav7_0200_0010_cld_0,ACTOR,Cloud
+$tk_grav7_0200_0020_tif_0,,Sí. Vamos.
+$tk_grav7_0200_0020_tif_0,ACTOR,Tifa
+$tk_grav7_0260_0010_tif_0,,Los trenes de por aquí puede que aún funcionen.
+$tk_grav7_0260_0010_tif_0,ACTOR,Tifa
