@@ -214,11 +214,11 @@ $ev_slum7_0010_0205_cld_0,,
 $ev_slum7_0010_0205_cld_0,ACTOR,
 $ev_slum7_0010_0210_blt_0,,¿Lo habéis olvidado?
 $ev_slum7_0010_0210_blt_0,ACTOR,Barret
-$ev_slum7_0010_0210_blt_1,,La tienda se llama «Séptimo Cielo».
+$ev_slum7_0010_0210_blt_1,,"La tienda se llama ""Séptimo Cielo""."
 $ev_slum7_0010_0210_blt_1,ACTOR,Barret
 $ev_slum7_0010_0210_blt_2,,Enseña la cara a Tifa y tranquilízala.
 $ev_slum7_0010_0210_blt_2,ACTOR,Barret
-$ev_slum7_0030_0010_pmn_0,,"«El mako es la sangre que recorre el planeta»,<br>dicen, pero..."
+$ev_slum7_0030_0010_pmn_0,,"""El mako es la sangre que recorre el planeta"",<br>dicen, pero..."
 $ev_slum7_0030_0010_pmn_0,ACTOR,Hombre
 $ev_slum7_0030_0020_pmn_0,,"Por mucho que lo quitamos, vuelve enseguida."
 $ev_slum7_0030_0020_pmn_0,ACTOR,Hombre
@@ -318,7 +318,7 @@ $ev_slum7_0120_0030_blt_0,,"Muy bien, Marlene.<br>No has olvidado lo que te dije
 $ev_slum7_0120_0030_blt_0,ACTOR,Barret
 $ev_slum7_0120_0035_mrn_0,,
 $ev_slum7_0120_0035_mrn_0,ACTOR,
-$ev_slum7_0120_0040_blt_0,,Quanta razón tienes.<br>Pero también hay que respetar la hora de dormir.
+$ev_slum7_0120_0040_blt_0,,Cuánta razón tienes.<br>Pero también hay que respetar la hora de dormir.
 $ev_slum7_0120_0040_blt_0,ACTOR,Barret
 $ev_slum7_0120_0050_mrn_0,,No. Quiero hablar con papá.
 $ev_slum7_0120_0050_mrn_0,ACTOR,Marlene
@@ -462,7 +462,7 @@ $ev_slum7_1020_0040_tif_4,,Lleva uno nuevo
 $ev_slum7_1020_0040_tif_4,ACTOR,Tifa
 $ev_slum7_1020_0040_tif_5,,y recoge el pago y el filtro viejo.<br>Es un trabajo sencillo.
 $ev_slum7_1020_0040_tif_5,ACTOR,Tifa
-$ev_slum7_1020_0040_tif_6,,Quiero ir a cambiar los filtros «JS».
+$ev_slum7_1020_0040_tif_6,,"Quiero ir a cambiar los filtros ""JS""."
 $ev_slum7_1020_0040_tif_6,ACTOR,Tifa
 $ev_slum7_1020_0041_cld_0,,
 $ev_slum7_1020_0041_cld_0,ACTOR,
@@ -750,7 +750,7 @@ $ev_slum7_1300_0190_cld_0,,Será por eso.
 $ev_slum7_1300_0190_cld_0,ACTOR,Cloud
 $ev_slum7_1300_0200_tif_0,,"Vaya, qué buen ojo tiene, señor cliente.<br>A continuación..."
 $ev_slum7_1300_0200_tif_0,ACTOR,Tifa
-$ev_slum7_1300_0210_tif_0,,La especialidad de la casa: «Cañón Cosmo».
+$ev_slum7_1300_0210_tif_0,,"La especialidad de la casa: ""Cañón Cosmo""."
 $ev_slum7_1300_0210_tif_0,ACTOR,Tifa
 $ev_slum7_1300_0220_cld_0,,Es bonito.
 $ev_slum7_1300_0220_cld_0,ACTOR,Cloud
@@ -768,7 +768,7 @@ $ev_slum7_1310_0010_cld_0,,
 $ev_slum7_1310_0010_cld_0,ACTOR,
 $ev_slum7_1310_0020_jec_0,,¿Has visto las noticias?
 $ev_slum7_1310_0020_jec_0,ACTOR,Jessie
-$ev_slum7_1310_0020_jec_1,,"«La explosión del reactor mako es obra de Avalancha,<br>enemiga de la ciudadanía»."
+$ev_slum7_1310_0020_jec_1,,"""La explosión del reactor mako es obra de Avalancha,<br>enemiga de la ciudadanía""."
 $ev_slum7_1310_0020_jec_1,ACTOR,Jessie
 $ev_slum7_1310_0020_jec_2,,"No paran de emitirlo.<br>Da escalofríos, ¿no?"
 $ev_slum7_1310_0020_jec_2,ACTOR,Jessie
@@ -870,7 +870,7 @@ $ev_slum7_1360_0040_cld_1,,No sé.
 $ev_slum7_1360_0040_cld_1,ACTOR,Cloud
 $ev_slum7_1360_0045_cl01_0,,
 $ev_slum7_1360_0045_cl01_0,ACTOR,
-$ev_slum7_1360_0050_cl01_0,,Quanta perspicacia.<br>¿Has olido el dinero?
+$ev_slum7_1360_0050_cl01_0,,Cuánta perspicacia.<br>¿Has olido el dinero?
 $ev_slum7_1360_0050_cl01_0,ACTOR,Tipo sospechoso
 $ev_slum7_1360_0060_cld_0,,¿Qué tal 500?
 $ev_slum7_1360_0060_cld_0,ACTOR,Cloud
@@ -1018,13 +1018,13 @@ $ev_slum7_1480_0060_jec_0,,"Entonces, ¿vendrás mañana por la noche?"
 $ev_slum7_1480_0060_jec_0,ACTOR,Jessie
 $ev_slum7_1480_0060_jec_1,,Parece que mis compañeros de piso no estarán.
 $ev_slum7_1480_0060_jec_1,ACTOR,Jessie
-$ev_slum7_1480_0070_cld_0,,"«Entonces», ¿qué significa?"
+$ev_slum7_1480_0070_cld_0,,"""Entonces"", ¿qué significa?"
 $ev_slum7_1480_0070_cld_0,ACTOR,Cloud
 $ev_slum7_1480_0070_cld_1,,"En fin, apártate."
 $ev_slum7_1480_0070_cld_1,ACTOR,Cloud
 $ev_slum7_1480_0080_jec_0,,"Si me aparto, ¿vendrás? Mañana por la noche."
 $ev_slum7_1480_0080_jec_0,ACTOR,Jessie
-$ev_slum7_1480_0090_cld_0,,Quanta insistencia.
+$ev_slum7_1480_0090_cld_0,,Cuánta insistencia.
 $ev_slum7_1480_0090_cld_0,ACTOR,Cloud
 $ev_slum7_1480_0100_jec_0,,Entendido. Así que esto no funciona.
 $ev_slum7_1480_0100_jec_0,ACTOR,Jessie
@@ -1060,7 +1060,7 @@ $ev_slum7_1480_9000_cut0_0,,"¿Si me aparto, vendrás?"
 $ev_slum7_1480_9000_cut0_0,ACTOR,
 $ev_slum7_1480_9001_cut1_0,,Vale.
 $ev_slum7_1480_9001_cut1_0,ACTOR,
-$ev_slum7_1480_9002_cut2_0,,Quanta insistencia.
+$ev_slum7_1480_9002_cut2_0,,Cuánta insistencia.
 $ev_slum7_1480_9002_cut2_0,ACTOR,
 $ev_slum7_1510_0010_tif_0,,¿Estás?
 $ev_slum7_1510_0010_tif_0,ACTOR,Tifa
@@ -1282,7 +1282,7 @@ $ev_slum7_2090_0010_wed_0,,
 $ev_slum7_2090_0010_wed_0,ACTOR,
 $ev_slum7_2090_0010_wed_1,,¿Estás bien?
 $ev_slum7_2090_0010_wed_1,ACTOR,Wedge
-$ev_slum7_2090_0020_jec_0,,Quanta escándalo. Estoy perfectamente.
+$ev_slum7_2090_0020_jec_0,,Cuánto escándalo. Estoy perfectamente.
 $ev_slum7_2090_0020_jec_0,ACTOR,Jessie
 $ev_slum7_2090_0030_tif_0,,Pero deberías reposar una temporada.
 $ev_slum7_2090_0030_tif_0,ACTOR,Tifa
@@ -1366,7 +1366,7 @@ $ev_slum7_2120_0040_blt_1,,Ya hemos avisado del atentado.
 $ev_slum7_2120_0040_blt_1,ACTOR,Barret
 $ev_slum7_2120_0040_blt_2,,Muchos compañeros se han movido por nosotros.
 $ev_slum7_2120_0040_blt_2,ACTOR,Barret
-$ev_slum7_2120_0040_blt_3,,"«Si no paráis el reactor mako, lo haremos hoy»."
+$ev_slum7_2120_0040_blt_3,,"""Si no paráis el reactor mako, lo haremos hoy""."
 $ev_slum7_2120_0040_blt_3,ACTOR,Barret
 $ev_slum7_2120_0050_blt_0,,Los malos son Shinra.
 $ev_slum7_2120_0050_blt_0,ACTOR,Barret
@@ -3067,11 +3067,11 @@ $pv_slum7_0065_0025_kbn_0,,"Váyase.<br>Si no se va, lo detendremos."
 $pv_slum7_0065_0025_kbn_0,ACTOR,Recluta novato
 $pv_slum7_0065_0030_kbs_0,,"Bien, así me gusta."
 $pv_slum7_0065_0030_kbs_0,ACTOR,Subteniente
-$pv_slum7_0075_0010_cld_0,,«Prohibido el paso por desprendimiento<br>en el vertedero».
+$pv_slum7_0075_0010_cld_0,,"""Prohibido el paso por desprendimiento<br>en el vertedero""."
 $pv_slum7_0075_0010_cld_0,ACTOR,Cloud
 $pv_slum7_0075_0020_cld_0,,Está prohibido el paso.
 $pv_slum7_0075_0020_cld_0,ACTOR,Cloud
-$pv_slum7_0076_0010_cld_0,,«Peligro: fallo en la puerta.<br>Gran cantidad de monstruos en la zona».
+$pv_slum7_0076_0010_cld_0,,"""Peligro: fallo en la puerta.<br>Gran cantidad de monstruos en la zona""."
 $pv_slum7_0076_0010_cld_0,ACTOR,Cloud
 $pv_slum7_0076_0020_cld_0,,No tengo nada que hacer aquí. Volvamos.
 $pv_slum7_0076_0020_cld_0,ACTOR,Cloud
@@ -4139,7 +4139,7 @@ $pv_slum7_4630_0050_blt_0,,"¡Maldita sea, maldita sea...!"
 $pv_slum7_4630_0050_blt_0,ACTOR,Barret
 $pv_slum7_5010_0010_ald_0,,"Hola, Tifa.<br>¿Tienes algún problema?"
 $pv_slum7_5010_0010_ald_0,ACTOR,Wymer
-$pv_slum7_5010_0020_tif_0,,"Quería presentarte a un gran ayudante.<br>Es Cloud, de «hombre para todo»."
+$pv_slum7_5010_0020_tif_0,,"Quería presentarte a un gran ayudante.<br>Es Cloud, de ""hombre para todo""."
 $pv_slum7_5010_0020_tif_0,ACTOR,Tifa
 $pv_slum7_5010_0030_ald_0,,"Vaya, es una gran ayuda.<br>Colabora por la seguridad y la felicidad de la ciudad."
 $pv_slum7_5010_0030_ald_0,ACTOR,Wymer
@@ -4159,7 +4159,7 @@ $pv_slum7_5020_0030_ald_0,,Aquí llegan cada día<br>todo tipo de consultas.
 $pv_slum7_5020_0030_ald_0,ACTOR,Wymer
 $pv_slum7_5030_0010_tif_0,,"Pronto se habrá corrido la voz<br>por toda la ciudad, ¿no?"
 $pv_slum7_5030_0010_tif_0,ACTOR,Tifa
-$pv_slum7_5030_0020_tif_0,,«Dicen que hay un hombre para todo increíble».
+$pv_slum7_5030_0020_tif_0,,"""Dicen que hay un hombre para todo increíble""."
 $pv_slum7_5030_0020_tif_0,ACTOR,Tifa
 $pv_slum7_5030_0030_cld_0,,Todavía no he hecho ningún trabajo<br>como para demostrar mi valía.
 $pv_slum7_5030_0030_cld_0,ACTOR,Cloud
@@ -4305,11 +4305,11 @@ $pv_slum7_5192_0020_is7_0,,
 $pv_slum7_5192_0020_is7_0,ACTOR,Dependiente
 $pv_slum7_5210_0010_jsm_0,,"Bienvenido.<br>Vaya, un cliente poco habitual."
 $pv_slum7_5210_0010_jsm_0,ACTOR,Chatarrero
-$pv_slum7_5210_0015_jsm_0,,"Vaya, así que no vienes de compras.<br>Tú eres el famoso «hombre para todo»."
+$pv_slum7_5210_0015_jsm_0,,"Vaya, así que no vienes de compras.<br>Tú eres el famoso ""hombre para todo""."
 $pv_slum7_5210_0015_jsm_0,ACTOR,Chatarrero
 $pv_slum7_5210_0035_jsm_0,,"Bueno, contigo parece que puede funcionar."
 $pv_slum7_5210_0035_jsm_0,ACTOR,Chatarrero
-$pv_slum7_5210_0040_jsm_0,,Quiero que te encargues de los «lagartos alados»<br>de la fábrica abandonada de Talaga.
+$pv_slum7_5210_0040_jsm_0,,"Quiero que te encargues de los ""lagartos alados""<br>de la fábrica abandonada de Talaga."
 $pv_slum7_5210_0040_jsm_0,ACTOR,Chatarrero
 $pv_slum7_5210_0045_jsm_0,,Ese es nuestro territorio.
 $pv_slum7_5210_0045_jsm_0,ACTOR,Chatarrero
@@ -4327,7 +4327,7 @@ $pv_slum7_5215_0010_jsm_0,,"Pregunta a Naljin, de la milicia.<br>Debe de estar d
 $pv_slum7_5215_0010_jsm_0,ACTOR,Chatarrero
 $pv_slum7_5215_0020_jsm_0,,"Si vas, mira también la tienda."
 $pv_slum7_5215_0020_jsm_0,ACTOR,Chatarrero
-$pv_slum7_5220_0010_nar_0,,Zona cerrada.<br>Hay «lagartos alados» rondando.
+$pv_slum7_5220_0010_nar_0,,"Zona cerrada.<br>Hay ""lagartos alados"" rondando."
 $pv_slum7_5220_0010_nar_0,ACTOR,Narjin
 $pv_slum7_5220_0015_nar_0,,"Vaya, ¿eres Tifa?<br>¿Sois vosotros los refuerzos de la milicia?"
 $pv_slum7_5220_0015_nar_0,ACTOR,Narjin
@@ -4343,7 +4343,7 @@ $pv_slum7_5223_0010_nar_0,,Zona cerrada.
 $pv_slum7_5223_0010_nar_0,ACTOR,Narjin
 $pv_slum7_5223_0020_nar_0,,Es imposible. Vete.
 $pv_slum7_5223_0020_nar_0,ACTOR,Narjin
-$pv_slum7_5225_0010_nar_0,,Hay dos grupos de «lagartos alados».<br>Están en el almacén del fondo. Elimínalos todos.
+$pv_slum7_5225_0010_nar_0,,"Hay dos grupos de ""lagartos alados"".<br>Están en el almacén del fondo. Elimínalos todos."
 $pv_slum7_5225_0010_nar_0,ACTOR,Narjin
 $pv_slum7_5226_0010_nar_0,,Ánimo.
 $pv_slum7_5226_0010_nar_0,ACTOR,Narjin
@@ -4399,7 +4399,7 @@ $pv_slum7_5291_0020_jsm_0,,
 $pv_slum7_5291_0020_jsm_0,ACTOR,Chatarrero
 $pv_slum7_5292_0020_jsm_0,,
 $pv_slum7_5292_0020_jsm_0,ACTOR,Chatarrero
-$pv_slum7_5295_0010_jsm_0,,"Quanta tardanza, hombre para todo.<br>La milicia se ha encargado de los lagartos alados."
+$pv_slum7_5295_0010_jsm_0,,"Cuánta tardanza, hombre para todo.<br>La milicia se ha encargado de los lagartos alados."
 $pv_slum7_5295_0010_jsm_0,ACTOR,Chatarrero
 $pv_slum7_5295_0013_jsm_0,,"Bueno, echa un vistazo."
 $pv_slum7_5295_0013_jsm_0,ACTOR,Chatarrero
@@ -4533,15 +4533,15 @@ $pv_slum7_5410_0040_gen_0,,¿Tú eres el famoso hombre para todo?
 $pv_slum7_5410_0040_gen_0,ACTOR,Gwen
 $pv_slum7_5410_0045_gen_0,,"Entonces, ¿me ayudas?"
 $pv_slum7_5410_0045_gen_0,ACTOR,Gwen
-$pv_slum7_5410_0046_gen_0,,El demonio está más allá de la fábrica abandonada de Talaga.<br>Para acercarte necesitas la «llave de la milicia».
+$pv_slum7_5410_0046_gen_0,,"El demonio está más allá de la fábrica abandonada de Talaga.<br>Para acercarte necesitas la ""llave de la milicia""."
 $pv_slum7_5410_0046_gen_0,ACTOR,Gwen
 $pv_slum7_5410_0048_gen_0,,La llave está escondida en una caja de madera cerca.<br>Rompe todas las que encuentres.
 $pv_slum7_5410_0048_gen_0,ACTOR,Gwen
-$pv_slum7_5415_0010_gen_0,,Para derrotar al demonio<br>hay que abrir la «puerta que no se abre».
+$pv_slum7_5415_0010_gen_0,,"Para derrotar al demonio<br>hay que abrir la ""puerta que no se abre""."
 $pv_slum7_5415_0010_gen_0,ACTOR,Gwen
-$pv_slum7_5415_0020_gen_0,,Para abrir la «puerta que no se abre»<br>necesitas la «llave de la milicia».
+$pv_slum7_5415_0020_gen_0,,"Para abrir la ""puerta que no se abre""<br>necesitas la ""llave de la milicia""."
 $pv_slum7_5415_0020_gen_0,ACTOR,Gwen
-$pv_slum7_5415_0050_gen_0,,"La «llave de la milicia» está en una caja de madera.<br>Si encuentras una caja junto a la puerta, rómpela."
+$pv_slum7_5415_0050_gen_0,,"La ""llave de la milicia"" está en una caja de madera.<br>Si encuentras una caja junto a la puerta, rómpela."
 $pv_slum7_5415_0050_gen_0,ACTOR,Gwen
 $pv_slum7_5417_0020_kbs_0,,¡Idiota! Concéntrate en la misión.
 $pv_slum7_5417_0020_kbs_0,ACTOR,Subteniente
@@ -4573,7 +4573,7 @@ $pv_slum7_5450_0010_gen_0,,Bienvenido.
 $pv_slum7_5450_0010_gen_0,ACTOR,Gwen
 $pv_slum7_5450_0015_gen_0,,Veo que lo has derrotado.
 $pv_slum7_5450_0015_gen_0,ACTOR,Gwen
-$pv_slum7_5450_0030_gen_0,,Como era de esperar del famoso «hombre para todo».
+$pv_slum7_5450_0030_gen_0,,"Como era de esperar del famoso ""hombre para todo""."
 $pv_slum7_5450_0030_gen_0,ACTOR,Gwen
 $pv_slum7_5450_0040_gen_0,,Muy distinto de los soldados que solo fanfarronean y no hacen nada.<br>Ojalá cambiaran también la vigilancia.
 $pv_slum7_5450_0040_gen_0,ACTOR,Gwen
@@ -4737,7 +4737,7 @@ $pv_slum7_5610_0090_chd_0,,Soy un aprendiz que estudia en el departamento cient�
 $pv_slum7_5610_0090_chd_0,ACTOR,Chadley
 $pv_slum7_5610_0100_chd_0,,"Primero, esto como anticipo."
 $pv_slum7_5610_0100_chd_0,ACTOR,Chadley
-$pv_slum7_5610_0105_chd_0,,Equipa la materia «Analizar» y<br>recopila datos de los informes de combate.
+$pv_slum7_5610_0105_chd_0,,"Equipa la materia ""Analizar"" y<br>recopila datos de los informes de combate."
 $pv_slum7_5610_0105_chd_0,ACTOR,Chadley
 $pv_slum7_5610_0150_chd_0,,Así podré desarrollar nuevas materias.
 $pv_slum7_5610_0150_chd_0,ACTOR,Chadley
@@ -4755,7 +4755,7 @@ $pv_slum7_5610_0300_chd_0,,"Entonces, hasta entonces el contrato continúa.<br>E
 $pv_slum7_5610_0300_chd_0,ACTOR,Chadley
 $pv_slum7_5612_0050_chd_0,,"Cuando completes los informes de combate,<br>ven a verme sin falta."
 $pv_slum7_5612_0050_chd_0,ACTOR,Chadley
-$pv_slum7_5615_0010_chd_0,,Equipa la materia «Analizar» y<br>recopila datos de los informes de combate.
+$pv_slum7_5615_0010_chd_0,,"Equipa la materia ""Analizar"" y<br>recopila datos de los informes de combate."
 $pv_slum7_5615_0010_chd_0,ACTOR,Chadley
 $pv_slum7_5617_0020_chd_0,,"Todavía necesito más datos.<br>Por favor, sigue colaborando e informándome."
 $pv_slum7_5617_0020_chd_0,ACTOR,Chadley
@@ -4765,7 +4765,7 @@ $pv_slum7_5619_0040_chd_0,,Pero espero contar contigo la próxima vez.
 $pv_slum7_5619_0040_chd_0,ACTOR,Chadley
 $pv_slum7_5619_0070_chd_0,,"Voy añadiendo nuevos informes de combate.<br>Por favor, sigue colaborando."
 $pv_slum7_5619_0070_chd_0,ACTOR,Chadley
-$pv_slum7_5630_0010_cld_0,,¿Has completado el informe de combate<br>de la materia «Analizar»?
+$pv_slum7_5630_0010_cld_0,,"¿Has completado el informe de combate<br>de la materia ""Analizar""?"
 $pv_slum7_5630_0010_cld_0,ACTOR,Cloud
 $pv_slum7_5640_0010_chd_0,,Señor Cloud.
 $pv_slum7_5640_0010_chd_0,ACTOR,Chadley
@@ -5681,7 +5681,7 @@ $tk_slum7_5671_0010_nc24_0,,Ya te dije que no fueras<br>al callejón de las tube
 $tk_slum7_5671_0010_nc24_0,ACTOR,
 $tk_slum7_5671_0020_nc23_0,,Pero no me interrumpas cuando bailo.<br>Qué vergüenza pasé.
 $tk_slum7_5671_0020_nc23_0,ACTOR,
-$tk_slum7_5672_0010_nc23_0,,"Si quieres bailar, baila aquí.<br>«¡Sí, soy la caña!»."
+$tk_slum7_5672_0010_nc23_0,,"Si quieres bailar, baila aquí.<br>""¡Sí, soy la caña!""."
 $tk_slum7_5672_0010_nc23_0,ACTOR,
 $tk_slum7_5672_0020_nc23_0,,"Mira, así."
 $tk_slum7_5672_0020_nc23_0,ACTOR,
@@ -5731,7 +5731,7 @@ $tk_slum7_5693_0020_nc15_0,,¿Te han vuelto a rechazar el trabajo?
 $tk_slum7_5693_0020_nc15_0,ACTOR,
 $tk_slum7_5693_0030_nc06_0,,¿Qué tiene de malo ser de los suburbios?
 $tk_slum7_5693_0030_nc06_0,ACTOR,
-$tk_slum7_5700_0010_cc46_0,,¡Fui a verlo!<br>¡El musical «LOVELESS»!<br>Aunque de pie.
+$tk_slum7_5700_0010_cc46_0,,"¡Fui a verlo!<br>¡El musical ""LOVELESS""!<br>Aunque de pie."
 $tk_slum7_5700_0010_cc46_0,ACTOR,
 $tk_slum7_5700_0020_cc45_0,,Qué suerte conseguir entrada.
 $tk_slum7_5700_0020_cc45_0,ACTOR,
@@ -5741,7 +5741,7 @@ $tk_slum7_5700_0040_cc45_0,,¿Jessie?
 $tk_slum7_5700_0040_cc45_0,ACTOR,
 $tk_slum7_5700_0050_cc46_0,,"No es Jessie,<br>pero es una chica de la misma Residencia Étoile."
 $tk_slum7_5700_0050_cc46_0,ACTOR,
-$tk_slum7_5702_0010_cc45_0,,¿Qué tal estaba?<br>El musical «LOVELESS».
+$tk_slum7_5702_0010_cc45_0,,"¿Qué tal estaba?<br>El musical ""LOVELESS""."
 $tk_slum7_5702_0010_cc45_0,ACTOR,
 $tk_slum7_5702_0020_cc46_0,,"Nostálgico y nuevo a la vez,<br>nuevo y nostálgico a la vez. No sé cómo decirlo."
 $tk_slum7_5702_0020_cc46_0,ACTOR,
@@ -6379,9 +6379,9 @@ $tk_slum7_6480_0040_fan_0,,es una organización anti-Shinra que ya había<br>pla
 $tk_slum7_6480_0040_fan_0,ACTOR,Presentadora
 $tk_slum7_6480_0050_fan_0,,"El alcalde Domino y el presidente Shinra, conjuntamente,"
 $tk_slum7_6480_0050_fan_0,ACTOR,Presentadora
-$tk_slum7_6480_0060_fan_0,,«Jamás debemos doblegarnos<br>ante fuerzas antisociales despiadadas».
+$tk_slum7_6480_0060_fan_0,,"""Jamás debemos doblegarnos<br>ante fuerzas antisociales despiadadas""."
 $tk_slum7_6480_0060_fan_0,ACTOR,Presentadora
-$tk_slum7_6480_0070_fan_0,,"«Luchamos por proteger la paz de la ciudadanía»,<br>han emitido una declaración."
+$tk_slum7_6480_0070_fan_0,,"""Luchamos por proteger la paz de la ciudadanía"",<br>han emitido una declaración."
 $tk_slum7_6480_0070_fan_0,ACTOR,Presentadora
 $tk_slum7_6480_0110_cc10_0,,"Según ellos, la explosión es culpa de Avalancha."
 $tk_slum7_6480_0110_cc10_0,ACTOR,
@@ -6625,7 +6625,7 @@ $tk_slum7_6770_0010_dc57_0,,"¡Stamp, corre, Stamp!"
 $tk_slum7_6770_0010_dc57_0,ACTOR,
 $tk_slum7_6770_0020_dc57_0,,"¡Stamp, el del valor...!<br>A ver... ¿cómo seguía?"
 $tk_slum7_6770_0020_dc57_0,ACTOR,
-$tk_slum7_6780_0010_cc38_0,,"Estaba increíble,<br>el musical de «LOVELESS»."
+$tk_slum7_6780_0010_cc38_0,,"Estaba increíble,<br>el musical de ""LOVELESS""."
 $tk_slum7_6780_0010_cc38_0,ACTOR,
 $tk_slum7_6780_0020_cc42_0,,¿Es distinto de la obra que hacen cada año?
 $tk_slum7_6780_0020_cc42_0,ACTOR,
@@ -6635,7 +6635,7 @@ $tk_slum7_6780_0040_cc42_0,,Si consigo entradas.
 $tk_slum7_6780_0040_cc42_0,ACTOR,
 $tk_slum7_6780_0110_cc38_0,,Tengo una amiga que es aspirante a actriz.
 $tk_slum7_6780_0110_cc38_0,ACTOR,
-$tk_slum7_6780_0120_cc38_0,,Le pido las entradas de «LOVELESS»<br>y quizá me las consiga.
+$tk_slum7_6780_0120_cc38_0,,"Le pido las entradas de ""LOVELESS""<br>y quizá me las consiga."
 $tk_slum7_6780_0120_cc38_0,ACTOR,
 $tk_slum7_6780_0130_cc42_0,,¿No serán caras?
 $tk_slum7_6780_0130_cc42_0,ACTOR,
@@ -6649,11 +6649,11 @@ $tk_slum7_6790_0030_cc45_0,,"Es el que decía que venía del Mercado del Muro, �
 $tk_slum7_6790_0030_cc45_0,ACTOR,
 $tk_slum7_6790_0040_cc46_0,,¿Lo conoces?
 $tk_slum7_6790_0040_cc46_0,ACTOR,
-$tk_slum7_6790_0050_cc45_0,,¿Te dijo eso de «tus ojos brillan<br>como el neón de la Casa de las Abejas»?
+$tk_slum7_6790_0050_cc45_0,,"¿Te dijo eso de ""tus ojos brillan<br>como el neón de la Casa de las Abejas""?"
 $tk_slum7_6790_0050_cc45_0,ACTOR,
 $tk_slum7_6790_0060_cc46_0,,Así que a ti también te habló.
 $tk_slum7_6790_0060_cc46_0,ACTOR,
-$tk_slum7_6790_0110_cc45_0,,¿Has oído el piropo de «quiero hacerme cosquillas<br>contigo con plumas de chocobo»?
+$tk_slum7_6790_0110_cc45_0,,"¿Has oído el piropo de ""quiero hacerme cosquillas<br>contigo con plumas de chocobo""?"
 $tk_slum7_6790_0110_cc45_0,ACTOR,
 $tk_slum7_6790_0120_cc45_0,,¿Estará de moda en el Mercado del Muro?
 $tk_slum7_6790_0120_cc45_0,ACTOR,
@@ -6883,7 +6883,7 @@ $tk_slum7_7130_0010_ch26_0,,La chica que vivía dos casas más allá<br>parece q
 $tk_slum7_7130_0010_ch26_0,ACTOR,
 $tk_slum7_7130_0020_ch27_0,,"Andaba con gente de mala calaña, ¿no?"
 $tk_slum7_7130_0020_ch27_0,ACTOR,
-$tk_slum7_7130_0030_ch26_0,,En la puerta había un cartel<br>que decía «No me busquéis».
+$tk_slum7_7130_0030_ch26_0,,"En la puerta había un cartel<br>que decía ""No me busquéis""."
 $tk_slum7_7130_0030_ch26_0,ACTOR,
 $tk_slum7_7130_0110_ch27_0,,Era una chica seria que mandaba dinero a su pueblo.
 $tk_slum7_7130_0110_ch27_0,ACTOR,
@@ -7375,7 +7375,7 @@ $tk_slum7_7538_0110_jdd_0,,"Ah, sí. ¿A ti te interesa<br>un carrete de cable p
 $tk_slum7_7538_0110_jdd_0,ACTOR,Padre de Johnny
 $tk_slum7_7538_0120_jdd_0,,"Se lo compré a un cliente que me lo pidió,<br>pero me equivoqué en una cifra."
 $tk_slum7_7538_0120_jdd_0,ACTOR,Padre de Johnny
-$tk_slum7_7538_0130_jdd_0,,"Incluso planeé un «¡Tour emocionante<br>de salto desde la azotea del edificio Shinra!»,"
+$tk_slum7_7538_0130_jdd_0,,"Incluso planeé un ""¡Tour emocionante<br>de salto desde la azotea del edificio Shinra!"","
 $tk_slum7_7538_0130_jdd_0,ACTOR,Padre de Johnny
 $tk_slum7_7538_0140_jdd_0,,pero Shinra me lo rechazó.
 $tk_slum7_7538_0140_jdd_0,ACTOR,Padre de Johnny
@@ -7995,13 +7995,13 @@ $tk_slum7_8059_0020_mbn_0,,Lo que recomiendes...
 $tk_slum7_8059_0020_mbn_0,ACTOR,
 $tk_slum7_8059_0030_mbn_0,,Te serviré algo bueno<br>que ni en el Mercado del Muro se puede beber.
 $tk_slum7_8059_0030_mbn_0,ACTOR,
-$tk_slum7_8060_0010_mbn_0,,La obra de teatro «LOVELESS» que hacen cada año<br>y el musical «LOVELESS»<br>que empezó este año.
+$tk_slum7_8060_0010_mbn_0,,"La obra de teatro ""LOVELESS"" que hacen cada año<br>y el musical ""LOVELESS""<br>que empezó este año."
 $tk_slum7_8060_0010_mbn_0,ACTOR,
 $tk_slum7_8060_0020_mbn_0,,Quiero ver los dos.
 $tk_slum7_8060_0020_mbn_0,ACTOR,
 $tk_slum7_8060_0030_mbn_0,,¿Por cuál empezar? Qué dilema.
 $tk_slum7_8060_0030_mbn_0,ACTOR,
-$tk_slum7_8061_0010_mbn_0,,"El musical «LOVELESS»,<br>las butacas de primera fila son entradas de lujo, ¿eh?"
+$tk_slum7_8061_0010_mbn_0,,"El musical ""LOVELESS"",<br>las butacas de primera fila son entradas de lujo, ¿eh?"
 $tk_slum7_8061_0010_mbn_0,ACTOR,
 $tk_slum7_8061_0020_mbn_0,,"Si son caras, cuestan 50.000 guiles cada una."
 $tk_slum7_8061_0020_mbn_0,ACTOR,
@@ -8267,7 +8267,7 @@ $tk_slum7_8134_0030_skd_0,,"¡Gracias, papá!"
 $tk_slum7_8134_0030_skd_0,ACTOR,Hija de gerente de Shinra
 $tk_slum7_8135_0010_skm_0,,Avalancha...<br>¿De verdad piensan volver a volar un reactor mako?
 $tk_slum7_8135_0010_skm_0,ACTOR,Mujer de gerente de Shinra
-$tk_slum7_8135_0020_skd_0,,"Aunque lo vuelen,<br>el «espíritu Shinra» no pierde, ¿verdad?"
+$tk_slum7_8135_0020_skd_0,,"Aunque lo vuelen,<br>el ""espíritu Shinra"" no pierde, ¿verdad?"
 $tk_slum7_8135_0020_skd_0,ACTOR,Hija de gerente de Shinra
 $tk_slum7_8135_0030_snk_0,,¡Claro que no!
 $tk_slum7_8135_0030_snk_0,ACTOR,Gerente de Shinra
@@ -8327,7 +8327,7 @@ $tk_slum7_8143_0030_mbn_0,,Luego vamos a ver la tele.
 $tk_slum7_8143_0030_mbn_0,ACTOR,
 $tk_slum7_8144_0010_kbn_0,,Sempai...
 $tk_slum7_8144_0010_kbn_0,ACTOR,Recluta novato
-$tk_slum7_8144_0020_kbn_0,,He conseguido entradas de «LOVELESS».<br>¿No quieres venir conmigo?
+$tk_slum7_8144_0020_kbn_0,,"He conseguido entradas de ""LOVELESS"".<br>¿No quieres venir conmigo?"
 $tk_slum7_8144_0020_kbn_0,ACTOR,Recluta novato
 $tk_slum7_8144_0030_kbs_0,,¿Qué dices en horario de servicio?
 $tk_slum7_8144_0030_kbs_0,ACTOR,Subteniente
@@ -8429,9 +8429,9 @@ $tk_slum7_8170_0020_mbn_0,,y ha anunciado que ha recibido<br>un aviso de explosi
 $tk_slum7_8170_0020_mbn_0,ACTOR,Presentadora
 $tk_slum7_8170_0030_mbn_0,,"Ante el aviso, el presidente Shinra"
 $tk_slum7_8170_0030_mbn_0,ACTOR,Presentadora
-$tk_slum7_8170_0040_mbn_0,,"«Es una declaración de guerra a todos los humanos<br>que reciben los beneficios del mako, y nosotros, unidos,»"
+$tk_slum7_8170_0040_mbn_0,,"""Es una declaración de guerra a todos los humanos<br>que reciben los beneficios del mako, y nosotros, unidos,"""
 $tk_slum7_8170_0040_mbn_0,ACTOR,Presentadora
-$tk_slum7_8170_0050_mbn_0,,"«debemos superar esta crisis»,<br>ha emitido una declaración."
+$tk_slum7_8170_0050_mbn_0,,"""debemos superar esta crisis"",<br>ha emitido una declaración."
 $tk_slum7_8170_0050_mbn_0,ACTOR,Presentadora
 $tk_slum7_8170_0060_mbn_0,,Es la primera vez desde el armisticio con Wutai<br>que se establece un estado de alerta máxima<br>en todo Midgar.
 $tk_slum7_8170_0060_mbn_0,ACTOR,Presentadora

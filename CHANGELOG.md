@@ -1,5 +1,14 @@
 # Historial de versiones
 
+## v1.1 — 14/11/2026
+
+Corrección de errores de la v1.0.
+
+- Corregidas las 13 líneas que usaban «Quanta»: ahora aparece **«Cuánta»** o **«Cuánto»** según el género del sustantivo. Incluye «Cuánta energía», en el diálogo de Billy Bob de **INTERmission**, y «Cuánto escándalo».
+- Normalizadas las comillas angulares `«»` a comillas dobles ASCII (`"`), el mismo estilo que usa el locale ES oficial. Afectaba a 2.270 signos en 837 líneas de 14 recursos; el cambio elimina el texto `<<>>` que se veía en los diálogos de Yuffie.
+- Reconstruidos y verificados los 14 recursos afectados. El resto de recursos no cambia.
+- Pak actualizado: **906.684 bytes**, SHA-256 `48D8F39B72A5AC10A648F8F3732EE371169AAA90456F58D2FBCE2EEF83085700`.
+
 ## v1.0 — 13/11/2026
 
 Primera versión pública de la traducción.

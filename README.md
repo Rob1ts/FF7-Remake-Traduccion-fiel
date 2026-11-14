@@ -4,7 +4,7 @@ Traducción al español de España de **FINAL FANTASY VII REMAKE** y de su episo
 
 > **Aviso de transparencia:** la traducción se ha realizado con **IA (DeepSeek 4.1 Flash 1017)**. La definición de criterios, la revisión de nombres y terminología, el control de calidad y la verificación del empaquetado se hicieron de forma manual.
 
-[![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0-blue)](../../releases/latest)
+[![Versión](https://img.shields.io/badge/versi%C3%B3n-1.1-blue)](../../releases/latest)
 ![Texto](https://img.shields.io/badge/texto-ES%20(Espa%C3%B1a)-red)
 ![Origen](https://img.shields.io/badge/origen-japon%C3%A9s-lightgrey)
 ![IA](https://img.shields.io/badge/traducci%C3%B3n-IA%20%2B%20revisi%C3%B3n%20manual-blueviolet)
@@ -17,9 +17,14 @@ El mod se distribuye como **release** de este repositorio:
 
 - **[Descargar la última versión](../../releases/latest)**
 - Archivo: `pakchunk99_ES_JP_P.pak`
-- Versión: **1.0** (13/11/2026)
-- Tamaño: **905.449 bytes**
-- SHA-256: `0865C739666D8A7679793CFDC0950AD6A0C28B1E7B09A9EF6C5491096B18986A`
+- Versión: **1.1** (14/11/2026)
+- Tamaño: **906.684 bytes**
+- SHA-256: `48D8F39B72A5AC10A648F8F3732EE371169AAA90456F58D2FBCE2EEF83085700`
+
+### Novedades de la 1.1
+
+- Corregidas las 13 líneas con **«Quanta»**: ahora usan **«Cuánta»** o **«Cuánto»** según el género del sustantivo, incluida **«Cuánta energía»** en INTERmission.
+- Normalizadas las comillas angulares `«»` a comillas dobles (`"`), igual que el locale ES oficial. Se elimina así el texto `<<>>` que aparecía en los diálogos de Yuffie.
 
 ## Qué incluye
 
@@ -28,7 +33,7 @@ La traducción cubre los 21 recursos de texto del juego:
 - Historia principal y escenas cinemáticas.
 - Diálogos de PNJ, misiones secundarias y conversaciones opcionales.
 - Menús, tutoriales, descripciones de objetos, materias y armas.
-- Correos, tutoriales y textos del sistema.
+- Correos y textos del sistema.
 - Todo el texto de **INTERmission** (Yuffie).
 
 | Dato | Valor |
@@ -158,7 +163,7 @@ Get-FileHash .\pakchunk99_ES_JP_P.pak -Algorithm SHA256
 Debe devolver:
 
 ```text
-0865C739666D8A7679793CFDC0950AD6A0C28B1E7B09A9EF6C5491096B18986A
+48D8F39B72A5AC10A648F8F3732EE371169AAA90456F58D2FBCE2EEF83085700
 ```
 
 ### Desinstalación

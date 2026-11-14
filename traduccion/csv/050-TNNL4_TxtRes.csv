@@ -380,7 +380,7 @@ $ev_tnnl4_0090_0266_tif_0,,
 $ev_tnnl4_0090_0266_tif_0,ACTOR,
 $ev_tnnl4_0090_0270_blt_0,,
 $ev_tnnl4_0090_0270_blt_0,ACTOR,
-$ev_tnnl4_0090_0280_blt_0,,"Eso es el «plan E» de Biggs, ¿no?"
+$ev_tnnl4_0090_0280_blt_0,,"Eso es el ""plan E"" de Biggs, ¿no?"
 $ev_tnnl4_0090_0280_blt_0,ACTOR,Barret
 $ev_tnnl4_0090_0300_cld_0,,"Entonces, primero... ¡Allá voy, allá voy, allá voooy!"
 $ev_tnnl4_0090_0300_cld_0,ACTOR,Cloud
@@ -514,7 +514,7 @@ $ev_tnnl4_0180_0070_hyd_0,,
 $ev_tnnl4_0180_0070_hyd_0,ACTOR,
 $ev_tnnl4_0230_0010_blt_0,,Entendido.
 $ev_tnnl4_0230_0010_blt_0,ACTOR,Barret
-$ev_tnnl4_0230_0020_cld_0,,A partir de aquí es el «plan E».
+$ev_tnnl4_0230_0020_cld_0,,"A partir de aquí es el ""plan E""."
 $ev_tnnl4_0230_0020_cld_0,ACTOR,Cloud
 $ev_tnnl4_0230_0030_blt_0,,Te escucho.
 $ev_tnnl4_0230_0030_blt_0,ACTOR,Barret
@@ -952,7 +952,7 @@ $tk_tnnl4_0225_0020_tif_0,,¿Nos habremos deshecho de los perseguidores?
 $tk_tnnl4_0225_0020_tif_0,ACTOR,Tifa
 $tk_tnnl4_0225_0030_blt_0,,"Fácil, fácil. Confirmemos la posición y retomemos la misión."
 $tk_tnnl4_0225_0030_blt_0,ACTOR,Barret
-$tk_tnnl4_0229_0010_blt_0,,Vamos a confirmar el plan. A partir de aquí es el «plan E».
+$tk_tnnl4_0229_0010_blt_0,,"Vamos a confirmar el plan. A partir de aquí es el ""plan E""."
 $tk_tnnl4_0229_0010_blt_0,ACTOR,Barret
 $tk_tnnl4_0229_0015_blt_0,,Seguimos las vías en dirección al reactor.
 $tk_tnnl4_0229_0015_blt_0,ACTOR,Barret

@@ -812,7 +812,7 @@ $ev_undg6_8140_0130_tif_0,,Reencuentro.
 $ev_undg6_8140_0130_tif_0,ACTOR,Tifa
 $ev_undg6_8140_0135_rez_0,,
 $ev_undg6_8140_0135_rez_0,ACTOR,
-$ev_undg6_8140_0140_rez_0,,En el lenguaje de las flores significa «reencuentro».
+$ev_undg6_8140_0140_rez_0,,"En el lenguaje de las flores significa ""reencuentro""."
 $ev_undg6_8140_0140_rez_0,ACTOR,Leslie
 $ev_undg6_8140_0143_tif_0,,
 $ev_undg6_8140_0143_tif_0,ACTOR,
@@ -980,9 +980,9 @@ $pv_undg6_0630_0050_cld_0,,¿Ha fallado?
 $pv_undg6_0630_0050_cld_0,ACTOR,Cloud
 $pv_undg6_0630_0060_tif_0,,Parece que está averiado.
 $pv_undg6_0630_0060_tif_0,ACTOR,Tifa
-$pv_undg6_0630_0070_tif_0,,«La luz roja indica un atasco en la tubería de desagüe».
+$pv_undg6_0630_0070_tif_0,,"""La luz roja indica un atasco en la tubería de desagüe""."
 $pv_undg6_0630_0070_tif_0,ACTOR,Tifa
-$pv_undg6_0630_0080_tif_0,,«Use la bomba manual para desatascar la suciedad».
+$pv_undg6_0630_0080_tif_0,,"""Use la bomba manual para desatascar la suciedad""."
 $pv_undg6_0630_0080_tif_0,ACTOR,Tifa
 $pv_undg6_0630_0090_cld_0,,Yo lo he hecho en el bar.
 $pv_undg6_0630_0090_cld_0,ACTOR,Cloud

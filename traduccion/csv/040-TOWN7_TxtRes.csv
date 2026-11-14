@@ -408,7 +408,7 @@ $ev_town7_2080_0010_jec_0,,"Y ahí entras tú, Cloud."
 $ev_town7_2080_0010_jec_0,ACTOR,Jessie
 $ev_town7_2080_0020_jec_0,,"Si eres un hombre para todo, harás cualquier cosa, ¿no?"
 $ev_town7_2080_0020_jec_0,ACTOR,Jessie
-$ev_town7_2080_0020_jec_1,,Necesito que te cueles en mi casa y hagas de «gran ladrón».
+$ev_town7_2080_0020_jec_1,,"Necesito que te cueles en mi casa y hagas de ""gran ladrón""."
 $ev_town7_2080_0020_jec_1,ACTOR,Jessie
 $ev_town7_2080_0025_cld_0,,
 $ev_town7_2080_0025_cld_0,ACTOR,
@@ -614,7 +614,7 @@ $ev_town7_2250_0050_cld_1,,Quiero ser SOLDIER.
 $ev_town7_2250_0050_cld_1,ACTOR,Cloud
 $ev_town7_2250_0050_cld_2,,"Un SOLDIER de primera, como Sefirot."
 $ev_town7_2250_0050_cld_2,ACTOR,Cloud
-$ev_town7_2250_0060_tif_0,,"«El héroe Sefirot», ¿eh?"
+$ev_town7_2250_0060_tif_0,,"""El héroe Sefirot"", ¿eh?"
 $ev_town7_2250_0060_tif_0,ACTOR,Tifa
 $ev_town7_2250_0060_tif_1,,"Hacerse SOLDIER es difícil, ¿no?"
 $ev_town7_2250_0060_tif_1,ACTOR,Tifa
@@ -850,7 +850,7 @@ $ev_town7_2380_0090_big_2,,Wedge no corre peligro.
 $ev_town7_2380_0090_big_2,ACTOR,Biggs
 $ev_town7_2380_0100_cld_0,,¿Quiénes son?
 $ev_town7_2380_0100_cld_0,ACTOR,Cloud
-$ev_town7_2380_0110_big_0,,"«Los que se nos adelantaron»... También son Avalancha, en teoría."
+$ev_town7_2380_0110_big_0,,"""Los que se nos adelantaron""... También son Avalancha, en teoría."
 $ev_town7_2380_0110_big_0,ACTOR,Biggs
 $ev_town7_2380_0115_ev1_0,,
 $ev_town7_2380_0115_ev1_0,ACTOR,
@@ -1816,11 +1816,11 @@ $pv_town7_bike0b0300_0010_cld_0,,¿Te retiras?
 $pv_town7_bike0b0300_0010_cld_0,ACTOR,
 $pv_town7_bike0b0300_0020_rch_0,,Tranquilo. ¿Cómo voy a bajarme de una carrera tan divertida? Te acompañaré hasta el final... ¡hasta que uno de los dos se consuma!
 $pv_town7_bike0b0300_0020_rch_0,ACTOR,
-$pv_town7_bike0b0310_0010_big_0,,PV_BIKE0_B0290(167m)<br>【PlanEv(Talk)】«¡Lo hemos conseguido!»
+$pv_town7_bike0b0310_0010_big_0,,"PV_BIKE0_B0290(167m)<br>【PlanEv(Talk)】""¡Lo hemos conseguido!"""
 $pv_town7_bike0b0310_0010_big_0,ACTOR,
-$pv_town7_bike0b0310_0020_wed_0,,«¡Lo logramos!»
+$pv_town7_bike0b0310_0020_wed_0,,"""¡Lo logramos!"""
 $pv_town7_bike0b0310_0020_wed_0,ACTOR,
-$pv_town7_bike0b0310_0030_jec_0,,«No cantemos victoria. Escondámonos antes de que lleguen refuerzos.»
+$pv_town7_bike0b0310_0030_jec_0,,"""No cantemos victoria. Escondámonos antes de que lleguen refuerzos."""
 $pv_town7_bike0b0310_0030_jec_0,ACTOR,
 $pv_town7_bike0b1010_0010_jec_0,,"Oye, sabes conducir motos, ¿no?"
 $pv_town7_bike0b1010_0010_jec_0,ACTOR,

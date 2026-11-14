@@ -426,7 +426,7 @@ $ev_psbl0_0040_0085_scr_0,,
 $ev_psbl0_0040_0085_scr_0,ACTOR,
 $ev_psbl0_0040_0090_scr_0,,"No pinta nada mal, ¿eh?<br>Atendámoslos como se merecen."
 $ev_psbl0_0040_0090_scr_0,ACTOR,Escarlata
-$ev_psbl0_0040_0100_scr_0,,Yo voy a comprobar<br>el estado de mantenimiento del «caballito».
+$ev_psbl0_0040_0100_scr_0,,"Yo voy a comprobar<br>el estado de mantenimiento del ""caballito""."
 $ev_psbl0_0040_0100_scr_0,ACTOR,Escarlata
 $ev_psbl0_0040_0110_scr_0,,"Informadme luego, ¿vale?"
 $ev_psbl0_0040_0110_scr_0,ACTOR,Escarlata
@@ -1287,9 +1287,9 @@ $mv_psbl0_0920_1050_blt_0,,Más o menos un día.
 $mv_psbl0_0920_1050_blt_0,ACTOR,Barret
 $mv_psbl0_0920_1060_art_0,,Oye.
 $mv_psbl0_0920_1060_art_0,ACTOR,Aeris
-$mv_psbl0_0920_1070_art_0,,"Cuando mi madre dice «un día»,<br>se refiere a desde la mañana hasta la noche, hasta dormir."
+$mv_psbl0_0920_1070_art_0,,"Cuando mi madre dice ""un día"",<br>se refiere a desde la mañana hasta la noche, hasta dormir."
 $mv_psbl0_0920_1070_art_0,ACTOR,Aeris
-$mv_psbl0_0920_1080_art_0,,"Pero yo, cuando me dicen «un día»,<br>pienso en desde la mañana hasta la mañana siguiente."
+$mv_psbl0_0920_1080_art_0,,"Pero yo, cuando me dicen ""un día"",<br>pienso en desde la mañana hasta la mañana siguiente."
 $mv_psbl0_0920_1080_art_0,ACTOR,Aeris
 $mv_psbl0_0920_1090_art_0,,"¿Tú cuál dices, Barret?"
 $mv_psbl0_0920_1090_art_0,ACTOR,Aeris

@@ -414,7 +414,7 @@ $ev_town8_0380_0216_cld_0,,
 $ev_town8_0380_0216_cld_0,ACTOR,
 $ev_town8_0380_0220_ath_0,,"Así no te vas a salvar, ¿eh?"
 $ev_town8_0380_0220_ath_0,ACTOR,Florista
-$ev_town8_0380_0230_ath_0,,Su significado es «reencuentro».
+$ev_town8_0380_0230_ath_0,,"Su significado es ""reencuentro""."
 $ev_town8_0380_0230_ath_0,ACTOR,Florista
 $ev_town8_0380_0233_cld_0,,
 $ev_town8_0380_0233_cld_0,ACTOR,
@@ -772,7 +772,7 @@ $ev_town8_0760_0060_jec_0,,"Tanto negar y negar, y lo buen mozo que eres..."
 $ev_town8_0760_0060_jec_0,ACTOR,Jessie
 $ev_town8_0760_0080_jec_0,,"Mira. Es un modelo de la estructura de Midgar, la ciudad del mako."
 $ev_town8_0760_0080_jec_0,ACTOR,Jessie
-$ev_town8_0760_0080_jec_1,,Una plataforma de acero llamada «plate» elevada a 300 metros sobre el suelo.
+$ev_town8_0760_0080_jec_1,,"Una plataforma de acero llamada ""plate"" elevada a 300 metros sobre el suelo."
 $ev_town8_0760_0080_jec_1,ACTOR,Jessie
 $ev_town8_0760_0080_jec_2,,"Y encima, una ciudad reluciente."
 $ev_town8_0760_0080_jec_2,ACTOR,Jessie

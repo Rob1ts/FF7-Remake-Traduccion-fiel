@@ -510,7 +510,7 @@ $tk_plat7_3060_0010_sys_0,,(Presentación del enemigo)<br>Cierra la última olea
 $tk_plat7_3060_0010_sys_0,ACTOR,
 $tk_plat7_3060_0020_sys_0,,⇒Soldados terrestres que llegan corriendo. Los aéreos bajan desde arriba (desde lo alto de las tuberías a la izquierda del frente).
 $tk_plat7_3060_0020_sys_0,ACTOR,
-$tk_plat7_3070_0010_sys_0,,(Presentación del enemigo)<br>Puesta en escena tipo «¡¿también aquí?!» ⇒
+$tk_plat7_3070_0010_sys_0,,"(Presentación del enemigo)<br>Puesta en escena tipo ""¡¿también aquí?!"" ⇒"
 $tk_plat7_3070_0010_sys_0,ACTOR,
 $tk_plat7_3070_0020_sys_0,,⇒Soldados aéreos que descienden rodeando desde detrás del edificio (al fondo a la izquierda de la pantalla).
 $tk_plat7_3070_0020_sys_0,ACTOR,

@@ -1,5 +1,5 @@
 FINAL FANTASY VII REMAKE — Traducción al español (España) desde el japonés
-Versión: 1.0 - 13/11/2026
+Versión: 1.1 - 14/11/2026
 
 CONTENIDO
 ---------
@@ -44,9 +44,9 @@ Borra pakchunk99_ES_JP_P.pak de la carpeta ~mods.
 VERIFICACIÓN DEL PAQUETE
 ------------------------
 SHA-256 de pakchunk99_ES_JP_P.pak:
-0865C739666D8A7679793CFDC0950AD6A0C28B1E7B09A9EF6C5491096B18986A
+48D8F39B72A5AC10A648F8F3732EE371169AAA90456F58D2FBCE2EEF83085700
 
-Tamaño: 905.449 bytes.
+Tamaño: 906.684 bytes.
 
 Puedes comprobarlo en PowerShell con:
 Get-FileHash .\pakchunk99_ES_JP_P.pak -Algorithm SHA256
@@ -62,6 +62,15 @@ NOTAS
   el pak sigue en ~mods y que no hay otro mod que cargue los mismos archivos.
 - Los saltos de línea se ajustan al ancho de la caja de diálogo y se guardan
   como saltos nativos del juego (CRLF), no como etiquetas de texto.
+
+CORRECCIONES DE LA VERSIÓN 1.1
+------------------------------
+- Corregidas las 13 líneas que decían «Quanta»: ahora usan «Cuánta» o «Cuánto»
+  según el género del sustantivo. Incluye «Cuánta energía» en INTERmission.
+- Normalizadas las comillas angulares «» a comillas dobles ("), igual que el
+  locale ES oficial. Desaparece el texto <<>> de los diálogos de Yuffie.
+- Reconstruidos y verificados los 14 recursos afectados; el resto no cambia.
+
 
 PRIMERA VERSIÓN PÚBLICA (1.0)
 -----------------------------

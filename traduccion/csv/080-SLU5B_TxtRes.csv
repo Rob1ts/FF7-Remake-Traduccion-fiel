@@ -210,7 +210,7 @@ $ev_slu5b_0010_0170_cld_0,,¿Quién eres?
 $ev_slu5b_0010_0170_cld_0,ACTOR,Cloud
 $ev_slu5b_0010_0180_sep_0,,Yo soy...
 $ev_slu5b_0010_0180_sep_0,ACTOR,
-$ev_slu5b_0010_0190_sep_0,,tu «dueño».
+$ev_slu5b_0010_0190_sep_0,,"tu ""dueño""."
 $ev_slu5b_0010_0190_sep_0,ACTOR,
 $ev_slu5b_0010_0200_cld_0,,
 $ev_slu5b_0010_0200_cld_0,ACTOR,
@@ -898,7 +898,7 @@ $ev_slu5b_1500_0030_art_0,,Vamos. Mi madre nos espera.
 $ev_slu5b_1500_0030_art_0,ACTOR,Aeris
 $ev_slu5b_1500_0040_cld_0,,¿Qué dicen las flores?
 $ev_slu5b_1500_0040_cld_0,ACTOR,Cloud
-$ev_slu5b_1500_0050_art_0,,Que «buen trabajo».
+$ev_slu5b_1500_0050_art_0,,"Que ""buen trabajo""."
 $ev_slu5b_1500_0050_art_0,ACTOR,Aeris
 $ev_slu5b_1500_0060_art_0,,Mentira. No oigo nada. Pero...
 $ev_slu5b_1500_0060_art_0,ACTOR,Aeris
@@ -942,9 +942,9 @@ $ev_slu5b_1500_0230_cld_0,,Respóndele al menos.
 $ev_slu5b_1500_0230_cld_0,ACTOR,Cloud
 $ev_slu5b_1500_0240_art_0,,¿Qué dicen las flores?
 $ev_slu5b_1500_0240_art_0,ACTOR,Aeris
-$ev_slu5b_1500_0250_cld_0,,Algo de «buen trabajo».
+$ev_slu5b_1500_0250_cld_0,,"Algo de ""buen trabajo""."
 $ev_slu5b_1500_0250_cld_0,ACTOR,Cloud
-$ev_slu5b_1500_0260_art_0,,Sí. «Buen trabajo».
+$ev_slu5b_1500_0260_art_0,,"Sí. ""Buen trabajo""."
 $ev_slu5b_1500_0260_art_0,ACTOR,Aeris
 $ev_slu5b_2010_0010_cld_0,,¿Eso de ahí?
 $ev_slu5b_2010_0010_cld_0,ACTOR,Cloud
@@ -1080,7 +1080,7 @@ $ev_slu5b_2330_0070_uv2_0,,"Vaya, vaya. Vienen a saquear la casa de otro."
 $ev_slu5b_2330_0070_uv2_0,ACTOR,El Broncas
 $ev_slu5b_2330_0075_uv3_0,,
 $ev_slu5b_2330_0075_uv3_0,ACTOR,
-$ev_slu5b_2330_0080_uv1_0,,Esto hay que «benshō».
+$ev_slu5b_2330_0080_uv1_0,,"Esto hay que ""benshō""."
 $ev_slu5b_2330_0080_uv1_0,ACTOR,El Chungo
 $ev_slu5b_2330_0090_uv3_0,,"Jiji. ¿Benshō, benshō?<br>¿Qué es benshō?"
 $ev_slu5b_2330_0090_uv3_0,ACTOR,El Pardi
@@ -1412,7 +1412,7 @@ $ev_slu5b_3110_0015_art_0,,
 $ev_slu5b_3110_0015_art_0,ACTOR,Aeris
 $ev_slu5b_3110_0020_6m10_0,,El mejor entretenimiento del Mercado del Muro.
 $ev_slu5b_3110_0020_6m10_0,ACTOR,Recepcionista
-$ev_slu5b_3110_0020_6m10_1,,Bienvenidos a la «Casa de las Abejas».
+$ev_slu5b_3110_0020_6m10_1,,"Bienvenidos a la ""Casa de las Abejas""."
 $ev_slu5b_3110_0020_6m10_1,ACTOR,Recepcionista
 $ev_slu5b_3110_0030_6m10_0,,¿Desean elegir a una honey girl<br>o un honey boy?
 $ev_slu5b_3110_0030_6m10_0,ACTOR,Recepcionista
@@ -3102,7 +3102,7 @@ $ev_slu5b_4100_0050_elm_1,,¿O ya no podía estar en la placa?
 $ev_slu5b_4100_0050_elm_1,ACTOR,Elmyra
 $ev_slu5b_4100_0060_elm_0,,Era una escena que veía de vez en cuando.
 $ev_slu5b_4100_0060_elm_0,ACTOR,Elmyra
-$ev_slu5b_4100_0070_elm_0,,«Llevad a Aeris a un lugar seguro.»
+$ev_slu5b_4100_0070_elm_0,,"""Llevad a Aeris a un lugar seguro."""
 $ev_slu5b_4100_0070_elm_0,ACTOR,Elmyra
 $ev_slu5b_4100_0070_elm_1,,Eso dijo antes de morir.
 $ev_slu5b_4100_0070_elm_1,ACTOR,Elmyra
@@ -3134,17 +3134,17 @@ $ev_slu5b_4110_0050_elm_1,,"Me dijo que no, que era este planeta."
 $ev_slu5b_4110_0050_elm_1,ACTOR,Elmyra
 $ev_slu5b_4110_0060_elm_0,,"Bueno, era una niña extraña."
 $ev_slu5b_4110_0060_elm_0,ACTOR,Elmyra
-$ev_slu5b_4120_0010_art_0,,"«Mamá, no llores.»"
+$ev_slu5b_4120_0010_art_0,,"""Mamá, no llores."""
 $ev_slu5b_4120_0010_art_0,ACTOR,Aeris
 $ev_slu5b_4120_0020_elm_0,,Aeris lo dijo de repente.
 $ev_slu5b_4120_0020_elm_0,ACTOR,Elmyra
 $ev_slu5b_4120_0020_elm_1,,Le pregunté qué pasaba.
 $ev_slu5b_4120_0020_elm_1,ACTOR,Elmyra
-$ev_slu5b_4120_0030_art_0,,«La persona importante de mamá ha muerto.»
+$ev_slu5b_4120_0030_art_0,,"""La persona importante de mamá ha muerto."""
 $ev_slu5b_4120_0030_art_0,ACTOR,Aeris
-$ev_slu5b_4120_0040_art_0,,"«Solo su corazón ha venido a verte,»"
+$ev_slu5b_4120_0040_art_0,,"""Solo su corazón ha venido a verte,"""
 $ev_slu5b_4120_0040_art_0,ACTOR,Aeris
-$ev_slu5b_4120_0040_art_1,,«pero al final ha vuelto al planeta.»
+$ev_slu5b_4120_0040_art_1,,"""pero al final ha vuelto al planeta."""
 $ev_slu5b_4120_0040_art_1,ACTOR,Aeris
 $ev_slu5b_4120_0050_elm_0,,Yo no la creí.
 $ev_slu5b_4120_0050_elm_0,ACTOR,Elmyra
@@ -3356,7 +3356,7 @@ $ev_slu5b_4550_0070_tif_0,,Sabía que era raro.<br>Que Cloud me diera flores.
 $ev_slu5b_4550_0070_tif_0,ACTOR,Tifa
 $ev_slu5b_4550_0080_cld_0,,
 $ev_slu5b_4550_0080_cld_0,ACTOR,
-$ev_slu5b_4550_0090_tif_0,,"Su significado es «reencuentro», ¿no?"
+$ev_slu5b_4550_0090_tif_0,,"Su significado es ""reencuentro"", ¿no?"
 $ev_slu5b_4550_0090_tif_0,ACTOR,Tifa
 $ev_slu5b_4550_0090_tif_1,,Me hizo tanta ilusión que lo busqué.
 $ev_slu5b_4550_0090_tif_1,ACTOR,Tifa
@@ -4172,7 +4172,7 @@ $ev_slu5b_8110_0020_art_0,,¿Una emboscada?
 $ev_slu5b_8110_0020_art_0,ACTOR,Aeris
 $ev_slu5b_8110_0030_lud_0,,"Aeris, ¿estos son tus nuevos amigos?"
 $ev_slu5b_8110_0030_lud_0,ACTOR,Rude
-$ev_slu5b_8110_0040_art_0,,Lo de «nuevos» suena feo.
+$ev_slu5b_8110_0040_art_0,,"Lo de ""nuevos"" suena feo."
 $ev_slu5b_8110_0040_art_0,ACTOR,Aeris
 $ev_slu5b_8110_0050_lud_0,,Ya veo. Ojos de mako.
 $ev_slu5b_8110_0050_lud_0,ACTOR,Rude
@@ -4903,7 +4903,7 @@ $pv_slu5b_1090_0120_5w02_0,,"Venga, id a lavaros las manos."
 $pv_slu5b_1090_0120_5w02_0,ACTOR,Directora
 $pv_slu5b_1120_0010_art_0,,Qué bien.
 $pv_slu5b_1120_0010_art_0,ACTOR,Aeris
-$pv_slu5b_1120_0020_art_0,,"Su significado es «inocencia».<br>Es bastante especial, ¿eh?"
+$pv_slu5b_1120_0020_art_0,,"Su significado es ""inocencia"".<br>Es bastante especial, ¿eh?"
 $pv_slu5b_1120_0020_art_0,ACTOR,Aeris
 $pv_slu5b_1121_0010_art_0,,Te la di yo.
 $pv_slu5b_1121_0010_art_0,ACTOR,Aeris
@@ -5019,13 +5019,13 @@ $pv_slu5b_1355_0010_5m13_0,,"¡Ha sido increíble!<br>¡Zas, zas!"
 $pv_slu5b_1355_0010_5m13_0,ACTOR,Niño
 $pv_slu5b_1355_0020_5w06_0,,"Sí, increíble.<br>¡Shua, shua!"
 $pv_slu5b_1355_0020_5w06_0,ACTOR,Niña
-$pv_slu5b_1355_0030_5m13_0,,"¡No!<br>¡Fue «zas, zas»!"
+$pv_slu5b_1355_0030_5m13_0,,"¡No!<br>¡Fue ""zas, zas""!"
 $pv_slu5b_1355_0030_5m13_0,ACTOR,Niño
-$pv_slu5b_1355_0040_5w06_0,,"¡Eeeh! ¡Fue mucho más rápido!<br>¡«Shua, shua»!"
+$pv_slu5b_1355_0040_5w06_0,,"¡Eeeh! ¡Fue mucho más rápido!<br>¡""Shua, shua""!"
 $pv_slu5b_1355_0040_5w06_0,ACTOR,Niña
-$pv_slu5b_1355_0050_5m13_0,,Mmm... Entonces<br>fue «zas-shua».
+$pv_slu5b_1355_0050_5m13_0,,"Mmm... Entonces<br>fue ""zas-shua""."
 $pv_slu5b_1355_0050_5m13_0,ACTOR,Niño
-$pv_slu5b_1355_0060_5w06_0,,Sí.<br>«Shua-zas».
+$pv_slu5b_1355_0060_5w06_0,,"Sí.<br>""Shua-zas""."
 $pv_slu5b_1355_0060_5w06_0,ACTOR,Niña
 $pv_slu5b_1355_0070_5m13_0,,"¿Verdad, Cloud?"
 $pv_slu5b_1355_0070_5m13_0,ACTOR,Niño
@@ -5463,7 +5463,7 @@ $pv_slu5b_3060_0120_jny_0,,"¡Tifa!<br>¿Quién eres tú, que conoces ese nombre
 $pv_slu5b_3060_0120_jny_0,ACTOR,Johnny
 $pv_slu5b_3060_0130_jny_0,,"Oye, ¿Tifa está aquí?<br>¿Por qué? ¿Por qué?"
 $pv_slu5b_3060_0130_jny_0,ACTOR,Johnny
-$pv_slu5b_3060_0140_jny_0,,"¿No me habrás seguido?<br>Como si me dijeran «No te vayas de la ciudad, Johnny»."
+$pv_slu5b_3060_0140_jny_0,,"¿No me habrás seguido?<br>Como si me dijeran ""No te vayas de la ciudad, Johnny""."
 $pv_slu5b_3060_0140_jny_0,ACTOR,Johnny
 $pv_slu5b_3060_0150_jny_0,,No puedo quedarme quieto. ¡Tifa!
 $pv_slu5b_3060_0150_jny_0,ACTOR,Johnny
@@ -5491,7 +5491,7 @@ $pv_slu5b_3070_0080_cl08_0,,"Pero, Leslie,<br>si es bastante mona."
 $pv_slu5b_3070_0080_cl08_0,ACTOR,Lacayo de Corneo
 $pv_slu5b_3070_0090_art_0,,¿Bastante?
 $pv_slu5b_3070_0090_art_0,ACTOR,Aeris
-$pv_slu5b_3070_0100_rez_0,,Con «bastante» no basta.
+$pv_slu5b_3070_0100_rez_0,,"Con ""bastante"" no basta."
 $pv_slu5b_3070_0100_rez_0,ACTOR,Leslie
 $pv_slu5b_3070_0110_art_0,,¿No hay forma?
 $pv_slu5b_3070_0110_art_0,ACTOR,Aeris
@@ -5803,7 +5803,7 @@ $pv_slu5b_3380_0210_mom_0,,Eso espero.
 $pv_slu5b_3380_0210_mom_0,ACTOR,Madame M
 $pv_slu5b_3382_0010_6m11_0,,Ahí estabas. Te he buscado.
 $pv_slu5b_3382_0010_6m11_0,ACTOR,Vigilante
-$pv_slu5b_3382_0040_6m11_0,,Mam me ha pedido que os dé un recado:<br>«Bien hecho. Pasaos luego por mi casa».
+$pv_slu5b_3382_0040_6m11_0,,"Mam me ha pedido que os dé un recado:<br>""Bien hecho. Pasaos luego por mi casa""."
 $pv_slu5b_3382_0040_6m11_0,ACTOR,Vigilante
 $pv_slu5b_3382_0050_6m11_0,,"Oye, si queréis,<br>¿volveréis a participar en combates?"
 $pv_slu5b_3382_0050_6m11_0,ACTOR,Vigilante
@@ -5991,9 +5991,9 @@ $pv_slu5b_3490_0100_art_0,,"Es para salvar a Tifa, ¿verdad?"
 $pv_slu5b_3490_0100_art_0,ACTOR,Aeris
 $pv_slu5b_3490_0110_cld_0,,Espera.
 $pv_slu5b_3490_0110_cld_0,ACTOR,Cloud
-$pv_slu5b_3490_0120_art_0,,¿Vale? La conversación de «sí o no»<br>termina aquí.
+$pv_slu5b_3490_0120_art_0,,"¿Vale? La conversación de ""sí o no""<br>termina aquí."
 $pv_slu5b_3490_0120_art_0,ACTOR,Aeris
-$pv_slu5b_3490_0125_art_0,,Hablemos de «cómo».
+$pv_slu5b_3490_0125_art_0,,"Hablemos de ""cómo""."
 $pv_slu5b_3490_0125_art_0,ACTOR,Aeris
 $pv_slu5b_3490_0130_art_0,,Decía que Aniyan es una persona íntegra.<br>¡Y lo decía Mam!
 $pv_slu5b_3490_0130_art_0,ACTOR,Aeris
@@ -6027,7 +6027,7 @@ $pv_slu5b_3510_2010_6w04_0,,¿Quiere divertirse?
 $pv_slu5b_3510_2010_6w04_0,ACTOR,Abejita
 $pv_slu5b_3510_3010_6w04_0,,El escenario está al fondo.
 $pv_slu5b_3510_3010_6w04_0,ACTOR,Abejita
-$pv_slu5b_3520_0010_6w05_0,,¿Qué es «esto»?
+$pv_slu5b_3520_0010_6w05_0,,"¿Qué es ""esto""?"
 $pv_slu5b_3520_0010_6w05_0,ACTOR,Abejita
 $pv_slu5b_3520_0020_jdd_0,,Mmm... ¿Un círculo?
 $pv_slu5b_3520_0020_jdd_0,ACTOR,Padre de Johnny
@@ -6207,33 +6207,33 @@ $pv_slu5b_8220_0010_cld_0,,※【Cut scene: prevista al final del 9】<br>▼Al 
 $pv_slu5b_8220_0010_cld_0,ACTOR,
 $pv_slu5b_8220_0020_cld_0,,※En el palco VIP
 $pv_slu5b_8220_0020_cld_0,ACTOR,
-$pv_slu5b_8220_0030_cld_0,,"Mam: «¿? Vaya, ha sido más fácil de lo esperado»"
+$pv_slu5b_8220_0030_cld_0,,"Mam: ""¿? Vaya, ha sido más fácil de lo esperado"""
 $pv_slu5b_8220_0030_cld_0,ACTOR,
-$pv_slu5b_8220_0040_cld_0,,"Aniyan: «No, ahora empieza»"
+$pv_slu5b_8220_0040_cld_0,,"Aniyan: ""No, ahora empieza"""
 $pv_slu5b_8220_0040_cld_0,ACTOR,
 $pv_slu5b_8220_0050_cld_0,,"※La Casa del Infierno, con forma de anillo, se transforma con un ¡mecomecomeco! y revela su verdadera naturaleza de arma de matanza indiscriminada"
 $pv_slu5b_8220_0050_cld_0,ACTOR,
-$pv_slu5b_8220_0060_cld_0,,Socchi: «¡Oh!»
+$pv_slu5b_8220_0060_cld_0,,"Socchi: ""¡Oh!"""
 $pv_slu5b_8220_0060_cld_0,ACTOR,
-$pv_slu5b_8220_0070_cld_0,,Kocchi: «¡¿Qué es esto?!»
+$pv_slu5b_8220_0070_cld_0,,"Kocchi: ""¡¿Qué es esto?!"""
 $pv_slu5b_8220_0070_cld_0,ACTOR,
-$pv_slu5b_8220_0080_cld_0,,Aeris: «¿Qué?»
+$pv_slu5b_8220_0080_cld_0,,"Aeris: ""¿Qué?"""
 $pv_slu5b_8220_0080_cld_0,ACTOR,
-$pv_slu5b_8220_0090_cld_0,,Cloud: «¡Ya viene!»
+$pv_slu5b_8220_0090_cld_0,,"Cloud: ""¡Ya viene!"""
 $pv_slu5b_8220_0090_cld_0,ACTOR,
 $pv_slu5b_8230_0010_cld_0,,"※【Cut scene: prevista al final del 9】<br>※La Casa del Infierno, al borde del colapso, lanza una gran cantidad de misiles indiscriminadamente.<br>Varios misiles se dirigen hacia el público"
 $pv_slu5b_8230_0010_cld_0,ACTOR,
-$pv_slu5b_8230_0020_cld_0,,Cloud: «¡Uh!»
+$pv_slu5b_8230_0020_cld_0,,"Cloud: ""¡Uh!"""
 $pv_slu5b_8230_0020_cld_0,ACTOR,
 $pv_slu5b_8230_0030_cld_0,,※Aeris derriba la mitad de los misiles con magia.<br>Cloud corta los misiles restantes al atravesarlos
 $pv_slu5b_8230_0030_cld_0,ACTOR,
 $pv_slu5b_8230_0040_cld_0,,"※Al aterrizar, los misiles y la Casa del Infierno explotan al mismo tiempo y el público se salva.<br>Cuando se disipa el humo, esta vez estallan los vítores del público"
 $pv_slu5b_8230_0040_cld_0,ACTOR,
-$pv_slu5b_8230_0050_cld_0,,※Se lanzan fuegos artificiales con un ¡don! y cae confeti.<br>Los vítores se convierten en una «fanfarria de la victoria» (la fanfarria también se reproduce con las voces del público)
+$pv_slu5b_8230_0050_cld_0,,"※Se lanzan fuegos artificiales con un ¡don! y cae confeti.<br>Los vítores se convierten en una ""fanfarria de la victoria"" (la fanfarria también se reproduce con las voces del público)"
 $pv_slu5b_8230_0050_cld_0,ACTOR,
-$pv_slu5b_8230_0060_cld_0,,Kocchi: «¡La Copa Corneo...!»
+$pv_slu5b_8230_0060_cld_0,,"Kocchi: ""¡La Copa Corneo...!"""
 $pv_slu5b_8230_0060_cld_0,ACTOR,
-$pv_slu5b_8230_0070_cld_0,,Socchi: «¡La ganadora es...!»
+$pv_slu5b_8230_0070_cld_0,,"Socchi: ""¡La ganadora es...!"""
 $pv_slu5b_8230_0070_cld_0,ACTOR,Cloud
 $pv_slu5b_8230_0080_cld_0,,"※En el VIP, escena en la que Mam suelta un alarido y hace un gesto de victoria"
 $pv_slu5b_8230_0080_cld_0,ACTOR,
@@ -6243,11 +6243,11 @@ $pv_slu5b_8240_0020_cld_0,,※Ambos contienen la emoción y actúan como si nada
 $pv_slu5b_8240_0020_cld_0,ACTOR,
 $pv_slu5b_8240_0030_cld_0,,"※En la sala VIP, alrededor de Aniyan, las emocionadas<br>chicas abeja vitorean y bailan"
 $pv_slu5b_8240_0030_cld_0,ACTOR,
-$pv_slu5b_8240_0040_cld_0,,Aniyan: «Ese hombre...»
+$pv_slu5b_8240_0040_cld_0,,"Aniyan: ""Ese hombre..."""
 $pv_slu5b_8240_0040_cld_0,ACTOR,
-$pv_slu5b_8240_0050_mom_0,,Mam: «Qué raro. Que tú te fijes en alguien.<br>¿Te interesa?»
+$pv_slu5b_8240_0050_mom_0,,"Mam: ""Qué raro. Que tú te fijes en alguien.<br>¿Te interesa?"""
 $pv_slu5b_8240_0050_mom_0,ACTOR,
-$pv_slu5b_8240_mom_0,,※【Cut scene: prevista al final del 9】<br>Mam: «¡Yeeeah! ¡Toma!»
+$pv_slu5b_8240_mom_0,,"※【Cut scene: prevista al final del 9】<br>Mam: ""¡Yeeeah! ¡Toma!"""
 $pv_slu5b_8240_mom_0,ACTOR,
 $tk_slu5a_45_0071_0010_mbn_0,,De verdad que no hay placa.
 $tk_slu5a_45_0071_0010_mbn_0,ACTOR,
@@ -6463,7 +6463,7 @@ $tk_slu5a_45_0341_0020_mbn_0,,Sí. Una oportunidad perfecta.
 $tk_slu5a_45_0341_0020_mbn_0,ACTOR,
 $tk_slu5a_45_0342_0010_mbn_0,,El sector 7 está hecho un caos.<br>Nadie va a notar lo que hagamos.
 $tk_slu5a_45_0342_0010_mbn_0,ACTOR,
-$tk_slu5a_45_0342_0020_mbn_0,,"Nos llevamos en secreto<br>los «tesoros» enterrados, ¿no?"
+$tk_slu5a_45_0342_0020_mbn_0,,"Nos llevamos en secreto<br>los ""tesoros"" enterrados, ¿no?"
 $tk_slu5a_45_0342_0020_mbn_0,ACTOR,
 $tk_slu5a_45_0342_0030_mbn_0,,"Qué dices. Si también ayudamos en el rescate,<br>todos ganamos."
 $tk_slu5a_45_0342_0030_mbn_0,ACTOR,
@@ -7591,7 +7591,7 @@ $tk_slu5a_80_0201_0080_blt_0,,"Vaya, eso sí que es un problema.<br>Entendido, l
 $tk_slu5a_80_0201_0080_blt_0,ACTOR,Barret
 $tk_slu5a_80_0201_0090_gyo01_0,,"Muchas gracias.<br>Si los encuentra, déles esto de comer."
 $tk_slu5a_80_0201_0090_gyo01_0,ACTOR,Mozo de cuadra
-$tk_slu5a_80_0201_0100_gyo01_0,,"Se escaparon tres.<br>Se llaman «Kaka», «Lolo» y «Momo»."
+$tk_slu5a_80_0201_0100_gyo01_0,,"Se escaparon tres.<br>Se llaman ""Kaka"", ""Lolo"" y ""Momo""."
 $tk_slu5a_80_0201_0100_gyo01_0,ACTOR,Mozo de cuadra
 $tk_slu5a_80_0201_0110_gyo01_0,,"Si comen verduras y se calman,<br>volverán solos. Se lo ruego."
 $tk_slu5a_80_0201_0110_gyo01_0,ACTOR,Mozo de cuadra
@@ -7755,13 +7755,13 @@ $tk_slu5a_80_0501_0020_cld_0,,¿Sabes cómo subir a la placa?
 $tk_slu5a_80_0501_0020_cld_0,ACTOR,Cloud
 $tk_slu5a_80_0501_0030_mom_0,,Ahora todo está en estado de alerta máxima.<br>No pasa ni un ratón.
 $tk_slu5a_80_0501_0030_mom_0,ACTOR,Madame M
-$tk_slu5a_80_0501_0040_mom_0,,"En el Mercado del Muro, los secuaces de Corneo<br>también han empezado a alborotar con eso de la «caza de Avalancha»."
+$tk_slu5a_80_0501_0040_mom_0,,"En el Mercado del Muro, los secuaces de Corneo<br>también han empezado a alborotar con eso de la ""caza de Avalancha""."
 $tk_slu5a_80_0501_0040_mom_0,ACTOR,Madame M
 $tk_slu5a_80_0501_0048_mom_0,,"Vaya, Cloud."
 $tk_slu5a_80_0501_0048_mom_0,ACTOR,Madame M
 $tk_slu5a_80_0501_0050_mom_0,,
 $tk_slu5a_80_0501_0050_mom_0,ACTOR,
-$tk_slu5a_80_0501_0060_mom_0,,«El hombre con el brazo-arma».
+$tk_slu5a_80_0501_0060_mom_0,,"""El hombre con el brazo-arma""."
 $tk_slu5a_80_0501_0060_mom_0,ACTOR,Madame M
 $tk_slu5a_80_0501_0070_blt_0,,¿Qué pasa?
 $tk_slu5a_80_0501_0070_blt_0,ACTOR,Barret
@@ -7773,7 +7773,7 @@ $tk_slu5a_80_0501_0100_mom_0,,Supongo que quieren sacarse un dinerillo.
 $tk_slu5a_80_0501_0100_mom_0,ACTOR,Madame M
 $tk_slu5a_80_0501_0110_blt_0,,Ya tienen bastantes cosas que hacer.
 $tk_slu5a_80_0501_0110_blt_0,ACTOR,Barret
-$tk_slu5a_80_0501_0120_mom_0,,Hay información de que vieron<br>al «hombre con el brazo-arma» en el sector 5.
+$tk_slu5a_80_0501_0120_mom_0,,"Hay información de que vieron<br>al ""hombre con el brazo-arma"" en el sector 5."
 $tk_slu5a_80_0501_0120_mom_0,ACTOR,Madame M
 $tk_slu5a_80_0501_0130_mom_0,,Parece que entraba y salía<br>de una casa llena de flores.
 $tk_slu5a_80_0501_0130_mom_0,ACTOR,Madame M
@@ -7793,7 +7793,7 @@ $tk_slu5a_80_0502_0320_mom_0,,¿Es tu afición meterte en líos?
 $tk_slu5a_80_0502_0320_mom_0,ACTOR,Madame M
 $tk_slu5a_80_0504_0010_5w02_0,,Hace un rato vinieron los secuaces de Corneo<br>y se dirigieron a casa de Aeris.
 $tk_slu5a_80_0504_0010_5w02_0,ACTOR,Directora
-$tk_slu5a_80_0505_0020_col02_0,,¿De verdad aparecerá en un sitio así?<br>El «hombre con el brazo-arma».
+$tk_slu5a_80_0505_0020_col02_0,,"¿De verdad aparecerá en un sitio así?<br>El ""hombre con el brazo-arma""."
 $tk_slu5a_80_0505_0020_col02_0,ACTOR,Lacayo de Corneo
 $tk_slu5a_80_0505_0030_col01_0,,"Hay información de que lo vieron cerca.<br>Si esperamos, seguro que aparece."
 $tk_slu5a_80_0505_0030_col01_0,ACTOR,Tipo sospechoso
@@ -7921,7 +7921,7 @@ $tk_slu5a_80_0608_0020_jnan_0,,Cuida de Aniyan.
 $tk_slu5a_80_0608_0020_jnan_0,ACTOR,Jules
 $tk_slu5a_80_0608_0030_jnan_0,,Disfruta del entrenamiento con calma.
 $tk_slu5a_80_0608_0030_jnan_0,ACTOR,Jules
-$tk_slu5a_80_0609_0020_ani_0,,"Has venido. Entonces, ¡compitamos en «flexiones»!"
+$tk_slu5a_80_0609_0020_ani_0,,"Has venido. Entonces, ¡compitamos en ""flexiones""!"
 $tk_slu5a_80_0609_0020_ani_0,ACTOR,Andreas
 $tk_slu5a_80_0609_0030_tif_0,,¿Competir con Aniyan?
 $tk_slu5a_80_0609_0030_tif_0,ACTOR,Tifa
@@ -8751,7 +8751,7 @@ $tk_slu5b_10_0325_0010_art_0,,"Esto está cerca de la estación del suburbio del
 $tk_slu5b_10_0325_0010_art_0,ACTOR,Aeris
 $tk_slu5b_10_0325_0020_cld_0,,
 $tk_slu5b_10_0325_0020_cld_0,ACTOR,
-$tk_slu5b_10_0325_0030_art_0,,Pones cara de «¿y qué?».
+$tk_slu5b_10_0325_0030_art_0,,"Pones cara de ""¿y qué?""."
 $tk_slu5b_10_0325_0030_art_0,ACTOR,Aeris
 $tk_slu5b_10_0325_0040_cld_0,,Los monstruos de la ciudad son cosa menor.
 $tk_slu5b_10_0325_0040_cld_0,ACTOR,Cloud
@@ -9811,9 +9811,9 @@ $tk_slu5b_11_1112_0010_mbn_0,,¿Mmm?
 $tk_slu5b_11_1112_0010_mbn_0,ACTOR,
 $tk_slu5b_11_1113_0010_mbn_0,,¡Oh!
 $tk_slu5b_11_1113_0010_mbn_0,ACTOR,
-$tk_slu5b_11_1121_0010_mbn_0,,"«Oye, ¿de verdad te vas?»"
+$tk_slu5b_11_1121_0010_mbn_0,,"""Oye, ¿de verdad te vas?"""
 $tk_slu5b_11_1121_0010_mbn_0,ACTOR,
-$tk_slu5b_11_1122_0010_mbn_0,,«Es una promesa»...<br>Eh... «las personas importantes».
+$tk_slu5b_11_1122_0010_mbn_0,,"""Es una promesa""...<br>Eh... ""las personas importantes""."
 $tk_slu5b_11_1122_0010_mbn_0,ACTOR,
 $tk_slu5b_11_1123_0010_mbn_0,,Mmm... Actuar es difícil.
 $tk_slu5b_11_1123_0010_mbn_0,ACTOR,
@@ -10179,9 +10179,9 @@ $tk_slu5b_11_1602_0010_mbn_0,,¿Y si los están atacando los monstruos?
 $tk_slu5b_11_1602_0010_mbn_0,ACTOR,
 $tk_slu5b_11_1603_0010_mbn_0,,"Volverán sanos y salvos, ¿verdad?"
 $tk_slu5b_11_1603_0010_mbn_0,ACTOR,
-$tk_slu5b_11_1606_0010_mbn_0,,"«En realidad,<br>no soy de este planeta»."
+$tk_slu5b_11_1606_0010_mbn_0,,"""En realidad,<br>no soy de este planeta""."
 $tk_slu5b_11_1606_0010_mbn_0,ACTOR,
-$tk_slu5b_11_1607_0010_mbn_0,,"«¿Serás acaso la de la leyenda...?»<br>Ah, ¿cuál era la siguiente frase?"
+$tk_slu5b_11_1607_0010_mbn_0,,"""¿Serás acaso la de la leyenda...?""<br>Ah, ¿cuál era la siguiente frase?"
 $tk_slu5b_11_1607_0010_mbn_0,ACTOR,
 $tk_slu5b_11_1608_0010_mbn_0,,Juega tú también a hacer teatro.
 $tk_slu5b_11_1608_0010_mbn_0,ACTOR,
@@ -10631,7 +10631,7 @@ $tk_slu5b_20_1482_0010_5w02_0,,"Vaya, la florista."
 $tk_slu5b_20_1482_0010_5w02_0,ACTOR,Directora
 $tk_slu5b_20_1482_0020_5w02_0,,Gracias por ayudar hoy<br>a los niños.
 $tk_slu5b_20_1482_0020_5w02_0,ACTOR,Directora
-$tk_slu5b_20_1482_0030_5w02_0,,"Todos no hacen más que gritar<br>«¡SOLDIER, SOLDIER!»."
+$tk_slu5b_20_1482_0030_5w02_0,,"Todos no hacen más que gritar<br>""¡SOLDIER, SOLDIER!""."
 $tk_slu5b_20_1482_0030_5w02_0,ACTOR,Directora
 $tk_slu5b_20_1482_0040_5w02_0,,Dale las gracias<br>también a Aeris de mi parte.
 $tk_slu5b_20_1482_0040_5w02_0,ACTOR,Directora
@@ -10803,13 +10803,13 @@ $tk_slu5b_20_5110_0040_cld_0,,Yo me encargo.
 $tk_slu5b_20_5110_0040_cld_0,ACTOR,Cloud
 $tk_slu5b_20_5110_0050_5m21_0,,¿Me ayudarás? Qué bien.
 $tk_slu5b_20_5110_0050_5m21_0,ACTOR,Hombre asustadizo
-$tk_slu5b_20_5110_0060_5m21_0,,Se fueron al callejón<br>gritando «¡Intruso detectado!».
+$tk_slu5b_20_5110_0060_5m21_0,,"Se fueron al callejón<br>gritando ""¡Intruso detectado!""."
 $tk_slu5b_20_5110_0060_5m21_0,ACTOR,Hombre asustadizo
 $tk_slu5b_20_5110_0070_5m21_0,,Ten mucho cuidado.
 $tk_slu5b_20_5110_0070_5m21_0,ACTOR,Hombre asustadizo
 $tk_slu5b_20_5120_0020_5m21_0,,Los que me atacaron eran como ojos.<br>Creo que cinco en total. Fueron hacia el callejón.
 $tk_slu5b_20_5120_0020_5m21_0,ACTOR,Hombre asustadizo
-$tk_slu5b_20_5120_0030_5m21_0,,"Oí «¡Intruso detectado!» a mi espalda.<br>Cuando me giré, me atacaron sin avisar."
+$tk_slu5b_20_5120_0030_5m21_0,,"Oí ""¡Intruso detectado!"" a mi espalda.<br>Cuando me giré, me atacaron sin avisar."
 $tk_slu5b_20_5120_0030_5m21_0,ACTOR,Hombre asustadizo
 $tk_slu5b_20_5120_0031_5m21_0,,"Si me hubiera dado cuenta más tarde, no sé qué habría pasado."
 $tk_slu5b_20_5120_0031_5m21_0,ACTOR,Hombre asustadizo
@@ -10857,7 +10857,7 @@ $tk_slu5b_20_5209_0040_5w21_0,,Seguro que están absortos en algo.
 $tk_slu5b_20_5209_0040_5w21_0,ACTOR,Profesora Folie
 $tk_slu5b_20_5210_0010_5w21_0,,¿Usted es Cloud?<br>El ex-SOLDIER.
 $tk_slu5b_20_5210_0010_5w21_0,ACTOR,Profesora Folie
-$tk_slu5b_20_5210_0030_art_0,,"Ahora es «hombre para todo».<br>Profesora Folia, ¿está enfadada?"
+$tk_slu5b_20_5210_0030_art_0,,"Ahora es ""hombre para todo"".<br>Profesora Folia, ¿está enfadada?"
 $tk_slu5b_20_5210_0030_art_0,ACTOR,Aeris
 $tk_slu5b_20_5210_0040_5w21_0,,"¡Sí, lo estoy!"
 $tk_slu5b_20_5210_0040_5w21_0,ACTOR,Profesora Folie
@@ -11117,7 +11117,7 @@ $tk_slu5b_20_5310_0020_5m27_0,,"¿Puedes verme, kupo?<br>Entonces sois personas 
 $tk_slu5b_20_5310_0020_5m27_0,ACTOR,Moguya
 $tk_slu5b_20_5310_0030_5m27_0,,"¡Bienvenidos a la tienda de los moguris!<br>Soy Mogya, el dueño, kupo."
 $tk_slu5b_20_5310_0030_5m27_0,ACTOR,Moguya
-$tk_slu5b_20_5310_0050_art_0,,«La historia de Mog el Moguri».<br>Es un cuento muy famoso.
+$tk_slu5b_20_5310_0050_art_0,,"""La historia de Mog el Moguri"".<br>Es un cuento muy famoso."
 $tk_slu5b_20_5310_0050_art_0,ACTOR,Aeris
 $tk_slu5b_20_5310_0060_art_0,,"Mog, el moguri, hada del bosque,<br>tiene una tienda que hace feliz a todo el mundo."
 $tk_slu5b_20_5310_0060_art_0,ACTOR,Aeris
@@ -11131,7 +11131,7 @@ $tk_slu5b_20_5310_0100_5m27_0,,"No me hagas decirlo, kupo."
 $tk_slu5b_20_5310_0100_5m27_0,ACTOR,Moguya
 $tk_slu5b_20_5310_0110_5m27_0,,"Los productos los hemos reunido entre todos.<br>¡Obras maestras y rarezas, kupo!"
 $tk_slu5b_20_5310_0110_5m27_0,ACTOR,Moguya
-$tk_slu5b_20_5310_0120_5m27_0,,"Se cambian por «medallas moguri», kupo.<br>Primero tienes que hacerte socio, kupo."
+$tk_slu5b_20_5310_0120_5m27_0,,"Se cambian por ""medallas moguri"", kupo.<br>Primero tienes que hacerte socio, kupo."
 $tk_slu5b_20_5310_0120_5m27_0,ACTOR,Moguya
 $tk_slu5b_20_5312_0010_5m27_0,,"Cuando encuentres medallas moguri,<br>ven a comprar, kupo."
 $tk_slu5b_20_5312_0010_5m27_0,ACTOR,Moguya
@@ -11139,7 +11139,7 @@ $tk_slu5b_20_5312_0020_art_0,,"Mogya, ¿qué haces con las medallas que reúnes?
 $tk_slu5b_20_5312_0020_art_0,ACTOR,Aeris
 $tk_slu5b_20_5312_0030_5m27_0,,"¡Pues hacer feliz a todo el mundo, kupo!<br>Es la misión de los moguris, kupo."
 $tk_slu5b_20_5312_0030_5m27_0,ACTOR,Moguya
-$tk_slu5b_20_5312_0040_art_0,,Igual que en «La historia de Mog».
+$tk_slu5b_20_5312_0040_art_0,,"Igual que en ""La historia de Mog""."
 $tk_slu5b_20_5312_0040_art_0,ACTOR,Aeris
 $tk_slu5b_20_5320_0025_5m27_0,,¡Bienvenidos a la tienda de Mog el Moguri!
 $tk_slu5b_20_5320_0025_5m27_0,ACTOR,Moguya
@@ -11157,7 +11157,7 @@ $tk_slu5b_20_5322_0040_5m27_0,,"¿Ya está bien, kupo?"
 $tk_slu5b_20_5322_0040_5m27_0,ACTOR,Moguya
 $tk_slu5b_20_5322_0050_5m27_0,,"¡Un paso más cerca de la felicidad, kupo!"
 $tk_slu5b_20_5322_0050_5m27_0,ACTOR,Moguya
-$tk_slu5b_20_5325_0010_art_0,,"Oye, ¿tienes por casualidad una «llave del cementerio»?"
+$tk_slu5b_20_5325_0010_art_0,,"Oye, ¿tienes por casualidad una ""llave del cementerio""?"
 $tk_slu5b_20_5325_0010_art_0,ACTOR,Aeris
 $tk_slu5b_20_5325_0020_5m27_0,,"Claro que la tengo, kupo. No esperaba menos de mi tienda, kupo."
 $tk_slu5b_20_5325_0020_5m27_0,ACTOR,Moguya
@@ -11183,7 +11183,7 @@ $tk_slu5b_20_5340_0010_5m27_0,,"¡Bien, kupo!<br>Has reunido un montón de medal
 $tk_slu5b_20_5340_0010_5m27_0,ACTOR,Moguya
 $tk_slu5b_20_5340_0020_5m27_0,,"Ya está todo listo para hacer feliz a todos, kupo."
 $tk_slu5b_20_5340_0020_5m27_0,ACTOR,Moguya
-$tk_slu5b_20_5340_0030_art_0,,"Si es igual que «La historia de Mog»,<br>¿se cumplirán nuestros deseos y seremos felices?"
+$tk_slu5b_20_5340_0030_art_0,,"Si es igual que ""La historia de Mog"",<br>¿se cumplirán nuestros deseos y seremos felices?"
 $tk_slu5b_20_5340_0030_art_0,ACTOR,Aeris
 $tk_slu5b_20_5340_0040_5m27_0,,"No solo vosotros dos, kupo.<br>¡Haré feliz a todo este suburbio, kupo!"
 $tk_slu5b_20_5340_0040_5m27_0,ACTOR,Moguya
@@ -11227,21 +11227,21 @@ $tk_slu5b_20_5407_0010_5w26_0,,¡Sí!
 $tk_slu5b_20_5407_0010_5w26_0,ACTOR,
 $tk_slu5b_20_5407_0020_5w26_0,,¡Fuh!
 $tk_slu5b_20_5407_0020_5w26_0,ACTOR,
-$tk_slu5b_20_5410_0010_5m28_0,,"Cloud, has llegado en buen momento.<br>Estábamos jugando al «Crash Box»."
+$tk_slu5b_20_5410_0010_5m28_0,,"Cloud, has llegado en buen momento.<br>Estábamos jugando al ""Crash Box""."
 $tk_slu5b_20_5410_0010_5m28_0,ACTOR,Sara
 $tk_slu5b_20_5410_0020_5m28_0,,Quien rompe más cajas<br>se convierte en el héroe de esta base.
 $tk_slu5b_20_5410_0020_5m28_0,ACTOR,Sara
 $tk_slu5b_20_5410_0030_5m28_0,,"En realidad solo pueden participar los niños,<br>pero a ti te doy permiso especial."
 $tk_slu5b_20_5410_0030_5m28_0,ACTOR,Sara
-$tk_slu5b_20_5410_0040_5m28_0,,¿Quieres intentar el «Crash Box»?
+$tk_slu5b_20_5410_0040_5m28_0,,"¿Quieres intentar el ""Crash Box""?"
 $tk_slu5b_20_5410_0040_5m28_0,ACTOR,Sara
 $tk_slu5b_20_5412_0020_5m28_0,,Y yo que quería ver<br>el Crash Box de SOLDIER.
 $tk_slu5b_20_5412_0020_5m28_0,ACTOR,Sara
-$tk_slu5b_20_5420_0010_5m28_0,,¿Juegas al «Crash Box»?
+$tk_slu5b_20_5420_0010_5m28_0,,"¿Juegas al ""Crash Box""?"
 $tk_slu5b_20_5420_0010_5m28_0,ACTOR,Sara
 $tk_slu5b_20_5420_0020_5m28_0,,Acepto retos cuando quieras.
 $tk_slu5b_20_5420_0020_5m28_0,ACTOR,Sara
-$tk_slu5b_20_5420_0030_5m28_0,,¿Quieres intentar el «Crash Box»?
+$tk_slu5b_20_5420_0030_5m28_0,,"¿Quieres intentar el ""Crash Box""?"
 $tk_slu5b_20_5420_0030_5m28_0,ACTOR,Sara
 $tk_slu5b_20_5470_0010_5m28_0,,¡Increíble!<br>Nunca había visto algo así.
 $tk_slu5b_20_5470_0010_5m28_0,ACTOR,Sara
@@ -11279,7 +11279,7 @@ $tk_slu5b_20_5510_0070_5m30_0,,estoy planteando el futuro que deberíamos buscar
 $tk_slu5b_20_5510_0070_5m30_0,ACTOR,Damon
 $tk_slu5b_20_5510_0080_5m30_0,,"Y bueno, tengo una petición<br>que hacerle al hombre para todo."
 $tk_slu5b_20_5510_0080_5m30_0,ACTOR,Damon
-$tk_slu5b_20_5510_0090_5m30_0,,¿Conoce a la «Ángel de los Suburbios»?<br>La ladrona misteriosa de identidad desconocida.
+$tk_slu5b_20_5510_0090_5m30_0,,"¿Conoce a la ""Ángel de los Suburbios""?<br>La ladrona misteriosa de identidad desconocida."
 $tk_slu5b_20_5510_0090_5m30_0,ACTOR,Damon
 $tk_slu5b_20_5510_0100_5m30_0,,Envía avisos principalmente a gente de la Compañía Shinra<br>y roba objetos de valor burlando cualquier seguridad.
 $tk_slu5b_20_5510_0100_5m30_0,ACTOR,Damon
@@ -11397,7 +11397,7 @@ $tk_slu5b_20_5540_0150_mry_0,,"Parece que es bastante fuerte.<br>Si aun así vas
 $tk_slu5b_20_5540_0150_mry_0,ACTOR,Mireia
 $tk_slu5b_20_5540_0160_5m30_0,,
 $tk_slu5b_20_5540_0160_5m30_0,ACTOR,Damon
-$tk_slu5b_20_5540_0170_5m30_0,,No. Entrar sin pensar es indigno de un periodista.<br>«Confirmar antes de actuar» es lo básico.
+$tk_slu5b_20_5540_0170_5m30_0,,"No. Entrar sin pensar es indigno de un periodista.<br>""Confirmar antes de actuar"" es lo básico."
 $tk_slu5b_20_5540_0170_5m30_0,ACTOR,Damon
 $tk_slu5b_20_5540_0180_mry_0,,"Entonces hay alguien perfecto para ello, ¿no?"
 $tk_slu5b_20_5540_0180_mry_0,ACTOR,Mireia
@@ -11419,7 +11419,7 @@ $tk_slu5b_20_5546_0040_mry_0,,"Tengo grandes esperanzas en ti, hombre para todo.
 $tk_slu5b_20_5546_0040_mry_0,ACTOR,Mireia
 $tk_slu5b_20_5550_0010_cld_0,,Vamos a inspeccionar la zona por si acaso.
 $tk_slu5b_20_5550_0010_cld_0,ACTOR,Cloud
-$tk_slu5b_20_5555_0010_cld_0,,«Para los pobres: los artículos de ayuda<br>se los queda la Ángel de los Suburbios».
+$tk_slu5b_20_5555_0010_cld_0,,"""Para los pobres: los artículos de ayuda<br>se los queda la Ángel de los Suburbios""."
 $tk_slu5b_20_5555_0010_cld_0,ACTOR,Cloud
 $tk_slu5b_20_5555_0020_art_0,,¿Un aviso de la Ángel de los Suburbios?
 $tk_slu5b_20_5555_0020_art_0,ACTOR,Aeris
@@ -11441,11 +11441,11 @@ $tk_slu5b_20_5570_0050_mry_0,,¿Oh?
 $tk_slu5b_20_5570_0050_mry_0,ACTOR,Mireia
 $tk_slu5b_20_5570_0060_mry_0,,Esta tarjeta tiene algo escrito.
 $tk_slu5b_20_5570_0060_mry_0,ACTOR,Mireia
-$tk_slu5b_20_5570_0070_mry_0,,«Al pesado periodista de Shinra:»
+$tk_slu5b_20_5570_0070_mry_0,,"""Al pesado periodista de Shinra:"""
 $tk_slu5b_20_5570_0070_mry_0,ACTOR,Mireia
-$tk_slu5b_20_5570_0080_mry_0,,"«Tenía la intención de atraerle y darle un escarmiento,<br>pero qué suerte que se encontrara con el hombre para todo»."
+$tk_slu5b_20_5570_0080_mry_0,,"""Tenía la intención de atraerle y darle un escarmiento,<br>pero qué suerte que se encontrara con el hombre para todo""."
 $tk_slu5b_20_5570_0080_mry_0,ACTOR,Mireia
-$tk_slu5b_20_5570_0090_mry_0,,"«Sin embargo, quién sabe qué pasará la próxima vez.<br>Ande con cuidado»."
+$tk_slu5b_20_5570_0090_mry_0,,"""Sin embargo, quién sabe qué pasará la próxima vez.<br>Ande con cuidado""."
 $tk_slu5b_20_5570_0090_mry_0,ACTOR,Mireia
 $tk_slu5b_20_5570_0100_5m30_0,,¿Es una advertencia de la Ángel de los Suburbios?
 $tk_slu5b_20_5570_0100_5m30_0,ACTOR,Damon
@@ -11499,17 +11499,17 @@ $tk_slu5b_20_5610_0070_5m33_0,,Para que no entre gente<br>sin saber lo de los mo
 $tk_slu5b_20_5610_0070_5m33_0,ACTOR,Anciano afligido
 $tk_slu5b_20_5615_0020_5m33_0,,"La tumba de mi mujer está en la parte del fondo, pasando el río."
 $tk_slu5b_20_5615_0020_5m33_0,ACTOR,Anciano afligido
-$tk_slu5b_20_5615_0021_5m33_0,,Pero parece que sin la «llave del cementerio»<br>no se puede entrar.
+$tk_slu5b_20_5615_0021_5m33_0,,"Pero parece que sin la ""llave del cementerio""<br>no se puede entrar."
 $tk_slu5b_20_5615_0021_5m33_0,ACTOR,Anciano afligido
 $tk_slu5b_20_5615_0030_5m33_0,,Mi mujer solo conoció penalidades.<br>Y se fue justo cuando iba a empezar a cuidarla.
 $tk_slu5b_20_5615_0030_5m33_0,ACTOR,Anciano afligido
 $tk_slu5b_20_5615_0040_5m33_0,,"Gracias, muchacho."
 $tk_slu5b_20_5615_0040_5m33_0,ACTOR,Anciano afligido
-$tk_slu5b_20_5620_0010_art_0,,La «llave del cementerio»...<br>¿Preguntamos a Mugi?
+$tk_slu5b_20_5620_0010_art_0,,"La ""llave del cementerio""...<br>¿Preguntamos a Mugi?"
 $tk_slu5b_20_5620_0010_art_0,ACTOR,Aeris
-$tk_slu5b_20_5621_0010_art_0,,"La «llave del cementerio»<br>la cambiamos en la tienda de Mogya, ¿verdad?"
+$tk_slu5b_20_5621_0010_art_0,,"La ""llave del cementerio""<br>la cambiamos en la tienda de Mogya, ¿verdad?"
 $tk_slu5b_20_5621_0010_art_0,ACTOR,Aeris
-$tk_slu5b_20_5625_0010_5m03_0,,"¿Buscas la «llave del cementerio»?<br>Qué suerte tienes, Cloud."
+$tk_slu5b_20_5625_0010_5m03_0,,"¿Buscas la ""llave del cementerio""?<br>Qué suerte tienes, Cloud."
 $tk_slu5b_20_5625_0010_5m03_0,ACTOR,Oates
 $tk_slu5b_20_5625_0020_5m03_0,,Dicen que la Ángel de los Suburbios<br>la robó del ejército.
 $tk_slu5b_20_5625_0020_5m03_0,ACTOR,Oates
@@ -11517,7 +11517,7 @@ $tk_slu5b_20_5625_0030_5m03_0,,Dicen que una ladrona famosa<br>la robó del ejé
 $tk_slu5b_20_5625_0030_5m03_0,ACTOR,Oates
 $tk_slu5b_20_5625_0040_5m03_0,,"Se la di a Mogya,<br>así que debería estar en la tienda moguri."
 $tk_slu5b_20_5625_0040_5m03_0,ACTOR,Oates
-$tk_slu5b_20_5626_0010_5m03_0,,La «llave del cementerio» se la di a Mogya.
+$tk_slu5b_20_5626_0010_5m03_0,,"La ""llave del cementerio"" se la di a Mogya."
 $tk_slu5b_20_5626_0010_5m03_0,ACTOR,Oates
 $tk_slu5b_20_5630_0010_art_0,,Es esta.
 $tk_slu5b_20_5630_0010_art_0,ACTOR,Aeris
@@ -11549,7 +11549,7 @@ $tk_slu5b_20_5670_0090_5m33_0,,Ya no puedo hacerlo por mí mismo.<br>Seguro que 
 $tk_slu5b_20_5670_0090_5m33_0,ACTOR,Anciano afligido
 $tk_slu5b_20_5670_0100_5m21_0,,No puede ser...
 $tk_slu5b_20_5670_0100_5m21_0,ACTOR,Hombre asustadizo
-$tk_slu5b_20_5670_0110_cld_0,,La «llave del cementerio». Devuélvesela a Mogya.
+$tk_slu5b_20_5670_0110_cld_0,,"La ""llave del cementerio"". Devuélvesela a Mogya."
 $tk_slu5b_20_5670_0110_cld_0,ACTOR,Cloud
 $tk_slu5b_20_5670_0120_5m33_0,,Pero yo ya...
 $tk_slu5b_20_5670_0120_5m33_0,ACTOR,Anciano afligido
@@ -11593,7 +11593,7 @@ $tk_slu5b_24_0007_0020_5w26_0,,¡Toma!
 $tk_slu5b_24_0007_0020_5w26_0,ACTOR,
 $tk_slu5b_24_0010_0010_5m28_0,,"Cloud, has llegado en buen momento."
 $tk_slu5b_24_0010_0010_5m28_0,ACTOR,Sara
-$tk_slu5b_24_0010_0020_5m28_0,,"Oye, he hecho el «Crash Box»<br>más difícil."
+$tk_slu5b_24_0010_0020_5m28_0,,"Oye, he hecho el ""Crash Box""<br>más difícil."
 $tk_slu5b_24_0010_0020_5m28_0,ACTOR,Sara
 $tk_slu5b_24_0010_0050_5m28_0,,Esto es entrenamiento para luchar.
 $tk_slu5b_24_0010_0050_5m28_0,ACTOR,Sara
@@ -11663,13 +11663,13 @@ $tk_slu5b_25_0120_0010_5m28_0,,"¡Buen trabajo, maestro Cloud!"
 $tk_slu5b_25_0120_0010_5m28_0,ACTOR,Sara
 $tk_slu5b_25_0120_0020_5m28_0,,¡Gracias!<br>Yo también me esforzaré teniéndote como meta.
 $tk_slu5b_25_0120_0020_5m28_0,ACTOR,Sara
-$tk_slu5b_25_5310_0020_5m27_0,,"¿Has leído «La historia<br>de Mog el Moguri», kupo?"
+$tk_slu5b_25_5310_0020_5m27_0,,"¿Has leído ""La historia<br>de Mog el Moguri"", kupo?"
 $tk_slu5b_25_5310_0020_5m27_0,ACTOR,Moguya
 $tk_slu5b_25_5310_0030_5m27_0,,"Es la historia de Mog, el hada del bosque,<br>que abre una tienda que hace feliz a todos, kupo."
 $tk_slu5b_25_5310_0030_5m27_0,ACTOR,Moguya
 $tk_slu5b_25_5310_0040_5m27_0,,"Yo abrí la tienda porque admiro a ese Mog, kupo."
 $tk_slu5b_25_5310_0040_5m27_0,ACTOR,Moguya
-$tk_slu5b_25_5310_0060_5m27_0,,"Se cambia por «medallas moguri», kupo."
+$tk_slu5b_25_5310_0060_5m27_0,,"Se cambia por ""medallas moguri"", kupo."
 $tk_slu5b_25_5310_0060_5m27_0,ACTOR,Moguya
 $tk_slu5b_25_5310_0110_5m27_0,,"Que caiga una placa es una emergencia, kupo."
 $tk_slu5b_25_5310_0110_5m27_0,ACTOR,Moguya
@@ -11855,7 +11855,7 @@ $tk_slu5b_40_3062_0010_art_0,,Mira eso.
 $tk_slu5b_40_3062_0010_art_0,ACTOR,Aeris
 $tk_slu5b_40_3062_0020_cld_0,,
 $tk_slu5b_40_3062_0020_cld_0,ACTOR,
-$tk_slu5b_40_3062_0030_art_0,,«C-o-r-n-e-o». Es allí.
+$tk_slu5b_40_3062_0030_art_0,,"""C-o-r-n-e-o"". Es allí."
 $tk_slu5b_40_3062_0030_art_0,ACTOR,Aeris
 $tk_slu5b_40_3062_0040_cld_0,,Sí.
 $tk_slu5b_40_3062_0040_cld_0,ACTOR,Cloud
@@ -12329,11 +12329,11 @@ $tk_slu5b_40_5010_0051_6m01_0,,"Todos la alababan como ladrona justiciera,<br>pe
 $tk_slu5b_40_5010_0051_6m01_0,ACTOR,Mozo de cuadra
 $tk_slu5b_40_5010_0060_6m01_0,,Estaba escrito en el aviso.
 $tk_slu5b_40_5010_0060_6m01_0,ACTOR,Mozo de cuadra
-$tk_slu5b_40_5010_0061_6m01_0,,«Ángelo es un ladrón...»
+$tk_slu5b_40_5010_0061_6m01_0,,"""Ángelo es un ladrón..."""
 $tk_slu5b_40_5010_0061_6m01_0,ACTOR,Mozo de cuadra
-$tk_slu5b_40_5010_0062_6m01_0,,"«El Ángelo de los Suburbios se lo queda»,<br>dice."
+$tk_slu5b_40_5010_0062_6m01_0,,"""El Ángelo de los Suburbios se lo queda"",<br>dice."
 $tk_slu5b_40_5010_0062_6m01_0,ACTOR,Mozo de cuadra
-$tk_slu5b_40_5010_0070_mry_0,,¿Qué es eso de «Ángelo»?
+$tk_slu5b_40_5010_0070_mry_0,,"¿Qué es eso de ""Ángelo""?"
 $tk_slu5b_40_5010_0070_mry_0,ACTOR,Mireia
 $tk_slu5b_40_5010_0072_mry_0,,Escucha.<br>Esto no es obra de la Ángel de los Suburbios.
 $tk_slu5b_40_5010_0072_mry_0,ACTOR,Mireia
@@ -12357,21 +12357,21 @@ $tk_slu5b_40_5020_0010_mry_0,,La carretera hundida a la que huyeron los tres<br>
 $tk_slu5b_40_5020_0010_mry_0,ACTOR,Mireia
 $tk_slu5b_40_5020_0011_mry_0,,"Date prisa, ve tras ellos."
 $tk_slu5b_40_5020_0011_mry_0,ACTOR,Mireia
-$tk_slu5b_40_5030_0010_uv1_0,,"«El Ángelo de los Suburbios se lo queda»,<br>dice."
+$tk_slu5b_40_5030_0010_uv1_0,,"""El Ángelo de los Suburbios se lo queda"",<br>dice."
 $tk_slu5b_40_5030_0010_uv1_0,ACTOR,El Chungo
 $tk_slu5b_40_5030_0011_uv1_0,,Con una sola tarjeta<br>todo ha salido demasiado bien.
 $tk_slu5b_40_5030_0011_uv1_0,ACTOR,El Chungo
 $tk_slu5b_40_5030_0020_uv2_0,,El robo es obra de Ángelo.<br>¿Y Ángelo somos nosotros?
 $tk_slu5b_40_5030_0020_uv2_0,ACTOR,El Broncas
-$tk_slu5b_40_5030_0030_uv3_0,,Pero...<br>¿qué es un «Ángelo»?
+$tk_slu5b_40_5030_0030_uv3_0,,"Pero...<br>¿qué es un ""Ángelo""?"
 $tk_slu5b_40_5030_0030_uv3_0,ACTOR,El Pardi
-$tk_slu5b_40_5030_0040_uv1_0,,"Pues eso,<br>un mal tipo que roba todo tipo de «ángelos»."
+$tk_slu5b_40_5030_0040_uv1_0,,"Pues eso,<br>un mal tipo que roba todo tipo de ""ángelos""."
 $tk_slu5b_40_5030_0040_uv1_0,ACTOR,El Chungo
-$tk_slu5b_40_5030_0050_uv2_0,,"Sí, sí. Por algo<br>se llamará «ángelo»."
+$tk_slu5b_40_5030_0050_uv2_0,,"Sí, sí. Por algo<br>se llamará ""ángelo""."
 $tk_slu5b_40_5030_0050_uv2_0,ACTOR,El Broncas
 $tk_slu5b_40_5030_0060_uv3_0,,"¡Ah, ya lo entiendo!<br>¡Qué listo eres!"
 $tk_slu5b_40_5030_0060_uv3_0,ACTOR,El Pardi
-$tk_slu5b_40_5030_0070_uv3_0,,"Por cierto, ¿qué es un «ángelo»?"
+$tk_slu5b_40_5030_0070_uv3_0,,"Por cierto, ¿qué es un ""ángelo""?"
 $tk_slu5b_40_5030_0070_uv3_0,ACTOR,El Pardi
 $tk_slu5b_40_5040_0010_uv1_0,,"¡Ah, eres tú!"
 $tk_slu5b_40_5040_0010_uv1_0,ACTOR,El Chungo
@@ -12437,7 +12437,7 @@ $tk_slu5b_40_5071_0050_mry_0,,Gracias a ti ha salido bien.<br>Gracias.
 $tk_slu5b_40_5071_0050_mry_0,ACTOR,Mireia
 $tk_slu5b_40_5071_0060_cld_0,,
 $tk_slu5b_40_5071_0060_cld_0,ACTOR,
-$tk_slu5b_40_5071_0070_cld_0,,«La bella ladrona que desciende sobre la pobreza:<br>la Ángel de los Suburbios».
+$tk_slu5b_40_5071_0070_cld_0,,"""La bella ladrona que desciende sobre la pobreza:<br>la Ángel de los Suburbios""."
 $tk_slu5b_40_5071_0070_cld_0,ACTOR,Cloud
 $tk_slu5b_40_5071_0090_cld_0,,Puede que yo también sea de la banda.
 $tk_slu5b_40_5071_0090_cld_0,ACTOR,Cloud
@@ -12447,7 +12447,7 @@ $tk_slu5b_40_5080_0011_6q01_0,,Lo que teníamos que entregar<br>al señor Corneo
 $tk_slu5b_40_5080_0011_6q01_0,ACTOR,Empleado de Don Corneo
 $tk_slu5b_40_5080_0030_6q02_0,,"Esta vez es de verdad.<br>Y con aviso incluido, muy considerado."
 $tk_slu5b_40_5080_0030_6q02_0,ACTOR,Empleado de Don Corneo
-$tk_slu5b_40_5080_0031_6q02_0,,«Para los pobres: los artículos de ayuda<br>se los queda la Ángel de los Suburbios».
+$tk_slu5b_40_5080_0031_6q02_0,,"""Para los pobres: los artículos de ayuda<br>se los queda la Ángel de los Suburbios""."
 $tk_slu5b_40_5080_0031_6q02_0,ACTOR,Empleado de Don Corneo
 $tk_slu5b_40_5090_0010_6q01_0,,Puede que desde el principio<br>buscara los artículos del señor Corneo.
 $tk_slu5b_40_5090_0010_6q01_0,ACTOR,Empleado de Don Corneo
@@ -12641,11 +12641,11 @@ $tk_slu5b_40_5610_0030_clos_0,,"Ah, tú eres el famoso hombre para todo.<br>Lo q
 $tk_slu5b_40_5610_0030_clos_0,ACTOR,Hijo del sastre
 $tk_slu5b_40_5610_0032_clos_0,,"Quiero que traigas de vuelta a mi padre,<br>que está borracho en la taberna."
 $tk_slu5b_40_5610_0032_clos_0,ACTOR,Hijo del sastre
-$tk_slu5b_40_5610_0060_clos_0,,"Está en «El Borracho», ahí mismo.<br>Cuento contigo."
+$tk_slu5b_40_5610_0060_clos_0,,"Está en ""El Borracho"", ahí mismo.<br>Cuento contigo."
 $tk_slu5b_40_5610_0060_clos_0,ACTOR,Hijo del sastre
-$tk_slu5b_40_5612_0010_clos_0,,Mi padre debería estar en «El Borracho».<br>Está justo enfrente de esta tienda.
+$tk_slu5b_40_5612_0010_clos_0,,"Mi padre debería estar en ""El Borracho"".<br>Está justo enfrente de esta tienda."
 $tk_slu5b_40_5612_0010_clos_0,ACTOR,Hijo del sastre
-$tk_slu5b_40_5612_0020_clos_0,,Su sitio fijo es la barra de «El Borracho».<br>Seguro que lo encuentras enseguida.
+$tk_slu5b_40_5612_0020_clos_0,,"Su sitio fijo es la barra de ""El Borracho"".<br>Seguro que lo encuentras enseguida."
 $tk_slu5b_40_5612_0020_clos_0,ACTOR,Hijo del sastre
 $tk_slu5b_40_5612_0030_clos_0,,"Si mi padre no trabaja,<br>la tienda va a la ruina. Tráelo pronto."
 $tk_slu5b_40_5612_0030_clos_0,ACTOR,Hijo del sastre
@@ -12659,13 +12659,13 @@ $tk_slu5b_40_5620_0040_jny_0,,"¡Déjamelo a mí,<br>que soy veterano en esta ci
 $tk_slu5b_40_5620_0040_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5620_0060_jny_0,,"Venga, primero terminemos el encargo."
 $tk_slu5b_40_5620_0060_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5620_0062_jny_0,,«El Borracho» está por aquí.
+$tk_slu5b_40_5620_0062_jny_0,,"""El Borracho"" está por aquí."
 $tk_slu5b_40_5620_0062_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5621_0010_jny_0,,"El Borracho, El Borracho."
 $tk_slu5b_40_5621_0010_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5622_0010_jny_0,,¿Solo para habituales?<br>Tiene un ambiente algo intimidante.
 $tk_slu5b_40_5622_0010_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5623_0010_jny_0,,Este es el refugio donde lavar con alcohol el cansancio diario:<br>«El Borracho».
+$tk_slu5b_40_5623_0010_jny_0,,"Este es el refugio donde lavar con alcohol el cansancio diario:<br>""El Borracho""."
 $tk_slu5b_40_5623_0010_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5624_0010_jny_0,,"Es un local con muchos habituales, así que al entrar..."
 $tk_slu5b_40_5624_0010_jny_0,ACTOR,Johnny
@@ -12687,15 +12687,15 @@ $tk_slu5b_40_5630_0060_clof_0,,"¿De verdad, hijo?"
 $tk_slu5b_40_5630_0060_clof_0,ACTOR,Sastre
 $tk_slu5b_40_5630_0070_clof_0,,Resulta que perdí una apuesta contra el dueño de la tienda de materias.
 $tk_slu5b_40_5630_0070_clof_0,ACTOR,Sastre
-$tk_slu5b_40_5630_0080_clof_0,,Y me arrebató<br>mi preciada «inspiración».
+$tk_slu5b_40_5630_0080_clof_0,,"Y me arrebató<br>mi preciada ""inspiración""."
 $tk_slu5b_40_5630_0080_clof_0,ACTOR,Sastre
 $tk_slu5b_40_5630_0090_jny_0,,¿Ins... pi...?
 $tk_slu5b_40_5630_0090_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5630_0100_clof_0,,"«¡Inspiración»!<br>Mientras no me la devuelvan, no tiene sentido que vuelva a la tienda."
+$tk_slu5b_40_5630_0100_clof_0,,"""¡Inspiración""!<br>Mientras no me la devuelvan, no tiene sentido que vuelva a la tienda."
 $tk_slu5b_40_5630_0100_clof_0,ACTOR,Sastre
 $tk_slu5b_40_5630_0110_jny_0,,Entendido. Aunque no tengo ni idea de qué es.
 $tk_slu5b_40_5630_0110_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5630_0112_jny_0,,"Entonces basta con recuperar<br>esa «inspiración», ¿no?"
+$tk_slu5b_40_5630_0112_jny_0,,"Entonces basta con recuperar<br>esa ""inspiración"", ¿no?"
 $tk_slu5b_40_5630_0112_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5630_0114_jny_0,,"¡Espérame, viejo!"
 $tk_slu5b_40_5630_0114_jny_0,ACTOR,Johnny
@@ -12721,7 +12721,7 @@ $tk_slu5b_40_5640_0010_jny_0,,Esta es la tienda de materias.
 $tk_slu5b_40_5640_0010_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5640_0020_mate_0,,¿Qué queréis?
 $tk_slu5b_40_5640_0020_mate_0,ACTOR,Vendedor de materias
-$tk_slu5b_40_5640_0030_jny_0,,Devuélvenos la «inspiración»<br>del viejo de la tienda de ropa.
+$tk_slu5b_40_5640_0030_jny_0,,"Devuélvenos la ""inspiración""<br>del viejo de la tienda de ropa."
 $tk_slu5b_40_5640_0030_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5640_0040_mate_0,,"¿Inspi...?<br>Ah, ¿te refieres a eso?"
 $tk_slu5b_40_5640_0040_mate_0,ACTOR,Vendedor de materias
@@ -12783,7 +12783,7 @@ $tk_slu5b_40_5650_0060_jny_0,,Eso es un secreto.
 $tk_slu5b_40_5650_0060_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5650_0070_jny_0,,"Poniendo en marcha todos mis conocimientos y experiencia,<br>así, ¡zazazazá!"
 $tk_slu5b_40_5650_0070_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5650_0072_jny_0,,Hay que «descubrirlo» con el ojo de la mente.
+$tk_slu5b_40_5650_0072_jny_0,,"Hay que ""descubrirlo"" con el ojo de la mente."
 $tk_slu5b_40_5650_0072_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5650_0076_cld_0,,
 $tk_slu5b_40_5650_0076_cld_0,ACTOR,
@@ -12845,21 +12845,21 @@ $tk_slu5b_40_5672_0020_cld_0,,La causa es...<br>(Aconseja con el atributo que do
 $tk_slu5b_40_5672_0020_cld_0,ACTOR,Cloud
 $tk_slu5b_40_5673_0002_jny_0,,
 $tk_slu5b_40_5673_0002_jny_0,ACTOR,
-$tk_slu5b_40_5673_0010_jny_0,,¡Bien! ¡La causa es que «no hay suficiente fuego»!
+$tk_slu5b_40_5673_0010_jny_0,,"¡Bien! ¡La causa es que ""no hay suficiente fuego""!"
 $tk_slu5b_40_5673_0010_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5673_0020_teis_0,,"Muchacho, ¿tú también entiendes de «fuego»?<br>Vamos a probar a cambiar el fuego."
+$tk_slu5b_40_5673_0020_teis_0,,"Muchacho, ¿tú también entiendes de ""fuego""?<br>Vamos a probar a cambiar el fuego."
 $tk_slu5b_40_5673_0020_teis_0,ACTOR,Cocinero
 $tk_slu5b_40_5674_0002_jny_0,,
 $tk_slu5b_40_5674_0002_jny_0,ACTOR,
-$tk_slu5b_40_5674_0010_jny_0,,¡La causa es la «frescura de los ingredientes»!<br>¿No será que no lo enfrían bien?
+$tk_slu5b_40_5674_0010_jny_0,,"¡La causa es la ""frescura de los ingredientes""!<br>¿No será que no lo enfrían bien?"
 $tk_slu5b_40_5674_0010_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5674_0020_teis_0,,"Muchacho, ¿tú también entiendes de «hielo»?<br>Vamos a revisar la temperatura de la nevera."
+$tk_slu5b_40_5674_0020_teis_0,,"Muchacho, ¿tú también entiendes de ""hielo""?<br>Vamos a revisar la temperatura de la nevera."
 $tk_slu5b_40_5674_0020_teis_0,ACTOR,Cocinero
 $tk_slu5b_40_5675_0002_jny_0,,
 $tk_slu5b_40_5675_0002_jny_0,ACTOR,
-$tk_slu5b_40_5675_0010_jny_0,,"¿La causa es una «fuga eléctrica»?<br>Está todo destartalado, es sospechoso."
+$tk_slu5b_40_5675_0010_jny_0,,"¿La causa es una ""fuga eléctrica""?<br>Está todo destartalado, es sospechoso."
 $tk_slu5b_40_5675_0010_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5675_0020_teis_0,,"Muchacho, «rayo»... no,<br>¿tú también entiendes de electricidad?"
+$tk_slu5b_40_5675_0020_teis_0,,"Muchacho, ""rayo""... no,<br>¿tú también entiendes de electricidad?"
 $tk_slu5b_40_5675_0020_teis_0,ACTOR,Cocinero
 $tk_slu5b_40_5675_0022_teis_0,,"Aun así, una fuga eléctrica...<br>No digas cosas que dan miedo. Lo revisaré por si acaso."
 $tk_slu5b_40_5675_0022_teis_0,ACTOR,Cocinero
@@ -12899,11 +12899,11 @@ $tk_slu5b_40_5690_0052_kusu_0,,"Ah, ya sé.<br>¿Podrías repartir tú las medic
 $tk_slu5b_40_5690_0052_kusu_0,ACTOR,Farmacéutico
 $tk_slu5b_40_5690_0070_kusu_0,,"Por tu aspecto, ¿eres militar o algo así?"
 $tk_slu5b_40_5690_0070_kusu_0,ACTOR,Farmacéutico
-$tk_slu5b_40_5690_0072_kusu_0,,Pensé que tendrías algo de experiencia<br>con la «curación».
+$tk_slu5b_40_5690_0072_kusu_0,,"Pensé que tendrías algo de experiencia<br>con la ""curación""."
 $tk_slu5b_40_5690_0072_kusu_0,ACTOR,Farmacéutico
 $tk_slu5b_40_5690_0080_cld_0,,"¿Aceptar el encargo de la tienda de medicina?<br>(Si dominas la materia de curación,<br>parece que podrás ayudar)"
 $tk_slu5b_40_5690_0080_cld_0,ACTOR,Cloud
-$tk_slu5b_40_5692_0010_kusu_0,,Las medicinas son delicadas.<br>No puedo encargárselas a alguien sin experiencia en «curación».
+$tk_slu5b_40_5692_0010_kusu_0,,"Las medicinas son delicadas.<br>No puedo encargárselas a alguien sin experiencia en ""curación""."
 $tk_slu5b_40_5692_0010_kusu_0,ACTOR,Farmacéutico
 $tk_slu5b_40_5692_0012_kusu_0,,Te recompensaré como es debido. Te lo ruego.
 $tk_slu5b_40_5692_0012_kusu_0,ACTOR,Farmacéutico
@@ -12961,7 +12961,7 @@ $tk_slu5b_40_5713_0032_kusu_0,,"Me lo contó el del restaurante.<br>Vosotros bus
 $tk_slu5b_40_5713_0032_kusu_0,ACTOR,Farmacéutico
 $tk_slu5b_40_5713_0040_jny_0,,¿Que buscábamos?<br>El viejo de la tienda de ropa... ¿cómo era?
 $tk_slu5b_40_5713_0040_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5713_0060_jny_0,,¡«Inspiración»!
+$tk_slu5b_40_5713_0060_jny_0,,"¡""Inspiración""!"
 $tk_slu5b_40_5713_0060_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5713_0070_kusu_0,,¡Exacto!<br>Los dueños de las tiendas de por aquí somos viejos conocidos.
 $tk_slu5b_40_5713_0070_kusu_0,ACTOR,Farmacéutico
@@ -12975,7 +12975,7 @@ $tk_slu5b_40_5713_0102_kusu_0,,"Aunque, total,<br>tampoco sirve de nada tenerlo.
 $tk_slu5b_40_5713_0102_kusu_0,ACTOR,Farmacéutico
 $tk_slu5b_40_5713_0110_jny_0,,¿Esto no será...?
 $tk_slu5b_40_5713_0110_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5713_0112_jny_0,,"Señor Cloud, rápido, descubra...<br>¡En fin, volvamos a «El Borracho»!"
+$tk_slu5b_40_5713_0112_jny_0,,"Señor Cloud, rápido, descubra...<br>¡En fin, volvamos a ""El Borracho""!"
 $tk_slu5b_40_5713_0112_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5713_0120_kusu_0,,Dale recuerdos al viejo de la tienda de ropa.
 $tk_slu5b_40_5713_0120_kusu_0,ACTOR,Farmacéutico
@@ -12985,7 +12985,7 @@ $tk_slu5b_40_5720_0020_clof_0,,¿Ese hijo mío existía?
 $tk_slu5b_40_5720_0020_clof_0,ACTOR,Sastre
 $tk_slu5b_40_5720_0030_jny_0,,He recuperado lo tuyo.
 $tk_slu5b_40_5720_0030_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5720_0040_clof_0,,¡Oh! ¡Esto es sin duda<br>mi «inspiración»!
+$tk_slu5b_40_5720_0040_clof_0,,"¡Oh! ¡Esto es sin duda<br>mi ""inspiración""!"
 $tk_slu5b_40_5720_0040_clof_0,ACTOR,Sastre
 $tk_slu5b_40_5720_0050_jny_0,,"Viejo, ¿eso es lo que...?"
 $tk_slu5b_40_5720_0050_jny_0,ACTOR,Johnny
@@ -13039,7 +13039,7 @@ $tk_slu5b_40_5729_0110_cld_0,,¿¡Qué!?
 $tk_slu5b_40_5729_0110_cld_0,ACTOR,
 $tk_slu5b_40_5729_0120_jny_0,,"Lamento no poder ir contigo,<br>pero aquí, como veterano del Mercado del Muro,"
 $tk_slu5b_40_5729_0120_jny_0,ACTOR,Johnny
-$tk_slu5b_40_5729_0130_jny_0,,"por el señor Cloud, me sacrificaré e iré un paso por delante<br>a experimentar la «inspiración»."
+$tk_slu5b_40_5729_0130_jny_0,,"por el señor Cloud, me sacrificaré e iré un paso por delante<br>a experimentar la ""inspiración""."
 $tk_slu5b_40_5729_0130_jny_0,ACTOR,Johnny
 $tk_slu5b_40_5729_0132_jny_0,,"¡Déjamelo todo a mí,<br>con toda confianza!"
 $tk_slu5b_40_5729_0132_jny_0,ACTOR,Johnny
@@ -13599,11 +13599,11 @@ $tk_slu5b_41_5601_0010_jnan_0,,Aaah...
 $tk_slu5b_41_5601_0010_jnan_0,ACTOR,Jules
 $tk_slu5b_41_5625_0010_clof_0,,Yo ya estoy acabado.
 $tk_slu5b_41_5625_0010_clof_0,ACTOR,Sastre
-$tk_slu5b_41_5625_0020_clof_0,,"Hasta que no vuelva la «inspiración»,<br>dejadme en paz."
+$tk_slu5b_41_5625_0020_clof_0,,"Hasta que no vuelva la ""inspiración"",<br>dejadme en paz."
 $tk_slu5b_41_5625_0020_clof_0,ACTOR,Sastre
 $tk_slu5b_41_5625_0030_clof_0,,"Chicas, lo siento."
 $tk_slu5b_41_5625_0030_clof_0,ACTOR,Sastre
-$tk_slu5b_41_5660_0010_cld_0,,Entregué la «poción especial del hotel (provisional)».
+$tk_slu5b_41_5660_0010_cld_0,,"Entregué la ""poción especial del hotel (provisional)""."
 $tk_slu5b_41_5660_0010_cld_0,ACTOR,Cloud
 $tk_slu5b_41_5660_0020_mate_0,,¿Ah? ¿Qué es esto?
 $tk_slu5b_41_5660_0020_mate_0,ACTOR,Vendedor de materias
@@ -13617,7 +13617,7 @@ $tk_slu5b_41_5660_0060_jny_0,,"Bueno, es que... cómo decirlo..."
 $tk_slu5b_41_5660_0060_jny_0,ACTOR,Johnny
 $tk_slu5b_41_5660_0070_jny_0,,"Si puedo hacer algo, dímelo."
 $tk_slu5b_41_5660_0070_jny_0,ACTOR,Johnny
-$tk_slu5b_41_5661_0010_cld_0,,Entregué la «poción especial del hotel (provisional)».<br>Entregué el «estimulante especial del hotel (provisional)».
+$tk_slu5b_41_5661_0010_cld_0,,"Entregué la ""poción especial del hotel (provisional)"".<br>Entregué el ""estimulante especial del hotel (provisional)""."
 $tk_slu5b_41_5661_0010_cld_0,ACTOR,Cloud
 $tk_slu5b_41_5661_0020_mate_0,,"Ah, así que por ahí iban los tiros..."
 $tk_slu5b_41_5661_0020_mate_0,ACTOR,Vendedor de materias
@@ -13627,7 +13627,7 @@ $tk_slu5b_41_5661_0040_mate_0,,"Con tu nivel, supongo que es lo normal.<br>Esfor
 $tk_slu5b_41_5661_0040_mate_0,ACTOR,Vendedor de materias
 $tk_slu5b_41_5661_0050_jny_0,,Esforcémonos todos juntos.
 $tk_slu5b_41_5661_0050_jny_0,ACTOR,Johnny
-$tk_slu5b_41_5663_0010_cld_0,,Entregué la «poción especial del hotel (provisional)».<br>Entregué el «estimulante especial del hotel (provisional)».<br>Entregué «eso de la máquina expendedora».
+$tk_slu5b_41_5663_0010_cld_0,,"Entregué la ""poción especial del hotel (provisional)"".<br>Entregué el ""estimulante especial del hotel (provisional)"".<br>Entregué ""eso de la máquina expendedora""."
 $tk_slu5b_41_5663_0010_cld_0,ACTOR,Cloud
 $tk_slu5b_41_5663_0020_mate_0,,"Esto es... ¿de verdad? ¡Increíble, muchacho!<br>Es la primera vez que veo algo así."
 $tk_slu5b_41_5663_0020_mate_0,ACTOR,Vendedor de materias
@@ -13771,11 +13771,11 @@ $tk_slu5b_45_0061_0020_mb_0,,"La competencia es feroz, pero si aciertas, puedes 
 $tk_slu5b_45_0061_0020_mb_0,ACTOR,
 $tk_slu5b_45_0061_0030_mb_0,,Lo haré.<br>Abrir una tienda aquí era mi sueño.
 $tk_slu5b_45_0061_0030_mb_0,ACTOR,
-$tk_slu5b_45_0062_0010_mb_0,,"Si hace falta, también te conseguiré «flores»."
+$tk_slu5b_45_0062_0010_mb_0,,"Si hace falta, también te conseguiré ""flores""."
 $tk_slu5b_45_0062_0010_mb_0,ACTOR,
 $tk_slu5b_45_0062_0020_mb_0,,¿Flores?
 $tk_slu5b_45_0062_0020_mb_0,ACTOR,
-$tk_slu5b_45_0062_0030_mb_0,,"«Sakura».<br>Te las dejaré baratas para celebrar la apertura, ¿eh?"
+$tk_slu5b_45_0062_0030_mb_0,,"""Sakura"".<br>Te las dejaré baratas para celebrar la apertura, ¿eh?"
 $tk_slu5b_45_0062_0030_mb_0,ACTOR,
 $tk_slu5b_45_0062_0040_mb_0,,Gracias.
 $tk_slu5b_45_0062_0040_mb_0,ACTOR,
@@ -13803,9 +13803,9 @@ $tk_slu5b_45_0142_0010_mb_0,,Esta noche no voy a dormir.<br>Tengo que vigilar pa
 $tk_slu5b_45_0142_0010_mb_0,ACTOR,
 $tk_slu5b_45_0152_0010_mbn_0,,¿Podría no entrar en el almacén?
 $tk_slu5b_45_0152_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0153_0010_mbn_0,,"Si busca «eso», no está en el almacén."
+$tk_slu5b_45_0153_0010_mbn_0,,"Si busca ""eso"", no está en el almacén."
 $tk_slu5b_45_0153_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0155_0010_mbn_0,,Gracias por adquirir «eso».<br>Se lo agradecemos.
+$tk_slu5b_45_0155_0010_mbn_0,,"Gracias por adquirir ""eso"".<br>Se lo agradecemos."
 $tk_slu5b_45_0155_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0161_0010_mb_0,,"Oye, ¿este hotel no da mal rollo?<br>No es lo que esperaba..."
 $tk_slu5b_45_0161_0010_mb_0,ACTOR,
@@ -13855,7 +13855,7 @@ $tk_slu5b_45_0191_0010_mbn_0,,"Ah, la cartera...<br>He perdido la cartera."
 $tk_slu5b_45_0191_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0192_0010_mbn_0,,Qué raro.<br>Si la había metido en el bolsillo...
 $tk_slu5b_45_0192_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0201_0010_mbn_0,,"Oye, ¿qué tal un «set completo»?"
+$tk_slu5b_45_0201_0010_mbn_0,,"Oye, ¿qué tal un ""set completo""?"
 $tk_slu5b_45_0201_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0202_0010_mbn_0,,"Si no sabes lo que es, déjalo."
 $tk_slu5b_45_0202_0010_mbn_0,ACTOR,
@@ -13889,7 +13889,7 @@ $tk_slu5b_45_0222_0030_mbn_0,,"¡Venga, ven!"
 $tk_slu5b_45_0222_0030_mbn_0,ACTOR,
 $tk_slu5b_45_0222_0040_mbn_0,,Sí...
 $tk_slu5b_45_0222_0040_mbn_0,ACTOR,
-$tk_slu5b_45_0231_0010_mbn_0,,"¡«Materia Ice», un helado con forma de materia!<br>Prueba decenas de sabores misteriosos."
+$tk_slu5b_45_0231_0010_mbn_0,,"¡""Materia Ice"", un helado con forma de materia!<br>Prueba decenas de sabores misteriosos."
 $tk_slu5b_45_0231_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0232_0010_mbn_0,,"¡Si los apilas, el sabor cambia aún más!<br>Disfruta del postre mágico: Materia Ice."
 $tk_slu5b_45_0232_0010_mbn_0,ACTOR,
@@ -13897,19 +13897,19 @@ $tk_slu5b_45_0233_0010_mbn_0,,Ingredientes y método secreto.<br>Un postre más 
 $tk_slu5b_45_0233_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0241_0010_mbn_0,,"Sí, ¡Materia Ice!<br>He venido al Mercado del Muro<br>solo para probarlo."
 $tk_slu5b_45_0241_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0242_0010_mbn_0,,¡Sabor «fuego»: frío y ardiente!<br>¡Se me enciende la boca!
+$tk_slu5b_45_0242_0010_mbn_0,,"¡Sabor ""fuego"": frío y ardiente!<br>¡Se me enciende la boca!"
 $tk_slu5b_45_0242_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0251_0010_mbn_0,,El «Materia Ice de invocación»<br>lleva dentro un caramelo con forma de criatura invocada.
+$tk_slu5b_45_0251_0010_mbn_0,,"El ""Materia Ice de invocación""<br>lleva dentro un caramelo con forma de criatura invocada."
 $tk_slu5b_45_0251_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0252_0010_mbn_0,,¡Me ha tocado un chocobo y un moguri de sabor chocolate!<br>¿Cuántos tipos habrá en total?
 $tk_slu5b_45_0252_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0261_0010_mbn_0,,"Si apilas los Materia Ice,<br>el sabor cambia."
 $tk_slu5b_45_0261_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0261_0020_mbn_0,,La combinación recomendada es<br>el doble de «rayo» y «todo».
+$tk_slu5b_45_0261_0020_mbn_0,,"La combinación recomendada es<br>el doble de ""rayo"" y ""todo""."
 $tk_slu5b_45_0261_0020_mbn_0,ACTOR,
 $tk_slu5b_45_0261_0030_mbn_0,,¡Ya es un Thundaga por todo el cuerpo!
 $tk_slu5b_45_0261_0030_mbn_0,ACTOR,
-$tk_slu5b_45_0262_0010_mbn_0,,"Pero cuidado: si lo apilas con el sabor «transformación»,<br>todo sabrá a rana. Croac."
+$tk_slu5b_45_0262_0010_mbn_0,,"Pero cuidado: si lo apilas con el sabor ""transformación"",<br>todo sabrá a rana. Croac."
 $tk_slu5b_45_0262_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0271_0010_mbn_0,,"Como siempre, qué buen gusto."
 $tk_slu5b_45_0271_0010_mbn_0,ACTOR,
@@ -13929,11 +13929,11 @@ $tk_slu5b_45_0282_0010_mbn_0,,"Aunque la mayoría hace cosas<br>que dan ganas de
 $tk_slu5b_45_0282_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0291_0010_mbn_0,,"¿Qué tal? Es una pieza con carácter, ¿verdad?"
 $tk_slu5b_45_0291_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0291_0020_mbn_0,,"«Antigua olla de miso»...<br>Cierto, parece tener carácter."
+$tk_slu5b_45_0291_0020_mbn_0,,"""Antigua olla de miso""...<br>Cierto, parece tener carácter."
 $tk_slu5b_45_0291_0020_mbn_0,ACTOR,
 $tk_slu5b_45_0292_0010_mbn_0,,"Esta es más sobria, ¿verdad?"
 $tk_slu5b_45_0292_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0292_0020_mbn_0,,«Cuenco cubierto de posos de té»...<br>Sin duda es sobrio.
+$tk_slu5b_45_0292_0020_mbn_0,,"""Cuenco cubierto de posos de té""...<br>Sin duda es sobrio."
 $tk_slu5b_45_0292_0020_mbn_0,ACTOR,
 $tk_slu5b_45_0301_0010_mbn_0,,Me gustaría llevar como recuerdo<br>algo indecente<br>típico del Mercado del Muro...
 $tk_slu5b_45_0301_0010_mbn_0,ACTOR,
@@ -14013,11 +14013,11 @@ $tk_slu5b_45_0343_0030_mbn_0,,¡Entonces renuncia a tu fortuna!<br>El apego al d
 $tk_slu5b_45_0343_0030_mbn_0,ACTOR,
 $tk_slu5b_45_0343_0040_mbn_0,,¡Qué bendición!
 $tk_slu5b_45_0343_0040_mbn_0,ACTOR,
-$tk_slu5b_45_0351_0010_mbn_0,,¡Hoy la primera copa va a mitad de precio!<br>¡Ven a emborracharte a la taberna «El Borracho»!
+$tk_slu5b_45_0351_0010_mbn_0,,"¡Hoy la primera copa va a mitad de precio!<br>¡Ven a emborracharte a la taberna ""El Borracho""!"
 $tk_slu5b_45_0351_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0352_0010_mbn_0,,"¡Pasa, señorita!<br>¡Ven a beber, joven!"
 $tk_slu5b_45_0352_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0352_0011_mbn_0,,"¡Aquí está «El Borracho»,<br>la taberna donde beber y cantar!"
+$tk_slu5b_45_0352_0011_mbn_0,,"¡Aquí está ""El Borracho"",<br>la taberna donde beber y cantar!"
 $tk_slu5b_45_0352_0011_mbn_0,ACTOR,
 $tk_slu5b_45_0361_0010_mbn_0,,¡Palomitas de judías chocobo!<br>¡Un dulce monísimo con forma de chocobo!
 $tk_slu5b_45_0361_0010_mbn_0,ACTOR,
@@ -14133,7 +14133,7 @@ $tk_slu5b_45_0452_0010_mbn_0,,"Entonces, ¿qué tal un pase para comer todo lo q
 $tk_slu5b_45_0452_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0452_0020_mbn_0,,¡Me lo quedo!
 $tk_slu5b_45_0452_0020_mbn_0,ACTOR,
-$tk_slu5b_45_0461_0010_mbn_0,,¡Así que esta es la famosa<br>casa de hombres «Dandandan»!
+$tk_slu5b_45_0461_0010_mbn_0,,"¡Así que esta es la famosa<br>casa de hombres ""Dandandan""!"
 $tk_slu5b_45_0461_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0462_0010_mbn_0,,El legendario gimnasio de entrenamiento...<br>Solo con mirarlo parece que te salen músculos.
 $tk_slu5b_45_0462_0010_mbn_0,ACTOR,
@@ -14215,7 +14215,7 @@ $tk_slu5b_45_0542_0020_mbn_0,,"Es una carne que nunca he visto...<br>Y como pare
 $tk_slu5b_45_0542_0020_mbn_0,ACTOR,
 $tk_slu5b_45_0551_0010_mbn_0,,¡El Ultima Monster Burger<br>con patatas Omega!
 $tk_slu5b_45_0551_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0552_0010_mbn_0,,¡Y la salsa «aditivo adicional» también en ración gigante!
+$tk_slu5b_45_0552_0010_mbn_0,,"¡Y la salsa ""aditivo adicional"" también en ración gigante!"
 $tk_slu5b_45_0552_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0561_0010_mbn_0,,¡Oh! ¡Así que era carne de eso!
 $tk_slu5b_45_0561_0010_mbn_0,ACTOR,
@@ -14279,7 +14279,7 @@ $tk_slu5b_45_0621_0010_mbn_0,,"Últimamente insistes mucho con los bollos de mie
 $tk_slu5b_45_0621_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0621_0020_mbn_0,,Es para los clientes de arriba.<br>Lo dulce gusta.
 $tk_slu5b_45_0621_0020_mbn_0,ACTOR,
-$tk_slu5b_45_0622_0010_mbn_0,,"Lo estrella de esta tienda es el clásico «nio bao», ¿no?"
+$tk_slu5b_45_0622_0010_mbn_0,,"Lo estrella de esta tienda es el clásico ""nio bao"", ¿no?"
 $tk_slu5b_45_0622_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0622_0020_mbn_0,,"El nio bao usa carne de eso.<br>No le gustará a la gente de la placa, ¿verdad?"
 $tk_slu5b_45_0622_0020_mbn_0,ACTOR,
@@ -14287,7 +14287,7 @@ $tk_slu5b_45_0631_0010_mbn_0,,"De vez en cuando, probemos algo distinto."
 $tk_slu5b_45_0631_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0631_0020_mbn_0,,"Vaya, qué raro.<br>Ojalá no se caiga de la placa."
 $tk_slu5b_45_0631_0020_mbn_0,ACTOR,
-$tk_slu5b_45_0632_0010_mbn_0,,¿No quieres probar lo nuevo?<br>Se llama «tempura bao».
+$tk_slu5b_45_0632_0010_mbn_0,,"¿No quieres probar lo nuevo?<br>Se llama ""tempura bao""."
 $tk_slu5b_45_0632_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0632_0020_mbn_0,,Me quedo con el nio bao de siempre.
 $tk_slu5b_45_0632_0020_mbn_0,ACTOR,
@@ -14345,13 +14345,13 @@ $tk_slu5b_45_0706_0010_teis_0,,Antes me ayudaste.<br>Come algo.
 $tk_slu5b_45_0706_0010_teis_0,ACTOR,Cocinero
 $tk_slu5b_45_0707_0010_teis_0,,No te cortes.<br>¿Te preparo el menú recomendado?
 $tk_slu5b_45_0707_0010_teis_0,ACTOR,Cocinero
-$tk_slu5b_45_0711_0010_mbn_0,,¿Qué es «lo recomendado de hoy»?
+$tk_slu5b_45_0711_0010_mbn_0,,"¿Qué es ""lo recomendado de hoy""?"
 $tk_slu5b_45_0711_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0711_0020_teis_0,,Es una combinación de lo recomendado.
 $tk_slu5b_45_0711_0020_teis_0,ACTOR,Cocinero
 $tk_slu5b_45_0711_0030_mbn_0,,Ya veo...
 $tk_slu5b_45_0711_0030_mbn_0,ACTOR,
-$tk_slu5b_45_0712_0010_mbn_0,,¿Y qué es el «menú de sashimi»...?
+$tk_slu5b_45_0712_0010_mbn_0,,"¿Y qué es el ""menú de sashimi""...?"
 $tk_slu5b_45_0712_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0712_0020_teis_0,,"Claro, sashimi de pescado."
 $tk_slu5b_45_0712_0020_teis_0,ACTOR,Cocinero
@@ -14425,7 +14425,7 @@ $tk_slu5b_45_0792_0020_mbn_0,,"Bueno, no es incómodo para vivir, pero..."
 $tk_slu5b_45_0792_0020_mbn_0,ACTOR,
 $tk_slu5b_45_0801_0010_mbn_0,,¡Otra vez un cóctel de fuego!
 $tk_slu5b_45_0801_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0801_0020_mbn_0,,"Lección: «Puedes beber alcohol, pero que no te beba a ti»."
+$tk_slu5b_45_0801_0020_mbn_0,,"Lección: ""Puedes beber alcohol, pero que no te beba a ti""."
 $tk_slu5b_45_0801_0020_mbn_0,ACTOR,
 $tk_slu5b_45_0801_0030_mbn_0,,"Por desgracia, yo bebo porque quiero que me beban.<br>Hay lágrimas que no se pueden tragar estando sobria."
 $tk_slu5b_45_0801_0030_mbn_0,ACTOR,
@@ -14465,15 +14465,15 @@ $tk_slu5b_45_0841_0010_mbn_0,,"¡Su pedido, por favor!"
 $tk_slu5b_45_0841_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0842_0010_mbn_0,,"¡Sí, con gusto!"
 $tk_slu5b_45_0842_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0843_0010_mbn_0,,"¡«Olla chanko» y cuatro de «namá»,<br>marchando!"
+$tk_slu5b_45_0843_0010_mbn_0,,"¡""Olla chanko"" y cuatro de ""namá"",<br>marchando!"
 $tk_slu5b_45_0843_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0844_0010_mbn_0,,"¡Mesa 3, otra «olla de albóndigas»!"
+$tk_slu5b_45_0844_0010_mbn_0,,"¡Mesa 3, otra ""olla de albóndigas""!"
 $tk_slu5b_45_0844_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0851_0010_mbn_0,,"¡Bienvenidos, buenas noches!"
 $tk_slu5b_45_0851_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0852_0010_mbn_0,,"¡Dos personas, por aquí!"
 $tk_slu5b_45_0852_0010_mbn_0,ACTOR,
-$tk_slu5b_45_0853_0010_mbn_0,,Hoy recomendamos la «olla tecchiri».
+$tk_slu5b_45_0853_0010_mbn_0,,"Hoy recomendamos la ""olla tecchiri""."
 $tk_slu5b_45_0853_0010_mbn_0,ACTOR,
 $tk_slu5b_45_0854_0010_mbn_0,,El baño está a la derecha al fondo.
 $tk_slu5b_45_0854_0010_mbn_0,ACTOR,
@@ -14569,7 +14569,7 @@ $tk_slu5b_45_1002_0020_mbn_0,,Supongo. ¡Lágrimas y un gran volumen!
 $tk_slu5b_45_1002_0020_mbn_0,ACTOR,
 $tk_slu5b_45_1011_0010_mbn_0,,Hola. ¿Quieres unirte?
 $tk_slu5b_45_1011_0010_mbn_0,ACTOR,
-$tk_slu5b_45_1011_0011_mbn_0,,«Dandandan» es el mejor gimnasio.<br>Vamos a sudar juntos a gusto.
+$tk_slu5b_45_1011_0011_mbn_0,,"""Dandandan"" es el mejor gimnasio.<br>Vamos a sudar juntos a gusto."
 $tk_slu5b_45_1011_0011_mbn_0,ACTOR,
 $tk_slu5b_45_1012_0010_mbn_0,,"¡Venga, let's exercise!"
 $tk_slu5b_45_1012_0010_mbn_0,ACTOR,
@@ -14597,7 +14597,7 @@ $tk_slu5b_45_1031_0014_mbn_0,,"¡Así, cómo queda!"
 $tk_slu5b_45_1031_0014_mbn_0,ACTOR,
 $tk_slu5b_45_1031_0015_mbn_0,,"¡Así, cómo queda!"
 $tk_slu5b_45_1031_0015_mbn_0,ACTOR,
-$tk_slu5b_45_1032_0010_mbn_0,,"¡Bien, todos a cantar «La canción del hombre»!"
+$tk_slu5b_45_1032_0010_mbn_0,,"¡Bien, todos a cantar ""La canción del hombre""!"
 $tk_slu5b_45_1032_0010_mbn_0,ACTOR,
 $tk_slu5b_45_1032_0011_mbn_0,,¡Solo creo en mis músculos!
 $tk_slu5b_45_1032_0011_mbn_0,ACTOR,
@@ -14685,9 +14685,9 @@ $tk_slu5b_45_1124_0010_clos_0,,Pregúnteme lo que quiera sobre ropa.
 $tk_slu5b_45_1124_0010_clos_0,ACTOR,Hijo del sastre
 $tk_slu5b_45_1126_0010_clos_0,,"Mi padre, aunque no lo parezca, es un diseñador de primera.<br>Eso sí, cuando trabaja."
 $tk_slu5b_45_1126_0010_clos_0,ACTOR,Hijo del sastre
-$tk_slu5b_45_1127_0010_clos_0,,"Ay, ojalá tuviera una «inspiración»<br>que hiciera cambiar a mi padre."
+$tk_slu5b_45_1127_0010_clos_0,,"Ay, ojalá tuviera una ""inspiración""<br>que hiciera cambiar a mi padre."
 $tk_slu5b_45_1127_0010_clos_0,ACTOR,Hijo del sastre
-$tk_slu5b_45_1128_0010_clos_0,,"Vaya, más que la ropa,<br>encuentro «inspiración» en ti mismo."
+$tk_slu5b_45_1128_0010_clos_0,,"Vaya, más que la ropa,<br>encuentro ""inspiración"" en ti mismo."
 $tk_slu5b_45_1128_0010_clos_0,ACTOR,Hijo del sastre
 $tk_slu5b_45_1131_0010_mbn_0,,Dicen que esta tienda la lleva<br>un diseñador famoso.
 $tk_slu5b_45_1131_0010_mbn_0,ACTOR,
@@ -14781,7 +14781,7 @@ $tk_slu5b_45_1251_0010_mbn_0,,"Patrón, ¿cómo va el negocio últimamente?"
 $tk_slu5b_45_1251_0010_mbn_0,ACTOR,
 $tk_slu5b_45_1251_0020_mbn_0,,Ahí vamos.
 $tk_slu5b_45_1251_0020_mbn_0,ACTOR,
-$tk_slu5b_45_1252_0010_mbn_0,,«Ahí vamos» es lo mejor.
+$tk_slu5b_45_1252_0010_mbn_0,,"""Ahí vamos"" es lo mejor."
 $tk_slu5b_45_1252_0010_mbn_0,ACTOR,
 $tk_slu5b_45_1252_0020_mbn_0,,"Sí. Con que estas noches sigan así, me basta."
 $tk_slu5b_45_1252_0020_mbn_0,ACTOR,
@@ -14883,7 +14883,7 @@ $tk_slu5b_45_1333_0040_mbn_0,,¡Espero regalo!
 $tk_slu5b_45_1333_0040_mbn_0,ACTOR,
 $tk_slu5b_45_1341_0010_mbn_0,,Ha llegado una bebida rara. ¿Quieres probarla?
 $tk_slu5b_45_1341_0010_mbn_0,ACTOR,
-$tk_slu5b_45_1341_0020_mbn_0,,"Vaya, «vodka carámbano».<br>Un licor famoso del norte."
+$tk_slu5b_45_1341_0020_mbn_0,,"Vaya, ""vodka carámbano"".<br>Un licor famoso del norte."
 $tk_slu5b_45_1341_0020_mbn_0,ACTOR,
 $tk_slu5b_45_1342_0010_mbn_0,,"Tiene mucha graduación, así que ten cuidado."
 $tk_slu5b_45_1342_0010_mbn_0,ACTOR,
@@ -15145,9 +15145,9 @@ $tk_slu5b_45_1631_0020_mbn_0,,"Sí, sí. Hay clientes que te hablan sin parar<br
 $tk_slu5b_45_1631_0020_mbn_0,ACTOR,
 $tk_slu5b_45_1631_0030_mbn_0,,¡No! Es que sus conocimientos eran flojos.
 $tk_slu5b_45_1631_0030_mbn_0,ACTOR,
-$tk_slu5b_45_1631_0040_mbn_0,,"El primer tren que los Ferrocarriles Shinra<br>desarrollaron para Midgar<br>no fue el «Hoka tipo 100 modelo 60», sino"
+$tk_slu5b_45_1631_0040_mbn_0,,"El primer tren que los Ferrocarriles Shinra<br>desarrollaron para Midgar<br>no fue el ""Hoka tipo 100 modelo 60"", sino"
 $tk_slu5b_45_1631_0040_mbn_0,ACTOR,
-$tk_slu5b_45_1631_0050_mbn_0,,"¡el «modelo 70»!<br>Pero si le llevaba la contraria, no había negocio."
+$tk_slu5b_45_1631_0050_mbn_0,,"¡el ""modelo 70""!<br>Pero si le llevaba la contraria, no había negocio."
 $tk_slu5b_45_1631_0050_mbn_0,ACTOR,
 $tk_slu5b_45_1631_0060_mbn_0,,Tú eras de esa clase de persona...
 $tk_slu5b_45_1631_0060_mbn_0,ACTOR,
@@ -15315,13 +15315,13 @@ $tk_slu5b_45_1821_0020_mbn_0,,"Para, voy a llamar a alguien."
 $tk_slu5b_45_1821_0020_mbn_0,ACTOR,
 $tk_slu5b_45_1821_0030_mbn_0,,¡Me da igual!
 $tk_slu5b_45_1821_0030_mbn_0,ACTOR,
-$tk_slu5b_45_1822_0010_mbn_0,,¡El caramelo de invocación del Materia Ice de invocación!<br>¿Tienes a «Alejandro»?
+$tk_slu5b_45_1822_0010_mbn_0,,"¡El caramelo de invocación del Materia Ice de invocación!<br>¿Tienes a ""Alejandro""?"
 $tk_slu5b_45_1822_0010_mbn_0,ACTOR,
 $tk_slu5b_45_1822_0020_mbn_0,,¡Dámelo!<br>Es que no hay manera de que me salga.
 $tk_slu5b_45_1822_0020_mbn_0,ACTOR,
 $tk_slu5b_45_1822_0030_mbn_0,,¡Me niego!<br>¡A mí también me ha costado mucho que saliera!
 $tk_slu5b_45_1822_0030_mbn_0,ACTOR,
-$tk_slu5b_45_1823_0010_mbn_0,,"Entonces, te lo cambio por tres «Bahamut»."
+$tk_slu5b_45_1823_0010_mbn_0,,"Entonces, te lo cambio por tres ""Bahamut""."
 $tk_slu5b_45_1823_0010_mbn_0,ACTOR,
 $tk_slu5b_45_1823_0020_mbn_0,,No.
 $tk_slu5b_45_1823_0020_mbn_0,ACTOR,
@@ -15359,7 +15359,7 @@ $tk_slu5b_45_1861_0010_mbn_0,,Buenas. Venimos a cobrar el seguro.
 $tk_slu5b_45_1861_0010_mbn_0,ACTOR,Matón
 $tk_slu5b_45_1861_0020_mbn_0,,"Ya me dejen en paz, por favor..."
 $tk_slu5b_45_1861_0020_mbn_0,ACTOR,
-$tk_slu5b_45_1861_0030_mbn_0,,¿Alguna queja con el «seguro de monstruos»<br>para protegerse de los daños de los monstruos?
+$tk_slu5b_45_1861_0030_mbn_0,,"¿Alguna queja con el ""seguro de monstruos""<br>para protegerse de los daños de los monstruos?"
 $tk_slu5b_45_1861_0030_mbn_0,ACTOR,
 $tk_slu5b_45_1861_0040_mbn_0,,¡Si es un seguro clandestino!<br>Y el contrato está hecho un desastre...
 $tk_slu5b_45_1861_0040_mbn_0,ACTOR,
@@ -16645,7 +16645,7 @@ $tk_slu5b_49_1060_0010_koc_0,,No se doblega ni ante la magia.<br>El nombre de ar
 $tk_slu5b_49_1060_0010_koc_0,ACTOR,Kotch
 $tk_slu5b_49_1070_0010_koc_0,,La Casa del Infierno parece sufrir.<br>¿Habrán descubierto su punto débil?
 $tk_slu5b_49_1070_0010_koc_0,ACTOR,Kotch
-$tk_slu5b_49_1070_0020_soc_0,,La pista es «ese color»...<br>No se puede decir otra cosa que fue un error de diseño.
+$tk_slu5b_49_1070_0020_soc_0,,"La pista es ""ese color""...<br>No se puede decir otra cosa que fue un error de diseño."
 $tk_slu5b_49_1070_0020_soc_0,ACTOR,Scotch
 $tk_slu5b_49_1080_0010_koc_0,,Una lluvia de misiles cae sobre la pareja más fuerte.<br>¿Cómo saldrán de esta?
 $tk_slu5b_49_1080_0010_koc_0,ACTOR,Kotch
@@ -16701,7 +16701,7 @@ $tk_slu5b_49_2060_0010_koc_0,,Ups.<br>Por fin llega el golpe definitivo.
 $tk_slu5b_49_2060_0010_koc_0,ACTOR,Kotch
 $tk_slu5b_49_2060_0020_soc_0,,"Si acierta, no tienen escapatoria."
 $tk_slu5b_49_2060_0020_soc_0,ACTOR,Scotch
-$tk_slu5b_49_2070_0010_koc_0,,«La barrera no me interesa».<br>Casi se puede oír<br>el murmullo del participante Cloud.
+$tk_slu5b_49_2070_0010_koc_0,,"""La barrera no me interesa"".<br>Casi se puede oír<br>el murmullo del participante Cloud."
 $tk_slu5b_49_2070_0010_koc_0,ACTOR,Kotch
 $tk_slu5b_49_2070_0020_soc_0,,¡Demasiado cool! ¡No se puede soportar!
 $tk_slu5b_49_2070_0020_soc_0,ACTOR,Scotch
@@ -16805,7 +16805,7 @@ $tk_slu5b_49_4010_0010_koc_0,,"Para poner a prueba el amor de los dos,<br>los mu
 $tk_slu5b_49_4010_0010_koc_0,ACTOR,Kotch
 $tk_slu5b_49_4010_0020_soc_0,,Arde con ferocidad<br>y no deja nada atrás.
 $tk_slu5b_49_4010_0020_soc_0,ACTOR,Scotch
-$tk_slu5b_49_4020_0010_soc_0,,"Las sillas cubren todo el ring.<br>Cuidado con los proyectiles perdidos, o mejor dicho, con las «sillas perdidas»."
+$tk_slu5b_49_4020_0010_soc_0,,"Las sillas cubren todo el ring.<br>Cuidado con los proyectiles perdidos, o mejor dicho, con las ""sillas perdidas""."
 $tk_slu5b_49_4020_0010_soc_0,ACTOR,Scotch
 $tk_slu5b_49_4022_0010_koc_0,,Una explosión que quema todo.<br>Aquí no hay escapatoria.
 $tk_slu5b_49_4022_0010_koc_0,ACTOR,Kotch
@@ -17011,13 +17011,13 @@ $tk_slu5b_49_6070_0020_soc_0,,"A pesar de su aspecto adorable,<br>¡su golpe es 
 $tk_slu5b_49_6070_0020_soc_0,ACTOR,Scotch
 $tk_slu5b_49_6070_0030_koc_0,,"Vamos, ¿qué pasará, qué pasará?"
 $tk_slu5b_49_6070_0030_koc_0,ACTOR,Kotch
-$tk_slu5b_49_9010_0010_soc_0,,"※Prueba de Sochi<br>«¡Sochi, sochi!»"
+$tk_slu5b_49_9010_0010_soc_0,,"※Prueba de Sochi<br>""¡Sochi, sochi!"""
 $tk_slu5b_49_9010_0010_soc_0,ACTOR,
-$tk_slu5b_49_9020_0010_koc_0,,"※Prueba de Kocchi<br>«¡Kocchi, kocchi!»"
+$tk_slu5b_49_9020_0010_koc_0,,"※Prueba de Kocchi<br>""¡Kocchi, kocchi!"""
 $tk_slu5b_49_9020_0010_koc_0,ACTOR,
 $tk_slu5b_49_9030_0010_soc_0,,※Prueba de ambos
 $tk_slu5b_49_9030_0010_soc_0,ACTOR,
-$tk_slu5b_49_9030_0020_koc_0,,"«¿Cuál, cuál?»"
+$tk_slu5b_49_9030_0020_koc_0,,"""¿Cuál, cuál?"""
 $tk_slu5b_49_9030_0020_koc_0,ACTOR,
 $tk_slu5b_50_0000_0010_8m01_0,,¿Qué está pasando?
 $tk_slu5b_50_0000_0010_8m01_0,ACTOR,

@@ -2,7 +2,7 @@ FINAL FANTASY VII REMAKE - Traducción ES (España) desde japonés
 ================================================================
 
 Paquete: pakchunk99_ES_JP_P.pak
-Versión: 1.0 - 13/11/2026
+Versión: 1.1 - 14/11/2026
 Método: traducción con IA (DeepSeek 4.1 Flash 1017) + revisión manual
 Contenido: 21 recursos de texto (42 archivos .uasset/.uexp) + modroot.txt
 Texto: 35.574 entradas de texto
@@ -33,8 +33,21 @@ Comprobaciones realizadas
 - Se ha verificado que los 21 .uexp extraídos del pak coinciden byte a byte
   con los archivos preparados antes de empaquetar y que su texto vuelve a
   leerse idéntico tras la conversión.
+- Versión 1.1: 0 ocurrencias de «Quanta» y 0 comillas angulares «» en los
+  21 CSV. Las 13 líneas corregidas usan «Cuánta» (12) o «Cuánto» (1, por el
+  sustantivo masculino «escándalo»).
+- Versión 1.1: los 14 recursos reconstruidos pasan el round-trip con 0
+  diferencias y los 43 archivos extraídos del pak coinciden byte a byte.
 
-Contenido de esta versión (1.0)
+Correcciones de la versión 1.1
+------------------------------
+- «Quanta energía» (y otras 12 líneas con «Quanta») corregido a «Cuánta
+  energía» o «Cuánto» según el género.
+- 2.270 comillas angulares «» de 837 líneas y 14 recursos convertidas a
+  comillas dobles ("), el mismo estilo del locale ES oficial. Desaparece el
+  texto <<>> que se mostraba en los diálogos de Yuffie.
+
+Contenido de esta versión (1.1)
 -------------------------------
 - Traducción completa de historia, diálogos de PNJ, misiones secundarias,
   menús, tutoriales, objetos y textos de INTERmission desde el japonés.
@@ -63,6 +76,6 @@ Limitaciones conocidas
 
 SHA-256 del pak
 ---------------
-0865C739666D8A7679793CFDC0950AD6A0C28B1E7B09A9EF6C5491096B18986A
+48D8F39B72A5AC10A648F8F3732EE371169AAA90456F58D2FBCE2EEF83085700
 
-Tamaño del pak: 905.449 bytes.
+Tamaño del pak: 906.684 bytes.

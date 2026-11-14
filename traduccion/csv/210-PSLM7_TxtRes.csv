@@ -290,7 +290,7 @@ $ev_pslm7_0250_0060_yfi_0,,Aliada Avalancha. Gracias por vuestra ayuda.
 $ev_pslm7_0250_0060_yfi_0,ACTOR,Yuffie
 $ev_pslm7_0250_0070_yfi_0,,¡Encantada!
 $ev_pslm7_0250_0070_yfi_0,ACTOR,Yuffie
-$ev_pslm7_0250_0080_bly_0,,Quanta energía.
+$ev_pslm7_0250_0080_bly_0,,Cuánta energía.
 $ev_pslm7_0250_0080_bly_0,ACTOR,Billy Bob
 $ev_pslm7_0250_0090_yfi_0,,Pues claro.
 $ev_pslm7_0250_0090_yfi_0,ACTOR,Yuffie
@@ -392,7 +392,7 @@ $ev_pslm7_0510_0140_yfi_0,,"Si hablamos de la operación de decadencia de Midgar
 $ev_pslm7_0510_0140_yfi_0,ACTOR,Yuffie
 $ev_pslm7_0510_0150_yfi_0,,"Mira, yo ya soy casi una adulta."
 $ev_pslm7_0510_0150_yfi_0,ACTOR,Yuffie
-$ev_pslm7_0510_0160_snn_0,,Quanta mala interpretación a velocidad tremenda.
+$ev_pslm7_0510_0160_snn_0,,Cuánta mala interpretación a velocidad tremenda.
 $ev_pslm7_0510_0160_snn_0,ACTOR,Sonon
 $ev_pslm7_0510_0170_snn_0,,"La operación de decadencia suena divertida, pero no la conozco."
 $ev_pslm7_0510_0170_snn_0,ACTOR,Sonon
@@ -816,7 +816,7 @@ $ev_pslm7_0710_0020_nay_0,,¿Qué será?
 $ev_pslm7_0710_0020_nay_0,ACTOR,Nayo
 $ev_pslm7_0710_0025_yfi_0,,
 $ev_pslm7_0710_0025_yfi_0,ACTOR,
-$ev_pslm7_0710_0030_nay_0,,«Cambio de planes. Esperad bajo el pilar.<br>Han llegado antes. Gigie».
+$ev_pslm7_0710_0030_nay_0,,"""Cambio de planes. Esperad bajo el pilar.<br>Han llegado antes. Gigie""."
 $ev_pslm7_0710_0030_nay_0,ACTOR,Nayo
 $ev_pslm7_0710_0035_yfi_0,,
 $ev_pslm7_0710_0035_yfi_0,ACTOR,
@@ -1353,7 +1353,7 @@ $level_PSLM7_CondorRankup5,,¡Ya puedes desafiar a jugadores de <color=yellow>[r
 $level_PSLM7_CondorRankupMAX,,¡Ya puedes desafiar al <color=yellow>[Campeón Cóndor]</color>!
 $level_PSLM7_CondorRankup_lineA,,CONDOR FORT
 $level_PSLM7_CondorRankup_lineB,,RANK UP!
-$level_PSLM7_CondorTutorialItem,,Has obtenido el «Paquete de inicio<br>de Fuerte Cóndor».
+$level_PSLM7_CondorTutorialItem,,"Has obtenido el ""Paquete de inicio<br>de Fuerte Cóndor""."
 $level_PSLM7_KameDourakuTusin_no_hint,,Pista del boletín de las Tortugas
 $level_PSLM7_Nanimonai,,Nada.
 $level_PSLM7_SononNayo,,Sonon y Nayo
@@ -1396,7 +1396,7 @@ $pv_pslm7_0104_0010_yfi_0,,"¡Bien, espera, monstruo!"
 $pv_pslm7_0104_0010_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0120_0010_st02_0,,Uh... aa...
 $pv_pslm7_0120_0010_st02_0,ACTOR,
-$pv_pslm7_0120_0020_yfi_0,,Mmm... ¿No hay «gracias»?
+$pv_pslm7_0120_0020_yfi_0,,"Mmm... ¿No hay ""gracias""?"
 $pv_pslm7_0120_0020_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0125_0010_st02_0,,Uh... aa...
 $pv_pslm7_0125_0010_st02_0,ACTOR,
@@ -1416,7 +1416,7 @@ $pv_pslm7_0230_0020_gjy_0,,Me habían dicho que todos los Wu<br>eran guerreros e
 $pv_pslm7_0230_0020_gjy_0,ACTOR,Zhijie
 $pv_pslm7_0230_0030_yfi_0,,"Aunque seas un guerrero excelente, necesito un guía."
 $pv_pslm7_0230_0030_yfi_0,ACTOR,Yuffie
-$pv_pslm7_0230_0040_yfi_0,,"Y además, ¿«los Wu»?"
+$pv_pslm7_0230_0040_yfi_0,,"Y además, ¿""los Wu""?"
 $pv_pslm7_0230_0040_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0230_0050_gjy_0,,"Los Wu sois vosotros.<br>Bueno, es un código."
 $pv_pslm7_0230_0050_gjy_0,ACTOR,Zhijie
@@ -1450,7 +1450,7 @@ $pv_pslm7_0310_0050_yfi_0,,¿Ah?
 $pv_pslm7_0310_0050_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0310_0060_bly_0,,"Perdona, perdona."
 $pv_pslm7_0310_0060_bly_0,ACTOR,Billy Bob
-$pv_pslm7_0310_0070_bly_0,,"Como sabrás, encima de los suburbios<br>se extiende una ciudad llamada «placa»."
+$pv_pslm7_0310_0070_bly_0,,"Como sabrás, encima de los suburbios<br>se extiende una ciudad llamada ""placa""."
 $pv_pslm7_0310_0070_bly_0,ACTOR,Billy Bob
 $pv_pslm7_0310_0080_bly_0,,El edificio Shinra se alza imponente<br>en su centro.
 $pv_pslm7_0310_0080_bly_0,ACTOR,Billy Bob
@@ -1466,7 +1466,7 @@ $pv_pslm7_0320_0010_bly_0,,"Yuffie, ¿conoces la máquina simuladora?"
 $pv_pslm7_0320_0010_bly_0,ACTOR,Billy Bob
 $pv_pslm7_0320_0020_yfi_0,,"¿Eh? Ah...<br>Claro, ya sé. Esa cosa."
 $pv_pslm7_0320_0020_yfi_0,ACTOR,Yuffie
-$pv_pslm7_0320_0030_yfi_0,,"¿La máquina que hace «simulaciones»?<br>Eso, ¿no?"
+$pv_pslm7_0320_0030_yfi_0,,"¿La máquina que hace ""simulaciones""?<br>Eso, ¿no?"
 $pv_pslm7_0320_0030_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0320_0040_bly_0,,"Bueno, más que simular,<br>es una máquina que lucha en realidad virtual."
 $pv_pslm7_0320_0040_bly_0,ACTOR,Billy Bob
@@ -1518,7 +1518,7 @@ $pv_pslm7_0330_0210_yfi_0,,¡Ah!
 $pv_pslm7_0330_0210_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0330_0300_prc_0,,Dónde está el edificio Shinra...<br>pregúntale a Billy-Bo.
 $pv_pslm7_0330_0300_prc_0,ACTOR,Polk
-$pv_pslm7_0340_0010_prc_0,,¿Te aburres?<br>¿Quieres jugar a «Fuerte Cóndor»?
+$pv_pslm7_0340_0010_prc_0,,"¿Te aburres?<br>¿Quieres jugar a ""Fuerte Cóndor""?"
 $pv_pslm7_0340_0010_prc_0,ACTOR,Polk
 $pv_pslm7_0340_0020_yfi_0,,¿Fuerte... Cóndor?
 $pv_pslm7_0340_0020_yfi_0,ACTOR,Yuffie
@@ -1574,13 +1574,13 @@ $pv_pslm7_0360_0080_nay_0,,¿Eh?
 $pv_pslm7_0360_0080_nay_0,ACTOR,Nayo
 $pv_pslm7_0360_0090_yfi_0,,Y luego se emborrachan.<br>Antes era mucho más estricto. Qué duro.
 $pv_pslm7_0360_0090_yfi_0,ACTOR,Yuffie
-$pv_pslm7_0360_0100_yfi_0,,"«Los jóvenes de hoy en día...». ¡Ay, por favor!<br>Eso es decadencia."
+$pv_pslm7_0360_0100_yfi_0,,"""Los jóvenes de hoy en día..."". ¡Ay, por favor!<br>Eso es decadencia."
 $pv_pslm7_0360_0100_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0360_0110_nay_0,,
 $pv_pslm7_0360_0110_nay_0,ACTOR,
 $pv_pslm7_0360_0120_yfi_0,,En Wutai también hay<br>de esas tiendas para adultos.
 $pv_pslm7_0360_0120_yfi_0,ACTOR,Yuffie
-$pv_pslm7_0360_0130_yfi_0,,Se llaman «las Tortugas».
+$pv_pslm7_0360_0130_yfi_0,,"Se llaman ""las Tortugas""."
 $pv_pslm7_0360_0130_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0360_0140_nay_0,,"Si son las Tortugas, en Midgar también hay."
 $pv_pslm7_0360_0140_nay_0,ACTOR,Nayo
@@ -1600,7 +1600,7 @@ $pv_pslm7_0360_0210_yfi_0,,Quién lo diría. Las Tortugas.
 $pv_pslm7_0360_0210_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0360_0220_nay_0,,Hay un señor que va pegando<br>folletos de las Tortugas.
 $pv_pslm7_0360_0220_nay_0,ACTOR,Nayo
-$pv_pslm7_0360_0230_nay_0,,Se le conoce como «el señor Tortuga».
+$pv_pslm7_0360_0230_nay_0,,"Se le conoce como ""el señor Tortuga""."
 $pv_pslm7_0360_0230_nay_0,ACTOR,Nayo
 $pv_pslm7_0360_0240_nay_0,,"Va con una pinta muy rara,<br>así que seguro que lo reconoces."
 $pv_pslm7_0360_0240_nay_0,ACTOR,Nayo
@@ -1650,7 +1650,7 @@ $pv_pslm7_0400_0090_chd_0,,Me gustaría que usara este simulador de combate port
 $pv_pslm7_0400_0090_chd_0,ACTOR,Chadley
 $pv_pslm7_0400_0100_yfi_0,,"Mmm... Suena interesante.<br>¡Voy, voy!"
 $pv_pslm7_0400_0100_yfi_0,ACTOR,Yuffie
-$pv_pslm7_0400_0110_chd_0,,"«Voy, voy», ¿eh?"
+$pv_pslm7_0400_0110_chd_0,,"""Voy, voy"", ¿eh?"
 $pv_pslm7_0400_0110_chd_0,ACTOR,Chadley
 $pv_pslm7_0410_0010_chd_0,,"Cuando esté lista, avíseme cuando quiera."
 $pv_pslm7_0410_0010_chd_0,ACTOR,Chadley
@@ -1660,7 +1660,7 @@ $pv_pslm7_0410_0110_chd_0,,"Vaya, qué lástima."
 $pv_pslm7_0410_0110_chd_0,ACTOR,Chadley
 $pv_pslm7_0412_0010_chd_0,,¿Está lista para enfrentarse a las invocaciones?
 $pv_pslm7_0412_0010_chd_0,ACTOR,Chadley
-$pv_pslm7_0412_0100_chd_0,,"Señorita Yuffie, «voy, voy», ¿verdad?"
+$pv_pslm7_0412_0100_chd_0,,"Señorita Yuffie, ""voy, voy"", ¿verdad?"
 $pv_pslm7_0412_0100_chd_0,ACTOR,Chadley
 $pv_pslm7_0412_0200_chd_0,,"Claro, claro.\n<br>Desafíeme cuando quiera."
 $pv_pslm7_0412_0200_chd_0,ACTOR,Chadley
@@ -1704,7 +1704,7 @@ $pv_pslm7_0520_0010_snn_0,,"Nayo, ¿adónde vas?"
 $pv_pslm7_0520_0010_snn_0,ACTOR,Sonon
 $pv_pslm7_0520_0020_nay_0,,A recoger las identificaciones.<br>Vuestros documentos de identidad.
 $pv_pslm7_0520_0020_nay_0,ACTOR,Nayo
-$pv_pslm7_0520_0030_yfi_0,,Aunque Gigie también ha dicho<br>que recibiría su «identificación»...
+$pv_pslm7_0520_0030_yfi_0,,"Aunque Gigie también ha dicho<br>que recibiría su ""identificación""..."
 $pv_pslm7_0520_0030_yfi_0,ACTOR,Yuffie
 $pv_pslm7_0520_0040_nay_0,,Esa es otra identificación distinta.
 $pv_pslm7_0520_0040_nay_0,ACTOR,Nayo
@@ -1714,7 +1714,7 @@ $pv_pslm7_0520_0060_nay_0,,"Porque es una ciudad de Shinra, por Shinra y para Sh
 $pv_pslm7_0520_0060_nay_0,ACTOR,Nayo
 $pv_pslm7_0520_0070_yfi_0,,"¡Shinra, tirano!"
 $pv_pslm7_0520_0070_yfi_0,ACTOR,Yuffie
-$pv_pslm7_0520_0080_snn_0,,"Yuffie sempai, «en casa ajena, haz como el gato»."
+$pv_pslm7_0520_0080_snn_0,,"Yuffie sempai, ""en casa ajena, haz como el gato""."
 $pv_pslm7_0520_0080_snn_0,ACTOR,Sonon
 $pv_pslm7_0520_0090_yfi_0,,¡Miau!
 $pv_pslm7_0520_0090_yfi_0,ACTOR,
@@ -1822,7 +1822,7 @@ $pv_pslm7_0625_0060_snn_0,,Es parte del reconocimiento del enemigo.
 $pv_pslm7_0625_0060_snn_0,ACTOR,Sonon
 $pv_pslm7_0635_0010_st04_0,,Reu... nión...
 $pv_pslm7_0635_0010_st04_0,ACTOR,Hombre de la túnica negra
-$pv_pslm7_0650_0010_snn_0,,"«Han llegado antes», ¿eh?<br>No me gusta nada."
+$pv_pslm7_0650_0010_snn_0,,"""Han llegado antes"", ¿eh?<br>No me gusta nada."
 $pv_pslm7_0650_0010_snn_0,ACTOR,Sonon
 $pv_pslm7_0650_0020_yfi_0,,Justo a tiempo.<br>Aquí nos hemos tomado demasiadas pausas.
 $pv_pslm7_0650_0020_yfi_0,ACTOR,Yuffie
@@ -2016,11 +2016,11 @@ $pv_pslm7_3120_0020_yfi_0,,¿Sí? ¿No será que Polco es demasiado débil?
 $pv_pslm7_3120_0020_yfi_0,ACTOR,Yuffie
 $pv_pslm7_3120_0025_prc_0,,Jajaja...
 $pv_pslm7_3120_0025_prc_0,ACTOR,
-$pv_pslm7_3120_0030_prc_0,,Pero en la ciudad hay muchos «auténticos».<br>Anímate a desafiarlos.
+$pv_pslm7_3120_0030_prc_0,,"Pero en la ciudad hay muchos ""auténticos"".<br>Anímate a desafiarlos."
 $pv_pslm7_3120_0030_prc_0,ACTOR,Polk
 $pv_pslm7_3120_0040_yfi_0,,Es que estoy de misión.
 $pv_pslm7_3120_0040_yfi_0,ACTOR,Yuffie
-$pv_pslm7_3120_0050_prc_0,,"¿Eh? Si le ganas al «Campeón Cóndor»,<br>parece que te dan un premio y una materia buenísima."
+$pv_pslm7_3120_0050_prc_0,,"¿Eh? Si le ganas al ""Campeón Cóndor"",<br>parece que te dan un premio y una materia buenísima."
 $pv_pslm7_3120_0050_prc_0,ACTOR,Polk
 $pv_pslm7_3120_0060_yfi_0,,¡Materia!
 $pv_pslm7_3120_0060_yfi_0,ACTOR,Yuffie
@@ -2220,7 +2220,7 @@ $pv_pslm7_3530_0100_jec_0,,"Si quieres jugar, busca a otra persona."
 $pv_pslm7_3530_0100_jec_0,ACTOR,Jessie
 $pv_pslm7_3530_0200_jec_0,,"¿Otra vez? Bueno, vale."
 $pv_pslm7_3530_0200_jec_0,ACTOR,Jessie
-$pv_pslm7_3530_0300_jec_0,,"Quanta pesadez.<br>Esta es la última, ¿eh?"
+$pv_pslm7_3530_0300_jec_0,,"Cuánta pesadez.<br>Esta es la última, ¿eh?"
 $pv_pslm7_3530_0300_jec_0,ACTOR,Jessie
 $pv_pslm7_3530_0400_sys_0,,<color=yellow>[Fuerte Cóndor: rango 2]</color><br>¿Quieres luchar contra Jessie?
 $pv_pslm7_3530_0400_sys_0,ACTOR,
@@ -2382,7 +2382,7 @@ $pv_pslm7_3810_0050_chd_0,,"Para recopilar datos, ¿podrías luchar contra mí<b
 $pv_pslm7_3810_0050_chd_0,ACTOR,Chadley
 $pv_pslm7_3810_0060_yfi_0,,Pues vale.
 $pv_pslm7_3810_0060_yfi_0,ACTOR,Yuffie
-$pv_pslm7_3810_0070_chd_0,,"¡«Voy, voy»! ¿Verdad?"
+$pv_pslm7_3810_0070_chd_0,,"¡""Voy, voy""! ¿Verdad?"
 $pv_pslm7_3810_0070_chd_0,ACTOR,Chadley
 $pv_pslm7_3820_0100_chd_0,,Te agradezco tu colaboración<br>para recopilar datos de combate del Fuerte Cóndor.
 $pv_pslm7_3820_0100_chd_0,ACTOR,Chadley
@@ -2412,7 +2412,7 @@ $pv_pslm7_3830_0110_chd_0,,"Si eres tú, señorita Yuffie, podrás sobrevivir<br
 $pv_pslm7_3830_0110_chd_0,ACTOR,Chadley
 $pv_pslm7_3830_0120_chd_0,,"Cuando se me ocurra otra hipótesis nueva,<br>te pediré que colabores de nuevo."
 $pv_pslm7_3830_0120_chd_0,ACTOR,Chadley
-$pv_pslm7_3830_0130_chd_0,,"¡«Voy, voy»!"
+$pv_pslm7_3830_0130_chd_0,,"¡""Voy, voy""!"
 $pv_pslm7_3830_0130_chd_0,ACTOR,Chadley
 $pv_pslm7_3830_0140_yfi_0,,"¡Voy, voy!"
 $pv_pslm7_3830_0140_yfi_0,ACTOR,Yuffie
@@ -2432,7 +2432,7 @@ $pv_pslm7_4010_0030_yfi_0,,¿Un folleto?
 $pv_pslm7_4010_0030_yfi_0,ACTOR,Yuffie
 $pv_pslm7_4010_0035_npkm_0,,"Vaya, vaya."
 $pv_pslm7_4010_0035_npkm_0,ACTOR,Don Caparazón
-$pv_pslm7_4010_0040_npkm_0,,¡Campaña «Reúne 6 folletos de las Tortugas<br>y llévate un premio magnífico»!
+$pv_pslm7_4010_0040_npkm_0,,"¡Campaña ""Reúne 6 folletos de las Tortugas<br>y llévate un premio magnífico""!"
 $pv_pslm7_4010_0040_npkm_0,ACTOR,Don Caparazón
 $pv_pslm7_4010_0050_npkm_0,,¿...No la conocías?
 $pv_pslm7_4010_0050_npkm_0,ACTOR,Don Caparazón
@@ -2464,7 +2464,7 @@ $pv_pslm7_4010_0160_npkm_0,,"Por favor, busque por todos los rincones<br>de los 
 $pv_pslm7_4010_0160_npkm_0,ACTOR,Don Caparazón
 $pv_pslm7_4010_0162_yfi_0,,¡Pues voy a jugar!
 $pv_pslm7_4010_0162_yfi_0,ACTOR,Yuffie
-$pv_pslm7_4030_0010_npkm_0,,"Ah, sí, señorita.<br>¿Tiene «monedas Cóndor»?"
+$pv_pslm7_4030_0010_npkm_0,,"Ah, sí, señorita.<br>¿Tiene ""monedas Cóndor""?"
 $pv_pslm7_4030_0010_npkm_0,ACTOR,Don Caparazón
 $pv_pslm7_4030_0020_npkm_0,,"En realidad, yo<br>colecciono monedas Cóndor."
 $pv_pslm7_4030_0020_npkm_0,ACTOR,Don Caparazón
@@ -2700,11 +2700,11 @@ $pv_pslm7_4422_0010_npkm_0,,¡Laralará!
 $pv_pslm7_4422_0010_npkm_0,ACTOR,Don Caparazón
 $pv_pslm7_4423_0010_npkm_0,,"¡Hey, hey, hey!"
 $pv_pslm7_4423_0010_npkm_0,ACTOR,Don Caparazón
-$pv_pslm7_6370_0010_mbn_0,,"«La misión del sello del perro fiel».<br>¡Empezamos, empezamos!"
+$pv_pslm7_6370_0010_mbn_0,,"""La misión del sello del perro fiel"".<br>¡Empezamos, empezamos!"
 $pv_pslm7_6370_0010_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0020_mbn_0,,"«¡Guau, guau!<br>Me llamo Stamp»."
+$pv_pslm7_6370_0020_mbn_0,,"""¡Guau, guau!<br>Me llamo Stamp""."
 $pv_pslm7_6370_0020_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0030_mbn_0,,"«Hoy, por orden del capitán,<br>voy a comprar el pan de la cena»."
+$pv_pslm7_6370_0030_mbn_0,,"""Hoy, por orden del capitán,<br>voy a comprar el pan de la cena""."
 $pv_pslm7_6370_0030_mbn_0,ACTOR,Profesora
 $pv_pslm7_6370_0040_mbn_0,,Stamp salió a la ciudad<br>siguiendo el buen olor del pan.
 $pv_pslm7_6370_0040_mbn_0,ACTOR,Profesora
@@ -2720,21 +2720,21 @@ $pv_pslm7_6370_0090_mbn_0,,"Stamp, con la misión cumplida, estaba contento.<br>
 $pv_pslm7_6370_0090_mbn_0,ACTOR,Profesora
 $pv_pslm7_6370_0100_mbn_0,,"Por el camino, Stamp encontró<br>a un Moguri que lloraba."
 $pv_pslm7_6370_0100_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0110_mbn_0,,"«¿Qué te pasa?», le preguntó Stamp."
+$pv_pslm7_6370_0110_mbn_0,,"""¿Qué te pasa?"", le preguntó Stamp."
 $pv_pslm7_6370_0110_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0120_mbn_0,,"«Tengo mucha hambre, kupo...»,<br>dijo el Moguri."
+$pv_pslm7_6370_0120_mbn_0,,"""Tengo mucha hambre, kupo..."",<br>dijo el Moguri."
 $pv_pslm7_6370_0120_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0130_mbn_0,,«¡Qué problema!<br>¡Entonces come esto!».
+$pv_pslm7_6370_0130_mbn_0,,"""¡Qué problema!<br>¡Entonces come esto!""."
 $pv_pslm7_6370_0130_mbn_0,ACTOR,Profesora
 $pv_pslm7_6370_0140_mbn_0,,Stamp le dio su pan al Moguri.
 $pv_pslm7_6370_0140_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0150_mbn_0,,"«¡Gracias, kupo!».<br>El Moguri sonrió."
+$pv_pslm7_6370_0150_mbn_0,,"""¡Gracias, kupo!"".<br>El Moguri sonrió."
 $pv_pslm7_6370_0150_mbn_0,ACTOR,Profesora
 $pv_pslm7_6370_0160_mbn_0,,"Y cuando Stamp volvió a la base,"
 $pv_pslm7_6370_0160_mbn_0,ACTOR,Profesora
 $pv_pslm7_6370_0170_mbn_0,,le contó sinceramente al capitán<br>que había regalado el pan.
 $pv_pslm7_6370_0170_mbn_0,ACTOR,Profesora
-$pv_pslm7_6370_0180_mbn_0,,"«Ya veo, Stamp.<br>Has hecho algo muy noble»."
+$pv_pslm7_6370_0180_mbn_0,,"""Ya veo, Stamp.<br>Has hecho algo muy noble""."
 $pv_pslm7_6370_0180_mbn_0,ACTOR,Profesora
 $pv_pslm7_6370_0190_mbn_0,,"Diciendo eso, el capitán<br>le acarició la cabeza con suavidad."
 $pv_pslm7_6370_0190_mbn_0,ACTOR,Profesora
@@ -2764,7 +2764,7 @@ $pv_pslm7_7020_0020_is7_0,,A las chicas guapas les hago descuento.
 $pv_pslm7_7020_0020_is7_0,ACTOR,Dependiente
 $pv_pslm7_7020_0030_is7_0,,¿Qué has venido a comprar?
 $pv_pslm7_7020_0030_is7_0,ACTOR,Dependiente
-$pv_pslm7_7020_0040_is7_0,,Quanta elegancia en esa capa.
+$pv_pslm7_7020_0040_is7_0,,Cuánta elegancia en esa capa.
 $pv_pslm7_7020_0040_is7_0,ACTOR,Dependiente
 $pv_pslm7_7020_0050_is7_0,,Llévate un montón.
 $pv_pslm7_7020_0050_is7_0,ACTOR,Dependiente
@@ -2840,7 +2840,7 @@ $tk_pslm7_3405_0050_jny_0,,"¡Ah, ya sé!<br>Podría ir a ver a Tifa."
 $tk_pslm7_3405_0050_jny_0,ACTOR,Johnny
 $tk_pslm7_3405_0060_jny_0,,"Ah, pero entonces no me dejará irme."
 $tk_pslm7_3405_0060_jny_0,ACTOR,Johnny
-$tk_pslm7_3405_0070_jny_0,,"«No te vayas, Johnny.<br>Yo te...». ¡Qué tontería!"
+$tk_pslm7_3405_0070_jny_0,,"""No te vayas, Johnny.<br>Yo te..."". ¡Qué tontería!"
 $tk_pslm7_3405_0070_jny_0,ACTOR,Johnny
 $tk_pslm7_3405_0080_jny_0,,Esto es peligroso. Definitivamente peligroso.
 $tk_pslm7_3405_0080_jny_0,ACTOR,Johnny
@@ -3362,7 +3362,7 @@ $tk_pslm7_5550_0060_mbn_0,,Que se pueda levantar algo tan pesado<br>hasta tan ar
 $tk_pslm7_5550_0060_mbn_0,ACTOR,
 $tk_pslm7_5550_0070_mbn_0,,La tecnología de Shinra es increíble.
 $tk_pslm7_5550_0070_mbn_0,ACTOR,
-$tk_pslm7_5560_0010_mbn_0,,¿Qué será «guerra»?
+$tk_pslm7_5560_0010_mbn_0,,"¿Qué será ""guerra""?"
 $tk_pslm7_5560_0010_mbn_0,ACTOR,
 $tk_pslm7_5560_0020_mbn_0,,Da un poco de miedo.
 $tk_pslm7_5560_0020_mbn_0,ACTOR,
@@ -3658,7 +3658,7 @@ $tk_pslm7_5810_0060_mbn_0,,Decían que tenían contactos con el representante.
 $tk_pslm7_5810_0060_mbn_0,ACTOR,
 $tk_pslm7_5810_0070_mbn_0,,"Por cierto, los reclutadores<br>¿no decían algo raro?"
 $tk_pslm7_5810_0070_mbn_0,ACTOR,
-$tk_pslm7_5810_0080_mbn_0,,¡Sí! «Quiero mucho». ¿Qué querrán?
+$tk_pslm7_5810_0080_mbn_0,,"¡Sí! ""Quiero mucho"". ¿Qué querrán?"
 $tk_pslm7_5810_0080_mbn_0,ACTOR,
 $tk_pslm7_5810_0090_mbn_0,,¿Estará de moda<br>en el Mercado del Muro?
 $tk_pslm7_5810_0090_mbn_0,ACTOR,
@@ -3754,7 +3754,7 @@ $tk_pslm7_5930_0050_mbn_0,,¿Cuánto te sacaron?
 $tk_pslm7_5930_0050_mbn_0,ACTOR,
 $tk_pslm7_5930_0060_mbn_0,,No puedo decirlo...
 $tk_pslm7_5930_0060_mbn_0,ACTOR,
-$tk_pslm7_5940_0010_mbn_0,,¡Escucha! ¡Han cancelado<br>el musical de «LOVELESS»!
+$tk_pslm7_5940_0010_mbn_0,,"¡Escucha! ¡Han cancelado<br>el musical de ""LOVELESS""!"
 $tk_pslm7_5940_0010_mbn_0,ACTOR,
 $tk_pslm7_5940_0020_mbn_0,,"Bueno, con este caos no hay otra."
 $tk_pslm7_5940_0020_mbn_0,ACTOR,
@@ -3876,7 +3876,7 @@ $tk_pslm7_6060_0050_mbn_0,,Voy a ir a ver cómo está.
 $tk_pslm7_6060_0050_mbn_0,ACTOR,
 $tk_pslm7_6070_0010_mbn_0,,No te había visto. ¿Buscas habitación?
 $tk_pslm7_6070_0010_mbn_0,ACTOR,
-$tk_pslm7_6070_0020_mbn_0,,"Quanta lástima, pero dicen que en la Pensión Vista al Cielo<br>ya no quedan habitaciones libres."
+$tk_pslm7_6070_0020_mbn_0,,"Cuánta lástima, pero dicen que en la Pensión Vista al Cielo<br>ya no quedan habitaciones libres."
 $tk_pslm7_6070_0020_mbn_0,ACTOR,
 $tk_pslm7_6070_0030_mbn_0,,"La señora Marle, de la Pensión Vista al Cielo,<br>es una maestra de los consejos amorosos."
 $tk_pslm7_6070_0030_mbn_0,ACTOR,
@@ -4050,7 +4050,7 @@ $tk_pslm7_6310_0040_mbn_0,,Esa forma de mirar por encima del hombro...<br>Me enc
 $tk_pslm7_6310_0040_mbn_0,ACTOR,
 $tk_pslm7_6310_0050_mbn_0,,"Sí, bueno.<br>Cada cual tiene sus gustos."
 $tk_pslm7_6310_0050_mbn_0,ACTOR,
-$tk_pslm7_6320_0010_mbn_0,,Estoy pensando en crear un nuevo<br>«modelo hombre de los encargos».
+$tk_pslm7_6320_0010_mbn_0,,"Estoy pensando en crear un nuevo<br>""modelo hombre de los encargos""."
 $tk_pslm7_6320_0010_mbn_0,ACTOR,
 $tk_pslm7_6320_0020_mbn_0,,¿Te refieres a esa espada enorme?
 $tk_pslm7_6320_0020_mbn_0,ACTOR,
@@ -4120,7 +4120,7 @@ $tk_pslm7_6390_0010_mbn_0,,¿Mog también ha venido a escuchar el cuento?
 $tk_pslm7_6390_0010_mbn_0,ACTOR,
 $tk_pslm7_6390_0020_mbn_0,,¿Tú también has venido<br>a escuchar el cuento?
 $tk_pslm7_6390_0020_mbn_0,ACTOR,
-$tk_pslm7_6400_0010_mbn_0,,Quanta monería la capa.
+$tk_pslm7_6400_0010_mbn_0,,Cuánta monería la capa.
 $tk_pslm7_6400_0010_mbn_0,ACTOR,
 $tk_pslm7_6400_0020_mbn_0,,A mí me gustan los cuentos.
 $tk_pslm7_6400_0020_mbn_0,ACTOR,
@@ -4130,7 +4130,7 @@ $tk_pslm7_6410_0020_mbn_0,,Quiero tener un Stamp.
 $tk_pslm7_6410_0020_mbn_0,ACTOR,
 $tk_pslm7_6420_0010_mbn_0,,¡Un Moguri!
 $tk_pslm7_6420_0010_mbn_0,ACTOR,
-$tk_pslm7_6420_0020_mbn_0,,¿Qué significa «perro fiel»?
+$tk_pslm7_6420_0020_mbn_0,,"¿Qué significa ""perro fiel""?"
 $tk_pslm7_6420_0020_mbn_0,ACTOR,
 $tk_pslm7_6430_0010_mbn_0,,"Mog, hermana, estorbas."
 $tk_pslm7_6430_0010_mbn_0,ACTOR,
@@ -4370,7 +4370,7 @@ $tk_pslm7_6650_0050_mbn_0,,¿Eh? ¿No decías que se fabricaba en la placa?
 $tk_pslm7_6650_0050_mbn_0,ACTOR,
 $tk_pslm7_6660_0010_mbn_0,,"Mira, esa chica.<br>La capa de Moguri."
 $tk_pslm7_6660_0010_mbn_0,ACTOR,
-$tk_pslm7_6660_0020_mbn_0,,Quanta elegancia.<br>Eso no se puede imitar.
+$tk_pslm7_6660_0020_mbn_0,,Cuánta elegancia.<br>Eso no se puede imitar.
 $tk_pslm7_6660_0020_mbn_0,ACTOR,
 $tk_pslm7_6660_0030_mbn_0,,Me apetece llevar ropa llamativa hasta decir basta.
 $tk_pslm7_6660_0030_mbn_0,ACTOR,
@@ -4552,5 +4552,5 @@ $tk_pslm7_6870_0020_mbn_0,,Parece que alguien de Shinra está buscando a una ami
 $tk_pslm7_6870_0020_mbn_0,ACTOR,
 $tk_pslm7_6880_0010_mbn_0,,¡Hay alguien raro!
 $tk_pslm7_6880_0010_mbn_0,ACTOR,
-$tk_pslm7_6880_0020_mbn_0,,¿Qué es eso de «mi amigo»?
+$tk_pslm7_6880_0020_mbn_0,,"¿Qué es eso de ""mi amigo""?"
 $tk_pslm7_6880_0020_mbn_0,ACTOR,

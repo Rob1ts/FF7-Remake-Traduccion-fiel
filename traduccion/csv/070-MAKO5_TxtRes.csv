@@ -228,7 +228,7 @@ $ev_mako5_0110_0040_hyd_0,,"¡Ja, ja, ja, ja!"
 $ev_mako5_0110_0040_hyd_0,ACTOR,
 $ev_mako5_0110_0040_hyd_1,,"¡Así que habéis venido, ratas inmundas!"
 $ev_mako5_0110_0040_hyd_1,ACTOR,Heidegger
-$ev_mako5_0110_0050_hyd_0,,"Yo, el comandante de la «operación de propaganda para incitar la moral de combate», jefe del Departamento de Seguridad Pública de la Compañía Shinra,"
+$ev_mako5_0110_0050_hyd_0,,"Yo, el comandante de la ""operación de propaganda para incitar la moral de combate"", jefe del Departamento de Seguridad Pública de la Compañía Shinra,"
 $ev_mako5_0110_0050_hyd_0,ACTOR,Heidegger
 $ev_mako5_0110_0060_hyd_0,,Heidegger.
 $ev_mako5_0110_0060_hyd_0,ACTOR,Heidegger
@@ -342,11 +342,11 @@ $ev_mako5_0120_0060_kb02_0,,¡Rodeadlos!
 $ev_mako5_0120_0060_kb02_0,ACTOR,Centinela
 $ev_mako5_0250_0010_tj01_0,,¿Cómo va el mantenimiento?
 $ev_mako5_0250_0010_tj01_0,ACTOR,Encargado de mantenimiento
-$ev_mako5_0250_0020_tj03_0,,Faltan «núcleos de IA». ¡Estamos en ello!
+$ev_mako5_0250_0020_tj03_0,,"Faltan ""núcleos de IA"". ¡Estamos en ello!"
 $ev_mako5_0250_0020_tj03_0,ACTOR,Centinela
-$ev_mako5_0250_0030_tj03_0,,¡Faltan «bombas B»! ¡Estamos en ello!
+$ev_mako5_0250_0030_tj03_0,,"¡Faltan ""bombas B""! ¡Estamos en ello!"
 $ev_mako5_0250_0030_tj03_0,ACTOR,Centinela
-$ev_mako5_0250_0040_tj03_0,,Faltan «unidades M». ¡Estamos en ello!
+$ev_mako5_0250_0040_tj03_0,,"Faltan ""unidades M"". ¡Estamos en ello!"
 $ev_mako5_0250_0040_tj03_0,ACTOR,Centinela
 $ev_mako5_0250_0050_tj03_0,,¡Ahora mismo estamos con el ajuste final!
 $ev_mako5_0250_0050_tj03_0,ACTOR,Centinela
@@ -368,7 +368,7 @@ $ev_mako5_0320_0010_blt_0,,"Pase lo que pase, volveremos al Séptimo Cielo."
 $ev_mako5_0320_0010_blt_0,ACTOR,Barret
 $ev_mako5_0320_0010_blt_1,,Sin falta. Seguro.
 $ev_mako5_0320_0010_blt_1,ACTOR,Barret
-$ev_mako5_0320_0020_tif_0,,Sí. Le diremos «ya estamos en casa» a Marlene.
+$ev_mako5_0320_0020_tif_0,,"Sí. Le diremos ""ya estamos en casa"" a Marlene."
 $ev_mako5_0320_0020_tif_0,ACTOR,Tifa
 $ev_mako5_0320_0020_tif_1,,"Y tú también vienes, Cloud."
 $ev_mako5_0320_0020_tif_1,ACTOR,Tifa
@@ -484,7 +484,7 @@ $ev_mako5_8010_0260_blt_0,,¿Qué estáis haciendo?
 $ev_mako5_8010_0260_blt_0,ACTOR,Barret
 $ev_mako5_8010_0270_hyd_0,,Escuchad. Esta no es vuestra operación.
 $ev_mako5_8010_0270_hyd_0,ACTOR,Heidegger
-$ev_mako5_8010_0280_hyd_0,,Es la «operación de propaganda para incitar la moral de combate» que hemos planeado meticulosamente.
+$ev_mako5_8010_0280_hyd_0,,"Es la ""operación de propaganda para incitar la moral de combate"" que hemos planeado meticulosamente."
 $ev_mako5_8010_0280_hyd_0,ACTOR,Heidegger
 $ev_mako5_8010_0290_hyd_0,,"Por tanto, el momento de la explosión"
 $ev_mako5_8010_0290_hyd_0,ACTOR,Heidegger
@@ -640,7 +640,7 @@ $pv_mako5_0140_0100_blt_0,,"¡Buscad, buscad!"
 $pv_mako5_0140_0100_blt_0,ACTOR,Barret
 $pv_mako5_0141_0020_blt_0,,Es el turno de recoger cosas.
 $pv_mako5_0141_0020_blt_0,ACTOR,Barret
-$pv_mako5_0143_0060_tif_0,,Pone «unidad M». ¿Será una pieza?
+$pv_mako5_0143_0060_tif_0,,"Pone ""unidad M"". ¿Será una pieza?"
 $pv_mako5_0143_0060_tif_0,ACTOR,Tifa
 $pv_mako5_0143_0070_cld_0,,Sí. Es una pieza de refuerzo que usa solución de materia.
 $pv_mako5_0143_0070_cld_0,ACTOR,Cloud
@@ -812,11 +812,11 @@ $pv_mako5_0210_0070_blt_0,,"¿Bailamos juntos? ¿Y tú, Cloud?"
 $pv_mako5_0210_0070_blt_0,ACTOR,Barret
 $pv_mako5_0210_0080_cld_0,,Lo dejo pasar.
 $pv_mako5_0210_0080_cld_0,ACTOR,Cloud
-$pv_mako5_0211_0042_sys_0,,¿Deseas desechar la pieza de control «núcleo de IA»? (Consume 1 tarjeta)
+$pv_mako5_0211_0042_sys_0,,"¿Deseas desechar la pieza de control ""núcleo de IA""? (Consume 1 tarjeta)"
 $pv_mako5_0211_0042_sys_0,ACTOR,
-$pv_mako5_0211_0052_sys_0,,¿Deseas desechar la pieza explosiva «bomba grande»? (Consume 1 tarjeta)
+$pv_mako5_0211_0052_sys_0,,"¿Deseas desechar la pieza explosiva ""bomba grande""? (Consume 1 tarjeta)"
 $pv_mako5_0211_0052_sys_0,ACTOR,
-$pv_mako5_0211_0062_sys_0,,¿Deseas desechar la pieza de refuerzo «unidad M»? (Consume 1 tarjeta)
+$pv_mako5_0211_0062_sys_0,,"¿Deseas desechar la pieza de refuerzo ""unidad M""? (Consume 1 tarjeta)"
 $pv_mako5_0211_0062_sys_0,ACTOR,
 $pv_mako5_0220_0030_tj01_0,,"Faltan suministros por culpa de los intrusos. Planta B5, enviadlo con urgencia."
 $pv_mako5_0220_0030_tj01_0,ACTOR,Encargado de mantenimiento
@@ -826,11 +826,11 @@ $pv_mako5_0220_0080_tj03_0,,¡Intrusos!
 $pv_mako5_0220_0080_tj03_0,ACTOR,Centinela
 $pv_mako5_0225_0020_ks03_0,,¡Reducidlos!
 $pv_mako5_0225_0020_ks03_0,ACTOR,Centinela
-$pv_mako5_0227_0040_trm_0,,«Núcleo de IA» desechado.
+$pv_mako5_0227_0040_trm_0,,"""Núcleo de IA"" desechado."
 $pv_mako5_0227_0040_trm_0,ACTOR,Voz digital
-$pv_mako5_0227_0042_trm_0,,«Bomba grande» desechada.
+$pv_mako5_0227_0042_trm_0,,"""Bomba grande"" desechada."
 $pv_mako5_0227_0042_trm_0,ACTOR,Voz digital
-$pv_mako5_0227_0044_trm_0,,«Unidad M» desechada.
+$pv_mako5_0227_0044_trm_0,,"""Unidad M"" desechada."
 $pv_mako5_0227_0044_trm_0,ACTOR,Voz digital
 $pv_mako5_0240_0030_blt_0,,"Ya casi está la salida. Tifa, ¿el interruptor de la bomba?"
 $pv_mako5_0240_0030_blt_0,ACTOR,Barret
@@ -840,11 +840,11 @@ $pv_mako5_0240_0050_blt_0,,"Cuando destruyamos el cacharro, pulsamos."
 $pv_mako5_0240_0050_blt_0,ACTOR,Barret
 $pv_mako5_0240_0060_tif_0,,Vale.
 $pv_mako5_0240_0060_tif_0,ACTOR,Tifa
-$pv_mako5_0241_0050_trm_0,,«Núcleo de IA» en transporte a la sala de desechos.
+$pv_mako5_0241_0050_trm_0,,"""Núcleo de IA"" en transporte a la sala de desechos."
 $pv_mako5_0241_0050_trm_0,ACTOR,Voz digital
-$pv_mako5_0242_0010_trm_0,,«Bomba grande» en transporte a la sala de desechos.
+$pv_mako5_0242_0010_trm_0,,"""Bomba grande"" en transporte a la sala de desechos."
 $pv_mako5_0242_0010_trm_0,ACTOR,Voz digital
-$pv_mako5_0243_0010_trm_0,,«Unidad M» en transporte a la sala de desechos.
+$pv_mako5_0243_0010_trm_0,,"""Unidad M"" en transporte a la sala de desechos."
 $pv_mako5_0243_0010_trm_0,ACTOR,Voz digital
 $pv_mako5_0246_0010_blt_0,,"Oye, aún quedan tarjetas, ¿no? Estorbemos un poco más el mantenimiento."
 $pv_mako5_0246_0010_blt_0,ACTOR,Barret
@@ -1240,7 +1240,7 @@ $tk_mako5_10_8250_0010_hyd_0,,"Avalancha, siento que esto se acabe, pero es hora
 $tk_mako5_10_8250_0010_hyd_0,ACTOR,Heidegger
 $tk_mako5_10_8250_0020_hyd_0,,Esta imagen la aprovecharemos mucho para elevar la moral de combate.
 $tk_mako5_10_8250_0020_hyd_0,ACTOR,Heidegger
-$tk_mako5_10_9010_0010_hyd_0,,※Prueba de Heidegger. Normalmente «hum».
+$tk_mako5_10_9010_0010_hyd_0,,"※Prueba de Heidegger. Normalmente ""hum""."
 $tk_mako5_10_9010_0010_hyd_0,ACTOR,
 $tk_mako5_10_9020_0010_hyd_0,,Probad el campo electromagnético. No penséis que podéis acercaros fácilmente al aerodestructor.
 $tk_mako5_10_9020_0010_hyd_0,ACTOR,

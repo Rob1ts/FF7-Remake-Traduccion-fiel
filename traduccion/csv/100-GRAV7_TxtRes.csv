@@ -74,7 +74,7 @@ $ev_grav7_0280_0093_cld_0,,
 $ev_grav7_0280_0093_cld_0,ACTOR,
 $ev_grav7_0280_0100_cld_0,,No te confíes.
 $ev_grav7_0280_0100_cld_0,ACTOR,Cloud
-$ev_grav7_0280_0110_art_0,,«Ven aquí».
+$ev_grav7_0280_0110_art_0,,"""Ven aquí""."
 $ev_grav7_0280_0110_art_0,ACTOR,Aeris
 $ev_grav7_0280_0110_art_1,,¿Nos está llamando?
 $ev_grav7_0280_0110_art_1,ACTOR,Aeris
@@ -724,7 +724,7 @@ $tk_grav7_0091_0001_dl02_0,,
 $tk_grav7_0091_0001_dl02_0,ACTOR,
 $tk_grav7_0130_0010_tif_0,,Parece que había una puerta al otro lado. No queda otra que rodear.
 $tk_grav7_0130_0010_tif_0,ACTOR,Tifa
-$tk_grav7_0180_0010_tif_0,,"«Quien se pierde en el cementerio de trenes... jamás vuelve», ¿eh?"
+$tk_grav7_0180_0010_tif_0,,"""Quien se pierde en el cementerio de trenes... jamás vuelve"", ¿eh?"
 $tk_grav7_0180_0010_tif_0,ACTOR,Tifa
 $tk_grav7_0180_0020_tif_0,,¿Habría sido peligroso si nos hubieran atrapado?
 $tk_grav7_0180_0020_tif_0,ACTOR,Tifa

@@ -966,7 +966,7 @@ $ev_sbil0_1880_0340_dmn_1,,Recoged de él<br>la tarjeta de la planta 64.
 $ev_sbil0_1880_0340_dmn_1,ACTOR,Alcalde Domino
 $ev_sbil0_1880_0350_dmn_0,,La contraseña es...
 $ev_sbil0_1880_0350_dmn_0,ACTOR,Alcalde Domino
-$ev_sbil0_1880_0360_dmn_0,,«Alcalde» y «genial».
+$ev_sbil0_1880_0360_dmn_0,,"""Alcalde"" y ""genial""."
 $ev_sbil0_1880_0360_dmn_0,ACTOR,Alcalde Domino
 $ev_sbil0_1880_0360_dmn_1,,¡El alcalde de Midgar es genial!
 $ev_sbil0_1880_0360_dmn_1,ACTOR,Alcalde Domino
@@ -980,7 +980,7 @@ $ev_sbil0_1880_0390_tif_0,,
 $ev_sbil0_1880_0390_tif_0,ACTOR,
 $ev_sbil0_1880_0400_blt_0,,
 $ev_sbil0_1880_0400_blt_0,ACTOR,
-$ev_sbil0_1880_0410_dmn_0,,Tú dices «alcalde»<br>y quien responda «genial» es el colaborador.
+$ev_sbil0_1880_0410_dmn_0,,"Tú dices ""alcalde""<br>y quien responda ""genial"" es el colaborador."
 $ev_sbil0_1880_0410_dmn_0,ACTOR,Alcalde Domino
 $ev_sbil0_1880_0420_dmn_0,,¿Entendido?
 $ev_sbil0_1880_0420_dmn_0,ACTOR,Alcalde Domino
@@ -1168,7 +1168,7 @@ $ev_sbil0_2470_0140_pre_0,,Hemos conseguido la colaboración<br>de los antiguos.
 $ev_sbil0_2470_0140_pre_0,ACTOR,Presidente Shinra
 $ev_sbil0_2470_0150_riv_0,,"No, pero eso no significa que no haya que reconstruir..."
 $ev_sbil0_2470_0150_riv_0,ACTOR,Reeve
-$ev_sbil0_2470_0160_scr_0,,Qué tonto eres. Será el «Neo Midgar».
+$ev_sbil0_2470_0160_scr_0,,"Qué tonto eres. Será el ""Neo Midgar""."
 $ev_sbil0_2470_0160_scr_0,ACTOR,Escarlata
 $ev_sbil0_2470_0161_riv_0,,
 $ev_sbil0_2470_0161_riv_0,ACTOR,
@@ -1570,7 +1570,7 @@ $ev_sbil0_2751_0098_tif_0,,
 $ev_sbil0_2751_0098_tif_0,ACTOR,
 $ev_sbil0_2751_0110_tif_0,,¿XIII?
 $ev_sbil0_2751_0110_tif_0,ACTOR,Tifa
-$ev_sbil0_2751_0120_red_0,,«Red XIII».<br>Es el número de modelo que me puso Hojo.
+$ev_sbil0_2751_0120_red_0,,"""Red XIII"".<br>Es el número de modelo que me puso Hojo."
 $ev_sbil0_2751_0120_red_0,ACTOR,Red XIII
 $ev_sbil0_2751_0130_tif_0,,"Entonces, ¿cómo te llamas de verdad?"
 $ev_sbil0_2751_0130_tif_0,ACTOR,Tifa
@@ -1678,15 +1678,15 @@ $ev_sbil0_2830_0030_art_0,,Soy la última superviviente de los antiguos.
 $ev_sbil0_2830_0030_art_0,ACTOR,Aeris
 $ev_sbil0_2830_0030_art_1,,"Eso ya lo sabías, ¿no?"
 $ev_sbil0_2830_0030_art_1,ACTOR,Aeris
-$ev_sbil0_2830_0040_art_0,,«Antiguos» es el nombre<br>que nos puso Shinra.
+$ev_sbil0_2830_0040_art_0,,"""Antiguos"" es el nombre<br>que nos puso Shinra."
 $ev_sbil0_2830_0040_art_0,ACTOR,Aeris
 $ev_sbil0_2830_0050_art_0,,En realidad somos los Cetra.
 $ev_sbil0_2830_0050_art_0,ACTOR,Aeris
-$ev_sbil0_2830_0060_blt_0,,"«Nacimos del planeta,<br>hablamos con él y lo abrimos»."
+$ev_sbil0_2830_0060_blt_0,,"""Nacimos del planeta,<br>hablamos con él y lo abrimos""."
 $ev_sbil0_2830_0060_blt_0,ACTOR,Barret
-$ev_sbil0_2830_0060_blt_1,,«Y regresamos a la Tierra Prometida».
+$ev_sbil0_2830_0060_blt_1,,"""Y regresamos a la Tierra Prometida""."
 $ev_sbil0_2830_0060_blt_1,ACTOR,Barret
-$ev_sbil0_2830_0070_blt_0,,«La suprema felicidad:<br>la tierra del destino que el planeta nos concede».
+$ev_sbil0_2830_0070_blt_0,,"""La suprema felicidad:<br>la tierra del destino que el planeta nos concede""."
 $ev_sbil0_2830_0070_blt_0,ACTOR,Barret
 $ev_sbil0_2830_0080_art_0,,Impresionante.
 $ev_sbil0_2830_0080_art_0,ACTOR,Aeris
@@ -1742,11 +1742,11 @@ $ev_sbil0_2830_0210_blt_1,,¿Monstruos fabricados por Shinra?
 $ev_sbil0_2830_0210_blt_1,ACTOR,Barret
 $ev_sbil0_2830_0220_red_0,,Son Ecos.
 $ev_sbil0_2830_0220_red_0,ACTOR,Red XIII
-$ev_sbil0_2830_0230_red_0,,La mejor forma de entenderlo es «guardianes del destino».
+$ev_sbil0_2830_0230_red_0,,"La mejor forma de entenderlo es ""guardianes del destino""."
 $ev_sbil0_2830_0230_red_0,ACTOR,Red XIII
 $ev_sbil0_2830_0240_red_0,,Aparecen ante quienes intentan cambiar el curso del destino<br>y corrigen sus acciones.
 $ev_sbil0_2830_0240_red_0,ACTOR,Red XIII
-$ev_sbil0_2830_0250_tif_0,,¿«Destino»? ¿Eso es el destino?
+$ev_sbil0_2830_0250_tif_0,,"¿""Destino""? ¿Eso es el destino?"
 $ev_sbil0_2830_0250_tif_0,ACTOR,Tifa
 $ev_sbil0_2830_0260_red_0,,"En otras palabras,<br>el curso desde que nace el planeta hasta que desaparece."
 $ev_sbil0_2830_0260_red_0,ACTOR,Red XIII
@@ -2152,7 +2152,7 @@ $ev_sbil0_4350_0027_cld_0,,
 $ev_sbil0_4350_0027_cld_0,ACTOR,
 $ev_sbil0_4350_0030_blt_0,,¿Es el de antes?
 $ev_sbil0_4350_0030_blt_0,ACTOR,Barret
-$ev_sbil0_4350_0040_red_0,,Se habrá enfadado por lo de «juguete».
+$ev_sbil0_4350_0040_red_0,,"Se habrá enfadado por lo de ""juguete""."
 $ev_sbil0_4350_0040_red_0,ACTOR,Red XIII
 $ev_sbil0_4350_0050_cld_0,,
 $ev_sbil0_4350_0050_cld_0,ACTOR,
@@ -4459,9 +4459,9 @@ $mv_sbil0_1720_0100_nar60_0,,Aún hoy podemos ver vestigios de ella<br>en alguna
 $mv_sbil0_1720_0100_nar60_0,ACTOR,Locutor
 $mv_sbil0_1720_0110_nar60_0,,Nos han legado estas palabras:
 $mv_sbil0_1720_0110_nar60_0,ACTOR,Locutor
-$mv_sbil0_1720_0110_nar60_1,,"«Nacimos del planeta, hablamos con él y lo abrimos»."
+$mv_sbil0_1720_0110_nar60_1,,"""Nacimos del planeta, hablamos con él y lo abrimos""."
 $mv_sbil0_1720_0110_nar60_1,ACTOR,Locutor
-$mv_sbil0_1720_0120_nar60_0,,"«Y regresamos a la Tierra Prometida,<br>la suprema felicidad, la tierra del destino que el planeta nos concede»."
+$mv_sbil0_1720_0120_nar60_0,,"""Y regresamos a la Tierra Prometida,<br>la suprema felicidad, la tierra del destino que el planeta nos concede""."
 $mv_sbil0_1720_0120_nar60_0,ACTOR,Locutor
 $mv_sbil0_1720_0122_blt_0,,
 $mv_sbil0_1720_0122_blt_0,ACTOR,
@@ -5117,7 +5117,7 @@ $pv_sbil0_11_4150_0040_tif_0,,"He encontrado la puerta del laboratorio 3,<br>per
 $pv_sbil0_11_4150_0040_tif_0,ACTOR,Tifa
 $pv_sbil0_11_4150_0050_cld_0,,Ya veo.
 $pv_sbil0_11_4150_0050_cld_0,ACTOR,Cloud
-$pv_sbil0_11_4150_0060_art_0,,"Oye, eso de los «preparativos» que mencionó Hojo..."
+$pv_sbil0_11_4150_0060_art_0,,"Oye, eso de los ""preparativos"" que mencionó Hojo..."
 $pv_sbil0_11_4150_0060_art_0,ACTOR,Aeris
 $pv_sbil0_11_4150_0070_art_0,,Creo que se refiere a controlar eso.
 $pv_sbil0_11_4150_0070_art_0,ACTOR,Aeris
@@ -5199,7 +5199,7 @@ $pv_sbil0_1320_0010_blt_0,,Y todo son tarjetas de acceso.
 $pv_sbil0_1320_0010_blt_0,ACTOR,Barret
 $pv_sbil0_1320_0020_cld_0,,Es el centro de Shinra. No hay otra.
 $pv_sbil0_1320_0020_cld_0,ACTOR,Cloud
-$pv_sbil0_1320_0030_blt_0,,"Ahí tenemos al ex-Shinra. Cuanto más grande es la organización,<br>más dicen «no hay otra». «No hay otra», claro..."
+$pv_sbil0_1320_0030_blt_0,,"Ahí tenemos al ex-Shinra. Cuanto más grande es la organización,<br>más dicen ""no hay otra"". ""No hay otra"", claro..."
 $pv_sbil0_1320_0030_blt_0,ACTOR,Barret
 $pv_sbil0_1390_0010_sys_0,,"¿Desea ir a la planta 3, la zona de ascensores?"
 $pv_sbil0_1390_0010_sys_0,ACTOR,
@@ -5377,15 +5377,15 @@ $pv_sbil0_2015_0010_blt_0,,¿Quién es el colaborador?
 $pv_sbil0_2015_0010_blt_0,ACTOR,Barret
 $pv_sbil0_2015_0020_tif_0,,No queda otra que hablar con quien parezca serlo.
 $pv_sbil0_2015_0020_tif_0,ACTOR,Tifa
-$pv_sbil0_2015_0030_blt_0,,La contraseña es «alcalde».
+$pv_sbil0_2015_0030_blt_0,,"La contraseña es ""alcalde""."
 $pv_sbil0_2015_0030_blt_0,ACTOR,Barret
-$pv_sbil0_2015_0040_tif_0,,Y «genial».
+$pv_sbil0_2015_0040_tif_0,,"Y ""genial""."
 $pv_sbil0_2015_0040_tif_0,ACTOR,Tifa
 $pv_sbil0_2020_0010_me163_0,,¿Sois del ejército?
 $pv_sbil0_2020_0010_me163_0,ACTOR,Empleado de Shinra
 $pv_sbil0_2020_0030_me163_0,,Ya. Vosotros también lo estaréis pasando mal.<br>¿Han encontrado a los culpables?
 $pv_sbil0_2020_0030_me163_0,ACTOR,Empleado de Shinra
-$pv_sbil0_2020_0040_cld_0,,«Alcalde».
+$pv_sbil0_2020_0040_cld_0,,"""Alcalde""."
 $pv_sbil0_2020_0040_cld_0,ACTOR,Cloud
 $pv_sbil0_2020_0050_me163_0,,¿Qué pasa con el alcalde?
 $pv_sbil0_2020_0050_me163_0,ACTOR,Empleado de Shinra
@@ -5397,7 +5397,7 @@ $pv_sbil0_2021_0020_me163_0,,Atrapadlos pronto.
 $pv_sbil0_2021_0020_me163_0,ACTOR,Empleado de Shinra
 $pv_sbil0_2030_0010_caf63_0,,Buenas. ¿Qué te pongo hoy?
 $pv_sbil0_2030_0010_caf63_0,ACTOR,Empleada de la cafetería
-$pv_sbil0_2030_0020_cld_0,,«Alcalde».
+$pv_sbil0_2030_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2030_0020_cld_0,ACTOR,Cloud
 $pv_sbil0_2030_0030_caf63_0,,"¿Estofado?<br>Lo siento, no queda estofado."
 $pv_sbil0_2030_0030_caf63_0,ACTOR,Empleada de la cafetería
@@ -5409,7 +5409,7 @@ $pv_sbil0_2035_0010_caf263_0,,Bienvenido. ¿Qué le pongo?
 $pv_sbil0_2035_0010_caf263_0,ACTOR,Empleada de la cafetería
 $pv_sbil0_2040_0010_me263_0,,"Espera, ya elijo."
 $pv_sbil0_2040_0010_me263_0,ACTOR,Empleado de Shinra
-$pv_sbil0_2040_0020_cld_0,,«Alcalde».
+$pv_sbil0_2040_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2040_0020_cld_0,ACTOR,Cloud
 $pv_sbil0_2040_0030_me263_0,,Mmm... ¿Has dicho algo?
 $pv_sbil0_2040_0030_me263_0,ACTOR,Empleado de Shinra
@@ -5443,7 +5443,7 @@ $pv_sbil0_2051_0040_me563_0,,¿Avanzan las labores de rescate?
 $pv_sbil0_2051_0040_me563_0,ACTOR,Empleado de Shinra
 $pv_sbil0_2060_0010_me663_0,,No. No podremos volver en una temporada.
 $pv_sbil0_2060_0010_me663_0,ACTOR,Empleado de Shinra
-$pv_sbil0_2060_0020_cld_0,,«Alcalde».
+$pv_sbil0_2060_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2060_0020_cld_0,ACTOR,Cloud
 $pv_sbil0_2060_0030_me663_0,,"Silencio, estoy al teléfono."
 $pv_sbil0_2060_0030_me663_0,ACTOR,Empleado de Shinra
@@ -5451,7 +5451,7 @@ $pv_sbil0_2061_0010_me663_0,,Estoy al teléfono.
 $pv_sbil0_2061_0010_me663_0,ACTOR,Empleado de Shinra
 $pv_sbil0_2070_0010_me763_0,,Déjame en paz.
 $pv_sbil0_2070_0010_me763_0,ACTOR,Empleado de Shinra
-$pv_sbil0_2070_0020_cld_0,,«Alcalde».
+$pv_sbil0_2070_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2070_0020_cld_0,ACTOR,Empleado de Shinra
 $pv_sbil0_2070_0030_me763_0,,
 $pv_sbil0_2070_0030_me763_0,ACTOR,
@@ -5461,7 +5461,7 @@ $pv_sbil0_2071_0020_me763_0,,Ay...
 $pv_sbil0_2071_0020_me763_0,ACTOR,
 $pv_sbil0_2080_0010_me863_0,,
 $pv_sbil0_2080_0010_me863_0,ACTOR,
-$pv_sbil0_2080_0020_cld_0,,«Alcalde».
+$pv_sbil0_2080_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2080_0020_cld_0,ACTOR,Cloud
 $pv_sbil0_2080_0030_me863_0,,
 $pv_sbil0_2080_0030_me863_0,ACTOR,
@@ -5477,21 +5477,21 @@ $pv_sbil0_2100_0030_blt_0,,¿Y eso de verdad te hace más fuerte?
 $pv_sbil0_2100_0030_blt_0,ACTOR,Barret
 $pv_sbil0_2110_0010_fe263_0,,¿Incluso ahora entrenáis con el simulador?
 $pv_sbil0_2110_0010_fe263_0,ACTOR,Empleada de Shinra
-$pv_sbil0_2110_0020_cld_0,,«Alcalde».
+$pv_sbil0_2110_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2110_0020_cld_0,ACTOR,Cloud
 $pv_sbil0_2110_0030_fe263_0,,¿El alcalde? El alcalde está abajo.
 $pv_sbil0_2110_0030_fe263_0,ACTOR,Empleada de Shinra
 $pv_sbil0_2120_0010_me963_0,,"Tú eres del ejército, ¿verdad?<br>Enséñame cómo ganar en el simulador."
 $pv_sbil0_2120_0010_me963_0,ACTOR,Empleado de Shinra
-$pv_sbil0_2120_0020_cld_0,,«Alcalde».
+$pv_sbil0_2120_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2120_0020_cld_0,ACTOR,Cloud
 $pv_sbil0_2120_0030_me963_0,,¿Ver? ¿Ver el qué?
 $pv_sbil0_2120_0030_me963_0,ACTOR,Empleado de Shinra
 $pv_sbil0_2130_0010_Col63_0,,¿Qué queréis vosotros?<br>¿Habéis venido por algo?
 $pv_sbil0_2130_0010_Col63_0,ACTOR,Empleado de Shinra
-$pv_sbil0_2130_0020_cld_0,,«Alcalde».
+$pv_sbil0_2130_0020_cld_0,,"""Alcalde""."
 $pv_sbil0_2130_0020_cld_0,ACTOR,Cloud
-$pv_sbil0_2130_0030_Col63_0,,«Genial».
+$pv_sbil0_2130_0030_Col63_0,,"""Genial""."
 $pv_sbil0_2130_0030_Col63_0,ACTOR,Simpatizante
 $pv_sbil0_2130_0040_Col63_0,,"Ya me han hablado de vosotros. Queréis subir, ¿no?"
 $pv_sbil0_2130_0040_Col63_0,ACTOR,Simpatizante
@@ -6147,9 +6147,9 @@ $pv_sbil0_bike1b0260_0020_red_0,,Y con barrera.
 $pv_sbil0_bike1b0260_0020_red_0,ACTOR,
 $pv_sbil0_bike1b0260_0030_cld_0,,No importa. Las patas están fuera de la barrera.
 $pv_sbil0_bike1b0260_0030_cld_0,ACTOR,
-$pv_sbil0_bike1b0270_0010_blt_0,,"(Provisional) «Je, no pienso quedarme atrás. ¡Toma!»<br>Diálogo de ataque del helicóptero."
+$pv_sbil0_bike1b0270_0010_blt_0,,"(Provisional) ""Je, no pienso quedarme atrás. ¡Toma!""<br>Diálogo de ataque del helicóptero."
 $pv_sbil0_bike1b0270_0010_blt_0,ACTOR,
-$pv_sbil0_bike1b0280_0010_blt_0,,(Provisional) «¡No está mal! ¡Pero esto se acaba!»<br>Frase para detener el helicóptero.
+$pv_sbil0_bike1b0280_0010_blt_0,,"(Provisional) ""¡No está mal! ¡Pero esto se acaba!""<br>Frase para detener el helicóptero."
 $pv_sbil0_bike1b0280_0010_blt_0,ACTOR,
 $pv_sbil0_bike1b0500_0010_bk01_0,,
 $pv_sbil0_bike1b0500_0010_bk01_0,ACTOR,Guarda motorizado
@@ -6473,7 +6473,7 @@ $tk_sbil0_1850_0010_lib3_0,,"MAKO, EXPLOSIÓN."
 $tk_sbil0_1850_0010_lib3_0,ACTOR,Robot
 $tk_sbil0_1860_0010_lib4_0,,"¿ALCALDE, LO PEOR?"
 $tk_sbil0_1860_0010_lib4_0,ACTOR,Robot
-$tk_sbil0_1880_0010_dmn_0,,Tú dices «alcalde»<br>y quien responda «genial» es el colaborador.
+$tk_sbil0_1880_0010_dmn_0,,"Tú dices ""alcalde""<br>y quien responda ""genial"" es el colaborador."
 $tk_sbil0_1880_0010_dmn_0,ACTOR,Alcalde Domino
 $tk_sbil0_1880_0020_dmn_0,,¿Lo has entendido?
 $tk_sbil0_1880_0020_dmn_0,ACTOR,Alcalde Domino

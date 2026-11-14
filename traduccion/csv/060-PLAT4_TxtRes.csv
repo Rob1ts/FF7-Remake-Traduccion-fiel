@@ -194,7 +194,7 @@ $pv_plat4_0032_0050_tif_0,,Dice qué hacer cuando falta energía.
 $pv_plat4_0032_0050_tif_0,ACTOR,Tifa
 $pv_plat4_0032_0060_cld_0,,"¿Si apagamos las luces, podemos conseguir energía de emergencia?"
 $pv_plat4_0032_0060_cld_0,ACTOR,Cloud
-$pv_plat4_0032_0070_tif_0,,¿Las luces...? ¿Te refieres a los «soles de la barriada»?
+$pv_plat4_0032_0070_tif_0,,"¿Las luces...? ¿Te refieres a los ""soles de la barriada""?"
 $pv_plat4_0032_0070_tif_0,ACTOR,Tifa
 $pv_plat4_0032_0080_tif_0,,Así llamamos a las luces que iluminan la barriada.
 $pv_plat4_0032_0080_tif_0,ACTOR,Tifa
@@ -476,7 +476,7 @@ $tk_plat4_0580_0020_tif_0,,Eso es una frase de un libro.
 $tk_plat4_0580_0020_tif_0,ACTOR,Tifa
 $tk_plat4_0580_0030_blt_0,,"Sí. A Marlene le gusta, y si la imito, se alegra."
 $tk_plat4_0580_0030_blt_0,ACTOR,Barret
-$tk_plat4_0580_0040_tif_0,,"«La vida es un laberinto sin fin», ¿no? Yo también me la sé."
+$tk_plat4_0580_0040_tif_0,,"""La vida es un laberinto sin fin"", ¿no? Yo también me la sé."
 $tk_plat4_0580_0040_tif_0,ACTOR,Tifa
 $tk_plat4_0590_0010_tif_0,,¿Eso son ventiladores?
 $tk_plat4_0590_0010_tif_0,ACTOR,Tifa
@@ -492,9 +492,9 @@ $tk_plat4_0600_0030_tif_0,,"El ascensor principal. Creo que dijo eso, ¡sí!"
 $tk_plat4_0600_0030_tif_0,ACTOR,Tifa
 $tk_plat4_0610_0010_blt_0,,"Mirad, el reactor nos llama. ¡Que vengamos ya, que vengamos ya!"
 $tk_plat4_0610_0010_blt_0,ACTOR,Barret
-$tk_plat4_0620_0010_tif_0,,«La luz que cuida de la oscura barriada...»
+$tk_plat4_0620_0010_tif_0,,"""La luz que cuida de la oscura barriada..."""
 $tk_plat4_0620_0010_tif_0,ACTOR,Tifa
-$tk_plat4_0620_0020_tif_0,,«es la guía que ilumina incluso el futuro. Es el sol.»
+$tk_plat4_0620_0020_tif_0,,"""es la guía que ilumina incluso el futuro. Es el sol."""
 $tk_plat4_0620_0020_tif_0,ACTOR,Tifa
 $tk_plat4_0620_0030_blt_0,,¿Qué es eso?
 $tk_plat4_0620_0030_blt_0,ACTOR,Barret
